@@ -1,6 +1,6 @@
-# Ohanga Pai
+# Ōhanga Pai
 
-Ōhanga Pai means "good economics" or "wellbeing" in Te Reo Māori.
+Ōhanga Pai means "good economics" or "well-being" in Te Reo Māori.
 
 ## Developer Respository for Ōhanga Pai
 
