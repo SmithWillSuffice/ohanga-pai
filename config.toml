@@ -135,7 +135,7 @@ paginate = 3
     maxLength = 42  # Default is 32
     
     # Optional placeholder for search field
-    placeholder = "ie.: amplituhedron"
+    placeholder = "ie.: sectoral balance"
     
 
   [params.style]
