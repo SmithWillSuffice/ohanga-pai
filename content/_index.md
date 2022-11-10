@@ -3,6 +3,8 @@ title                 : "Welcome to the Ōhanga Pai Community"
 disableTitleSeparator : false
 ---
 
+Ōhanga Pai means "good economics" or "economic well-being" in [Te Reo Māori](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=ohanga).
+
 The [posts](/blog) on this site give a blog journal style introduction to MMT (the Modern Money framework of analysis). 
 My current focus is on macroeconomic simulations, mostly quick & dirty RAD with Python, but I will discuss a bit of social justice theory as well. 
 If you want to get started, read the [Questions and Answers articles](/questions/) first.
