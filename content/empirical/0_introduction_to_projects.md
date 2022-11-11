@@ -19,4 +19,4 @@ The [philosophy and questions section](/questions/) of this website goes through
 This section of articles gives you just a little taste of some projects I might be working on, time and *willing* collaborators permitting.
 
 [Next chapter (Projects Overview)](../1_ohangapai_projects)   
-[Back to Empirical Pages](/empirical/)
+[Back to Empirical Pages](../)

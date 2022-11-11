@@ -110,4 +110,4 @@ For more of this sort of theory of micro versus macro in economics see the [phil
 
 [Next chapter (TBD)](./)  
 [Next chapter (Projects Introduction)](../0_introduction_to_projects)  
-[Back to Empirical Pages](/empirical/)
+[Back to Empirical Pages](../)
