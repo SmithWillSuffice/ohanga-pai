@@ -3,17 +3,18 @@ languageCode = 'en-us'
 title = 'Ōhanga Pai'
 theme = "color-your-world"
 
-# Bijou customization: allowing HTML is a security risk. I'll take it.
-[markup.goldmark.renderer]
-  unsafe = true # Allow HTML in md files
-
 # Used only in the RSS file
 copyright = "Copyright © 2022, Bijou Murray Smith; All rights reserved."
 
 enableEmoji = true
 enableInlineShortcodes = true
 
-paginate = 3
+paginate = 99
+
+# Bijou customization: allowing HTML is a security risk. I'll take it.
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
 
 
 [markup.highlight]
