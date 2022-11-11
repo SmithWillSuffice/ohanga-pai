@@ -8,7 +8,7 @@ disableTitleSeparator : true
 
 These are raw journal entries. 
 An Ōhanga Pai hackers journal.
-For specific content articles in chapter format see [Philosophy](/questions/) or [Theory](empirical).
+For specific content articles in chapter format see [Philosophy](../../questions/) or [Empirical](../../empirical/) sections.
 
 We've got a few projects on-the-go.
 
