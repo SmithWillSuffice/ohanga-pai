@@ -66,7 +66,7 @@ So why do mainstream economists and central bankers still use them? (This is a b
 ## System Dynamics Models
 
 The Minksy models are a class of non-linear dynamical system, or System Dynamics (SD) models. 
-They can exhibit chaotic dynamics, or what is known in popular cultures as [The Butterfly Effect.](https://en.wikipedia.org/wiki/Butterfly_effect)
+They can exhibit chaotic dynamics, or what is known in popular culture as [The Butterfly Effect.](https://en.wikipedia.org/wiki/Butterfly_effect)
 
 ### Why Macro Matters
 
@@ -79,6 +79,7 @@ The reason microeconomics agents do not compose or scale up to macroeconomics is
 1. most national (single legislature) economies use a single currency (at least outside the eurozone),
 2. those single currency regions are regulated by a currency monopolist (otherwise known as "the government")
 3. the existence of a currency and legislative monopoly, which are the same institution, means endogenous money analysis fails, and so microeconomics cannot be scaled up to macro.
+4. Most importantly: economies are complex non-linear dynamical systems, so you do not even know what the fallacies of composition will be until you model the system realistically (meaning you can permit yourself simplifying assumptions, but no unrealistic assumptions).
 
 I place "the government" in scare quotes above because this phrase is prone to being misunderstood. The Government means the entire government system, which for a monetary economy means the legislature (Parliament), the Executive (Ministries, Prime Ministers and Presidents), the Treasury and the Central Bank. 
 No matter who owns the Central Bank furniture, it is still a branch of the consolidated government, it is required by law (in every country on Earth today) to do the bidding of the Parliament and to cooperate daily with the Treasury.
