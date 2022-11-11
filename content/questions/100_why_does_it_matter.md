@@ -45,6 +45,9 @@ You want some colour injected into this art.
 
 What this all means I take from the [Baháʼí Writings.](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-aqdas/13#810736036) 
 
+(**Aside:** for what it's worth, the above Baháʼí excerpt cited is as spiritual a view of the MMT Job Guarantee policy as I've read anywhere. 
+It's an example of what I mean by gong beyond MMT.) 
+
 We can elevate in class consciousness work done in the service of humanity as a form of living akin to worship. 
 The Baháʼí canonical Writings make this elevation. 
 Something socialists have failed to grok.

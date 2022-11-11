@@ -104,7 +104,7 @@ They might borrow in order to manipulate their exchange rate, but all that does 
 #### Summary
 
 A simpler way to say all that is that the existence of a single currency monopoly power means a single currency region is inherently macroeconomic, the macro dictates the micro in several ways, so it is inherently a top-down system (with some elements of bottom-up, if there is a semblance of a democracy). 
-For more of this sort of theory of micro versus macro in economics see the [philosophy section](/ohanga-pai/questions/)
+For more of this sort of theory of micro versus macro in economics see the [philosophy section](/ohanga-pai/questions/) or [Professor Steve Keen\'s work](https://doi.org/10.1080/09538259.2020.1810887) and [here](https://ssrn.com/abstract=3466606), and [here.](https://www.rrojasdatabank.info/Keen49.pdf)
 
 
 
