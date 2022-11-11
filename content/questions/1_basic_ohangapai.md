@@ -247,7 +247,7 @@ will raise the price to suppress demand.
    - Regulating reserve balances, or IRMA, through Treasury bond operations to fix the interest rate floor.
 3. In New Zealand the practice is typically for the NZ government to fix prices and let quantity of NZD float.
 4. The state-currency is unique in that the 'own-price' (the amount the commodity trades for units of itself) has a meaningful consequence, which is realized as the bank interest rate spread.
-5. The government sets the currency 'own price' (aka. the interest rate) through central bank reserve policy (by paying interest on bank reserves) and/or by issuing Treasury securities. The RBNZ rates so determined (by political decisions) set the corridors for all private bank credit lending rates. It cannot be otherwise because private banks are in competition for funds, and so cannot for long offer savers an interest-income rate too much lower than the RBNZ rate, and cannot demand for long a rate of interest repayment too much higher than the RBNZ ceiling rate because then competing banks will undercut them.
+5. The government sets the currency 'own price' (aka. the interest rate) through central bank reserve policy (by paying interest on bank reserves and/or by issuing Treasury securities). The RBNZ rates so determined (by political decisions) set the corridors for all private bank credit lending rates. It cannot be otherwise because private banks are in competition for funds, and so cannot for long offer savers an interest-income rate too much lower than the RBNZ rate, and cannot demand for long a rate of interest repayment too much higher than the RBNZ ceiling rate because then competing banks will undercut them.
 6. Private markets offer goods for sale in NZD because they need NZ dollars to pay their taxes.
 7. The amount of NZ dollars available to make purchases in the private market, for goods priced in NZD, is determined by the prices paid by government and the regulations on bank credit, also determined by government.
 8. NZ dollars cannot come from anywhere else, they either come from government spending at prices the government sets, or from bank credit which government regulates. We do not get NZD from China: before Chinese consumers can get NZD to buy goods from us, or purchase NZ Treasury securities, we must first supply them, either with NZ bank credit or NZ government spending.
@@ -256,10 +256,13 @@ will raise the price to suppress demand.
 11. If the government refuses to pay higher prices there will be no inflation (other than for certain single commodities through import prices, which are not under our government’s control). This may or may not be good policy depending upon circumstances, such as import needs.
 12. The result of government refusing to pay higher prices will be no sales to the non-government sector if higher prices are demanded, and so no government spending, and this collapses aggregate demand in NZD. If the government is still issuing tax liabilities, and collecting on them, then prices will rapidly lower until the government is now willing to spend again.
 13. In all cases then, the government chooses the price level, and thus chooses the inflation rate. Inflation is a policy variable, not a market determined quantity. (This does *not* mean inflation rate is an easy policy variable to manage.)
-14. It might be very good policy for government to use fiscal policy through a job guarantee wage + benefit floor) to deliberately raise the price level periodically, perhaps every five years. This is not technically inflation, but has the same effect: it lowers the purchasing power of hoarded wealth, and lowers the burden on the poor of their past debt (since now their wage rate floor is higher than their past debt servicing rate).
+14. It might be very good policy for government to use fiscal policy (through a job guarantee wage + benefit floor) to deliberately raise the price level periodically, perhaps every five years. This is not technically inflation, but has the same effect: it lowers the purchasing power of hoarded wealth, and lowers the burden on the poor of their past debt (since now their wage rate floor is higher than their past debt servicing rate).
 15. In a recession, in particular, designed controlled one-off inflation (a deliberate re-gauging  of the currency unit) can be highly progressive egalitarian fiscal policy.
-16. In an economic boom when natural resources might be under threat of being depleted, a designed deliberate currency devaluing policy might be desirable though either taxes, or fines, on goods for sale that are depleting natural resources, or through rationing and various other fiscal policies. 
+16. In an economic boom when natural resources might be under threat of being depleted, a designed deliberate currency re-gauging policy might be desirable though either taxes, or fines, on goods for sale that are depleting natural resources, or through rationing and various other fiscal policies. 
 17. The NZ government is not beholden (in principle) to any private market forces for implementing any of these policies, it is beholden (in principle) only to the market for election votes, aka. democracy.
+
+**Comment on 10.** Another way the government can be seen to be the monopoly *price setter* would be through the "own price" of the currency, otherwise known as *the interest rate*. 
+If the government sets a very high interest rate, high enough that the debt servicing pretty much became an operating cost for all economic sectors, *then the interest rate would **be** the inflation rate* --- this is by academic definition, both would then become the "price" for holding on to cash.
 
 <div style="text-align: center;">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</div>
 
@@ -271,21 +274,37 @@ Some of these topics will be addressed in later questions.
 
 ## Caveats
 
-Please just take careful note of the postulates under [The System](#the-system). 
-If any economy does not satisfy these conditions then it is not necessarily well described by MMT, but MMT might still be useful with a few tweaks. 
+Please just take careful note of the postulates under [The System.](#the-system) 
+If any economy does not satisfy these conditions then it is not necessarily well described by *proper* MMT, but MMT might still be useful with a few tweaks. 
 An example would be when a nation runs a fixed exchange rate policy. 
 They can always *choose* to move to floating exchange rate, but if they choose not to, then their fiscal policy space is severely reduced compared to a proper MMT economy.
 
-Almost all post-Keynesian, Neoclassical and New Keynesian analysis implicitly adopts fixed exchange rate thinking, and so will not be correct according to MMT. 
+Almost all post-Keynesian, Neoclassical and New Keynesian analysis implicitly adopts fixed exchange rate thinking, and so will not be correct according to MMT if a country runs a floating exchange rate, but will agree with MMT policy constraints if the country does run a rigid fixed exchange rate or currency peg. 
+(The MMT analysis updates in this case, basically becoming a post-Keynesian framework.)
 
-For example, under fixed exchange rates a government will have a deficit constraint (aka. fiscal injection limit), but what the constraint is exactly will be impossible to compute, because it depends upon microeconomics and resource capacity. The point is that full resource capacity cannot be used when a nation fixes their exchange rate, they may be forced to tolerate involuntary unemployment, while a proper MMT system never has to tolerate any unemployment. 
+Post-Keynesian analysis is thus roughly a proper subset of MMT.
+
+For example, under fixed exchange rates a government will have a deficit constraint (aka. fiscal injection limit), but what the constraint is exactly will be impossible to compute (although it might be estimated to some fair uncertainty), because it depends upon microeconomics and resource capacity. The point is that full resource capacity cannot be used when a nation fixes their exchange rate, they may be *forced* (by their own needless self-imposed constraints) to tolerate involuntary unemployment, while a proper MMT system never has to tolerate any unemployment. 
 There is no inflation constraint in an MMT system when a floating exchange rate is adopted. 
 Later questions will explain why.
 There is however, *always* a **real resource constraint** --- that's just physics. 
 
+In MMT frameworks, the "price paid" for maintaining full employment can be an exchange rate depreciation. But this benefits exporters. 
+The opposite benefits importers. 
+So exchange rate movements are internal domestic redistributions. 
+There is always sufficient flexibility in an open economy for such movements. 
+They determine who gets to play more golf and who gets to go to work in the factory. 
+The government role is to not intervene in the exchange rate, but to; 
+
+* ensure there is no exchange rate speculation (which serves no public purpose), and
+* the internal redistributions are fair and equitable (so that the export oligarchs are not the only ones getting to knock off early for golf).
+
 Post-Keynesians think there is an inflation constraint. 
 They are wrong. 
+(At least wrong in the case of New Zealand.) 
 They would be correct if a fixed exchange rate was applied. 
+
+But New Zealand dropped fixed exchange rates in 1985, since that date the NZ government has been operating with no constraint on full employment, yet disgustingly acting to create unemployment nonetheless, a terrible policy mistake persisting for over 35 years --- wiping out the otherwise decent livelihood of an entire generation, now nearing two entire generations of Kiwis.
 
 For roughly the same reason, post-Keynesians think a large government debt is a problem, since "debt servicing" has to be "funded" by raising taxes. 
 (What they mean by "funded" is that there is a need to keep the exchange rate fixed --- so it is bad language framing.) 
@@ -297,7 +316,7 @@ There is no constraint here other than psychological, or political.
 Governments can refuse to type in those numbers. 
 Then the bond holders are defrauded, the governments defaults. 
 *Why would a government choose to voluntarily default on such debt obligations?* 
-There is no *good* reason other than to either, (i) defend a gold supply (inapplicable today post Breton-Woods), or (ii) defend a desired exchange rate.
+There is no *good* reason other than to either, (i) defend a gold supply (inapplicable today post Breton-Woods), or (ii) defend a desired exchange rate (inapplicable to NZ since 1985).
 
 But otherwise post-Keynesians are very close to MMT in all other respects on macroeconomics. 
 
@@ -306,8 +325,11 @@ There is a NAIRU only if governments refuse to hire the unemployed. But most gov
 
 Today Australia, New Zealand, Japan, and the USA are all examples of MMT systems. This does not mean their politicians understand MMT, and typically they will not, so bad policy choices that MMT would tell you are harmful to workers can often result --- this is no fault of the MMT system that exists in these countries.
 
-The analogy would be like playing Football in a system that is governed by Rugby, or even worse, it could be in the USA a lot like trying to play NFL with the rules of baseball, completely messed up government policy, for no good reason other than ignorance of the monetary system. 
-Under such political conditions one cannot blame MMT for any economic crises, the blame has to fall upon the decision makers who utterly fail to understand ther own nation's monetary operations.
+It is a fault of political misunderstandings and power plays by oligarchs who desire to see workers in debt (desperation for a job means the wage bargain can be undermined). 
+The labour market is not a fair game (employers do not always forego income when a worker is fired).
+
+The analogy would be like playing Football in a system that is governed by Rugby, or even worse, it could be in the USA a lot like trying to play NFL with the rules of baseball, completely messed up government policy results, for no good reason other than ignorance of the monetary system. 
+Under such political conditions one cannot blame MMT for any economic crises, the blame has to fall upon the decision makers who utterly fail to understand their own nation's monetary operations.
 
 [Next chapter (TBC)](./)  
 [Previous chapter (Introduction)](../0_introduction)  
