@@ -28,4 +28,4 @@ These will mostly be of the nature "I'm not an expert here."
 But for this introductory post you can easily tell which statements are factual and which are my opinions, so there are no further caveats needed for this one.
 
 [Next chapter (Basics of MMT)](../1_basic_ohangapai)  
-[Back to Questions TOC](/questions/)
+[Back to Questions TOC](../)

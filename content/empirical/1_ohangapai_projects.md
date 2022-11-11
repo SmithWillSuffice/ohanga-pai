@@ -14,7 +14,7 @@ tags: []
 
 ### Asset Exchange Models
 
-These are pretty simple models in the class of "econophysics".
+These are pretty simple models in the class of "[econophysics](https://en.wikipedia.org/wiki/Econophysics)".
 They are agent-based models, and show the basic wealth distributions that occur generically given some rules for how entities (individuals or units like small firms) exchange assets.
 
 These models are great for thinking about fair distribution policies, which at a government regulatory level means fiscal policy. 
@@ -49,14 +49,15 @@ If left alone (laissez faire policy) the wealthy household will get wealthier an
 
 #### What about DSGE? 
 
-Note that we have absolutely no interest in neoclassical and New Keynesian DSGE models (dynamic general stochastic equilibrium) --- because those are garbage. 
+Note that we have absolutely no interest in neoclassical and New Keynesian [DSGE models](https://arxiv.org/pdf/2210.16224) (dynamic general stochastic equilibrium) --- because those are garbage. 
 GIGO applies. 
-You cannot realistically model a complex dynamical systems like a whole economy using assumptions of equilibrium, or pretending equilibrium attains and just gets perturbed by some stochastic processes. 
+You cannot realistically model a complex dynamical system like a whole economy using assumptions of equilibrium, or pretending equilibrium attains and just gets perturbed by some stochastic processes. 
 Such thinking is retarded, and unnecessary. 
+
 Historically the reasons mathematical economics made assumptions of equilibrium supply and demand was because no one had the computer power to model non-equilibrium dynamics. 
 In the 1970's that all changed, and while physicists learned to use non-linear dynamical system models, the classical economists did not, for the most part, hence the continued futile and vain work on the utterly bogus DSGE models.
 
-As evidence, which our [philosophy pages](/questions/) might discuss, the DSGE models have no way to predict debt-deflation crashes, like the 2008 GFC. 
+As evidence, which our [philosophy pages](/questions/) might discuss, the [DSGE models](https://arxiv.org/pdf/2210.16224) have no way to predict debt-deflation crashes, like the 2008 GFC, or the Great Depression crash of 1929. 
 Proper time evolution dynamical models by contrast can predict financial crashes, or anticipate their onset. 
 Any decent macroeconomic model must be capable of predicting such financial crashes, this is why DSGE has to be completely rejected, it is a failed paradigm, and we know why it fails. 
 So why do mainstream economists and central bankers still use them? (This is a bit of a mystery, because they're not stupid people, the answer for resolving this mystery is sociological and ideological.)
@@ -65,11 +66,11 @@ So why do mainstream economists and central bankers still use them? (This is a b
 ## System Dynamics Models
 
 The Minksy models are a class of non-linear dynamical system, or System Dynamics (SD) models. 
-They can exhibit chaotic dynamics, or what is known in popular cultures as [The Butterfly Effect](https://en.wikipedia.org/wiki/Butterfly_effect). 
+They can exhibit chaotic dynamics, or what is known in popular cultures as [The Butterfly Effect.](https://en.wikipedia.org/wiki/Butterfly_effect)
 
 ### Why Macro Matters
 
-These SD models are what policy people should study, because the microeconomics of firms and households are decoupled from large scale macroeconomics due to failures of composition. 
+These SD models are what policy people should study, because the microeconomics of firms and households are only loosely coupled to large scale macroeconomics due to failures of composition. 
 
 **Failure of composition** means *the whole is more than the sum of it's parts*.
 
@@ -80,7 +81,7 @@ The reason microeconomics agents do not compose or scale up to macroeconomics is
 3. the existence of a currency and legislative monopoly, which are the same institution, means endogenous money analysis fails, and so microeconomics cannot be scaled up to macro.
 
 I place "the government" in scare quotes above because this phrase is prone to being misunderstood. The Government means the entire government system, which for a monetary economy means the legislature (Parliament), the Executive (Ministries, Prime Ministers and Presidents), the Treasury and the Central Bank. 
-No matter who owns the Central Bank furniture, it is still a branch of the consolidated government, it is required by law (in every country on Earth today) to do the bidding of the parliament and to cooperate daily with the Treasury.
+No matter who owns the Central Bank furniture, it is still a branch of the consolidated government, it is required by law (in every country on Earth today) to do the bidding of the Parliament and to cooperate daily with the Treasury.
 
 The Treasury make the instructions for all payments authorized by Parliament, and the Central Bank runs the banking and payments clearing system which makes those payments. 
 All commercial bank reserves are spreadsheets owned by the Central Bank.
@@ -103,10 +104,10 @@ They might borrow in order to manipulate their exchange rate, but all that does 
 #### Summary
 
 A simpler way to say all that is that the existence of a single currency monopoly power means a single currency region is inherently macroeconomic, the macro dictates the micro in several ways, so it is inherently a top-down system (with some elements of bottom-up, if there is a semblance of a democracy). 
-For more of this sort of theory of micro versus macro in economics see the [philosophy section](/questions/)
+For more of this sort of theory of micro versus macro in economics see the [philosophy section](/ohanga-pai/questions/)
 
 
 
 [Next chapter (TBD)](./)  
-[Next chapter (Projects Introduction)](0_introduction_to_projects)  
+[Next chapter (Projects Introduction)](../0_introduction_to_projects)  
 [Back to Empirical Pages](/empirical/)
