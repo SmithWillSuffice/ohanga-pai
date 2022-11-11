@@ -91,9 +91,10 @@ If the central bank refuses to issue payments on behalf of a Parliament desiring
 #### Summary
 
 A simpler way to say all that is that the existence of a single currency monopoly power means a single currency region is inherently macroeconomic, the macro dictates the micro in several ways, so it is inherently a top-down system (with some elements of bottom-up, if there is a semblance of a democracy). 
-For more of this sort of theory of micro versus macro in economics see the [philoosphy section](/questions/)
+For more of this sort of theory of micro versus macro in economics see the [philosophy section](/questions/)
 
 
 
-[Next chapter (Projects Overview)](1_ohangapai_projects)  
+[Next chapter (TBD)](./)  
+[Next chapter (Projects Introduction)](0_introduction_to_projects)  
 [Back to Empirical Pages](/empirical/)
