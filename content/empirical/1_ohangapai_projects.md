@@ -6,6 +6,7 @@ lastmod: 2019-10-31
 cover: ""
 coverAlt: ""
 toc: true
+katex: true
 tags: []
 ---
 
@@ -18,7 +19,12 @@ They are agent-based models, and show the basic wealth distributions that occur 
 
 These models are great for thinking about fair distribution policies, which at a government regulatory level means fiscal policy. 
 The models show that highly unfair wealth distributions naturally occur even when asset exchanges are uniform and random. 
-This illustrates Pareto dynamics, or more colloquially *the rich get richer* and the poor get poorer (in relative terms.)
+This illustrates Pareto dynamics, or more colloquially *the rich get richer* and the poor get poorer (in relative terms).
+
+The interest in these models is that they show that even before accounting for political and social power relations, just raw asset exchange can ruin people's lives, through no fault of their own and no fault of the super rich. 
+The existence of wealthy powerful people in the real world can only make things worse than these ideologically neutral asset exchange dynamics.
+"Worse," that is, absent some sort of supernatural altruism and charity from the super rich. 
+(When has human civilization ever witnessed such sociology?)
 
 They are *not* good models for real economic analysis which concerns production, energy, employment and price stability.
 
@@ -31,9 +37,10 @@ Because they are macroeconomic models (chunked sectors) they accurately account 
 We use time series ODE simulations, which is the proper way to model an economy as a dynamical system. 
 There is thus no assumption of equilibrium in markets.
 
-We model money, asset and labour markets, as roughly three homogenous types of market. However, for some analysis more sophistication is required, for example, two generalizations are,
+We model money, asset and labour markets, as roughly three homogenous types of market. However, for some analysis more sophistication is required, for example, three basic generalizations are,
 
-* **Two interest rate** models --- private banks offer a spread on top of central bank rates. So at a minimum a proper monetary model should use two parameters, once for the commercial bank rate (governing credit money) and one for government bonds (governing fiat currency operations).
+* **Two price** models --- financial assets (stocks, bonds, forex trading, non-owner occupied real estate) are in the modern world only very loosely coupled to pricing for real commodities (water, food, electricity,...). A decent macroeconomic model should thus account for at least two general price levels. (A third price is labour, the nominal wage rate, but Keen-Goodwin models already have separate governing equations for wages.)
+* **Four interest rate** models --- private banks offer a spread on top of central bank rates. So at a minimum a proper monetary model should use four interest parameters, two for the commercial bank rates (governing credit money and term deposits) and two for government bonds (governing fiat currency operations).
 * **Capitalism** models --- these are models where the Private sector is split into three sectors, Banks, Firms and Household, or if you prefer, Bankers, Capitalists and Workers. This is the proper way to conduct a modern Marxist analysis of the class struggle.
 
 If you have enough computing power then of course defining further class structure can also be valuable for more nuanced class analysis. 
@@ -81,12 +88,17 @@ All commercial bank reserves are spreadsheets owned by the Central Bank.
 
 As with any agency of government, the Parliaments may grant their agents some autonomy and independence, but this is not granted freely. 
 The mythical independence of central bankers is precisely that, a myth. 
-If the Parliament desires a zero interest rate bound, then it can always instruct Its centrla bank to make it so. 
-This is true even for the U and USA where central bank independence is supposedly a sacred mantra.  It is a false mantra. 
+If the Parliament desires a zero interest rate bound, then it can always instruct Its central bank to make it so. 
+This is true even for the UK and USA where central bank independence is supposedly a sacred mantra.  It is a false mantra. 
 How do we know so? *Government cheques never bounce.*
 
 If the central bank refuses to issue payments on behalf of a Parliament desiring to provision the public service, those central bankers will soon be fired. 
-(But of course we do not know this for a fact, because the central banks have never refused to make the payments, and they always can, because they are the monopoly issuers of the state's currency unit --- they cannot run out of money, they issue it by fiat).
+(But of course we do not know this for a fact, because the central banks have never refused to make the payments${}^\ast$, and they always can, because they are the monopoly issuers of the state's currency unit --- they cannot run out of money, they issue it by fiat).
+
+${}^\ast$ There was that time the Russian central bank turned off their lights. That was a default. However, as soon as they realized they issued rouble by keystroke the lights came back on. So this can be filed under "the exception proves the rule."
+The Argentina and Mexican debt defaults were in foreign currencies, not their own currency, so not the same thing either. 
+MMT Short Lesson: no government *needs* to borrow a foreign currency, not ever. 
+They might borrow in order to manipulate their exchange rate, but all that does is change domestic distribution (who gets to mow lawns, who gets to play golf).
 
 #### Summary
 
