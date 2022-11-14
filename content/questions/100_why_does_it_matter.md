@@ -43,7 +43,8 @@ You want some colour injected into this art.
 
 ### Work as worship
 
-What this all means I take from the [Baháʼí Writings.](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-aqdas/13#810736036) 
+What this all means I take from the [Baháʼí Writings](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-aqdas/13#810736036) (do not read that reference if you're anti-religion, if you think you have a decent sense of economic justice you won't need to read it).
+((Of course, if you have a decent sense of economic justice you really are "religious" in the non-denominational sense at least. *Justice* being an idealists spiritual virtue.))
 
 (**Aside:** for what it's worth, the above Baháʼí excerpt cited is as spiritual a view of the MMT Job Guarantee policy as I've read anywhere. 
 It's an example of what I mean by gong beyond MMT.) 
