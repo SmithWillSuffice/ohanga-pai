@@ -331,6 +331,6 @@ The labour market is not a fair game (employers do not always forego income when
 The analogy would be like playing Football in a system that is governed by Rugby, or even worse, it could be in the USA a lot like trying to play NFL with the rules of baseball, completely messed up government policy results, for no good reason other than ignorance of the monetary system. 
 Under such political conditions one cannot blame MMT for any economic crises, the blame has to fall upon the decision makers who utterly fail to understand their own nation's monetary operations.
 
-[Next chapter (TBC)](./)  
+[Next chapter (TBC)](../2_what_is_money)  
 [Previous chapter (Introduction)](../0_introduction)  
 [Back to Questions TOC](../)
