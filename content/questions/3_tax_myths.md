@@ -55,7 +55,7 @@ In this case progressive tax rates (via bracket creep) will automatically cool o
 
 But in this scenario the tax return is not in order for the government to get their own scorepoints, it is rather to withdraw scorepoints from the non-government sector which reduces claims on real goods produced by firms. 
 
-The one-liner is:
+The one-liner *reality* is:
 
 > Taxation deletes currency from circulation.  It does not supply the government with currency.
 
@@ -79,7 +79,7 @@ Functional finance is opposed to neoliberal ideas such as laissez faire policies
 MMT recognizes that the public purpose cannot be protected through laissez faire policies, and that some component of government spending needs to be targeted. 
 Government *should be* picking some winners and losers, not all of them, not even most, but just what is needed to fulfill the broadly democratically defined public purpose.
 
-### Why the heck shoudl governemtn be picking winners and losers?
+### Why the heck should government be picking winners and losers?
 
 For a couple of reasons.
 1. As the representatives of "the people" governments have a responsibility to ensure something nebulous called "the public good." They cannot do so with a laissez faire hands-off approach that lets powerful market players dominate the world of finance.
@@ -90,7 +90,8 @@ For a couple of reasons.
 This is, of course, my opinion, it is not core MMT. 
 Such opinions are part of Ōhanga Pai or Spiritual Economics, which goes beyond core MMT.
 
-There is nothing wrong in protect vital industries too. Both labour and industry can be protected.  The problem occurs when wages for labour are exploitative, and when business profits are hoarded by bosses and not shred equitably with workers.
+There is nothing wrong in protecting vital industries too. 
+Both labour and industry can be protected.  The problem occurs when wages for labour are exploitative, and when business profits are hoarded by bosses and not shared equitably with workers.
 Only a government has the authority, legal power and enforcement agencies to protect the interests of labour. 
 Trade unions used to have some power, but (a) never sufficient power, and (b) trade unions were never representative of *all workers,* so were not ever truly egalitarian.
 
@@ -101,20 +102,22 @@ Workers collectively need one union to represent all workers, that would be more
 ### Who decides what is in the public interest?
 
 The demos. That's who. Not "the market." 
-That's the only answer we've got that is remotely sensible from thousands of ears of representative government. 
+That's the only answer we've got that is remotely sensible from thousands of years of representative government. 
 Or, if you like to say it this way, the demos really is a market, the egalitarian market of the voice of the people. 
-One person, one vote. Corporations are not persons.)
+One person, one vote. (Corporations are not persons.)
 
-Governments can always spend as much currency as they like, it is their currency and it gets' withdrawn later in tax returns or private savings. The issue is not how much currency is spent, but rather; 
+Governments can always spend as much currency as they like, it is their currency and it gets withdrawn later in tax returns or private savings. 
+The issue is not how much currency is spent, but rather; 
 
 1. is the spending fraudulent or legitimate?
 2. Are real resources available? --- if not, the government should not spend, since that just puts pressure on prices.
-3. If government absolutely has to spend on scarce resources for public good, it must free up those resources by either taxing or fining private users of those real resources. This is a political decision an constraint, not a financial constraint. Currency issuers have *no* financial constraints that are not self-imposed.
+3. If government absolutely has to spend on scarce resources for public good, it must free up those resources by either taxing or fining private users of those real resources. This is a political decision and political constraint, not a financial constraint. Currency issuers have *no* financial constraints that are not self-imposed.
 
-The tricky thing here is that the reality about what should be the proper regulations on government spending are not recognized by politicians, the public or mainstream neoclassical economists, so the proper reality is not heeded. We instead get a terrible mix of a reality about what is possible, and what actually gets accomplished.
+The tricky thing here is that the reality about what should be the proper regulations on government spending are not recognized by politicians, the public or mainstream neoclassical economists, so the proper reality is not heeded. We instead get a terrible mix in reality: a confusion about what is possible, and what actually gets accomplished.
 
 Due to unnecessary budget constraints (aka. austerity) government leaders are not doing what is possible to help their people. 
 They are doing instead a bare minimum, which causes social unrest, and it is all needless. 
+**_It is a tragedy of epic proportions_**.
 Austerity about issuing currency is needless austerity.
 
 When real resource limits are being approached then rationing and some other forms of conservation are necessary, but until such limits are reached there is no need for currency issuing austerity. 
@@ -123,15 +126,13 @@ In particular, human labour, all available willing workers, can always be fully 
 This is the concept of a two-fold increase in human prosperity:
 
 1. Expanded public sector hiring, for public purpose (no bullsh*t jobs), and
-2. A Job Guarantee wage floor.
-
+2. a Job Guarantee wage floor.
 
 ## Caveats
 
 But doesn't issuing currency cause inflation?
+Short answer is no. Long answer is for [another chapter.](../4_inflation_myths)
 
-Short answer is no.  Long answer is for the [another chapter.](../4_inflation_myths)
-
-[Next chapter (TBC)](./)  
+[Next chapter (Inflation Myths)](../4_inflation_myths)  
 [Previous chapter (What is Money)](../2_what_is_money)  
 [Back to Questions TOC](../)
