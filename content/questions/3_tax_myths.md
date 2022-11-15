@@ -28,7 +28,21 @@ If the overdraft is at a private commercial bank that would be silly, the local 
 Laws concerning such monetary relations between local and central government are pure conventions, the law can be changed to meet the needs of the people.
 
 
-### Why do governemtns tax us then?
+### Why can't governments "logically" use tax receipts for spending?
+
+By accounting logic **_no one can pay a dime in taxes until the government (or its licenced agents) first issue the currency._**
+
+Remember, state currency is **_defined_** as *that which is accepted for payment of taxes, fees, fines and levies imposed by the state.*
+State currency only comes from the government or its licenced banks, it cannot legally come from anywhere else. 
+It is points on the central bank's scoreboard (secured spreadsheets, or in the olde days ledger books kept under lock and key.)
+
+**Caveat:** In recent years, and going back in history, you can find isolated cases where governments have accepted stupid things for redemption of taxes, like bitcoins or gold. 
+Since bitcoins and gold are of no use to a government$^\ast$ this is insane policy, but it has happened. It has a deflationary bias when gold is accepted (because the supply of gold is finite.) 
+Every economist alive recognizes nominal inflation (privileges wage earners, real producers) is better to have than deflation (privileges the wealthy hoarders, rentiers).
+
+$^\ast$ Gold is useful for electrical engineering, so governments can make some use of gold. But there are satisfactory metal alternatives in electronics.
+
+### Why do governments tax us then?
 
 The purpose of taxation is to **_drive demand_** for the otherwise worthless currency, **_not_** to get supply of scorepoints for the monopoly issuer of the scorepoints!
 
@@ -43,7 +57,8 @@ There are three other purposes for taxation.  So four altogether as follows:
 
 None of the purposes are to "fund the government". They are *all* about balancing the *real economy*. 
 
-This is an inapplicable notion. No currency issuing government needs to get money in order to spend it. 
+"Funding the government" is an inapplicable notion. 
+No currency issuing government needs to get money in order to spend it. 
 Governments neither "have money" nor "do not have money". 
 What governments have is a simple public monopoly on tax credit issuance and redemption. 
 They issue state currency by typing numbers into bank accounts.
@@ -53,7 +68,11 @@ If people who hoard currency do not spend it, just save it, then there is no pre
 In reality people do spend their savings, eventually, and this can have a small pressure on prices, an inflation bias. But it is never a problem except when supply of goods are scarce, as in war time or a pandemic. 
 In this case progressive tax rates (via bracket creep) will automatically cool off inflation in an economic boom.
 
-But in this scenario the tax return is not in order for the government to get their own scorepoints, it is rather to withdraw scorepoints from the non-government sector which reduces claims on real goods produced by firms. 
+In a supply shock crisis the remedy for inflation is totally different, it is to *increase government investment* to fix supply. 
+A gross way to do so would be to lower taxes. 
+But direct functional targeted investments will fix the supply crises faster.
+
+But in the former scenario the tax return is not in order for the government to get their own scorepoints, it is rather to withdraw scorepoints from the non-government sector which reduces claims on real goods produced by firms. 
 
 The one-liner *reality* is:
 
@@ -74,6 +93,14 @@ If it is procuring rent free housing for otherwise homeless people, or supplies 
 > When it comes to government spending there is no budget constraint, the proper constraint is **_real resource availability_** and suitability of the spending for public purpose, not private interests.
 
 This principle is one component of [functional finance](https://en.wikipedia.org/wiki/Functional_finance) or targetted spending.
+
+A government, or demos really, that wants a thriving private sector, making sneakers, computers, smartphones, fast-food, or whatever, should be careful to not spend on purchasing the energy, hiring already employed workers, and buying up basic inputs that these private firms need. 
+If government competes with the private sector the government will always win (if it wants to) since it is the issuer of the currency, it can pay any price. 
+The demos had then better not vote for governments that suck up all the resources and starve the private sector. 
+Generally the citizens do *not* vote for spend-thrift governments, so there is historically no known danger of governments spending wildly. 
+It just never happens. 
+
+Corruption of government institutions happens (as does corruption in private industry), but that's different to transparent votes in Parliaments for spending that voters can, or should, know about.
 
 Functional finance is opposed to neoliberal ideas such as laissez faire policies. 
 MMT recognizes that the public purpose cannot be protected through laissez faire policies, and that some component of government spending needs to be targeted. 
@@ -110,7 +137,7 @@ Governments can always spend as much currency as they like, it is their currency
 The issue is not how much currency is spent, but rather; 
 
 1. is the spending fraudulent or legitimate?
-2. Are real resources available? --- if not, the government should not spend, since that just puts pressure on prices.
+2. Are real resources available? --- if not, the government should not spend on *those* resources, since that just puts pressure on prices.
 3. If government absolutely has to spend on scarce resources for public good, it must free up those resources by either taxing or fining private users of those real resources. This is a political decision and political constraint, not a financial constraint. Currency issuers have *no* financial constraints that are not self-imposed.
 
 The tricky thing here is that the reality about what should be the proper regulations on government spending are not recognized by politicians, the public or mainstream neoclassical economists, so the proper reality is not heeded. We instead get a terrible mix in reality: a confusion about what is possible, and what actually gets accomplished.
@@ -126,12 +153,21 @@ In particular, human labour, all available willing workers, can always be fully 
 This is the concept of a two-fold increase in human prosperity:
 
 1. Expanded public sector hiring, for public purpose (no bullsh*t jobs), and
-2. a Job Guarantee wage floor.
+2. a Job Guarantee wage floor --- which protects workers in the otherwise unfair labour market game, and simultaneously stabilizes the price level.
+
+The Job Guarantee policy is necessary if there are involuntary unemployed workers who are willing to work but who refuse to work for the government. 
+The government does not dictate what a JG worker chooses to do, but does pay their wage.
+In reciprocity, the government only says what a JG worker **_cannot_** do (light fires, bomb bridges, build "bridges to nowhere", steal from old grannies,  and whatnot).
+
+((By "build bridges to nowhere" I mean of course anything wasteful of otherwise communal resources.))
 
 ## Caveats
 
-But doesn't issuing currency cause inflation?
-Short answer is no. Long answer is for [another chapter.](../4_inflation_myths)
+But doesn't issuing currency cause inflation? 
+How can governments desiring price stability therefore have no budget constraint? 
+Short answer is no. 
+Issuing currency does not cause inflation. 
+Long answer is for [another chapter.](../4_inflation_myths)
 
 [Next chapter (Inflation Myths)](../4_inflation_myths)  
 [Previous chapter (What is Money)](../2_what_is_money)  
