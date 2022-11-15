@@ -16,18 +16,20 @@ Inflation is defined as *a continual increase in the general price level*.
 It is imprecisely measured by indictors like the CPI (consumer price index, a weighted index of prices of typical commodities for sale in the state currency units).
 
 
-## Does Government Net Spending Cause Inflation?
+### Does Government Net Spending Cause Inflation?
 
 If you think "yes," then you have succumbed to the Quantity Theory of Money (QTM) myth. 
 
-The *reality* is that never in all rcorded history has governemnt deficits cuased hyperinlfaitons.
-The causlaity has alwyas been the reverse:
+The *reality* is that never in all recorded history have government deficits caused hyperinflations.
+The causality has always been the reverse:
 
-> The cause of all hyperinflations, everywhere, have been supply shock events, liek warr, war reparations, pestilence, drought or famine, and plagues.
+> The cause of all hyperinflations, everywhere, have been supply shock events, like war, war reparations, pestilence, drought or famine and plagues.
 
-The reason governments deficits increase during hyper-inflation events is because people find real goods in scarce supply, so people are competing for purchasing power, and government welfare payments have an inflationary bias in such cases. 
+The reason government deficits increase during hyper-inflation events is because people find real goods in scarce supply, so people are competing for purchasing power, and government welfare payments have an inflationary bias in such cases. 
 The government is forced, involuntarily, to issue more currency to the poor. 
 This puts pressure on prices.
+But the *cause* is the supply shock (cost-push), not the governments non-discretionary impact on demand-pull.
+There is a good analysis about this direction of causation for the case of [Weimar Germany here.](https://gimms.org.uk/wp-content/uploads/2020/11/Weimar-Republic-Hyperinflation-through-a-Modern-Monetary-Theory-Lens.pdf)
 
 However, 
 1. such inflation is indefinitely sustainable.
@@ -50,6 +52,40 @@ If you give people who already are eating enough and have shelter more money, th
 The way Japan could get the inflation they want would be to fully employ all Japanese workers, and give them decent living wages. 
 that will make skilled workers scarce for private firms, which increases the wage bids. 
 That will give Japan the inflation they want, and in a very healthy progressive manner.
+
+## What is the QTM Myth?
+
+The QTM uses an accountign identity:
+
+$$ M V = Q P $$
+
+On the left we have money supply $M$ and velocity of money $V$. 
+Here $V$ is just the rate at which money circulates. 
+You can take a single dollar and circulate it very fast, passing it from buyer to seller ho becomes the next buyer, then to seller to buyer... rapidly enough that a single dollar bill can sustain an entire (small-ish) economic system. 
+In practice people like to save 80% of their income, so to circulate money to drive commerce, a supply of currency that grows is more typical than making the velocity of circulation more rapid.
+
+On the left-hand side of the above equation we have *quantity* of goods $Q$ and *price level* $P$. 
+More exactly, $Q$ is the amount of output that gets sold each year. If the time period is a year, then $P$ is the average price level over the year (it does fluctuate).
+
+It is an identity that $MV$ must equal $QP$. It follows from definitions of these four quantities.
+
+The inflation myth is that by increasing money supply $M$ we will necessarily cause prices $P$ to rise, and that's inflation, if it is done continuously.
+
+So lamestream economists tell you this myth that if governments run a continual deficit (injecting money *into* the economy, thus increasing $M$) then we will always get inflation, a continual rise in $P$.
+
+This is bogus. 
+You can immediately see why. Or at least I hope you can see why.  There are several reasons why this myth is false.
+
+1. A fraction of $M$ can be leaked away in savings accounts, so increasing $M$ via government net spending does not cause increasing $P$.
+2. Firms hate to raise their prices, they like customer loyalty, so they will always prefer to raise output $Q$ instead of raising prices $P$.
+
+Firms only raise prices either, (a) when they find they cannot raise their output, or (b) when they have a monopoly, so have not competition, so can greedily just purely price gouge their customers.  A monopolist, as a rough psychological rule, does not care about customer loyalty. 
+Customers have nowhere else to go. 
+This is of course a major source of inflationary pressure, and is the dominant source of post COVID-19 inflation --- price gouging by monopolies, especially oil cartels.
+
+People think food producers are also price gouging, but oil is the main input into food production, so not all food producers are price gouging, they are just passing through their energy usage costs to consumers. 
+This is one big problem of unregulated capitalism. 
+If left alone, firms pass off costs to consumers, and the poorest consumers are the ones who suffer the most. it is terribly unjust.
 
 
 ## Caveats
