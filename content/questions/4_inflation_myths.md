@@ -35,7 +35,7 @@ However,
 1. such inflation is indefinitely sustainable.
 2. The fix to stop the inflation is to eliminate the source of the supply shock.
 
-So the currency inflation is a natural event. 
+So the currency inflation is a natural reaction event. 
 The supply shock source is what needs to be corrected, not the monetary inflation.
 
 Once supply chains and goods supplies are restored, the hyperinflation always stops dead. 
@@ -44,8 +44,8 @@ Remember, inflation is a continual increase in the price level.
 It is extremely hard for a government to keep inflation going, even if it wanted to, because if supply is good people don't just take money issued by their government and go out and eat more or travel more. 
 There are physiological limits to what people can do!
 
-Since the mid 1990's the Japanese government has desperately been trying to get inflation above 1%. 
-They keep failing! 
+Since the mid 1990's the Japanese government has desperately been trying to get [inflation in yen prices](https://tradingeconomics.com/japan/inflation-cpi) above 2%. 
+They keep failing! (Until COVID did it for them.)
 
 Any MMT economist could show them how to get the inflation they want, but the point is that even governments that want more inflation find it difficult to get any. 
 If you give people who already are eating enough and have shelter more money, they tend to save it, so in that case you cannot get any inflation *just* by raising the government deficit. 
@@ -61,12 +61,13 @@ The QTM uses an macroeconomic identity:
 $$ M V = Q P $$
 
 On the left we have money supply $M$ and velocity of money $V$. 
-Here $V$ is just the rate at which money circulates. 
+Here $V$ is just the rate at which money circulates (sales per \$1 per year). 
 You can take a single dollar and circulate it very fast, passing it from buyer to seller who becomes the next buyer, then to seller to buyer... rapidly enough that a single dollar bill can sustain an entire (small-ish) economic system. 
-In practice people like to save 80% of their income, so to circulate money to drive commerce, a supply of currency that grows is more typical than making the velocity of circulation more rapid.
+In practice people like to save on average 80% or thereabouts of their income, if they can, so to circulate money to drive commerce, a supply of currency that grows is more typical than making the velocity of circulation more rapid.
 
 On the left-hand side of the above equation we have *quantity* of goods $Q$ and *price level* $P$. 
-More exactly, $Q$ is the amount of output that gets sold each year. If the time period is a year, then $P$ is the average price level over the year (it does fluctuate).
+More exactly, $Q$ is the amount of output that gets sold each year. 
+If the time period is a year, then $P$ is the average price level over the year (it does fluctuate).
 
 It is an identity that $MV$ must equal $QP$. It follows from definitions of these four quantities.
 
@@ -77,7 +78,7 @@ So lamestream economists tell you this myth that if governments run a continual 
 This is bogus. 
 You can immediately see why. Or at least I hope you can see why.  There are several reasons why this myth is false.
 
-1. A fraction of $M$ can be leaked away in savings accounts, so increasing $M$ via government net spending does not cause increasing $P$.
+1. A fraction of $M$ can be leaked away in savings accounts, so increasing $M$ via government net spending does not cause increasing $P$. If these savings leakages increase over a time period then it directly lowers $V$, so might lower $P$.
 2. Firms hate to raise their prices, they like customer loyalty, so they will always prefer to raise output $Q$ instead of raising prices $P$.
 
 Firms only raise prices either, (a) when they find they cannot raise their output, or (b) when they have a monopoly, so have not competition, so can greedily just purely price gouge their customers.  A monopolist, as a rough psychological rule, does not care about customer loyalty. 
@@ -86,7 +87,8 @@ This is of course a major source of inflationary pressure, and is the dominant s
 
 People think food producers are also price gouging, but oil is the main input into food production, so not all food producers are price gouging, they are just passing through their energy usage costs to consumers. 
 This is one big problem of unregulated capitalism. 
-If left alone, firms pass off costs to consumers, and the poorest consumers are the ones who suffer the most. it is terribly unjust.
+If left alone, firms pass off costs to consumers, and the poorest consumers are the ones who suffer the most. 
+It is terribly unjust.
 
 ### Also, Q is Quantity Sold
 
@@ -99,7 +101,8 @@ But while they are saving output to stock, this lowers the effective $Q$ in the 
 
 ## Nominal versus Real Inflation
 
-If and when governemtn currency injectins (aka. fiscal deficits) put pressure on prices, it is only because firms have maxed out their putput caacity, so the firms are forced to raise their prices to supppres demand. (They'd be a bit stupid not to, and in any case it's a social psychology effect, they always do raise their prices if they cannot hire more labour or machinery.)
+If and when government currency injections (aka. fiscal deficits) put pressure on prices, it is only because firms have maxed out their output capacity, so the firms are forced to raise their prices to suppress demand. 
+(They'd be a bit stupid not to, and in any case it's a social psychology effect, they always do raise their prices if they cannot hire more labour or machinery.)
 
 But what counts in all this, for economic justice, is not how much stuff \$1 can purchase.
 
