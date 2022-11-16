@@ -96,7 +96,7 @@ Or at least we are talking about a greatly expanded and salary enriched public s
 Pay them decent wages and we'll have too many of them turning up, so some will need to be rejected and go back to writing pop songs.
 
 
-By the way, by its nature, science geeks and pop music writers will have to be permitted to work more than three days a week. 
+By the way, by nature, science geeks and pop music writers will have to be permitted to work more than three days a week. 
 So at the same wage rate as a janitor or teacher they'll get a higher gross annual salary perhaps. If they want the extra work hours.
 
 If you've ever been a song writer, or science geek, you'll know what I mean. 
@@ -147,7 +147,7 @@ What *matters* for economic justice is *real inflation* --- which is defined as 
 
 **Trick is:** eliminating bullsh-t jobs increases the ***real** wage*. That's what is important.
 
-This is regardless of what happens to the nominal wage (which is correlated with CPI inflation,  largely non-important metric if taken out of real wage context). 
+This is regardless of what happens to the nominal wage (which is correlated with CPI inflation,  a largely non-important metric if taken out of real wage context). 
 
 
 
