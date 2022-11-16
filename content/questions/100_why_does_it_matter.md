@@ -96,11 +96,11 @@ Or at least we are talking about a greatly expanded and salary enriched public s
 Pay them decent wages and we'll have too many of them turning up, so some will need to be rejected and go back to writing pop songs.
 
 
-By the way, by its nature, science geeks and pop music writers will have to be permitted to work more than three hours a week. 
+By the way, by its nature, science geeks and pop music writers will have to be permitted to work more than three days a week. 
 So at the same wage rate as a janitor or teacher they'll get a higher gross annual salary perhaps. If they want the extra work hours.
 
 If you've ever been a song writer, or science geek, you'll know what I mean. 
-These people cannot be restrained to three hours a week, they'd consider that barbaric and intolerable. 
+These people cannot be restrained to three days a week, they'd consider that barbaric and intolerable. 
 The work time-energy for a scientist is not definable. 
 They just do science, you cannot sop them. They do it in their sleep. 
 The principle in a decent civilized society is to leave the scientists and artists alone if they want to work (with professional lab supervisors, so they do not sink the planet into a laboratory black hole). 
