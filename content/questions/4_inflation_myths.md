@@ -90,7 +90,7 @@ This is one big problem of unregulated capitalism.
 If left alone, firms pass off costs to consumers, and the poorest consumers are the ones who suffer the most. 
 It is terribly unjust.
 
-### Also, Q is Quantity Sold
+### Also, Q is Quantity _Sold_
 
 Not all output produced by firms is sold, a lot is held as stock. 
 So when either $M$ or $V$ goes up, prices $P$ can remain constant for a short time as firms deplete their stocks. 

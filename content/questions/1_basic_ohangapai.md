@@ -69,7 +69,7 @@ Public sector jobs might be more critical than many [bullsh*t workers](https://w
 But these are political matters requiring political choices. 
 (Who is to say what counts as a [bullsh*t job](https://www.simonandschuster.com/books/Bullshit-Jobs/David-Graeber/9781501143335)?)
 
-### The Money Story
+### The Money Sequence
 
 
 1. The state desires to provision itself.

@@ -14,8 +14,35 @@ tags: []
 I will always consider spiritual economics (which Ōhanga Pai is all about) as way above and beyond [MMT.](http://neweconomicperspectives.org/modern-monetary-theory-primer.html )
 
 The thing about cold hard MMT is that it is open to the critique of "fetishizing work." 
-Although plenty of MMT scholars point out that's a false bad-faith attack. 
-To understand this, first let's define,
+Although plenty of MMT scholars point out that's a false bad-faith attack --- and I agree, *most* MMT economists and activists also share the same spiritual lens I do, they are just too sheepish to admit macroeconomics is more about justice than "distribution of output." 
+Economists do not get trained in morals and ethics, so do not know how to speak that language, except like babies. 
+They'll "go to the data" before sound morals. 
+(Spiritual economics does not put morals ahead of data nor the reverse, they're the same, use of good data is a moral commitment, checking data is accurate is a moral commitment to trustworthiness.)
+
+Here I'll quote my favourite MMT'er, Warren Mosler:
+> "Either you believe in an informed electorate or you do not.  I prefer an informed electorate."
+{{< WarrenMosler >}}
+
+<!-- ![Mosler image](../images/Warren_Mosler.png) -->
+
+In one sense that can be taken as a rationalists attitude, but it is deeply spiritual. 
+The reason nations tolerate poverty and unemployment is because they do not understand their monetary system is both the *cause* of all unemployment and the means to completely eliminate that same unemployment. 
+So if we do not have an electorate informed about MMT basics, I think we have a nation that is living well below it's means.
+
+Mosler is mainly referring to the economists like Samuelson and Krugman who believe strongly in an ignorant electorate ([see the Samuelson interview here](https://neweconomicperspectives.org/2010/04/30).) 
+These idiot believe$^\ast$ in keeping citizens ignorant because they think it is a good idea to hide the truth about government power and responsibility form the citizens, and they believe in creating artificial scarcity. 
+(As do the cryptocurrency libertarian fascists.)
+
+$^\ast$ To be fair, Paul Krugman probably does not believe this, he is just one of the ignorant. Samuelson was obviously not ignorant and did believe there was a need to keep citizens ignorant about the MMT system. 
+Samuelson understood a lot of what is now called MMT, but did not want MMT informed policy. 
+He was a sociopath, pure and simple. 
+
+The only "excuse" I'd give to Samuelson was that he had the fixed exchange rate/gold standard mental disease. 
+If your framework is fixed exchange rates (Bretton-Woods or a gold standard) then you are going to inform politicians they may need an unemployed buffer of labour to fix the exchange rate and prevent inflation. 
+MMT tells you it is *possible* to have full employment (absolute full employment, so NAIRU = 0%) and price stability if; (1) the exchange rate is floated, (2) central bank runs ZIRP,  (3) a job guarantee as the employed buffer of labour, (4) government allows the deficit to float. 
+It is fair to say Samuelson was truly ignorant about the advantage of this set of policies.
+
+To understand more about this, first let's define,
 
 * ***f*-MMT**  as just "The MMT framework" --- this is the macroeconomics lens you get when you understand raw MMT, as in [Mosler\'s books](https://www.moslereconomics.com/wp-content/powerpoints/7DIF.pdf) or [Bill Mitchell\'s brilliant blog](http://bilbo.economicoutlook.net/blog/) (even Aussies are useful for some things, but I'm not so sure Bill is an "Aussie," he's more like a gangly hairy human unicorn who talks like he'd smell of weed but probably smells of 1960's aftershave dude).
 * ***p*-MMT** as the policy space one can adopt in an MMT economy (so if you are Australia, Canada, Japan, NZ, UK, USA,...).
@@ -44,10 +71,10 @@ You want some colour injected into this art.
 ### Work as worship
 
 What this all means I take from the [Baháʼí Writings](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-aqdas/13#810736036) (do not read that reference if you're anti-religion, if you think you have a decent sense of economic justice you won't need to read it).
-((Of course, if you have a decent sense of economic justice you really are "religious" in the non-denominational sense at least. *Justice* being an idealists spiritual virtue.))
+((Of course, if you have a decent sense of economic justice you really are "religious" in the non-denominational sense at least. *Justice* being an idealist's spiritual virtue.))
 
 (**Aside:** for what it's worth, the above Baháʼí excerpt cited is as spiritual a view of the MMT Job Guarantee policy as I've read anywhere. 
-It's an example of what I mean by gong beyond MMT.) 
+It's an example of what I mean by going beyond MMT.) 
 
 We can elevate in class consciousness work done in the service of humanity as a form of living akin to worship. 
 The Baháʼí canonical Writings make this elevation. 
@@ -60,7 +87,7 @@ A vocation, a craft, a profession, a skill, performed in service to humanity.
 We're talking about things such as writing awesome pop songs, or just the lyrics, or that more sublime thing that Radiohead do.
 
 We're also talking janitors, farmers, nurses and teachers, as the top wage workers, because they're the most important people in society (this is not an exhaustive list). 
-They do not have to work more than three hours a week, if we have enough people who know janitorial work is dignified work then three hours a week aught to do it. 
+They do not have to work more than three hours a day, if we have enough people who know janitorial work is dignified work then three hours a day aught to do it. 
 (Clean up your room yourself you other lobsters.)
 
 What we do **not** want to fetishsize is the wage form of work. 
