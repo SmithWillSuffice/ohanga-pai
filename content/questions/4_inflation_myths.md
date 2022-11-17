@@ -142,11 +142,17 @@ It is terribly unjust.
 
 **Comment on 3.** obviously a population cannot grow forever. 
 First because the carrying capacity of the land gets pushed up against. 
-But well before that, people do not like having lots of kids if they do not have to, like Japan and New Zealand, we have an inverted demographic situation, meaning *relatively* fewer young people are generating the output for themselves *and* the retirees. 
+But well before that, people do not like having lots of kids if they do not have to, 
+like Japan and New Zealand, we have an inverted demographic situation, 
+meaning *relatively* fewer young people are generating the output for themselves *and* the retirees. 
 Our population however is for now still slowly growing, just less fast than in the past.
-Hence for price stability in NZ we need a growing net money supply, so the NZ government must run deficits (net fiscal injections). 
+Hence for price stability in NZ we need a growing net money supply, 
+so the NZ government must run deficits (net fiscal injections). 
 
-Or, if we are lucky to happen to see continual drops in our import prices, we can probably live for a while with a low NZ government deficit, but this is not up to discretion of our government. The NZ government deficit will *automatically* be lower, all other things equal, if our import prices are dropping.
+Or, if we are lucky to happen to see continual drops in our import prices, 
+we can probably live for a while with a low NZ government deficit, 
+but this is not up to discretion of our government. 
+The NZ government deficit will *automatically* be lower, all other things equal, if our import prices are dropping.
 
 
 ### Also, Q is Quantity _Sold_
@@ -211,6 +217,6 @@ Full employment (in non-bullsh$\ast$t jobs) tends to imply moderate inflation, b
 That's why inflation *per se* is not inherently evil.
 
 
-[Next chapter (TBC)](./)  
+[Next chapter (Deficit Myths)](../5_deficit_myths)  
 [Previous chapter (Tax Myths)](../3_tax_myths)  
 [Back to Questions TOC](../)
