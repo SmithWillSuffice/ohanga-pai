@@ -75,7 +75,7 @@ How is that real estate inflation pressure? It isn't.
 If *everyone* gets a free million and goes buying a house, then yep, house prices go up, but avocado prices don't. 
 Relative value stories here.
 
-We already mentioned the farmer and police officer story, that's another one to keep in mind, it's all about relative value. 
+Below under [The QTM Myth](#what-is-the-qtm-myth) I'll use another example, the farmer and police officer story, that's another one to keep in mind, it's all about relative value. 
 
 When a government issues a bucket-load (really a oil tanker load) of money suddenly the supermarket shelves go bare? 
 I don't think so, households do not have the storage capacity.
@@ -105,7 +105,7 @@ It is pure greed that stock prices are permitted to go up in price without limit
 
 ## What is the QTM Myth?
 
-The QTM uses an macroeconomic identity:
+The QTM uses a macroeconomic identity:
 
 $$ M V = Q P $$
 
