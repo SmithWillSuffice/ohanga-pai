@@ -77,7 +77,7 @@ Relative value stories here.
 
 We already mentioned the farmer and police officer story, that's another one to keep in mind, it's all about relative value. 
 
-When a government issues a bucket-load (really a oil tanker load) of money suddenly the supermarket shelves do bare? 
+When a government issues a bucket-load (really a oil tanker load) of money suddenly the supermarket shelves go bare? 
 I don't think so, households do not have the storage capacity.
 Can other fictional commodities like purely financial assets like stocks and crypto boom in price? Sure, because nothing real backs them, but then it's all ponzi, so you go into those fictional commodity markets are your risk, not the general public risk. 
 No amount of stocks issued by Google is going to collapse the environment.
