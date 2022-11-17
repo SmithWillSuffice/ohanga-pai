@@ -129,6 +129,7 @@ You can immediately see why. Or at least I hope you can see why.  There are seve
 
 1. A fraction of $M$ can be leaked away in savings accounts, so increasing $M$ via government net spending does not cause increasing $P$. If these savings leakages increase over a time period then it directly lowers $V$, so might lower $P$.
 2. Firms hate to raise their prices, they like customer loyalty, so they will always prefer to raise output $Q$ instead of raising prices $P$.
+3. A growing population will having growing output, and demand for that output, so $M$ must increase in this case otherwise prices will decrease.
 
 Firms only raise prices either, (a) when they find they cannot raise their output, or (b) when they have a monopoly, so have not competition, so can greedily just purely price gouge their customers.  A monopolist, as a rough psychological rule, does not care about customer loyalty. 
 Customers have nowhere else to go. 
@@ -138,6 +139,15 @@ People think food producers are also price gouging, but oil is the main input in
 This is one big problem of unregulated capitalism. 
 If left alone, firms pass off costs to consumers, and the poorest consumers are the ones who suffer the most. 
 It is terribly unjust.
+
+**Comment on 3.** obviously a population cannot grow forever. 
+First because the carrying capacity of the land gets pushed up against. 
+But well before that, people do not like having lots of kids if they do not have to, like Japan and New Zealand, we have an inverted demographic situation, meaning *relatively* fewer young people are generating the output for themselves *and* the retirees. 
+Our population however is for now still slowly growing, just less fast than in the past.
+Hence for price stability in NZ we need a growing net money supply, so the NZ government must run deficits (net fiscal injections). 
+
+Or, if we are lucky to happen to see continual drops in our import prices, we can probably live for a while with a low NZ government deficit, but this is not up to discretion of our government. The NZ government deficit will *automatically* be lower, all other things equal, if our import prices are dropping.
+
 
 ### Also, Q is Quantity _Sold_
 
