@@ -56,8 +56,10 @@ That will give Japan the inflation they want, and in a very healthy progressive 
 
 ### A few pithy examples
 
-In quantitative sceicnes it can be useful, for limtied purposes, to consider extremes, the extreme cases tell you what the asymptotics will be, so reveal tail ends of dynamcis. 
-You cannto use asymptotics for shorter run or highly constrianed dynamics.  But the inflation story is one where the asymptotics are good at revealing a few things about the relation between currency issue and prices.
+In quantitative sciences it can be useful, for limited purposes, to consider extremes,
+the extreme cases tell you what the asymptotics will be, so reveal tail ends of dynamics. 
+You cannot use asymptotics for shorter run or highly constrained dynamics. 
+But the inflation story is one where the asymptotics are good at revealing a few things about the relation between currency issue and prices.
 
 Consider fruit prices and house prices.
 
@@ -65,7 +67,8 @@ If the central government handed me a million dollars next pay check ---
 which they can because they can just whip out the computer keyboard at the central bank and type in the numbers, authorized by a nice vote in Congress I bribed them for (extreme case remember) 
 --- I would not be going out buying a million apples, I'd be buying avocados, but only a dozen, since my refrigerator can't keep more than that fresh for long. 
 
-According to austeritricians like Mr Atif Mian](https://youtu.be/7obpebXeAlw?t=973) or any of the other New Keynesians and Neoclassicals, I'd be buying a thousand avocados probably, because I do not know how to manage my money, I need a neoliberal daddy to drip feed me.
+According to austeritricians like Mr Atif Mian](https://youtu.be/7obpebXeAlw?t=973) or any of the other New Keynesians and Neoclassicals, I'd be buying a thousand avocados probably, because I do not know how to manage my money, I need a neoliberal daddy to drip feed me. 
+(Sure, see the sarcasm dripping off the page, but this is the extent of the neoliberal argument for austerity.)
 
 If instead I go and buy a house I get one house. 
 How is that real estate inflation pressure? It isn't. 
