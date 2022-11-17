@@ -54,6 +54,52 @@ The way Japan could get the inflation they want would be to fully employ all Jap
 That will make skilled workers scarce for private firms, which increases the wage bids. 
 That will give Japan the inflation they want, and in a very healthy progressive manner.
 
+### A few pithy examples
+
+In quantitative sceicnes it can be useful, for limtied purposes, to consider extremes, the extreme cases tell you what the asymptotics will be, so reveal tail ends of dynamcis. 
+You cannto use asymptotics for shorter run or highly constrianed dynamics.  But the inflation story is one where the asymptotics are good at revealing a few things about the relation between currency issue and prices.
+
+Consider fruit prices and house prices.
+
+If the central government handed me a million dollars next pay check --- 
+which they can because they can just whip out the computer keyboard at the central bank and type in the numbers, authorized by a nice vote in Congress I bribed them for (extreme case remember) 
+--- I would not be going out buying a million apples, I'd be buying avocados, but only a dozen, since my refrigerator can't keep more than that fresh for long. 
+
+According to austeritricians like Mr Atif Mian](https://youtu.be/7obpebXeAlw?t=973) or any of the other New Keynesians and Neoclassicals, I'd be buying a thousand avocados probably, because I do not know how to manage my money, I need a neoliberal daddy to drip feed me.
+
+If instead I go and buy a house I get one house. 
+How is that real estate inflation pressure? It isn't. 
+If *everyone* gets a free million and goes buying a house, then yep, house prices go up, but avocado prices don't. 
+Relative value stories here.
+
+We already mentioned the farmer and police officer story, that's another one to keep in mind, it's all about relative value. 
+
+When a government issues a bucket-load (really a oil tanker load) of money suddenly the supermarket shelves do bare? 
+I don't think so, households do not have the storage capacity.
+Can other fictional commodities like purely financial assets like stocks and crypto boom in price? Sure, because nothing real backs them, but then it's all ponzi, so you go into those fictional commodity markets are your risk, not the general public risk. 
+No amount of stocks issued by Google is going to collapse the environment.
+
+### Stock prices
+
+The price of a stock is supposed to reflect the real output capacity and sales of a firm. 
+Most stock prices however are driven up by ponzi financing, so it's a gambling game --- who can hold out the longest before the stock price adjusts downwards to reality?
+
+Warren Mosler had a great regulatory rule for eliminating this gambling game. 
+Just limit all stock prices to \$2 per stock, and they can start at \$1 er share.
+If a firm wants to raise more capital they can issue more stock.
+This is after all the only public good use for a stock market. 
+It is to gain investment capital for firms, it is not to generate fake income on a piece of paper for the investors.
+
+Market forces are still then at play, since a firm will to find buyers of their stock if their firm is known to be in sales revenue trouble.
+
+This is also the monopoly story all over again. 
+The firm s the monopoly issuer of their IOU, their stocks. So they can either set the price or fix the quantity and let price float. 
+The sensible option is to fix price and let quantity float.
+
+The investors are protected when the gamble is eliminated. 
+It is pure greed that stock prices are permitted to go up in price without limit based only on psychological ponzi mentality.
+
+
 ## What is the QTM Myth?
 
 The QTM uses an macroeconomic identity:
