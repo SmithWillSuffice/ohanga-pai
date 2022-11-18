@@ -24,7 +24,7 @@ If you have a very sharp mind and keen intelligence you can almost derive answer
 MMT is based on one axiom, one legal reality, and one identity:
 
 1. All economies face real resource constraints.
-2. Currency issuers (usually these are governments or their licenced agents) face no purely financial constraints.
+2. Currency issuers (usually these are governments or their licenced agents) face no purely financial constraints. To learn why this is a legal reality see [What is Money.](../2_what_is_money/)
 3. Sectoral balances sum to zero.
 
 A few supporting definitions and operational realities

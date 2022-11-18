@@ -21,7 +21,7 @@ That's what this article is about.
 
 ## Money is everywhere and always an IOU
 
-From inception, in the earliest records [anthropologist](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years) and [archeologists](https://www.semanticscholar.org/paper/The-Archaeology-of-Money%3A-Debt-versus-Barter-of-Hudson/c8917892e2512ded4e043c4a8717861fb9963123) know about, money has always been a record of accounts: a record of credits and debits. 
+From inception, in the earliest records [anthropologists (e.g. D. Graeber)](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years) and [archeologists (e.g. M. Hudson)](https://www.semanticscholar.org/paper/The-Archaeology-of-Money%3A-Debt-versus-Barter-of-Hudson/c8917892e2512ded4e043c4a8717861fb9963123) know about, money has always been a record of accounts: a record of credits and debits. 
 
 Socially the money forms are IOU's ("I owe you") of the issuers. 
 
