@@ -55,7 +55,6 @@ paginate = 99
       url = '/donations/'
       weight = 6
 
-
 [params]
   
   # Site description
