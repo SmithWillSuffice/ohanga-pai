@@ -49,6 +49,11 @@ paginate = 99
       name = 'Contact'
       url = '/contact/'
       weight = 5
+    
+   [[menu.main]]
+      name = 'Donate'
+      url = '/donations/'
+      weight = 6
 
 
 [params]
