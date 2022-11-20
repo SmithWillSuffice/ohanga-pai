@@ -43,6 +43,11 @@ We model money, asset and labour markets, as roughly three homogenous types of m
 * **Four interest rate** models --- private banks offer a spread on top of central bank rates. So at a minimum a proper monetary model should use four interest parameters, two for the commercial bank rates (governing credit money and term deposits) and two for government bonds (governing fiat currency operations).
 * **Capitalism** models --- these are models where the Private sector is split into three sectors, Banks, Firms and Household, or if you prefer, Bankers, Capitalists and Workers. This is the proper way to conduct a modern Marxist analysis of the class struggle.
 
+**Comment 1.** In two-price models the real estate is a purely speculative finance instrument. This is different to building houses (construction) which is a real cost. 
+A good framework for this (also "beyond MMT") is Steve Keen's plea to factor energy into all production in all macroeoconomic analysis. 
+With that paradigm it is clear construction comes under the real price economy and real estate speculation under the financial asset or rentier sector. 
+One type of future Ōhanga Pai project should be to explore when and why the rentier sector is a pure drag on the economy.
+
 If you have enough computing power then of course defining further class structure can also be valuable for more nuanced class analysis. 
 We all know there is a big difference between households who are in credit to their bank and households who are in debt. 
 If left alone (laissez faire policy) the wealthy household will get wealthier and the indebted households will get poorer --- through no fault of their own!
