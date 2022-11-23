@@ -40,7 +40,7 @@ There is thus no assumption of equilibrium in markets.
 We model money, asset and labour markets, as roughly three homogenous types of market. However, for some analysis more sophistication is required, for example, three basic generalizations are,
 
 * **Two price** models --- financial assets (stocks, bonds, forex trading, non-owner occupied real estate) are in the modern world only very loosely coupled to pricing for real commodities (water, food, electricity,...). A decent macroeconomic model should thus account for at least two general price levels. (A third price is labour, the nominal wage rate, but Keen-Goodwin models already have separate governing equations for wages.)
-* **Four interest rate** models --- private banks offer a spread on top of central bank rates. So at a minimum a proper monetary model should use four interest parameters, two for the commercial bank rates (governing credit money and term deposits) and two for government bonds (governing fiat currency operations).
+* **Four interest rate** models --- private banks offer a spread on top of central bank rates. So at a minimum a proper monetary model should use four interest parameters, two for the commercial bank rates (governing credit money and term deposits) and two for government bonds (governing fiat currency operations, i.e., the corridor).
 * **Capitalism** models --- these are models where the Private sector is split into three sectors, Banks, Firms and Household, or if you prefer, Bankers, Capitalists and Workers. This is the proper way to conduct a modern Marxist analysis of the class struggle.
 
 **Comment 1.** In two-price models the real estate is a purely speculative finance instrument. This is different to building houses (construction) which is a real cost. 

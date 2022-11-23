@@ -16,7 +16,6 @@ paginate = 99
   unsafe = true # Allow HTML in md files
 
 
-
 [markup.highlight]
   # To make use of the custom Chroma, this should be false
   # The default is true
@@ -191,7 +190,7 @@ paginate = 99
   [params.notFound]
     title         = "Page not found"
     description   = "This page was not found."
-    paragraph     = "Nothing to see here, buddy."
+    paragraph     = "Nothing to see here, buddy. I might be still drafting this page?"
     
   #[params.social.centralized]
     #facebook      = [ "<username>", "Zuckerburg" ]

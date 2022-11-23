@@ -21,4 +21,4 @@ It is a theory and philosophy project, so mostly educational.
 You may use the theme buttons at the bottom of the pages to choose colors 
 for your viewing pleasure.
 
-**For Ko-fi donations I am [Achrononmaster.](https://ko-fi.com/achrononmaster/)**
+**For Ko-fi donations I am [Achrononmaster \@ Ko-fi.](https://ko-fi.com/achrononmaster/)**
