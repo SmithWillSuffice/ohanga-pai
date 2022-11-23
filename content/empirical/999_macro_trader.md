@@ -1,5 +1,5 @@
 ---
-title: "Macro Trading"
+title: "Macro Trading 1 - Intro"
 description: ""
 date: 2022-10-01
 lastmod: 2019-10-01
@@ -25,7 +25,12 @@ does a terrific job of using Bayesian models and MMT fiscal flow analysis to get
 There are other MMT traders, like the hedge fund managers at Mosler's old company, 
 but they do not discuss their work on social media, so I will instead be focusing 
 on Doug's work. 
-One of the experts, [Shanjiv Sharma,](https://www.linkedin.com/in/sanjiv-sharma-93443b36/) at Mosler's old firm AVN/III, and now Naila Inc., gives a talk on his modelling in the UMKC Conference here [MMT and Real World Financial Market Practitioners](https://www.youtube.com/watch?v=N8FhDsuJnvk) but it's insufficient to figure out how exactly he uses MMT, 
+One of the experts, [Shanjiv Sharma,](https://www.linkedin.com/in/sanjiv-sharma-93443b36/) 
+at Mosler's old firm AVN/III, and now at 
+[Naila Inc.,](https://www.linkedin.com/in/sanjiv-sharma-93443b36/) 
+gives a talk on his modelling in the UMKC Conference here 
+[MMT and Real World Financial Market Practitioners](https://www.youtube.com/watch?v=N8FhDsuJnvk) 
+but it's insufficient to figure out how exactly he uses MMT, 
 he just says he does, and points to some principles and some chart results.
 (By the way, Shanjiv was at Lehman Brothers prior to 1995, and saw the rot there! Just sayin').
 
@@ -34,7 +39,7 @@ ethical playing of the [Negative Sum game](https://medium.com/@shashikantsharma_
 so only a few winners prosper). 
 Note that stock and options trading is prime facie a Zero Sum Game, 
 but the brokerage and transactions and tax fees  make it irreducibly a 
-Negative Sum game (there can be winners, but they'll be more losers in raw dollar terms).
+Negative Sum game (there can be winners, but there'll be more losers in raw dollar terms).
 
 
 But I respect Douglas. He knows the score, and any market gains he makes are at 
@@ -95,7 +100,7 @@ fixed-income market, but the most commonly traded are government or corporate bo
 
 This is what AVN/III were trading.
 
-### WHat is relative value trading?
+### What is relative value trading?
 
 I can read this and not really know what it means, because "what is risk?" 
 But anyway...
