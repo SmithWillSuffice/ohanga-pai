@@ -67,7 +67,7 @@ fiscal capacity to fully employ all labour. So the social impact of financial
 trading is not inherently parasitic, what's parasitic is the rentier sector 
 profiting off workers. 
 
-Basic S&P trading is not that, at worst it profits form pension managers 
+Basic S&P trading is not that, at worst it profits from pension fund managers 
 who are stupid and are gambling away future retiree pensions. 
 That's what is rentier, and I am fundamentally philosophically ethically 
 opposed to that sector existing.
