@@ -266,8 +266,33 @@ And sometimes moderate inflation is necessary to keep the lowest real wage risin
 Why?
 
 Full employment ensures the real wage is the highest possible, all other things being equal. Provided the full employment is in non-bullsh$\ast$t jobs. 
-Full employment (in non-bullsh$\ast$t jobs) tends to imply moderate inflation, because there is always some residual job seeking friction. 
+Full employment (in non-bullsh$\ast$t jobs) tends to imply moderate inflation, because there is always some residual job seeking friction, even with an MMT style Job Guarantee policy running well. 
 That's why inflation *per se* is not inherently evil.
+
+Although, to be honest, I would say the Job Guarantee is not quite running well enough 
+if there is residual inflation. But in any case, moderate inflation is healthy 
+because it directly reduces the purchasing power of hoarded wealth, 
+and it is the hoarders who are not playing fair in a monetary system.
+
+By "hoarders" I do not mean "savers." Families saving for planned future 
+big purchases are not hoarders, they have every right to be permitted to save, 
+and not get too big an inflaton hit.
+To help savers banks offer term deposits at roughly the going inflation rate, 
+so savers, in most nations today, are not really running many risks.
+
+But to the banks there is little difference between a saver and a hoarder, 
+I mean they don't really know the difference.
+So the term deposit mechanism does unfortunately also benefit hoarders. 
+This is why we cannot generally rely upon the circuit theory of money (endogenous money) 
+for a fair and just economic system. There generally has to be a monopoly net issuer 
+of currency to make up for the leak in currency circulation due to *both* savers and 
+hoarders. 
+And that net issuing institution is government. And their net currency add is 
+called "the deficit". It's a good thing overall that it increases with the increase in 
+the population size, and that is completely natural.
+
+> A growing population is expected to *need* a growing money supply.<br>
+--- Warren Mosler.
 
 
 [Next chapter (Deficit Myths)](../5_deficit_myths)  
