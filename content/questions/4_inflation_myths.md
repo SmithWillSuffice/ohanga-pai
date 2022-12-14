@@ -20,7 +20,32 @@ It is imprecisely measured by indicators like the CPI (consumer price index, a w
 
 If you think "yes," then you have succumbed to the Quantity Theory of Money (QTM) myth. 
 
-The *reality* is that never in all recorded history have government deficits caused hyperinflations.
+Note that the QTM identiy is an equation that expresses and identity, so it is not wrong. 
+The rate of circulation of currency $MV$ is equal identically to quantity of goods 
+produced $Q$ that get sold at the "price level" $P$, so $MV=QP$. 
+
+The myth is that raising $M$ causes a rise in $P$. This Austrian School and Neoclassical 
+story is obviously false. Most firms will *try* to raise $Q$ before their particular $P$, 
+so in aggregate we hardly ever get pressure on the *general* price level at the 
+macroeconomic level form just a rise in the money stock $M$. 
+Also, a rise in money stock gets roughly 20% saved, so not spent, so is not adding 
+anything to price pressure. 
+Finally, even if everyone spent all their income, why would the price $P$ necessarily 
+go up if firms can meet the demand (again, by raising $Q$ by hiring more labour or 
+bringing online idle machine capacity). 
+
+It is only when firms cannot *easily* raise $Q$ that they feel a pressure to mark-up their prices 
+(due to various effects, not the least of which is wanting to retain customers), 
+and even *then* this has to happen wholesale throughout the entire economy to get 
+general price level inflation, and that is rare. Only wars, famine, and plagues tend 
+to cause a general supply shortage, or, the perennial problem, the supply of raw energy 
+(oil mainly) which explains most, if not all, of the inflations of the 1970's and early 80's, 
+and quite a significant fraction of the post-COVID inflation.
+If I get around to it we will later do some empirical work to validate this hypothesis 
+against the alternate that the post-COVID inflation was caused by profligate government spending.
+
+The *reality* is that never in all recorded history have government deficits caused 
+hyperinflations.
 The causality has always been the reverse:
 
 > The cause of all hyperinflations, everywhere, have been supply shock events, like war, war reparations, pestilence, drought or famine and plagues.
@@ -32,23 +57,34 @@ But the *cause* is the supply shock (cost-push), not the governments non-discret
 There is a good analysis about this direction of causation for the case of [Weimar Germany here.](https://gimms.org.uk/wp-content/uploads/2020/11/Weimar-Republic-Hyperinflation-through-a-Modern-Monetary-Theory-Lens.pdf)
 
 However, 
-1. such inflation is indefinitely sustainable.
+1. such inflation is indefinitely sustainable${}^\ast$ 
 2. The fix to stop the inflation is to eliminate the source of the supply shock.
+
+${}^\ast$ unless the government is promising redemption in gold bullion for it's tax credit, 
+or for water, or pizza,... which the government cannot promise forever to deliver, 
+so generally governments no longer promise such redemption, and instead will 
+tick off your tax payment instead as the redemption.
 
 So the currency inflation is a natural reaction event. 
 The supply shock source is what needs to be corrected, not the monetary inflation.
 
 Once supply chains and goods supplies are restored, the hyperinflation always stops dead. 
 
-Remember, inflation is a continual increase in the price level. 
+Remember, inflation is a *continual* increase in the price level. 
 It is extremely hard for a government to keep inflation going, even if it wanted to, because if supply is good people don't just take money issued by their government and go out and eat more or travel more. 
 There are physiological limits to what people can do!
 
 Since the mid 1990's the Japanese government has desperately been trying to get [inflation in yen prices](https://tradingeconomics.com/japan/inflation-cpi) above 2%. 
-They keep failing! (Until COVID did it for them.)
+They keep failing! (Until COVID did it for them, not the way they wanted.)
 
 Any MMT economist could show them how to get the inflation they want, but the point is that even governments that want more inflation find it difficult to get any. 
 If you give people who already are eating enough and have shelter more money, they tend to save it, so in that case you cannot get any inflation *just* by raising the government deficit. 
+
+There might even be evidence to the contrary: that when governments spend more, 
+provided it is functionally targeted to good investments in real resource supply, 
+the prices drop, because the government is offsetting the need for bank credit, 
+and providing for good productive jobs at the same time. 
+It is another empirical project for Ōhanga-Pai to dig into this causal relationship.
 
 The way Japan could get the inflation they want would be to fully employ all Japanese workers, and give them decent living wages. 
 That will make skilled workers scarce for private firms, which increases the wage bids. 
@@ -59,15 +95,20 @@ That will give Japan the inflation they want, and in a very healthy progressive 
 In quantitative sciences it can be useful, for limited purposes, to consider extremes,
 the extreme cases tell you what the asymptotics will be, so reveal tail ends of dynamics. 
 You cannot use asymptotics for shorter run or highly constrained dynamics. 
-But the inflation story is one where the asymptotics are good at revealing a few things about the relation between currency issue and prices.
+But the inflation story is one where the asymptotics are good at revealing a 
+few things about the relation between currency issue and prices.
 
 Consider fruit prices and house prices.
 
 If the central government handed me a million dollars next pay check --- 
-which they can because they can just whip out the computer keyboard at the central bank and type in the numbers, authorized by a nice vote in Congress I bribed them for (extreme case remember) 
---- I would not be going out buying a million apples, I'd be buying avocados, but only a dozen, since my refrigerator can't keep more than that fresh for long. 
+which they can because they can just whip out the computer keyboard at the 
+central bank and type in the numbers, authorized by a nice vote in Congress I bribed 
+them for (extreme case remember) --- I would not be going out buying a million apples, 
+I'd be buying avocados, but only a dozen, since my refrigerator can't keep more than 
+that fresh for long. 
 
-According to austeritricians like Mr Atif Mian](https://youtu.be/7obpebXeAlw?t=973) or any of the other New Keynesians and Neoclassicals, I'd be buying a thousand avocados probably, because I do not know how to manage my money, I need a neoliberal daddy to drip feed me. 
+According to austeritricians like [Mr Atif Mian](https://youtu.be/7obpebXeAlw?t=973) 
+or any of the other New Keynesians and Neoclassicals, I'd be buying a thousand avocados probably, because I do not know how to manage my money, I need a neoliberal daddy to drip feed me. 
 (Sure, see the sarcasm dripping off the page, but this is the extent of the neoliberal argument for austerity.)
 
 If instead I go and buy a house I get one house. 
@@ -75,11 +116,23 @@ How is that real estate inflation pressure? It isn't.
 If *everyone* gets a free million and goes buying a house, then yep, house prices go up, but avocado prices don't. 
 Relative value stories here.
 
+However, in time the avocado prices should go up because the avocado growers notice 
+selling 12 tonnes of avocado a year no longer buys them a house or mortgage payment, 
+so the house prices should eventually cause a general increase in the price level.
+But there is a quicker way, which would be to make energy more scarce, 
+since energy is a far more basic important input into all production, 
+so unlike house prices, energy price shocks directly cause pretty general inflation events. 
+
+But *even then* it is difficult for government spending to keep the inflation going. Once the suppliers catch up with demand, is the government going to just pay ever more and more for electricity? No. The inflation event stops when the supply pressure eases, or when alternative supply is created (innovation and whatnot). 
+No government ever decides to just issue more currency to bid up prices for no reason 
+(except maybe for boondoggles, pork barrels, and military spending corruption, 
+which I guess counts as unnecessary and yet does happen).
+
 Below under [The QTM Myth](#what-is-the-qtm-myth) I'll use another example, the farmer and police officer story, that's another one to keep in mind, it's all about relative value. 
 
-When a government issues a bucket-load (really a oil tanker load) of money suddenly the supermarket shelves go bare? 
-I don't think so, households do not have the storage capacity.
-Can other fictional commodities like purely financial assets like stocks and crypto boom in price? Sure, because nothing real backs them, but then it's all ponzi, so you go into those fictional commodity markets are your risk, not the general public risk. 
+When a government issues a bucket-load (really an oil tanker load) of money suddenly the supermarket shelves go bare? 
+I don't think so.  Households do not have the storage capacity.
+Can other fictional commodities like purely financial assets like stocks and crypto boom in price? Sure, because nothing real backs them, but then it's all ponzi, so you go into those fictional commodity markets at your own risk, not the general public risk. 
 No amount of stocks issued by Google is going to collapse the environment.
 
 ### Stock prices
@@ -88,15 +141,15 @@ The price of a stock is supposed to reflect the real output capacity and sales o
 Most stock prices however are driven up by ponzi financing, so it's a gambling game --- who can hold out the longest before the stock price adjusts downwards to reality?
 
 Warren Mosler had a great regulatory rule for eliminating this gambling game. 
-Just limit all stock prices to \$2 per stock, and they can start at \$1 er share.
+Just limit all stock prices to $\text{\\$2}$ per stock, and they can start at $\text{\\$1}$  per share.
 If a firm wants to raise more capital they can issue more stock.
 This is after all the only public good use for a stock market. 
 It is to gain investment capital for firms, it is not to generate fake income on a piece of paper for the investors.
 
-Market forces are still then at play, since a firm will to find buyers of their stock if their firm is known to be in sales revenue trouble.
+Market forces are still then at play, since a firm will not find buyers of their stock if their firm is known to be in sales revenue trouble.
 
 This is also the monopoly story all over again. 
-The firm s the monopoly issuer of their IOU, their stocks. So they can either set the price or fix the quantity and let price float. 
+The firm is the monopoly issuer of their IOU, their stocks. So they can either set the price or fix the quantity and let price float. 
 The sensible option is to fix price and let quantity float.
 
 The investors are protected when the gamble is eliminated. 
