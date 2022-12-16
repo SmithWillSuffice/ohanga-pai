@@ -27,7 +27,7 @@ MMT is based on one axiom, one legal reality, and one identity:
 2. Currency issuers (usually these are governments or their licenced agents) face no purely financial constraints. To learn why this is a legal reality see [What is Money.](../2_what_is_money/)
 3. Sectoral balances sum to zero.
 
-A few supporting definitions and operational realities
+A few supporting definitions and operational realities:
 * **Real resources:**  material goods, workers, capital machinery, natural re-sources, water, sunlight, land,...
 * **Fiat currency:** a unit of account for issuing or settling debts. Normally a single economic region issues only one fiat currency and it is defined as "that which is accepted for redemption of tax liabilities, fees or fines of the state." The most efficient modern forms of fiat currency are electronic digits in a bank account, which is indeed the most common form of NZD currency. 
 * **Bank reserves:** banks use reserve accounts (held at the central bank) to facilitate payments clearing. Bank reserves are not used to make loans, nor are deposits. In fact, deposits are liabilities of a bank, and debts owed by customers are the bank’s assets. Reserve accounts are just spreadsheets at the central bank and are for payments clearing operations.
