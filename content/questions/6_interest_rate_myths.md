@@ -11,7 +11,7 @@ katex: true
 ---
 
 This is one of the more contentious chapters. The MMT lens suggests the 
-inflation rate **_is_* the interest rate, or at least a high enough 
+inflation rate **_is_** the interest rate, or at least a high enough 
 interest rate will equal the inflation rate.
 But not all MMT informed economists would agree, and that is pretty much only 
 because the econometric data analysis is inconclusive. However, we are working 
@@ -31,7 +31,7 @@ It feeds interest income to people who already have money, fueling the economy a
 but crushes the poor who are reduced to buying food on credit cards.
 
 The instability of high interest rates is thus more a social instability. 
-The purely monetary nominal inflation cna e sustained for ever, but the debt burden 
+The purely monetary nominal inflation can be sustained for ever, but the debt burden 
 faced by the poor cannot. 
 They will either die or file for bankruptcy and thus incur all the downstream costs 
 of having filed for bankruptcy (credit downgrades, lose of houses, and all that).
@@ -41,25 +41,38 @@ upwards adjustment. The discipline has to be on real resource rationing and
 fine sand taxes on unnecessary pollution, waste, fraud and corruption. The latter 
 methods of discipline hit the rich the harder, but never unfairly.
 
+## It is not easy to prove the myth is false
 
-## Proving Interest Rates Hikes are Pro-Inflationary
+The reason this is not so simple to prove is because prices are given in 
+per-sector data, and prices in any given sector will not track one-to-one 
+changes in the *general price level*. And what is the "general price level"? 
+It is set by government policy --- the issuer tells you what you need to do 
+to get their IOU.  But no one knows how to compute it very precisely, since 
+government pricing policy is a total mish-mash of confusion about what capacities 
+the government thinks it has, or does not have. So people use metrics like the 
+CPI index, which is not a very accurate measure of the general price level.
+So it is difficult to extract the proof that the 'interest rate is the 
+inflation rate' from metrics like the CPI.
+
+## Proving Interest Rate Hikes are Pro-Inflationary
 
 We are working on this for the case of New Zealand. But for a few cases 
 Richard Werner has already done some of the analysis. In his paper 
 [Reconsidering Monetary Policy: An Empirical Examination of the Relationship Between Interest Rates and Nominal GDP Growth](https://www.sciencedirect.com/science/article/pii/S1057521915001477)
-Werner shows that for the UK, USA, Germany and Japan.
+Werner shows that for the UK, USA, Germany and Japan:
 
 > In 6 out of 8 cases the hypothesis that "*low interest rates cause economic growth*" can be **_rejected._** 
 
 This goes against the grain of about 95% of all economics analysis by the 
 major schools of thought for over 200 years.
-Yet it is fully in accord with the MMT lens. Hihg interest rates add to 
+Yet it is fully in accord with the MMT lens. High interest rates add to 
 bank reserves whenever the government Treasury issue is above about 50% of GDP.
 The reason? When government Treasury bill issue is above 50% of GDP the 
-government is a huge net payer of interest, which prevailing tax return cannot drain.
+government is a huge net payer of interest, which prevailing tax return 
+cannot fully  drain.
 
-Yes, it is highly regressive stimulus, and it is basic income but only for people 
-who already have money, but it is a stimulus nonetheless.
+Yes, it is highly regressive stimulus, and it is *basic income but only for people 
+who already have money*, but it is a stimulus nonetheless.
 MMT people do not advocate for this type of stimulus, and would prefer the 
 central bank interest rate to be dropped to zero.
 
@@ -109,7 +122,7 @@ This advocacy sounds good to us, but to be credible we will need to show that
 the low interest rates are not a stimulus, and the high rates are a stimulus 
 under certain conditions, but in a terrible socially unjust way.
 We can do this by looking at how the lags and leads in the time series go, 
-using Grange Causality tests, and if possible by looking at rate of change 
+using Granger Causality tests, and if possible by looking at rate of change 
 of household debt/credit by income levels, if the data has been published.
 
 
