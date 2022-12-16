@@ -194,13 +194,13 @@ But they run our government.
 
 ## The NAIRU Myth
 
-The NAIRU (Non-Accelerating Inflation Rte of Unemployment) is a fictional concept 
-that a Kiwi engineer named Bill Phillips is credited with "discovering". 
+The NAIRU (Non-Accelerating-Inflation Rate of Unemployment) is a fictional concept 
+that a Kiwi engineer named Bill Phillips is credited with "discovering."
 This NAIRU is manifested in what is known as the *Phillips Curve.* 
 
 This is a curve plotting unemployment ($x$ axis) against inflation $y$ axis). 
 Phillips showed that if import prices are relatively stable, and labour wage bids 
-are effective, then te private sector cannot reach full employment without 
+are effective, then the private sector cannot reach full employment without 
 accelerating inflation (they need to raise prices continually to afford the ever 
 higher wage demands). the workers will demand the wages because the prices rise.
 
