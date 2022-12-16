@@ -40,7 +40,7 @@ Treasury bonds are functionally like government guaranteed bank term deposits, t
 Cash and bank deposits that are not being spent are demand leakages, so are not causing inflation, and thus not causing any higher tax return. 
 
 The government does not need to take back this cash and those bank deposits.
-The government has already issued t=he money that was used to buy bonds 
+The government has already issued the money that was used to buy bonds 
 (it was formerly cash or bank deposit, swapped now for an interest bearing Treasury security).
 
 Most people think of "national debt" as only the Treasury bonds --- why? 
@@ -81,6 +81,7 @@ I already gave the one-liner on [Ricardian Equivalence.](https://en.wikipedia.or
 The idea is that government deficits are "not stimulus," because increasing the money supply 
 (which is what a net government deficit does) will just increase prices, 
 if no taxes are raised, so the purchasing power of the extra dollars lowers to adjust to the status quo, and the net effect is just a temporary disruption in the market.
+That's the idea of Ricardian Equivalence. It is a false idea.
 
 The popular economics reasoning behind Ricardian Equivalence is a deification of the average person with market power (someone who has a lot of currency): 
 which is that they take a look at the government deficit, and factor this into their consumption choices: to hold on to cash or to spend.
@@ -109,6 +110,18 @@ The tax "pay for" is automatic, as per Mosler's 7th of the Seven Deadly Frauds.
 Governments get the war time stimulus needed without needing to raise taxes, provided the existing tax rate is progressive.
 
 In major wars, like WW-2, governments typically have to do a bit more than rely on automatic stabilising tax return, they typically need to withdraw demand from the sectors that the war effort is borrowing real resources from, such as labour, non-war machinery production (automobiles, and other equipment) and oil. 
+The point is not to deprive the economy of those goods, but rather to shift them away 
+from private sector production into the war effort production.
+
+You do not have to agree that this is a god type of stimulus! That all depends on 
+the reason and cause and justification for the war effort (usually there is no moral 
+justification, unless it is purely defensive).
+
+Yet everything just said can also apply to non-war effort, like greening the 
+energy sector of the economy or providing free healthcare and education. The 
+perennial war on ignorance. Governments almost always out-bid the private sector for 
+hiring of teachers, but not well-enough, there are still plenty of useful 
+teachers who remain under-employed (which can mean simply under-paid).
 
 The governments withdraw this demand with a mix of polices, some fees, a lot of war bonds, and a lot of rationing, and some price fixing along with subsidies.
 So there is a weak Ricardian effect here, but it is not anything any rational agent can foresee, since no one knows when a war will end.
@@ -136,7 +149,7 @@ It is, therefore, only from the third factor that we can expect the initial majo
 
 Euro economist [Dirk Ehnts](https://econoblog101.wordpress.com/2018/03/22/discussion-with-ben-fine-about-keynes-and-keynesianism/) put it like this:
 
->  A bit further down the text Keynes says that monetary policy should aim at "maintenance of cheap and abundant credit and in particular the reduction of the long-term rates of interest." Clearly Keynes thinks about combinations of interest rates and levels of government spending that lead to full employment, but it is government spending that is of utmost importance
+>  A bit further down the text Keynes says that monetary policy should aim at "maintenance of cheap and abundant credit and in particular the reduction of the long-term rates of interest." Clearly Keynes thinks about combinations of interest rates and levels of government spending that lead to full employment, but it is government spending that is of utmost importance.
 
 Another way to put this is that government net spending provides the collateral whereby firms *in the macro* can be confident bank credit they use for investment can be paid back by households without a private sector debt-deflation collapse.
 
