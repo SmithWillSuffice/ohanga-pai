@@ -85,7 +85,7 @@ To understand more about this, first let's define,
 
 What *p*-MMT does for us --- and here I'm speaking about the policy side, that policy 
 which is well-informed by the MMT framework --- is that the vision of both Marx and 
-Keynes is already possible.  We could have today a three hour work week, with little 
+Keynes is already possible.  We could have today a three day work week, with little 
 decline in standard of living, and enormous cuts in power consumption (energy use is 
 not the problem for the environment, it's our rate of energy consumption that's the 
 problem, energy/time = power).
@@ -97,7 +97,7 @@ Got it?
 
 So MMT shows us *how* to realize the vision of Keynes and Marx.
 
-Keynes wrote that the human dignified work week could be reduced to around three hours. 
+Keynes wrote that the human dignified work week could be reduced to around three days. 
 Leaving people more time for leisure and getting along with their family.
 Marx and Engels wrote it in a slogan: 
 *From each according to their ability, to each according to their needs.*
@@ -115,48 +115,70 @@ You want some colour injected into this art.
 
 ### Work as worship
 
-What this all means I take from the [Baháʼí Writings](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-aqdas/13#810736036) (do not read that reference if you're anti-religion, if you think you have a decent sense of economic justice you won't need to read it).
-((Of course, if you have a decent sense of economic justice you really are "religious" in the non-denominational sense at least. *Justice* being an idealist's spiritual virtue.))
+What this all means I take from the [Baháʼí Writings](https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-i-aqdas/13#810736036) 
+(do not read that reference if you're anti-religion, if you think you have a 
+decent sense of economic justice you won't need to read it).
+((Of course, if you have a decent sense of economic justice you really are 
+"religious" in the non-denominational sense at least. *Justice* being an 
+idealist's spiritual virtue.))
 
-(**Aside:** for what it's worth, the above Baháʼí excerpt cited is as spiritual a view of the MMT Job Guarantee policy as I've read anywhere. 
+(**Aside:** for what it's worth, the above Baháʼí excerpt cited is as spiritual 
+a view of the MMT Job Guarantee policy as I've read anywhere. 
 It's an example of what I mean by going beyond MMT.) 
 
-We can elevate in class consciousness work done in the service of humanity as a form of living akin to worship. 
+We can elevate in class consciousness work done in the service of humanity 
+as a form of living akin to worship. 
 The Baháʼí canonical Writings make this elevation. 
 Something socialists have failed to grok.
 
-We are however, crucially, no longer talking about wage-slave labour, make-work, or any of that gross sh*t (excuse the profanity any Baháʼí readers). 
+We are however, crucially, no longer talking about wage-slave labour, make-work, 
+or any of that gross sh*t (excuse the profanity any Baháʼí readers). 
 No.  What we are talking about is *useful* and *dignified* work. 
 Not "a job" but more "a life."
 A vocation, a craft, a profession, a skill, performed in service to humanity.
-We're talking about things such as writing awesome pop songs, or just the lyrics, or that more sublime thing that Radiohead do.
+We're talking about things such as writing awesome pop songs, or just the lyrics, 
+or that more sublime thing that Radiohead do.
 
-We're also talking janitors, farmers, nurses and teachers, as the top wage workers, because they're the most important people in society (this is not an exhaustive list). 
-They do not have to work more than three hours a day, if we have enough people who know janitorial work is dignified work then three hours a day aught to do it. 
+We're also talking janitors, farmers, nurses and teachers, as the top wage workers, 
+because they're the most important people in society (this is not an exhaustive list). 
+They do not have to work more than three hours a day, if we have enough people 
+who know janitorial work is dignified work then three hours a day aught to do it. 
 (Clean up your room yourself you other lobsters.)
 
 What we do **not** want to fetishsize is the wage form of work. 
-The reason we should want to work is for the service, not the wage. The wage should be decent and reciprocal --- that's why the janitors and waste care workers should get the highest wages. So we're no longer speaking about capitalism my dudes.
+The reason we should want to work is for the service, not the wage. 
+The wage should be decent and reciprocal --- that's why the janitors and 
+waste care workers should get the highest wages. So we're no longer speaking 
+about capitalism my dudes.
 Or at least we are talking about a greatly expanded and salary enriched public service sector.
-Pay them decent wages and we'll have too many of them turning up, so some will need to be rejected and go back to writing pop songs.
+Pay them decent wages and we'll have too many of them turning up, so some will 
+need to be rejected and go back to writing pop songs.
 
-
-By the way, by nature, science geeks and pop music writers will have to be permitted to work more than three days a week. 
-So at the same wage rate as a janitor or teacher they'll get a higher gross annual salary perhaps. If they want the extra work hours.
+By the way, by nature, science geeks and pop music writers will have to be permitted 
+to work more than three days a week. 
+So at the same wage rate as a janitor or teacher they'll get a higher gross annual 
+salary perhaps. If they want the extra work hours.
 
 If you've ever been a song writer, or science geek, you'll know what I mean. 
-These people cannot be restrained to three days a week, they'd consider that barbaric and intolerable. 
+These people cannot be restrained to three days a week, they'd consider that 
+barbaric and intolerable. 
 The work time-energy for a scientist is not definable. 
-They just do science, you cannot sop them. They do it in their sleep. 
-The principle in a decent civilized society is to leave the scientists and artists alone if they want to work (with professional lab supervisors, so they do not sink the planet into a laboratory black hole). 
-As long as they're not doing anything stupid, entirely useless, or illegal, let them do science in freedom.
+They just do science, you cannot stop them. They do it in their sleep. 
+The principle in a decent civilized society is to leave the scientists and artists 
+alone if they want to work (with professional lab supervisors, so they do not sink 
+the planet into a laboratory black hole). 
+As long as they're not doing anything stupid, entirely useless, or illegal, 
+let them do science in freedom.
 
 Who decides what is "useless science"? 
 
-This is pretty impossible to completely answer, people thought electricity was useless, and Faraday's only retort was, "*Yes, but someday the government will tax it.*"
-Which was a clever retort, because it contained the implicit wisdom that he knew electricity was going to be incredibly useful, he just did not know how.
+This is pretty impossible to completely answer, people thought electricity was useless, 
+and Faraday's only retort was, "*Yes, but someday the government will tax it.*"
+Which was a clever retort, because it contained the implicit wisdom that he knew 
+electricity was going to be incredibly useful, he just did not know how.
 
-The answer is that we, the demos, get to decide what is useful science research. We might get it badly wrong. 
+The answer is that we, the demos, get to decide what is useful science research. 
+We might get it badly wrong. 
 But so what? 
 Public science labs can always be permitted some freedom to do useless research. 
 We used to call it "blue sky research". 
@@ -164,10 +186,14 @@ Sometimes it is fraudulent and wasteful, but we eventually figure that out and s
 (The Superconducting Supercollider (SSC) in Texas.)
  
 (**Aside:** actually the SSC was *not* useless science. 
-The administrators were the frauds, miss-using the government funds, throwing wild parties, and whatnot. 
+The administrators were the frauds, miss-using the government funds, throwing wild parties, 
+and whatnot. 
 Congress rightly shut the SSC down, and the physicists wept. 
-However, Congress were briefed on the scientific merit and importance of the SSC, they just could not figure out a way to tame the bureaucratic administrators, because... you know... they were neoliberals. 
-The lesson was for the physicists: your public purpose job is not just "do physics" you have a moral and ethical responsibility too.)
+However, Congress were briefed on the scientific merit and importance of the SSC, 
+they just could not figure out a way to tame the bureaucratic administrators, 
+because... you know... they were neoliberals. 
+The lesson was for the physicists: your public purpose job is not just "do physics" 
+you have a moral and ethical responsibility too.)
 
 ### Anti-inflation: "run the economy hot""
 
@@ -176,7 +202,7 @@ The scholar Sam Levey wrote a nice article about bullsh-t jobs: *[To Fight Bulls
 This principle is well-known to Keynesian economists (the proper sort, not the fake chaps called New Keynesians who think they know Keynes but bastardize the great man).
 
 If you want to squeeze employers and force them to compete for workers, keeping the real wage high, then you need some inflation. 
-But the inflation needs to be demand-driven from the base. It's no good if supply of goods is artificially constrained (a very stupid form of austerity no one subscribes to, not even neoliberals (or perhaps green fascists do?)).
+But the inflation needs to be demand-driven from the base. It's no good if supply of goods is artificially constrained (a very stupid form of austerity no one subscribes to, not even neoliberals (or perhaps green fascists do?).
 
 Inflation is not a single type of phenomenon, you see. 
 Inflation can happen in many ways, some for the good (wage-led or demand-pull), some for the bad (supply-led or cost-push).
@@ -185,7 +211,7 @@ Here's the trick though: not only does moderate demand-pull inflation help squee
 
 What that means is that when workers are fully employed in non-bullsh*t jobs, we've maximised useful production capacity. 
 The nominal (currency) inflation is then irrelevant, it can be continued indefinitely, since the currency unit is fiat it is not something a society can ever "run out of."
-We can run out of real resources. 
+We *can* however run out of real resources. 
 
 Nominal inflation (defined as rate of change in *how much stuff 1 unit of currency can purchase*) is thus not necessarily of any concern. 
 What *matters* for economic justice is *real inflation* --- which is defined as rate of change in  *how much stuff your entire annual income can purchase.*
@@ -194,6 +220,71 @@ What *matters* for economic justice is *real inflation* --- which is defined as 
 
 This is regardless of what happens to the nominal wage (which is correlated with CPI inflation,  a largely non-important metric if taken out of real wage context). 
 
+
+### Equivalence to Gesell Currency
+
+In early 1930's Austria, the town of Wörgl was suffering severe unemployment amidst 
+national austerity. They had heard of Silvio Gesell, and figured it worth a shot to 
+use Gesell's system, which was to issue their own local currency, 
+which was a labour certificate. The town council stamped the certificates.
+Anyone could earn any number of these certificates. And they were redeemed for 
+both local and national tax payments. 
+
+The critical thing was the stamp was a timestamp, and the face value of the 
+certificate (what it was able to redeem) would decrease over time with a simple 
+formula anyone could work out, 12% per annum${}^\ast$, but continuously. 
+So the certificate today was worth more at the local shop than it would be in a week. 
+This meant people would not hoard their currency, they would spend it, 
+or more rapidly redeem their tax liabilities if they earned more than they 
+needed for a month's groceries and whatnot.
+
+${}^\ast$They were totally into the experiment zealously, you can tell, 
+since why not make it 10%?!!!
+
+In amazing solidarity for Austrians (that's a joke) the whole town agreed to the system. 
+The result was full employment and relatively high prosperity compared to the surrounding 
+Austrian country.
+
+Critics have since argued this could never scale. But they have zero proof a 
+Gesell currency could not work nationally. The problem is it worked too well. 
+The Austrian Central Bank shut down the  Wörgl experiment by force of law.
+After all, Wörgl was creating a potential exchange rate situation with the rest 
+of Austria, the Wörgl labour certificate was appreciating against the 
+Austrian schilling even as it was continually devaluing locally by design.
+
+(Similar to the way the UMKC Buckeroo has been appreciating against the USD for 
+over a decade.)
+
+Gesell currency is still misunderstood to this day by neoclassicals. 
+[One of them (here)](https://www.researchgate.net/publication/225504419_The_effects_of_'Gesell'_Currency_taxes_in_promoting_Japan's_economic_recovery) 
+advocates Japan can use a Gesell currency --- in the form of negative 
+interest rate --- to get the inflation they seek. Complete idiot!
+
+First, low interest rates are deflationary${}^\ast$, so in driving their JCB rate to zero 
+Japan are promoting anti-inflation. Second, if they raised their JCB interest rate 
+it would promote inflation but only be enriching people who already have money.
+
+${}^\ast$More technically, a zero interest rate should be par, so neither 
+deflationary nor inflationary, but machine automation and other tech 
+advances tend to raise the productivity of labour and lower energy production 
+costs more or less continuously.
+This means the zero interest rate has a deflationary effect over time because 
+we hardly ever lower the wage bill, so we end up emitting the same wages for 
+lower human time input but higher actual gross output. So that's deflationary: 
+the unit wage acquires more *real* purchasing power.
+
+The purpose of the Gesell currency is not to generate inflation 
+(making the currency like a hot potato) it is to promote full non-bullsh*t job employment. 
+
+The Gesell currency does not suffer inflation. The labour certificate is worth an 
+hour of public duty work at all times.  The devaluing is stamped, everyone knows it, 
+so the labour certificate is a hot potato. That is not the purpose though, 
+it is a means to an end.  The end is full employment and prosperity.
+
+Japan is better advised to boost their minimum wage and run a Job Guarantee 
+program to promote full non-bullsh*t job employment.  That way their firms will 
+have to compete for skilled workers, which will give Japan the inflation they've 
+been searching for in vain using low interest rates.
 
 
 ## What counts as stupid or illegal or bullsh*t work? 
