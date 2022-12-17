@@ -85,7 +85,7 @@ To understand more about this, first let's define,
 
 What *p*-MMT does for us --- and here I'm speaking about the policy side, that policy 
 which is well-informed by the MMT framework --- is that the vision of both Marx and 
-Keynes is already possible, we could have today a three hour work week, with little 
+Keynes is already possible.  We could have today a three hour work week, with little 
 decline in standard of living, and enormous cuts in power consumption (energy use is 
 not the problem for the environment, it's our rate of energy consumption that's the 
 problem, energy/time = power).
@@ -105,9 +105,9 @@ Marx and Engels wrote it in a slogan:
 Those are solid principles. Only dorky pedants have criticized them, and they're 
 never in good faith.
 
-I call this vision the freakin' opposite of fetishizing work. 
+I call this vision "the freakin' opposite of fetishizing work." 
 The more workers we can employ, the less each individual worker needs to work each week. 
-I call this core MMT from the working class left.
+I call this core MMT from the working class (and both 'left' and 'right' working class).
 
 But it's still less than spiritual economics can give you. 
 It is still pretty cold grey MMT. 
