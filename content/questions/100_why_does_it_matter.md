@@ -262,7 +262,7 @@ interest rate --- to get the inflation they seek. Complete idiot!
 
 First, low interest rates are deflationary${}^\ast$, so in driving their JCB rate to zero 
 Japan are promoting anti-inflation. Second, if they raised their JCB interest rate 
-it would promote inflation but only be enriching people who already have money.
+it would promote inflation but only by enriching people who already have money.
 
 ${}^\ast$More technically, a zero interest rate should be par, so neither 
 deflationary nor inflationary, but machine automation and other tech 
@@ -282,9 +282,25 @@ so the labour certificate is a hot potato. That is not the purpose though,
 it is a means to an end.  The end is full employment and prosperity.
 
 Japan is better advised to boost their minimum wage and run a Job Guarantee 
-program to promote full non-bullsh*t job employment.  That way their firms will 
+program to promote full non-bullsh*t job employment. That way their firms will 
 have to compete for skilled workers, which will give Japan the inflation they've 
 been searching for in vain using low interest rates.
+
+The point is, whichever way a government promotes full employment, 
+provided it is not by slave labour, it will probably be fine and equivalent to a 
+Gesell currency.
+
+For a Gesell currency the mechanism is different to what I (actually Bill Mitchell 
+originally) advocates for Japan. The Gesell mechanism is that the currency becomes 
+a hot potato know one wants to hold for long, but which for every shop vendor has an 
+at point of sale par value (given by the time stamp). The currency rapidly circulates, 
+promoting sales and hence employment. People turn up for public sector work on offer 
+because they need the currency.
+
+The Wörgl experiment did not run for long, but if it had people would eventually 
+want to save up for big ticket purchases. That'd be very easy to accommodate, 
+simply offer term deposits. The term deposits would not be time stamped, 
+so would not devalue. They would not need to pay any interest.
 
 
 ## What counts as stupid or illegal or bullsh*t work? 
