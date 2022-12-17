@@ -291,7 +291,7 @@ provided it is not by slave labour, it will probably be fine and equivalent to a
 Gesell currency.
 
 For a Gesell currency the mechanism is different to what I (actually Bill Mitchell 
-originally) advocates for Japan. The Gesell mechanism is that the currency becomes 
+originally) advocate for Japan. The Gesell mechanism is that the currency becomes 
 a hot potato know one wants to hold for long, but which for every shop vendor has an 
 at point of sale par value (given by the time stamp). The currency rapidly circulates, 
 promoting sales and hence employment. People turn up for public sector work on offer 
@@ -301,6 +301,28 @@ The Wörgl experiment did not run for long, but if it had people would eventuall
 want to save up for big ticket purchases. That'd be very easy to accommodate, 
 simply offer term deposits. The term deposits would not be time stamped, 
 so would not devalue. They would not need to pay any interest.
+
+
+### Why do the negative interest rates not work? 
+
+The problem with the neoclassical dork who thinks negative interest rates are the 
+same as Gesell, is that negative interest rates are a tax without an injection, 
+so they withdraw currency without replacement elsewhere. If banks have to pay 
+interest on their assets as well as their liabilities, they will be forced to 
+charge more interest on credit. So the commercial bank rates will go up, 
+not negative. Or maybe every bank will try desperately to run over-draughts to 
+get the free money from the central bank? It could get a bit crazy.
+Because if the entire banking system is in surplus someone gets left holding 
+massive reserves if everyone else is in over-draught.
+
+The reasons for the craziness of negative interest rates is the instability of 
+*any* interest rate other than zero. The interest rate is a repeller in 
+dynamical system terms, not an attractor. In other words, any non-zero interest 
+rate drives the economy pro-cyclically, so is the opposite of an 
+automatic stabilizer.
+This, in a nutshell, is why monetarist ideology is insane. The monetarists have 
+never understood (or never correctly understood) dynamic stability and automatic 
+stabilizers.
 
 
 ## What counts as stupid or illegal or bullsh*t work? 
