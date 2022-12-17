@@ -6,6 +6,7 @@ lastmod: 2022-10-12
 cover: ""
 coverAlt: ""
 toc: true
+katex: true
 tags: []
 ---
 
@@ -30,7 +31,7 @@ The reason nations tolerate poverty and unemployment is because they do not unde
 So if we do not have an electorate informed about MMT basics, I think we have a nation that is living well below it's means.
 
 Mosler is mainly referring to the economists like Samuelson and Krugman who believe strongly in an ignorant electorate ([see the Samuelson interview here](https://neweconomicperspectives.org/2010/04/30).) 
-These idiot believe$^\ast$ in keeping citizens ignorant because they think it is a good idea to hide the truth about government power and responsibility form the citizens, and they believe in creating artificial scarcity. 
+These idiots believe$^\ast$ in keeping citizens ignorant because they think it is a good idea to hide the truth about government power and responsibility form the citizens, and they believe in creating artificial scarcity. 
 (As do the cryptocurrency libertarian fascists.)
 
 $^\ast$ To be fair, Paul Krugman probably does not believe this, he is just one of the ignorant. Samuelson was obviously not ignorant and did believe there was a need to keep citizens ignorant about the MMT system. 
