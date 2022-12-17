@@ -83,7 +83,12 @@ You cannot "turn" someone who needs to eat into a saver, not if their income is
 entirely spent on rent, electricity, transport to work, and food.
 
 Interestingly, the more sophisticated financial bros know this, they call it 
-an **_absorbing barrier_**. (Most do not recognize this in the interest rate policy though, 
+an **_absorbing barrier_**. Prices cannot climb up forever, even with hysterical 
+mob ponzi psychology, because eventually a seller cannot find a willing buyer. 
+The only buyer that can afford any price is the monopoly issuer of the currency, 
+and they (aka. governments) are not well disposed to just buying ponzi positioned 
+assets or commodities.
+(Most finance bros do not recognize this *in the interest rate policy* though, 
 sadly. It is like knowing gravity works on Earth but not understanding it works on 
 the Sun the same way.) 
 
