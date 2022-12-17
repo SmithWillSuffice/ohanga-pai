@@ -92,7 +92,7 @@ assets or commodities.
 sadly. It is like knowing gravity works on Earth but not understanding it works on 
 the Sun the same way.) 
 
-In the real world the critical understanding is **_not_** fond in this simplification of 
+In the real world the critical understanding is **_not_** found in this simplification of 
 "turning borrowers into savers," but rather in the more subtle distinction of **_propensity of borrowers to save_** versus **_propensity of savers to spend_**  
 Any difference in these two metrics will have either the desired monetarist policy effect, 
 or if the monetarists are truly hapless the opposite effect.
@@ -150,9 +150,12 @@ cost-push inflation. The recession is then already baked-in and the
 inflation pressure eases as lower income households get crushed. 
 Then again, too late, the central bank takes their foot off the gas pedal and 
 lowers the interest rate, which accelerates the recession.
+(Note: the central bankers *think* they have their foot on the brake peddle, and 
+they do not realize it's the gas peddle.)
 
-It is all a bit perverse and backwards you see. There is no reason why the 
-monetarist policies will work as advertised, and they never really do, and 
+It is all a bit perverse and backwards you see. There is no good reason why the 
+monetarist policies will work as advertised (there are some bad reasons, 
+and naïve reasons), and they never really do, and 
 what is really driving the macroeconomic cycles is the government's automatically 
 baked-in fiscal stabilizers (tax revenues and welfare spending).
 
@@ -193,7 +196,7 @@ Fair warning ok? I am not claiming in the mess of the real world this story is a
 going to be true, I am only **(i)** claiming it probably is mostly true, and that 
 **(ii)** later I hope to show it checks with empirical analysis.
 
-The criticla MMT insight is,
+The critical MMT insight is,
 
 > The interest rate is not an endogenous variable (is not set by "the market") but rather the central bank chooses the interest rate.
 
@@ -219,8 +222,8 @@ moderate political turmoil as usual.
 * This makes the inflation worse, since the interest rate is the fundamental critical price, the *own price* of the currency, so when the IR goes up, so do prices,
 * the central bank cannot see why their model is not working, so they step harder on the gas, thinking it is the brake,
 * but interest rates (and this sort of central bank) are acting pro-cyclically, so they are driving the financial system off a debt burden cliff, private debt that is, putting precarious firms and households into more unpayable debt positions,
-* so eventually it is not the inflation that stops, it is the sales, as households and firm cannot pay back their debts, they drop prices i fire sales, and start trying to tighten their budgets,
-* so eventually the inflation stops as the supply of creidt and profits form sales drop off.
+* so eventually it is not the inflation that stops, it is the sales, as households and firms cannot pay back their debts, they drop prices in fire sales shrinking their buffer stocks, and start trying to tighten their budgets,
+* so eventually the inflation stops as the supply of credit and profits from sales drop off.
 * Mass unemployment results,
 * government welfare payments rise,
 * so net currency is injected,
@@ -232,7 +235,7 @@ end, with government being finally recognized as the life support for capital.
 
 However, we currently have no idea how many of these crippling cycles it will take to so 
 impoverish the middle class that we get actual calls for government take-over of primary 
-industries and whatnot. Each cycle the lowest wage workers ge screwed ever more, but some rise up 
+industries and whatnot. Each cycle the lowest wage workers get screwed ever more, but some rise up 
 out of poverty, and some in the middle class bullsh*t professions drop down to the lower class. 
 So the cycle can go on for some time.
 
@@ -242,8 +245,8 @@ how to overthrow a police state that has nukes. But I am also a big believer in 
 of education, as long as it's not bullsh*t fraudulent education like mainstream economics. 
 Younger people learning correct things faster than us is a pretty powerful driver of positive 
 systemic change. We just cannot easily see it within our own time horizons. 
-The characteristic time scale of good education instigated system change is something like 
-25 years I think. That is too long for me to palpably see greta hope. But understanding 
+The characteristic time scale of good education-instigated system change is something like 
+25 years I think. That is too long for me to palpably see great hope. But understanding 
 this I can have an abstract sense of optimism.
 
 
@@ -252,7 +255,7 @@ this I can have an abstract sense of optimism.
 The above narrative is specific to certain initial conditions. To fully understand the 
 effect of the central bank power to set the interest rate *as they choose* we need to 
 consider other scenarios with different starting conditions. This is because how the 
-central banks votes on the interest rate is very much determined by what conditions they observe.
+central bank votes on the interest rate is very much determined by what conditions they observe.
 
 ```
 TODO: the other starting positions.
