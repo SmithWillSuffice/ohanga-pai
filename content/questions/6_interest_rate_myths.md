@@ -25,6 +25,17 @@ This occurs when the *own price* for the currency dominates the general price le
 This is because the interest rate directly, one-to-one, raises forward prices, 
 as well as provides the necessary free money to afford those prices (through interest income).
 
+This is the "first order" effect of interest rates --- raising rates heats up the economy, 
+contrary to all mainstream academic thought. Yet consistent with MMT thought. 
+Empirical studies confirm the MMT account, I can mention at least five studies in a sequence, 
+[Sims (1992)](https://www.sciencedirect.com/science/article/pii/001429219290041T), 
+[Hanson (2004)](https://www.sciencedirect.com/science/article/pii/S0304393204000959), 
+[Wray and Tauheed (2006)](https://www.researchgate.net/profile/Linwood-Tauheed/publication/279714158_System_dynamics_of_interest_rate_effects_on_aggregate_demand/links/601065b345851517ef1999a6/System-dynamics-of-interest-rate-effects-on-aggregate-demand.pdf), 
+and [Werner (2022)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ijfe.2630).
+There is also [Milton Friedman (1968)](https://cooperative-individualism.org/friedman-milton_the-role-of-monetary-policy-1968-mar.pdf), 
+not a great paragon of realism, admitting all the empirical data suggests interest rates 
+have the exact opposite effect to what orthodox economists all think.
+
 The nuance is that for people who are forced by circumstances to take out bank credit, 
 this way of generating inflation is incredibly unjust and regressive. 
 It feeds interest income to people who already have money, fueling the economy at the top, 
@@ -124,6 +135,117 @@ under certain conditions, but in a terrible socially unjust way.
 We can do this by looking at how the lags and leads in the time series go, 
 using Granger Causality tests, and if possible by looking at rate of change 
 of household debt/credit by income levels, if the data has been published.
+
+
+## The MMT Story
+
+Before getting to the data analysis for New Zealand, we can at least run through 
+some of the narrative. Since this is only a story, you need to put on your bullsh*t detectors.
+Fair warning ok? I am not claiming in the mess of the real world this story is always 
+going to be true, I am only **(i)** claiming it probably is mostly true, and that 
+**(ii)** later I hope to show it checks with empirical analysis.
+
+The criticla MMT insight is,
+
+> The interest rate is not an endogenous variable (is not set by "the market") but rather the central bank chooses the interest rate.
+
+This insight is critical to understanding how the interest rate effects the economy. 
+Since the IR is an exogenous policy variable chosen by the monopoly currency issuer (the 
+government, through it's agency the central bank) all effects of the interest rate need to 
+factor into account the prevailing economic conditions that influence the votes of the 
+central bank boards to alter the interest rate.
+
+Without this insight you'll be as stupified and perplexed as old 
+crusty Uncle Milton the-more-unrealistic-the-model-the-better Friedman.
+
+We take as a base case an economy operating fairly normally, no war, no pestilence, 
+moderate political turmoil as usual.
+
+* the economy starts to boom with a bank credit expansion,
+* the government fails to support the credit expansion, so moves closer to a surplus position (more currency withdrawn via tax than investment added),
+* firms and households enter into positions of foreseeable unpayable debt burden, so contract their spending,
+* this puts massive pressure on prices, as the bank credit continues to flow, prices rise, since the government is not filling the "hidden" (but not truly) debt burden,
+* central bankers eye a possible recession, they see the inflation not as a boom in credit, but a result of workers demanding wages (this is usually false),
+* believing the wages are causing the inflation (too much spending power) the central bankers think they have to put their foot on the brakes to cool off inflation, which means they want to put people out of work,
+* they believe hiking the interest rate will do this (making credit tighter), so they step on this peddle, but it is the gas peddle, not the break.
+* This makes the inflation worse, since the interest rate is the fundamental critical price, the *own price* of the currency, so when the IR goes up, so do prices,
+* the central bank cannot see why their model is not working, so they step harder on the gas, thinking it is the brake,
+* but interest rates (and this sort of central bank) are acting pro-cyclically, so they are driving the financial system off a debt burden cliff, private debt that is, putting precarious firms and households into more unpayable debt positions,
+* so eventually it is not the inflation that stops, it is the sales, as households and firm cannot pay back their debts, they drop prices i fire sales, and start trying to tighten their budgets,
+* so eventually the inflation stops as the supply of creidt and profits form sales drop off.
+* Mass unemployment results,
+* government welfare payments rise,
+* so net currency is injected,
+* and the sales pick up again, back to normal with some lags and hysteresis for the poor, and the cycle begins again.
+
+It is a sad story, it is slow, but this is how "capitalism" (aka. free market ideology, 
+not necessarily Marx's specific version of *Capitalism*, but maybe that too) could eventually 
+end, with government being finally recognized as the life support for capital.
+
+However, we currently have no idea how many of these crippling cycles it will take to so 
+impoverish the middle class that we get actual calls for government take-over of primary 
+industries and whatnot. Each cycle the lowest wage workers ge screwed ever more, but some rise up 
+out of poverty, and some in the middle class bullsh*t professions drop down to the lower class. 
+So the cycle can go on for some time.
+
+My own private opinion is that something worse is likely to upset the capitalists apple cart, 
+like environmental catastrophe of some sort, before any socialist revolutions figure out 
+how to overthrow a police state that has nukes. But I am also a big believer in the power 
+of education, as long as it's not bullsh*t fraudulent education like mainstream economics. 
+Younger people learning correct things faster than us is a pretty powerful driver of positive 
+systemic change. We just cannot easily see it within our own time horizons. 
+The characteristic time scale of good education instigated system change is something like 
+25 years I think. That is too long for me to palpably see greta hope. But understanding 
+this I can have an abstract sense of optimism.
+
+
+### The story in the other cases
+
+The above narrative is specific to certain initial conditions. To fully understand the 
+effect of the central bank power to set the interest rate *as they choose* we need to 
+consider other scenarios with different starting conditions. This is because how the 
+central banks votes on the interest rate is very much determined by what conditions they observe.
+
+```
+TODO: the other starting positions.
+CB sees sluggish economy, so lowers the IR (Japan!).
+```
+
+## Role of the Central Bank
+
+We should of course mention that the Central Bank is always a branch of government, 
+it is never independent. The nuance is that the central bankers do not get voted 
+into office, they are appointed by the politicians. SO the electorate has to learn 
+to be a bit more wise and vote for politicians who will promise to appoint MMT economists 
+onto the central bank governing board.
+
+It is vital that we think about not just our elected representatives, but also those 
+they are favourable to appointing. They extend the reach of democracy, but not if we 
+all ignore them!
+
+In the USA it is no difference. The bankers association elect the FED Boards, 
+but Congress is the authority making that rule, they can change it. I'd change it 
+so that every state Federal Reserve Bank has a board elected by the people in the 
+local state, not the bankers in that sate.
+
+In New Zealand we only have one central bank, so the RBNZ Board should be elected by 
+local government ballots: each local district gets to elect one member of the RBNZ.
+The nominees could be required to have some farming or banking experience, 
+but they do not *have* to be credentialed (at least I don't think, 
+they should be able to read and pass a test of honesty). 
+It is more important to have governors of the RBNZ who understand ordinary people, workers, 
+and the plight of the poor.
+The permanent hired staff at the RBNZ are quite capable of maintaining the payments 
+system. They do not need professors of economics telling them what to so with the software.
+
+
+### The other MMT story
+
+The MMT view is that the interest rate has only second order effects on the economy, 
+and so the central bank should just get out of that game entirely, set a permanent 
+zero interest rate, and change their job descriptions to *guarantors of full employment*. 
+Or back off entirely from fiscal and monetary policy and simply run the payments 
+clearing system, and do proper regulation to shut down fraudulent banks.
 
 
 

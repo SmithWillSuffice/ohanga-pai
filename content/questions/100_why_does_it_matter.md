@@ -318,8 +318,7 @@ massive reserves if everyone else is in over-draught.
 The reasons for the craziness of negative interest rates is the instability of 
 *any* interest rate other than zero. The interest rate is a repeller in 
 dynamical system terms, not an attractor. In other words, any non-zero interest 
-rate drives the economy pro-cyclically, so is the opposite of an 
-automatic stabilizer.
+rate drives the economy pro-cyclically, so is the opposite of an automatic stabilizer.
 This, in a nutshell, is why monetarist ideology is insane. The monetarists have 
 never understood (or never correctly understood) dynamic stability and automatic 
 stabilizers.
