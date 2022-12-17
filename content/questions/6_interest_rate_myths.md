@@ -45,11 +45,11 @@ The instability of high interest rates is thus more a social instability.
 The purely monetary nominal inflation can be sustained for ever, but the debt burden 
 faced by the poor cannot. 
 They will either die or file for bankruptcy and thus incur all the downstream costs 
-of having filed for bankruptcy (credit downgrades, lose of houses, and all that).
+of having filed for bankruptcy (credit downgrades, loss of houses, and all that).
 
 The fair discipline on a booming hot economy is thus not the interest rate 
 upwards adjustment. The discipline has to be on real resource rationing and 
-fine sand taxes on unnecessary pollution, waste, fraud and corruption. The latter 
+fines and taxes on unnecessary pollution, waste, fraud and corruption. The latter 
 methods of discipline hit the rich the harder, but never unfairly.
 
 ## It is not easy to prove the myth is false
@@ -64,6 +64,49 @@ the government thinks it has, or does not have. So people use metrics like the
 CPI index, which is not a very accurate measure of the general price level.
 So it is difficult to extract the proof that the 'interest rate is the 
 inflation rate' from metrics like the CPI.
+
+
+### Underlying the myth
+
+The basic thought behind the interest rate myth is that lowering the interest 
+rate lowers the costs for borrowers, so fuels expansion; while raising rates 
+incentives savings, and crushes borrowers with higher costs. 
+The former should thus increase demand (by bank credit expansion) while the 
+latter should suppress demand (via savings, people getting "out of cash and into bonds").
+
+This sort of analysis is often simplified into the meme that interest rate changes 
+alter the consumer behaviour, from borrowers to savers, or vice versa.
+
+It is a nice fairy story, but that's all it is.
+
+You cannot "turn" someone who needs to eat into a saver, not if their income is 
+entirely spent on rent, electricity, transport to work, and food.
+
+Interestingly, the more sophisticated financial bros know this, they call it 
+an **_absorbing barrier_**. (Most do not recognize this in the interest rate policy though, 
+sadly. It is like knowing gravity works on Earth but not understanding it works on 
+the Sun the same way.) 
+
+In the real world the critical understanding is **_not_** fond in this simplification of 
+"turning borrowers into savers," but rather in the more subtle distinction of **_propensity of borrowers to save_** versus **_propensity of savers to spend_**  
+Any difference in these two metrics will have either the desired monetarist policy effect, 
+or if the monetarists are truly hapless the opposite effect.
+
+All the econometric analysis anyone has ever done has found almost 
+no significant difference in these propensities. Some analysts claim to have 
+seen a small difference in propensities, but it is not enough to justify the 
+efficacy of monetarist policy (using the interest rate as a lever).
+
+So in the real world, the interest rate is largely ineffective as a policy tool, 
+and when effective tends to have the opposite effect to that which 
+mainstream economists and central bankers think.
+
+The MMT claim is that the interest rate is the inflation rate, and so raising the 
+interest rate is stimulus, and heats up the economy, while lowering *the* rate${}^\ast$ 
+does the opposite, all other things being equal.
+
+${}^\ast$ There are many prices for money in any economic system, *the* rate here 
+refers to the central bank corridor rates.
 
 ## Proving Interest Rate Hikes are Pro-Inflationary
 
