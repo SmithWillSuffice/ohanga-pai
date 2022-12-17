@@ -27,29 +27,71 @@ Here I'll quote my favourite MMT'er, Warren Mosler:
 <!-- ![Mosler image](../images/Warren_Mosler.png) -->
 
 In one sense that can be taken as a rationalists attitude, but it is deeply spiritual. 
-The reason nations tolerate poverty and unemployment is because they do not understand their monetary system is both the *cause* of all unemployment and the means to completely eliminate that same unemployment. 
-So if we do not have an electorate informed about MMT basics, I think we have a nation that is living well below it's means.
+The reason nations tolerate poverty and unemployment is because they do not understand 
+their monetary system is both the *cause* of all unemployment and the means to 
+completely eliminate that same unemployment. 
+So if we do not have an electorate informed about MMT basics, I think we have a 
+nation that is living well below it's means.
 
-Mosler is mainly referring to the economists like Samuelson and Krugman who believe strongly in an ignorant electorate ([see the Samuelson interview here](https://neweconomicperspectives.org/2010/04/30).) 
-These idiots believe$^\ast$ in keeping citizens ignorant because they think it is a good idea to hide the truth about government power and responsibility form the citizens, and they believe in creating artificial scarcity. 
-(As do the cryptocurrency libertarian fascists.)
+Mosler is mainly referring to the economists like Samuelson and Krugman who believe 
+strongly in an ignorant electorate ([see the Samuelson interview here](https://neweconomicperspectives.org/2010/04/30).) 
+These idiots believe$^\ast$ in keeping citizens ignorant because they think it is 
+a good idea to hide the truth about government power and responsibility from the 
+citizens, and they believe in creating artificial scarcity. 
+(As do the cryptocurrency libertarian clowns.)
 
-$^\ast$ To be fair, Paul Krugman probably does not believe this, he is just one of the ignorant. Samuelson was obviously not ignorant and did believe there was a need to keep citizens ignorant about the MMT system. 
+The imposition of tax liabilities is already artificial scarcity enough. 
+At least MMT recognizes this type of scarcity is only in place to then immediately 
+eliminate the scarcity. That's the whole idea of a tax driven fiat currency. 
+The state creates the vacuum, then fills it. To leave a vacuum 
+(involuntary unemployed workers) is tantamount to a crime against humanity.
+
+$^\ast$ To be fair, Paul Krugman probably does not believe this, he is just one 
+of the ignorant. Samuelson was obviously not ignorant and did believe there was 
+a need to keep citizens ignorant about the MMT system. 
 Samuelson understood a lot of what is now called MMT, but did not want MMT informed policy. 
 He was a sociopath, pure and simple. 
 
-The only "excuse" I'd give to Samuelson was that he had the fixed exchange rate/gold standard mental disease. 
-If your framework is fixed exchange rates (Bretton-Woods or a gold standard) then you are going to inform politicians they may need an unemployed buffer of labour to fix the exchange rate and prevent inflation. 
-MMT tells you it is *possible* to have full employment (absolute full employment, so NAIRU = 0%) and price stability if; (1) the exchange rate is floated, (2) central bank runs ZIRP,  (3) a job guarantee as the employed buffer of labour, (4) government allows the deficit to float. 
+The only "excuse" I'd give to Samuelson was that he had the fixed exchange 
+rate/gold standard mental disease. 
+If your framework is fixed exchange rates (Bretton-Woods or a gold standard) then 
+you are going to inform politicians they may need an unemployed buffer of labour 
+to fix the exchange rate and prevent inflation. 
+MMT tells you it is *possible* to have full employment (absolute full employment, 
+so NAIRU = 0%) and price stability if; (1) the exchange rate is floated, 
+(2) central bank runs ZIRP,  (3) a job guarantee as the employed buffer of labour, 
+(4) government allows the deficit to float. 
 It is fair to say Samuelson was truly ignorant about the advantage of this set of policies.
+
+Another way of saying this is that the neoclassical economists do not really 
+understand the role of buffer stocks and automatic stabilizers. 
+In an equilibrium barter model there is really no such thing as a buffer stock 
+or automatic stabilizer, since if the tendency is towards equilibrium within a 
+month or week time frame, what stabilizers are needed? None.
+This is near proof by contradiction that neoclassical thinking is plain wrong.
+
+The usually defence is that neoclassical economics is only a toy model, that is 
+nonetheless useful in informing policy. But this is so false it's laughable. 
+All models in economics are toy models. Being a toy model is not a singularly 
+great accomplishment. The aim, if economics is to be considered any sort of 
+"science", is to find models, actively search for them, that better correspond to reality, 
+not to grab the fist model available that can be analytically solved on a chalk board 
+and claim "that's that."
 
 To understand more about this, first let's define,
 
 * ***f*-MMT**  as just "The MMT framework" --- this is the macroeconomics lens you get when you understand raw MMT, as in [Mosler\'s books](https://www.moslereconomics.com/wp-content/powerpoints/7DIF.pdf) or [Bill Mitchell\'s brilliant blog](http://bilbo.economicoutlook.net/blog/) (even Aussies are useful for some things, but I'm not so sure Bill is an "Aussie," he's more like a gangly hairy human unicorn who talks like he'd smell of weed but probably smells of 1960's aftershave dude).
 * ***p*-MMT** as the policy space one can adopt in an MMT economy (so if you are Australia, Canada, Japan, NZ, UK, USA,...).
 
-What *p*-MMT does for us --- and here I'm speaking about the policy side, that policy which is well-informed by the MMT framework --- is that the vision of both Marx and Keynes is already possible, we could have today a three hour work week, with little decline in standard of living, and enormous cuts in power consumption (energy use is not the problem for the environment, it's our rate of energy consumption that's the problem, energy/time = power).
-(And most of *that* problem, the power consumption problem, is excessive power use by the top 10% of humanity, which if eliminated as a sub-species no one in the lower 90% of us plebs would miss.)
+What *p*-MMT does for us --- and here I'm speaking about the policy side, that policy 
+which is well-informed by the MMT framework --- is that the vision of both Marx and 
+Keynes is already possible, we could have today a three hour work week, with little 
+decline in standard of living, and enormous cuts in power consumption (energy use is 
+not the problem for the environment, it's our rate of energy consumption that's the 
+problem, energy/time = power).
+(And most of *that* problem, the power consumption problem, is excessive power use 
+by the top 10% of humanity, which if eliminated as a sub-species no one in the 
+lower 90% of us plebs would miss.)
 
 Got it?
 
@@ -57,9 +99,11 @@ So MMT shows us *how* to realize the vision of Keynes and Marx.
 
 Keynes wrote that the human dignified work week could be reduced to around three hours. 
 Leaving people more time for leisure and getting along with their family.
-Marx and Engels wrote it in a slogan: *From each according to their ability, to each according to their needs.*
+Marx and Engels wrote it in a slogan: 
+*From each according to their ability, to each according to their needs.*
 
-Those are solid principles. Only dorky pedants have criticized them, and they're never in good faith.
+Those are solid principles. Only dorky pedants have criticized them, and they're 
+never in good faith.
 
 I call this vision the freakin' opposite of fetishizing work. 
 The more workers we can employ, the less each individual worker needs to work each week. 
