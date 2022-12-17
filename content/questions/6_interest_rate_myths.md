@@ -266,15 +266,16 @@ CB sees sluggish economy, so lowers the IR (Japan!).
 
 We should of course mention that the Central Bank is always a branch of government, 
 it is never independent. The nuance is that the central bankers do not get voted 
-into office, they are appointed by the politicians. SO the electorate has to learn 
+into office, they are appointed by the politicians. So the electorate has to learn 
 to be a bit more wise and vote for politicians who will promise to appoint MMT economists 
-onto the central bank governing board.
+onto the central bank governing board, or even better than that, vote people who 
+understand, because they have lived it, the weight of poverty onto the central bank board.
 
 It is vital that we think about not just our elected representatives, but also those 
 they are favourable to appointing. They extend the reach of democracy, but not if we 
 all ignore them!
 
-In the USA it is no difference. The bankers association elect the FED Boards, 
+In the USA it is no different. The bankers association elect the FED Boards, 
 but Congress is the authority making that rule, they can change it. I'd change it 
 so that every state Federal Reserve Bank has a board elected by the people in the 
 local state, not the bankers in that sate.
@@ -287,7 +288,8 @@ they should be able to read and pass a test of honesty).
 It is more important to have governors of the RBNZ who understand ordinary people, workers, 
 and the plight of the poor.
 The permanent hired staff at the RBNZ are quite capable of maintaining the payments 
-system. They do not need professors of economics telling them what to so with the software.
+system. They do not need professors of economics telling them what to do with the software.
+They just need honest, diligent and caring people to keep them honest.
 
 
 ### The other MMT story
