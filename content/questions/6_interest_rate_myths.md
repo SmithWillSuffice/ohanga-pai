@@ -41,6 +41,20 @@ this way of generating inflation is incredibly unjust and regressive.
 It feeds interest income to people who already have money, fueling the economy at the top, 
 but crushes the poor who are reduced to buying food on credit cards.
 
+It is also a very seriously dumb way to stimulate the economy, because it targets 
+all the money gains to the rich, and does not target any specific production 
+that might be causing supply shortages and hence cost-push inflation. 
+Of course, central bankers are not entirely dumb, they see interest rate increases 
+as cooling off a hot economy, so they are *not trying* to boost supply! 
+They think they are trying to suppress demand. They've got it all backwards, 
+but at least they are not so stupid to believe giving people free money while 
+simultaneously crushing those in debt will help move food and furniture on truck 
+and rails, or make nurses and teachers function better.
+
+The bankers are far more psychopathic. They actively want to crush workers. FED chair 
+Powell: "There is no painless way to get out of a recession." --- 
+Us: "Yeah right, pain for the poor, free money for the rich."
+
 The instability of high interest rates is thus more a social instability. 
 The purely monetary nominal inflation can be sustained for ever, but the debt burden 
 faced by the poor cannot. 
