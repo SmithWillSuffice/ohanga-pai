@@ -336,3 +336,8 @@ Goon who trawls for software patent litigation ops.
 Tax haven accountant (we at least know how to eliminate all *that* waste of human life, drop the corporate tax rate to zero).) 
 We do not *need* to tax super rich people, we need to not have super rich people exist in the first place.
 
+
+
+[Next chapter (None, this is the End)](./)  
+[Previous chapter (Pension Funds)](../12_pension_funds)  
+[Back to Questions TOC](../)
