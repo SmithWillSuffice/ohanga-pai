@@ -142,9 +142,9 @@ Yet it is fully in accord with the MMT lens. High interest rates add to
 bank reserves whenever the government Treasury issue is above about 50% of GDP.
 The reason? When government Treasury bill issue is above 50% of GDP the 
 government is a huge net payer of interest, which prevailing tax return 
-cannot fully  drain.
+cannot fully drain.
 
-Yes, it is highly regressive stimulus, and it is *basic income but only for people 
+Yet it is highly regressive stimulus, and it is *basic income but only for people 
 who already have money*, but it is a stimulus nonetheless.
 MMT people do not advocate for this type of stimulus, and would prefer the 
 central bank interest rate to be dropped to zero.
@@ -158,8 +158,16 @@ This results in higher purchasing power in the pockets of labour, who spend most
 of their income, which drives sales for firms. That is the correct functionally 
 targetted type of stimulus a failing economy needs, not higher interest rates.
 
-Werner's results are more consistent with the story that central banks raise 
-interest rates  always "too late," after a supply shock has already caused 
+A more recent study by [Werner and Lee (2020)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/ijfe.2630) of 19 major economies had similar conclusions. 
+
+* Normally higher interest rates correlate positively with higher GDP,
+* when the correlation is negative the causation is reversed: the causation more 
+often runs *from* GDP (growth) *to* interest rates, not the other way around. 
+
+Werner's results reject all the mainstream economic school's basic assumptions.
+
+Furthermore, Werner's results are more consistent with the story that central banks raise 
+interest rates always "too late," after a supply shock has already caused 
 cost-push inflation. The recession is then already baked-in and the 
 inflation pressure eases as lower income households get crushed. 
 Then again, too late, the central bank takes their foot off the gas pedal and 
@@ -203,6 +211,20 @@ of household debt/credit by income levels, if the data has been published.
 
 
 ## The MMT Story
+
+MMT typically (base case and all that) says a few things about the impact of monetarist policy:
+
+1. Government deficit adds to GDP, so tends to imply a central bank reaction function to desire to hit the brakes" (raise rates) whihc is actually hitting the gas peddle - so GDP grows more. (The positive correlation Werner and Lee found.)
+2. In an inflationary period the central bank does the same, wants to "cool" thing s off, leading to the same short-run effect = higher GDP and sustained inflation. (The debt-deflation crash comes much later, when the poor get crushed.)
+3. In a low inflation era the CB wants to put their foot on the gas to raise inflation up to "target", so they lower rates, which lowers government net injection, so in fact cools things off relatively, so the CB foot is actually on their brake. But in this case if GDP is growing debts are being paid off and the central bank reaction is being caused by GDP growth with low inflation.
+
+The third point here suggests Werner and Lee ought to look at the causality between the 
+CB reaction and the inflation rate, not just GDP. This is the relationship MMT suggests 
+is tighter.
+However, it is tighter according to MMT only because of central bank mindset or groupthink 
+(which can change, e.g., supposing they start to consider MMT seriously, 
+then the reaction function could flip - or not - depending upon whether they are psychopaths 
+or not).
 
 Before getting to the data analysis for New Zealand, we can at least run through 
 some of the narrative. Since this is only a story, you need to put on your bullsh*t detectors.
