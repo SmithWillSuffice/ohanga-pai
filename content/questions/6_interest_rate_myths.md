@@ -171,9 +171,12 @@ interest rates always "too late," after a supply shock has already caused
 cost-push inflation. The recession is then already baked-in and the 
 inflation pressure eases as lower income households get crushed. 
 Then again, too late, the central bank takes their foot off the gas pedal and 
-lowers the interest rate, which accelerates the recession.
+lowers the interest rate, which accelerates the recession. 
 (Note: the central bankers *think* they have their foot on the brake peddle, and 
 they do not realize it's the gas peddle.)
+Although by this time it has little impact, since in a recession it is a relief 
+to the poor and lowest wage earners to see low interest rates, and the decline 
+of unearned income for the bond holders is nothing great to cry about.
 
 It is all a bit perverse and backwards you see. There is no good reason why the 
 monetarist policies will work as advertised (there are some bad reasons, 
@@ -214,13 +217,17 @@ of household debt/credit by income levels, if the data has been published.
 
 MMT typically (base case and all that) says a few things about the impact of monetarist policy:
 
-1. Government deficit adds to GDP, so tends to imply a central bank reaction function to desire to hit the brakes" (raise rates) whihc is actually hitting the gas peddle - so GDP grows more. (The positive correlation Werner and Lee found.)
+1. Government deficit adds to GDP, so tends to imply a central bank reaction function to desire to "hit the brakes" (raise rates) which is actually hitting the gas peddle - so GDP grows more. (The positive correlation Werner and Lee found.)
 2. In an inflationary period the central bank does the same, wants to "cool" thing s off, leading to the same short-run effect = higher GDP and sustained inflation. (The debt-deflation crash comes much later, when the poor get crushed.)
 3. In a low inflation era the CB wants to put their foot on the gas to raise inflation up to "target", so they lower rates, which lowers government net injection, so in fact cools things off relatively, so the CB foot is actually on their brake. But in this case if GDP is growing debts are being paid off and the central bank reaction is being caused by GDP growth with low inflation.
+The GDP growth in this sort of case is probably being driven by the government fiscal injections, pretty much independent of the central bank rate (except for a small effect that credit expansion has on tax drain).
+
+Tax here is the automatic stabilizer, not the interest rate. The interest rate is a 
+*repeller* in dynamical system terms, not an *attractor*.
 
 The third point here suggests Werner and Lee ought to look at the causality between the 
-CB reaction and the inflation rate, not just GDP. This is the relationship MMT suggests 
-is tighter.
+CB reaction and the inflation rate, not just GDP. This is the relationship which MMT 
+suggests should be tighter.
 However, it is tighter according to MMT only because of central bank mindset or groupthink 
 (which can change, e.g., supposing they start to consider MMT seriously, 
 then the reaction function could flip - or not - depending upon whether they are psychopaths 
@@ -251,7 +258,7 @@ moderate political turmoil as usual.
 * the economy starts to boom with a bank credit expansion,
 * the government fails to support the credit expansion, so moves closer to a surplus position (more currency withdrawn via tax than investment added),
 * firms and households enter into positions of foreseeable unpayable debt burden, so contract their spending,
-* this puts massive pressure on prices, as the bank credit continues to flow, prices rise, since the government is not filling the "hidden" (but not truly) debt burden,
+* this puts massive pressure on prices, as the bank credit continues to flow, prices rise, since the government is not filling the "hidden" (but not truly hidden) debt burden,
 * central bankers eye a possible recession, they see the inflation not as a boom in credit, but a result of workers demanding wages (this is usually false),
 * believing the wages are causing the inflation (too much spending power) the central bankers think they have to put their foot on the brakes to cool off inflation, which means they want to put people out of work,
 * they believe hiking the interest rate will do this (making credit tighter), so they step on this peddle, but it is the gas peddle, not the break.
@@ -276,7 +283,7 @@ out of poverty, and some in the middle class bullsh*t professions drop down to t
 So the cycle can go on for some time.
 
 My own private opinion is that something worse is likely to upset the capitalists apple cart, 
-like environmental catastrophe of some sort, before any socialist revolutions figure out 
+like environmental catastrophe of some sort, before any socialist revolutionaries figure out 
 how to overthrow a police state that has nukes. But I am also a big believer in the power 
 of education, as long as it's not bullsh*t fraudulent education like mainstream economics. 
 Younger people learning correct things faster than us is a pretty powerful driver of positive 
@@ -291,7 +298,8 @@ this I can have an abstract sense of optimism.
 The above narrative is specific to certain initial conditions. To fully understand the 
 effect of the central bank power to set the interest rate *as they choose* we need to 
 consider other scenarios with different starting conditions. This is because how the 
-central bank votes on the interest rate is very much determined by what conditions they observe.
+central bank voting decisions on setting the interest rate are very much determined 
+by what conditions they observe.
 
 ```
 TODO: the other starting positions.
@@ -304,8 +312,9 @@ We should of course mention that the Central Bank is always a branch of governme
 it is never independent. The nuance is that the central bankers do not get voted 
 into office, they are appointed by the politicians. So the electorate has to learn 
 to be a bit more wise and vote for politicians who will promise to appoint MMT economists 
-onto the central bank governing board, or even better than that, vote people who 
-understand, because they have lived it, the weight of poverty onto the central bank board.
+onto the central bank governing board, or even better than that, vote for people who 
+understand --- because they have lived it --- the weight of poverty, vote them onto 
+the central bank board.
 
 It is vital that we think about not just our elected representatives, but also those 
 they are favourable to appointing. They extend the reach of democracy, but not if we 
