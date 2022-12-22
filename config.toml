@@ -151,7 +151,7 @@ paginate = 99
 
     # Disable the use of system settings (prefers-color-scheme)
     # The default is false
-    ignoreSystemSettings = false
+    ignoreSystemSettings = true
 
     # Accent colors for dark and light mode respectively
     #darkAccent   = "#1dbc91" # Default is "#1dbc91"
