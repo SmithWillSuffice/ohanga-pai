@@ -22,3 +22,8 @@ Stay tuned. Or not.
 Unless I get some magical following of more than a few hundred hackers there will be no Discord or other social media chat room, which are time sinks. 
 Email will suffice (and is less an [energy time](https://medium.com/@theorypleeb/timenergy-an-existential-analysis-of-labor-power-5fc5b0071452) sink).
 If you have a contribution then post it, or clone the repo if you have a rationale for a major branch. 
+
+
+[Next post (Neural Nets  part-1)](../2_neural_nets_pt1)  
+[Previous post (overview)](../_index)  
+[Back to Blog TOC](../)
