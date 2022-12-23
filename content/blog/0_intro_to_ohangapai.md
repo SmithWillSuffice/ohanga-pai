@@ -24,5 +24,5 @@ These web pages are only for discussions, they are not software documentation.
 For software documentation each project will have it's own Sphinx RTD docs.
 
 
-[Next post (First OHP content)](../2_first_content)  
-[Back to Blog TOC](../)
+[Next post (First OHP content)](../1_first_content)  
+[Back to Blog TOC](./)

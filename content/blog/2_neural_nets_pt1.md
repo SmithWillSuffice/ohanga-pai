@@ -94,5 +94,5 @@ To join with [Douglas the MMT Macro Trader](https://www.patreon.com/mmtmacrotrad
 
 
 [Next post (TBD)](./)  
-[Previous post (First OHP content)](../2_first_content)  
+[Previous post (First OHP content)](../1_first_content)  
 [Back to Blog TOC](../)

@@ -25,5 +25,5 @@ If you have a contribution then post it, or clone the repo if you have a rationa
 
 
 [Next post (Neural Nets  part-1)](../2_neural_nets_pt1)  
-[Previous post (overview)](../_index)  
+[Previous post (overview)](../)  
 [Back to Blog TOC](../)
