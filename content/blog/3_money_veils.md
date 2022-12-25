@@ -1,8 +1,8 @@
 ---
 title: "The Money Veils"
 description: ""
-date: 2022-12-25
-lastmod: 2022-12-25
+date: 2022-12-24
+lastmod: 2022-12-24
 cover: ""
 coverAlt: ""
 katex: true
@@ -269,8 +269,16 @@ does not exist without a government force (tax collector imposing the return of 
 liabilities). The trouble for right-wing libertarians is that if a state government 
 does not exist, you only get something worse, which is a landlord imposing their own 
 private liabilities upon you ("give me half your grain and sheep or AI burn your hut 
-down."")
+down.")
 
+### The third veil
+
+
+
+## Time to conclude?
+
+I think there are other veils of money, but I'll stop at these three for now.
+I think they are the most important veils to understand.
 
 [Next post (TBD)](./)  
 [Previous post (Neural Nets and MMT)](../2_neural_nets_pt1)  
