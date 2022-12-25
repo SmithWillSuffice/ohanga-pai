@@ -93,6 +93,6 @@ we will give back.
 To join with [Douglas the MMT Macro Trader](https://www.patreon.com/mmtmacrotrader) (who knows a lot more about for-profit trading) you can find him on [Patreon.](https://www.patreon.com/mmtmacrotrader)
 
 
-[Next post (TBD)](./)  
+[Next post (Money Veils)](../3_money_veils.md)  
 [Previous post (First OHP content)](../1_first_content)  
 [Back to Blog TOC](../)
