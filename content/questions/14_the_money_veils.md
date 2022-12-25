@@ -6,6 +6,7 @@ lastmod: 2022-12-24
 cover: ""
 coverAlt: ""
 katex: true
+toc: true
 tags: []
 ---
 
@@ -454,6 +455,8 @@ this veil over the rightful role of democratic government.
 I think there are other veils of money, but I'll stop at these three for now.
 I think they are the most important veils to understand.
 
+Note: This article was meant to appear under Blog posts, but a technical error meant at the time I had to post it here under Questions. The below links take you back to the Blog contents.
+
 [Next post (TBD)](./)  
-[Previous post (Neural Nets and MMT)](../2_neural_nets_pt1)  
-[Back to Blog TOC](../)
+[Previous post (Neural Nets and MMT)](/ohanga-pai/blog/2_neural_nets_pt1)  
+[Back to Blog TOC](/ohanga-pai/blog/)
