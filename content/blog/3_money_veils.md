@@ -42,7 +42,7 @@ means to an end, that end being the fair and just distribution of real output.
 Settlement of obligations in other words.
 
 This seems to align somewhat with neoclassical economics and the 
-"money **_is_** a veil over barter story, but only if by "barter" we generalize to 
+"money **_is_** a veil over barter" story, but only if by "barter" we generalize to 
 "any trade in goods or social currency of debts, feuds and other obligations."
 
 ((Which I think helps make it crystal clear the neoclassical 'Adam Smith' barter 
@@ -72,23 +72,32 @@ and activists.) The MMT system itself does not think, so can not agree nor
 disagree with anything.
 
 But you see the tension. MMT emphasises the role of money and banking in a way 
-that [Steve Keen\'s Goodwin-Minsky 
-models](https://www.debtdeflation.com/blogs/2014/01/15/some-sample-minsky-models/) 
+that [Steve Keen\'s Goodwin-Minsky models](https://www.debtdeflation.com/blogs/2014/01/15/some-sample-minsky-models/) 
 vividly describe dynamically 
 (against almost all neoclassical myths). But in the realm of political economy MMT 
 de-emphasises the importance of holding the currency unit when (and *only when*) it 
 comes to government policy considerations.
 
+When you are the issuer of the currency you do not need to worry about running out of 
+money. You neither "have money" nor do not have money, because to you, the issuer, 
+money *is* the unit of your system of account. That is because currency is not a 
+physical thing, not a commodity, it is a system of records of credits and debts. The 
+state currency form is a tax credit.
+
+Private money forms are different, they are not tax credits, they are I.O.U's of 
+their issuers.
+
 ### The first veil
 
-I am not going to say all this is some wort of metaphysical characterisation, I'm 
-just free-flow writing here, and this veil is the first one to pop out.
+I am not going to say all this is some sort of metaphysical characterisation of the 
+various veils, I'm just free-flow writing here, and this veil is the first one to 
+pop out.
 
 The veil is the way money is so heavily used in commercial trade that the 
-true origins hisotry gets obscured, the use of money is thus a veil over the true 
-history and origins.
+true origins history gets obscured, the _dominant **use**_ of money is thus a veil over 
+the true history and origins.
 
-The origins of money are well understood by archeologists and anthropolgits, 
+The origins of money are well understood by archeologists and anthropologists, 
 [Knapp](https://archive.org/details/in.ernet.dli.2015.227879), 
 [Mitchell-Innes](https://www.semanticscholar.org/paper/Credit-and-State-Theories-of-Money%3A-The-of-A.-Innes-Wray-Innes/33d30d281d676b3f81d5d8cb567deb1903c50f87), 
 [Graeber](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years),
@@ -102,6 +111,7 @@ For sure, double entry book-keeping was a much later invention, but before
 book-keeping people held these records of obligations well enough in their heads. 
 Any record of such debt or credit is a form of money in the highly abstract sense, 
 an I.O.U. 
+
 In a material sense monetary units properly came into existence when grain weights 
 of rice or barley or wheat were used as an artifice or stand-in for those records. 
 Of course paper records that were reliable could have been used, and before solving 
@@ -117,9 +127,9 @@ temple, or some other power or authority or collective.
 
 The MMT story of money is still chartalist, but is *generalized chartalism* --- 
 which means it almost always practically takes some power or authority to run the 
-currency unit payments system. They have to be either rusted, feared, or both. 
+currency unit payments system. They have to be either trusted, feared, or both. 
 
-### Helping and Hindering
+## Helping and Hindering
 
 This duality in MMT exists in any institutionally arranged system, it is almost a 
 tautology, because unless something is a deterministic machine designed and built to 
@@ -130,13 +140,14 @@ For example, some of us joke that Dick Cheney was the most accomplished MMT poli
 maker in the past 25 years. Mostly for the bad.
 
 John Maynard Keynes and J K Galbraith were the most accomplished MMT policy makers 
-during the World War 2 era. Mostly for the good (at least by the account their sides 
-won the war, and to the extent hat success had anything to do with moving private 
-production into the public sector for that period).
+during the World War II and Galbraith in the post-war era. Mostly for the good (at 
+least by the account their sides won the war, and to the extent that success had 
+anything to do with moving private production into the public sector for that 
+period).
 
 Successful war time efforts are examples of where there is one type of veil of 
 money. Everyone works for the war effort, and issuing enough currency is not even 
-debated. The issuer always "finds" enough currency. They do so either by extending 
+debated. The issuer always "finds" enough currency. They do so either by suspending 
 the artifice of a gold standard, or they just implement pure fiat money operations 
 without the gold standard veil.
 
@@ -144,11 +155,12 @@ The gold standard is thus revealed (by wars) to be a veil. There never really wa
 gold standard. The currency is always a tax credit, and the issuer tells you what 
 it is worth.  If they tell you it redeems for $\pi/100$ ounces of gold, then that's 
 the fiat price. What it can purchase then depends upon the relative price of gold to 
-their goods, but that is still a choice of the currency issuer. 
+other goods, but who gets that purchasing power is still a choice of the currency 
+issuer. 
 
 Like control of nuclear power and primitive fire, a powerful force or technology 
 can always be used to commit atrocities. MMT is no exception. But the monetary 
-system is ancient,has existed for over 4000 years, and is often a force for good when 
+system is ancient, has existed for over 4000 years, and is often a force for good when 
 used wisely. It is not a free market or natural equilibrium that achieves good or 
 terrible social outcomes, it is our wilful design, or negligence.
 
@@ -156,11 +168,22 @@ terrible social outcomes, it is our wilful design, or negligence.
 be by human conscious willful design. My thought on that is always that what most 
 people desire is a *fair* market, not a *free* market. Freedom implies all sorts of 
 bad things, through fallacies of composition: everyone is free to stand up in the 
-sets at a football game or the opera, but they don't, they constrain themselves 
-for the 'greater good.' The greater good, and hence the constraint, is really more 
+seats at a football game or the opera, but they don't, they constrain themselves 
+for the 'greater good.' The greater good, and hence the constraint, is really *more 
 freedom* not less, because we are now talking about different qualities of freedom. 
 All freedoms are not equal in quality. Freedom absolutists are knuckleheads, to use 
 a technical term.))
+
+People will bitch and moan at us: "yeah, but *who* gets to say what counts as 
+quality freedom?"  The ideal answer is always the demos. The current realpolitk 
+answer is the oligarchs. The point is, it is encumbent upon the collective demos to 
+crack the realpolitik and corral governments towards the ideal, and do so by claiming 
+back their government from the oligarchs. 
+The oligarchs do have ownership claims on today's governments, but that is an unjust 
+claim. All people must act to destroy that illegitimate claim. Understanding MMT gives 
+people a clear understanding how --- the oligarchs do not control the monetary 
+system, the government does. The demos must therefore reclaim their government, it 
+does not rightfully belong to the oligarchs.
 
 ### The second veil
 
@@ -211,7 +234,7 @@ currency system, so are not beholden to collecting taxes off rich people.
 (There are many other ways governments can ensure that there is no undue wealth 
 inequality in society, e.g., to prevent unbridled capital accumulation in the 
 first place).
-* the right-winger see money as essential, but *only* as a veil over barter, 
+* the right-wingers see money as essential, but *only* as a veil over barter, 
 because they cannot bring themselves to see any essential role for a government 
 in private commerce. They fail to recognize the full MMT picture because they 
 do not understand what drives a monetary numeraire.
@@ -222,7 +245,7 @@ and it has never been any other way throughout all history.
 In fact one pretty good definition of "money" is that "money" is an 
 I.O.U. --- a promise of the issuer to redeem. That is equivalent to a 
 record of credit and debt (the issuer is in debt, the receiver in credit, 
-when the receiver of the I.O.u> returns it to the issuer the debt is 
+when the receiver of the I.O.U returns it to the issuer the debt is 
 redeemed and the creditor is back to zero credit.)
 
 Right-wingers fail to understand all past and present monetary systems 
@@ -239,7 +262,7 @@ seem to think those systems have existed.
 
 In eras of feudal rule, when empires had broken down, it is true that at some 
 times gold coins or other metals, were used as a socially understood commodity 
-currency, but the problem is that this relied upon ass social misconception. 
+currency, but the problem is that this relied upon mass social misconception. 
 The metal coins always traded for goods according to the numeraire stamped on the 
 coins. This was never held equal to the trade value of the actual metal (which was 
 normally a lot less than the numeraire face value on the coins --- because otherwise 
@@ -248,7 +271,7 @@ people would quickly learn to melt down the coins (often illegally) to sell them
 I often allow other philosophers and activists to have their own definitions, and so 
 if a right-winger comes along and insists "money" is a commodity like gold, I would 
 normally (if this were mapped to a science problem) let it go. But we 
-cannot"let it go" "when it comes to macroeconomics, because it makes a huge f-ing 
+cannot "let it go" "when it comes to macroeconomics, because it makes a huge f-ing 
 difference whether or not the state currency units we get tax liabilities imposed 
 upon us in are real stuff or mere scorepoints.
 
@@ -256,20 +279,25 @@ You want it to be scorepoints.
 
 Why?  Because you do not want to motivate pirates. Because you want the regulator of 
 this system to be able to actually implement some justice, to balance the economy so 
-that increasing returns to wealth do not become an automatic destabiliser. It is 
-critical for justice. Even right-wingers like justice. So they aught to want a fiat 
-currency system (points on the government scoreboard.)
+that increasing returns to wealth do not become an automatic destabiliser. So 
+you do not want their scorepoints to be artificially limited. 
+
+Imagine at a football game: your side scores a try or touchdown to win at the final 
+second. **Scorekeeper:** sorry lads, I've run out of points a minute ago.
+
+This is all critical for justice. Even right-wingers like justice. So they aught to 
+want a fiat currency system (points on the government scoreboard.)
 
 But sometimes there is just no getting through to the reactionary minds of 
 conservatives, who seem to simply be genetically ill-disposed to all forms of 
 government encroachment upon private markets.
 
-This is highly ironic, because a market in a semblance of democratic state currency 
-does not exist without a government force (tax collector imposing the return of the 
-liabilities). The trouble for right-wing libertarians is that if a state government 
-does not exist, you only get something worse, which is a landlord imposing their 
-own private liabilities upon you ("give me half your grain and sheep or AI burn your 
-hut down.")
+This is highly ironic, because a market with goods for sale in a semblance of 
+democratic state currency does not exist without a government force (tax collector 
+imposing the return of the liabilities). The trouble for right-wingers and 
+libertarians is that if a state government does not exist, you only get something 
+worse, which is a landlord imposing their own private liabilities upon you ("give me 
+half your grain and sheep or I'll burn your hut down.")
 
 ### The third veil
 
@@ -296,7 +324,7 @@ exerted, have to be fought for, and have to be won on moral grounds well before 
 are won on material grounds. 
 
 The way Warren Mosler has put this is that: **_The Labour market is not a fair 
-game_** The role of a democratic government is to balance that playing field. Workers 
+game_**. The role of a democratic government is to balance that playing field. Workers 
 need more protection than the bosses.
 
 When people adopt the view that money should be a private system, they are placing 
