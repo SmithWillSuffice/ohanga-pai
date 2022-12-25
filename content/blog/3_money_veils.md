@@ -135,6 +135,21 @@ macroeconomic analysis using endogenous growth theory ideas.
 
 But there is no way pure endogenous growth theory works. It is a joke. 
 
+Furthermore, Young's supposed "big idea" was that contra-Quesnay, contra-Smith and 
+Contra-Marx, it is not land, or labour that is the "source of value" but rather 
+*trade.*" So Young was as naïve as all the rest, albeit a little more original. 
+Young's thesis on trade being the real source of "wealth" is, shall we say, 
+*interesting.* It is a nuanced position. But trade is not possible without energy, so 
+the physiocrats are still the foundation of economics. The higher layers of analysis 
+just ignore this, and never had to worry, until today when energy demands are 
+out-stripping the biospheres regenerative capacity, meaning no trade is gong to help 
+with this.
+
+To apply Young's thinking however, is not fruitless, because the "trade" in 
+*intellectual ideas* is what will ultimately avoid ecological catastrophe. So I am 
+prepared to give Allyn Young his due on getting something good thought out that went 
+more than a little bit beyond mainstream economic narrow-minded thought.
+
 I could come back to this later and identify this as a fourth veil of money --- the 
 idea that money is so dominant in commerce and that **_sales drive profits_** is so 
 critical to capitalism, that the role of energy as the one common dominant factor in 
