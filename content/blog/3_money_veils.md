@@ -90,7 +90,7 @@ history and origins.
 
 The origins of money are well understood by archeologists and anthropolgits, 
 [Knapp](https://archive.org/details/in.ernet.dli.2015.227879), 
-[Mitchell-Innes](https://www.semanticscholar.org/paper/Credit-and-State-Theories-of-Money%3A-The-of-A.-Innes-Wray-Innes/33d30d281d676b3f81d5d8cb567deb1903c50f87) 
+[Mitchell-Innes](https://www.semanticscholar.org/paper/Credit-and-State-Theories-of-Money%3A-The-of-A.-Innes-Wray-Innes/33d30d281d676b3f81d5d8cb567deb1903c50f87), 
 [Graeber](https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years),
 [Hudson](https://www.researchgate.net/publication/291759036_The_archaeology_of_money_Debt_versus_barter_theories_of_money's_origins), 
 [Wray]() among others. 
@@ -254,9 +254,9 @@ upon us in are real stuff or mere scorepoints.
 
 You want it to be scorepoints.
 
-Why?  Because you do not want to motivate pirates. Because you want the regulator 
-of this system to be able to actually implement some justice, to balance the economy 
-so that increasing returns to wealth do not become an automatic destabiliser. It is 
+Why?  Because you do not want to motivate pirates. Because you want the regulator of 
+this system to be able to actually implement some justice, to balance the economy so 
+that increasing returns to wealth do not become an automatic destabiliser. It is 
 critical for justice. Even right-wingers like justice. So they aught to want a fiat 
 currency system (points on the government scoreboard.)
 
@@ -267,15 +267,42 @@ government encroachment upon private markets.
 This is highly ironic, because a market in a semblance of democratic state currency 
 does not exist without a government force (tax collector imposing the return of the 
 liabilities). The trouble for right-wing libertarians is that if a state government 
-does not exist, you only get something worse, which is a landlord imposing their own 
-private liabilities upon you ("give me half your grain and sheep or AI burn your hut 
-down.")
+does not exist, you only get something worse, which is a landlord imposing their 
+own private liabilities upon you ("give me half your grain and sheep or AI burn your 
+hut down.")
 
 ### The third veil
 
+Because money is seen as an instrument of the most powerful, because having excess 
+credit gives someone more purchasing power, this store-of-value function of state 
+currency is a veil over the proper role of an ideal democratic state.
 
+It is because people hate to see a Leviathan exerting power over the "little people" 
+that a big government (big brother) is seen as anathema. 
+This is however a veil over the reality that without government the "little people" 
+(aka. the working class) are even more entirely screwed.
 
-## Time to conclude?
+It is better to have the monopoly currency issuer protecting the working class than 
+have the workers fend for themselves in some libertarian anarcho-capitalist fantasy 
+world. 
+
+The problem is our governments have never been protectors of the working class. All 
+gains made by the working class have been by collectivist approaches exerting 
+influence upon governments, at the chagrin of the people running the government. 
+
+The government is a crucial institution for worker emancipation. But workers cannot 
+just sit back and wait for their rights to be granted. Human rights have to be 
+exerted, have to be fought for, and have to be won on moral grounds well before they 
+are won on material grounds. 
+
+The way Warren Mosler has put this is that: **_The Labour market is not a fair 
+game_** The role of a democratic government is to balance that playing field. Workers 
+need more protection than the bosses.
+
+When people adopt the view that money should be a private system, they are placing 
+this veil over the rightful role of democratic government.
+
+## To Conclude?
 
 I think there are other veils of money, but I'll stop at these three for now.
 I think they are the most important veils to understand.
