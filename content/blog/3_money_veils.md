@@ -84,8 +84,113 @@ money *is* the unit of your system of account. That is because currency is not a
 physical thing, not a commodity, it is a system of records of credits and debts. The 
 state currency form is a tax credit.
 
-Private money forms are different, they are not tax credits, they are I.O.U's of 
-their issuers.
+Private money forms are different, they are not tax credits, but they are still 
+I.O.U's of their issuers. The commonality shared by all forms of money is that they 
+are records of credit and debt, in other words, I.O.U's of their issuer.
+
+Also in common is what currency issuers mostly worry about, which is how to drive 
+demand for their otherwise worthless I.O.U's. The naïve naturalists, anarchists, 
+Austrian Schoolers, and neoclassicals do not want the grapple with this problem, they 
+try to wish it away like the tooth fairy. But it is the only major problem a wannabe 
+currency issuer faces. Warren Mosler wrote about 
+[in the 7DIF](https://www.moslereconomics.com/wp-content/powerpoints/7DIF.pdf) 
+how this fundamental problem is solved, first using the case of a family: the parents 
+issue their I.O.U and the children redeem it for extra playtime (or whatever) and 
+earn the parents credits by doing household chores. Our relation to governments is 
+very similar, in an abstract sense of course. The lesson is that demand for money is 
+driven in some way by a powerful force. The parents in the family, the government in 
+a nation, the King in a Kingdom who commands a loyal army, the priests running a temple authority community, or the council running a commune.
+
+Allyn Young had a somewhat naïve understanding of these facts, and probably a related 
+overly biased view about what constitutes justified private property rights, and so 
+like a lot of economists who came out of the anti-marxist classical schools, he tends 
+to shy away from recognizing the role of governmetns as the currency monopolists.
+
+### Misunderstanding energy
+
+This is just  a side note, but an important one, it perhaps concerns one other veil 
+of money, but I am not sure I can justify it just yet as due to a money veil, but I 
+will be giving this some later thought.
+
+One problem Allyn Young had can be found in one of the legacies of his work, which is 
+[endogenous growth theory](https://en.wikipedia.org/wiki/Endogenous_growth_theory). 
+This idea in mainstream economics is that the growth of 
+an economy (and by implication prosperity) is mainly determined by factors operating 
+within the economy, and is not overly dependent upon external factors.
+
+This is a laughable theory, and it is one of the great embarrassments in economics 
+that so many economists take it seriously.
+
+But we can understand easily why. If we think all energy is free, then for sure, an 
+economy can operate fairly fine endogenously. But as the Physiocrats, Quesnay and 
+today Kate Raworth and Steve Keen and many other ecological economists understand, 
+the role of energy in production cannot be ignored, and no economic system gets 
+energy endogenously. Most of it comes from the Sun. That is, the Ricardo-Smith-Marx 
+tradition of thinking of either land or labour as the only "source of surplus value" 
+is utterly bone-headed wrong. 
+
+The caveat to this is that if you are able to factor out energy in your models, in 
+some way, perhaps as the one unique external factor, then maybe you can do ok 
+macroeconomic analysis using endogenous growth theory ideas. 
+
+But there is no way pure endogenous growth theory works. It is a joke. 
+
+I could come back to this later and identify this as a fourth veil of money --- the 
+idea that money is so dominant in commerce and that **_sales drive profits_** is so 
+critical to capitalism, that the role of energy as the one common dominant factor in 
+all production, of any kind, from socialist to capitalist to feudalist, gets utterly 
+ignored, or is it better to say "taken for granted so much that it is invisible"? 
+Invisible perhaps to all but the oil cartels and electricity suppliers. 
+
+This last point --- that energy is well understood to be *the* kingpin commodity that 
+rules them all --- is so well understood it is perhaps taken for granted except 
+during an energy cartel price gouging event! But because it is so well understood as 
+the dominant driver of global currency inflation events (where no currency is "safe" 
+unless their governments comprehend MMT${}^\ast$) I think academic economists ignore 
+the role of energy in production and focus excessively on price instead. I think this 
+is a big blind spot on mainstream economics. 
+
+${}^\ast$MMT has perhaps the only proper understanding of how a foreign nation can 
+combat oil monopoly price fixing, which is to let the inflation run until the energy 
+cartels give up. Any government running a fiat currency can always re-gauge their 
+currency to get the oil, and in the meantime invest in substitutes. This is a 
+relative price adjustment story, not a hyperinflation story, unless the governments 
+make it an inflation  bogeyman story. By buying the oil they suffer pass-through 
+inflation, but that's irrelevant to maintaining fair domestic distribution, because 
+that government just raises their minimum wage and welfare support. The number of 
+zeroes they add on to their lowest denomination currency bills is just digits of 
+information, no gold is at stake, no grandchildren will ever be held to ransom. All 
+that matters is relative price, not the absolute value stamped on the currency or 
+bank accounts. What then matters is how much work your nation needs to do to export 
+goods to "pay for" the oil imports. That is always a relative value story, not a 
+runaway inflation story. What also matters is the psychological pressures coming from 
+the inflation fear-mongering, which is a real problem that MMT cannot directly help 
+you with, except to inform you the problem is only in people's 
+imaginations${}^{\dagger}$, which is not trivial help! (Margaret Thatcher had exactly 
+this psychological problem, when she complained the price of milk was twice that when 
+she was a child! Somehow she did not comprehend the wages had gone up more than 
+double, and all without putting any gold or Crown jewels at stake.)
+
+${}^{\dagger}$I think it is fair to say only MMT people understand this. However, 
+this is no inoculation against getting sh*t scared that saying this truth out loud 
+can earn ridicule and condemnation. The truth is not always easy to tell, and can put 
+the proverbial fear of god into those who dare speak.
+
+It used to not be too much of a problem when human energy use was easily well within 
+planetary ecosystem boundaries. But today that is no longer the case. So modern 
+economists post 1980, or thereabouts, are morally obligated to update all their 
+models to account for the crucial role of energy in production, and especially at the 
+macroeconomic level where up until today it has been almost totally ignored. (In this 
+wise I do not fault Allyn Young, since he was writing in a time when the planetary 
+ecological stress boundaries were not understood, and seemed invisible.)
+
+Anyway, I am not going to call the blindness to the role of energy in production one 
+of the veils of money. But in hushed whispers I think it really is one of the veils 
+of money, so would be the fourth on my list. The only reason for whispering here is 
+that I am not exactly sure of the true historical story of how energy got ignored. 
+If engineers and physicists had been the first economists, and not the philosophers 
+of politics and morality, then I think energy would always have been critical in 
+economics, but that was just not the way history unfolded. 
 
 ### The first veil
 
