@@ -321,7 +321,11 @@ The second veil is the gold standard. The idea that because you need some token
 to make a payment the token itself is somehow "the money."
 
 As explained above, the gold standard does not make gold the currency. 
-It makes gold the buffer stock.
+It makes gold the buffer stock. If the issuer runs out of gold the currency rapidly 
+deflates, since the buffer stock becomes scarce. It is an insane system. 
+All mainstream economists agree with MMT that sustained moderate inflation is better 
+than any deflation, but especially better than bursts of deflation (bank runs, the 
+Cross of Gold, and all that).
 
 
 ### The third veil
@@ -407,10 +411,17 @@ coins. This was never held equal to the trade value of the actual metal (which w
 normally a lot less than the numeraire face value on the coins --- because otherwise 
 people would quickly learn to melt down the coins (often illegally) to sell them).
 
+Actually, writing it that way I am not sure if it is correct to call it a mass social 
+misconception. People living at the time had to understand the system, since they did 
+**_not_** go around melting down the metal coins.
+Yet there was a misconception at some point, because most accounts eventually 
+tell the story that "the metal was the currency". So digging it up out of the ground 
+or mining it was "banking". 
+
 I often allow other philosophers and activists to have their own definitions, and so 
 if a right-winger comes along and insists "money" is a commodity like gold, I would 
 normally (if this were mapped to a science problem) let it go. But we 
-cannot "let it go" "when it comes to macroeconomics, because it makes a huge f-ing 
+cannot "let it go" when it comes to macroeconomics, because it makes a huge f-ing 
 difference whether or not the state currency units we get tax liabilities imposed 
 upon us in are real stuff or mere scorepoints.
 
@@ -418,27 +429,29 @@ You want it to be scorepoints.
 
 Why?  Because you do not want to motivate pirates. Because you want the regulator of 
 this system to be able to actually implement some justice, to balance the economy so 
-that increasing returns to wealth do not become an automatic destabiliser. So 
-you do not want their scorepoints to be artificially limited. 
+that increasing returns to wealth do not become an automatic destabiliser. 
+Because you want inequality in wealth holdings to be surmountable. 
+Because you want a way to eliminate nominal poverty. So you do not want their 
+scorepoints to be artificially limited. 
 
 Imagine at a football game: your side scores a try or touchdown to win at the final 
-second. **Scorekeeper:** sorry lads, I've run out of points a minute ago.
+second. **Scorekeeper:** sorry lads, I've run out of points... a minute ago.
 
 This is all critical for justice. Even right-wingers like justice. So they aught to 
-want a fiat currency system (points on the government scoreboard.)
+want a fiat currency system (points on the government scoreboard).
 
 But sometimes there is just no getting through to the reactionary minds of 
 conservatives, who seem to simply be genetically ill-disposed to all forms of 
 government encroachment upon private markets.
 
-This is highly ironic, because a market with goods for sale in a semblance of 
-democratic state currency does not exist without a government force (tax collector 
-imposing the return of the liabilities). The trouble for right-wingers and 
+This is highly ironic, because a market with goods for sale in a (semblance of 
+democratic) state currency system does not exist without a government force (tax 
+collector imposing the return of the liabilities). The trouble for right-wingers and 
 libertarians is that if a state government does not exist, you only get something 
 worse, which is a landlord imposing their own private liabilities upon you ("give me 
 half your grain and sheep or I'll burn your hut down.")
 
-### The third veil
+### The fourth veil
 
 Because money is seen as an instrument of the most powerful, because having excess 
 credit gives someone more purchasing power, this store-of-value function of state 
@@ -450,8 +463,8 @@ This is however a veil over the reality that without government the "little peop
 (aka. the working class) are even more entirely screwed.
 
 It is better to have the monopoly currency issuer protecting the working class than 
-have the workers fend for themselves in some libertarian anarcho-capitalist fantasy 
-world. 
+have the peasants and *real* workers fend for themselves in some libertarian 
+anarcho-capitalist fantasy world. 
 
 The problem is our governments have never been protectors of the working class. All 
 gains made by the working class have been by collectivist approaches exerting 
@@ -471,9 +484,9 @@ this veil over the rightful role of democratic government.
 
 ## To Conclude?
 
-I think there are other veils of money, but I'll stop at these three for now.
+I think there are other veils of money, but I'll stop at these for now.
 I think they are the most important veils to understand.
 
-[Next post (TBD)](./)  
+[Next post (Money and Banking in Euroland)](../4_mab_2_2_euroland)  
 [Previous post (Neural Nets and MMT)](../2_neural_nets_pt1)  
 [Back to Blog TOC](../)
