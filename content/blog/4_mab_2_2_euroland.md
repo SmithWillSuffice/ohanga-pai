@@ -74,9 +74,19 @@ equivalences, as in trade parity principles. The predatory financial speculators
 merchants of financial ponzi schemes, tariffs, and other banking corruptions, mess 
 this up.
 
-One nation's tarriffs become another's subsidies. You cannot expect a people who get 
+One nation's tariffs become another's subsidies. You cannot expect a people who get 
 squeezed by unfair prices to not fight back, and if they are lucky their government 
 will fight back for them.
+
+I guess to be fair to Merhling, if the aim is to learn how to think like a central 
+banker, then he has a fair point in leading with the ECB as "a bankers bank." 
+What I am saying is why the F would any studnet want to learn how to think like a 
+central banker *first*? First is a bias.
+
+So *first* you want students to think like expertly informed workers, who understand 
+the (MMT) system, and understand the abuse of it. The later it is fine to teach them 
+how central bankers view the system, and why the central bankers are wrong.
+
 
 [Next post (TBD)](./)  
 [Previous post (Neural Nets and MMT)](../2_neural_nets_pt1)  
