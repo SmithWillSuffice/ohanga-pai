@@ -57,13 +57,26 @@ France, Belgium) really have what is akin to monopoly currency issuing capacity.
 Contrast with the USA where Congress has all the monopoly, since they can fire the 
 FED Board with a vote. The nuance that should be put up-front is that these 
 governments are *de facto* owned by the bankers and oligarchs, through distortion of 
-democracy. So legallistically Merhling is wrong to claim the central banks are 
+democracy. So legalistically Merhling is wrong to claim the central banks are 
 private institutions, but functionally he is kind of right, but only because the 
 demos keep electing neoliberal governments who actively _want_ to be beholden to 
 private oligarch interests (most neolib politicians aspire to be members of the 
 oligarchy).
 
+OK.
 
+But the fact the monetary system gets abused in several ways makes Merhlings point 
+about the hierarchy of financial instruments a reality, and a seriously big f-ing 
+problem.
+
+For social stability we need like things and production equivalences to remain rough 
+equivalences, as in trade parity principles. The predatory financial speculators and 
+merchants of financial ponzi schemes, tariffs, and other banking corruptions, mess 
+this up.
+
+One nation's tarriffs become another's subsidies. You cannot expect a people who get 
+squeezed by unfair prices to not fight back, and if they are lucky their government 
+will fight back for them.
 
 [Next post (TBD)](./)  
 [Previous post (Neural Nets and MMT)](../2_neural_nets_pt1)  
