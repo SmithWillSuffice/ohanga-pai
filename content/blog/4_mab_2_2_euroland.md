@@ -98,7 +98,7 @@ credit."
 Here he is just plain wrong, at least in language framing. 
 
 The he starts with one view of his hierarchy of money with "gold is the ultimate 
-money".  Which is absurd. Gold has never been money.  A gold standard is not a regime 
+money".  Which is absurd. Gold has never been money. A gold standard is not a regime 
 where gold is money, it is a regime where temporarily (as long as trust in gold 
 supply lasts) a governments or other currency issuer promises to redeem for gold. When 
 the gold runs out (or is known to be running out) they always get off the gold 

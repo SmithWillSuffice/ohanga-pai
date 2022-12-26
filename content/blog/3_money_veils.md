@@ -6,6 +6,7 @@ lastmod: 2022-12-24
 cover: ""
 coverAlt: ""
 katex: true
+toc: true
 tags: []
 ---
 
@@ -30,7 +31,7 @@ an avatar to write about the role of money in a macroeconomic system.
 
 One of the major themes of Allyn Young's thought was his contribution to 
 the economics professions understanding of how monetary systems are **_not_** 
-a mere "veil over barter," but that rather monetary operations and institutions 
+a mere "veil over barter," and that rather monetary operations and institutions 
 are critical for helping and hindering real economic growth and prosperity.
 
 So far this aligns with MMT thought.
@@ -79,9 +80,13 @@ comes to government policy considerations.
 
 When you are the issuer of the currency you do not need to worry about running out of 
 money. You neither "have money" nor do not have money, because to you, the issuer, 
-money *is* the unit of your system of account. That is because currency is not a 
+money *is* the unit of your system of accounts. That is because currency is not a 
 physical thing, not a commodity, it is a system of records of credits and debts. The 
 state currency form is a tax credit.
+
+The tax credit is an idea, the system is an idea, and each have physical manifestations. But the physical tokens and forms are almost irrelevant --- 
+recall the island tribe, [the Yap Islanders,](https://www.npr.org/sections/money/2011/02/15/131934618/the-island-of-stone-money) who used huge stone boulders, 
+some of which remained sunk in the sea, as their tokens.
 
 Private money forms are different, they are not tax credits, but they are still 
 I.O.U's of their issuers. The commonality shared by all forms of money is that they 
@@ -89,21 +94,22 @@ are records of credit and debt, in other words, I.O.U's of their issuer.
 
 Also in common is what currency issuers mostly worry about, which is how to drive 
 demand for their otherwise worthless I.O.U's. The naïve naturalists, anarchists, 
-Austrian Schoolers, and neoclassicals do not want the grapple with this problem, they 
+Austrian Schoolers, and neoclassicals do not want to grapple with this problem, they 
 try to wish it away like the tooth fairy. But it is the only major problem a wannabe 
-currency issuer faces. Warren Mosler wrote about 
-[in the 7DIF](https://www.moslereconomics.com/wp-content/powerpoints/7DIF.pdf) 
-how this fundamental problem is solved, first using the case of a family: the parents 
+currency issuer faces. Warren Mosler wrote about how  fundamental problem is solved in
+[the 7DIF](https://www.moslereconomics.com/wp-content/powerpoints/7DIF.pdf), 
+first using the case of a family: the parents 
 issue their I.O.U and the children redeem it for extra playtime (or whatever) and 
 earn the parents credits by doing household chores. Our relation to governments is 
 very similar, in an abstract sense of course. The lesson is that demand for money is 
 driven in some way by a powerful force. The parents in the family, the government in 
-a nation, the King in a Kingdom who commands a loyal army, the priests running a temple authority community, or the council running a commune.
+a nation, the King in a Kingdom who commands a loyal army, the priests running a 
+temple authority community, or the council running a commune.
 
 Allyn Young had a somewhat naïve understanding of these facts, and probably a related 
 overly biased view about what constitutes justified private property rights, and so 
 like a lot of economists who came out of the anti-marxist classical schools, he tends 
-to shy away from recognizing the role of governmetns as the currency monopolists.
+to shy away from recognizing the role of governments as the currency monopolists.
 
 ### Misunderstanding energy
 
@@ -136,17 +142,17 @@ But there is no way pure endogenous growth theory works. It is a joke.
 
 Furthermore, Young's supposed "big idea" was that contra-Quesnay, contra-Smith and 
 Contra-Marx, it is not land, or labour that is the "source of value" but rather 
-*trade.*" So Young was as naïve as all the rest, albeit a little more original. 
+"*trade.*" So Young was as naïve as all the rest, albeit a little more original. 
 Young's thesis on trade being the real source of "wealth" is, shall we say, 
 *interesting.* It is a nuanced position. But trade is not possible without energy, so 
 the physiocrats are still the foundation of economics. The higher layers of analysis 
 just ignore this, and never had to worry, until today when energy demands are 
-out-stripping the biospheres regenerative capacity, meaning no trade is gong to help 
+out-stripping the biospheres regenerative capacity, meaning no trade is going to help 
 with this.
 
 To apply Young's thinking however, is not fruitless, because the "trade" in 
 *intellectual ideas* is what will ultimately avoid ecological catastrophe. So I am 
-prepared to give Allyn Young his due on getting something good thought out that went 
+prepared to give Allyn Young his due on getting something good thought-out that went 
 more than a little bit beyond mainstream economic narrow-minded thought.
 
 I could come back to this later and identify this as a fourth veil of money --- the 
@@ -159,10 +165,10 @@ Invisible perhaps to all but the oil cartels and electricity suppliers.
 This last point --- that energy is well understood to be *the* kingpin commodity that 
 rules them all --- is so well understood it is perhaps taken for granted except 
 during an energy cartel price gouging event! But because it is so well understood as 
-the dominant driver of global currency inflation events (where no currency is "safe" 
+the dominant driver of global currency inflation events (when no currency is "safe" 
 unless their governments comprehend MMT${}^\ast$) I think academic economists ignore 
 the role of energy in production and focus excessively on price instead. I think this 
-is a big blind spot on mainstream economics. 
+is a big blind spot of mainstream economics. 
 
 ${}^\ast$MMT has perhaps the only proper understanding of how a foreign nation can 
 combat oil monopoly price fixing, which is to let the inflation run until the energy 
@@ -246,7 +252,12 @@ temple, or some other power or authority or collective.
 
 The MMT story of money is still chartalist, but is *generalized chartalism* --- 
 which means it almost always practically takes some power or authority to run the 
-currency unit payments system. They have to be either trusted, feared, or both. 
+currency unit payments system. They have to be either trusted, feared, or both.
+Margaret Atwoods accounts in 
+[Payback: Debt and the Shadow Side of Wealth](https://www.goodreads.com/book/show/3428252-payback) 
+give a vivid history that would make any Zeitgeist Movement Philes wet their pants.
+(The Zeitgeist Movement folks are not all bad though, their motives are all good.)
+
 
 ## Helping and Hindering
 
@@ -259,16 +270,16 @@ For example, some of us joke that Dick Cheney was the most accomplished MMT poli
 maker in the past 25 years. Mostly for the bad.
 
 John Maynard Keynes and J K Galbraith were the most accomplished MMT policy makers 
-during the World War II and Galbraith in the post-war era. Mostly for the good (at 
+during World War II and Galbraith in the post-war era. Mostly for the good (at 
 least by the account their sides won the war, and to the extent that success had 
 anything to do with moving private production into the public sector for that 
 period).
 
 Successful war time efforts are examples of where there is one type of veil of 
-money. Everyone works for the war effort, and issuing enough currency is not even 
-debated. The issuer always "finds" enough currency. They do so either by suspending 
-the artifice of a gold standard, or they just implement pure fiat money operations 
-without the gold standard veil.
+money partially lifted. Everyone works for the war effort, and issuing enough 
+currency is not even debated. The issuer always "finds" enough currency. They do so 
+either by suspending the artifice of a gold standard, or they just implement pure 
+fiat money operations without the gold standard veil forever after.
 
 The gold standard is thus revealed (by wars) to be a veil. There never really was a 
 gold standard. The currency is always a tax credit, and the issuer tells you what 
@@ -279,7 +290,7 @@ issuer.
 
 Like control of nuclear power and primitive fire, a powerful force or technology 
 can always be used to commit atrocities. MMT is no exception. But the monetary 
-system is ancient, has existed for over 4000 years, and is often a force for good when 
+system is ancient, has existed for over 5000 years, and is often a force for good when 
 used wisely. It is not a free market or natural equilibrium that achieves good or 
 terrible social outcomes, it is our wilful design, or negligence.
 
@@ -296,17 +307,26 @@ a technical term.))
 People will bitch and moan at us: "yeah, but *who* gets to say what counts as 
 quality freedom?"  The ideal answer is always the demos. The current realpolitk 
 answer is the oligarchs. The point is, it is encumbent upon the collective demos to 
-crack the realpolitik and corral governments towards the ideal, and do so by claiming 
-back their government from the oligarchs. 
-The oligarchs do have ownership claims on today's governments, but that is an unjust 
-claim. All people must act to destroy that illegitimate claim. Understanding MMT gives 
-people a clear understanding how --- the oligarchs do not control the monetary 
-system, the government does. The demos must therefore reclaim their government, it 
-does not rightfully belong to the oligarchs.
+crack the realpolitik and corral governments towards the ideal, and to do so by 
+claiming back their government from the oligarchs. The oligarchs do have ownership 
+claims on today's governments, but that is an unjust claim. All people must act to 
+destroy that illegitimate claim. Understanding MMT gives people a clear understanding 
+how --- the oligarchs do not control the monetary system, the government does. The 
+demos must therefore reclaim their government, it does not rightfully belong to the 
+oligarchs.
 
 ### The second veil
 
-The second veil of money is the way the idea occurs to unthinking people that 
+The second veil is the gold standard. The idea that because you need some token 
+to make a payment the token itself is somehow "the money."
+
+As explained above, the gold standard does not make gold the currency. 
+It makes gold the buffer stock.
+
+
+### The third veil
+
+The third veil of money is the way the idea occurs to unthinking people that 
 'having money' is seen as prestige and by default almost taken as implying the person 
 with lots of money has earned it, and so is a 'good person' or has been 'hard 
 working'.
