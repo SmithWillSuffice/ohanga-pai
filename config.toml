@@ -3,9 +3,6 @@ languageCode = 'en-us'
 title = 'Ōhanga Pai'
 theme = "color-your-world"
 
-relativeURLs = true
-canonifyURLs = true
-
 # Used only in the RSS file
 copyright = "Copyright © 2022, Bijou Murray Smith; All rights reserved."
 

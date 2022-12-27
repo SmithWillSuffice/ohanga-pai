@@ -109,8 +109,8 @@ how central bankers view the system, and why the central bankers are wrong.
 
 ## Credit is not money? 
 
-About 2 minutes into the lecture Mehrling seems to take pains to claim "Money is *not* 
-credit." 
+About 2 minutes into the lecture segment Mehrling seems to take pains to claim 
+"Money is *not* credit." 
 
 Here he is just plain wrong, at least in language framing. 
 
@@ -172,9 +172,18 @@ That is the difference.
 
 Whether you are poor or rich, if you receive bank debt you must repay, or lose your 
 house, or file for bankruptcy. But if you receive government currency you do not 
-have to repay, if things are working well, if you are poor, but someone else will 
-have to pay some fraction of the state's currency back to the state, since taxation 
-is what drives the demand for the state currency.
+*have* to repay --- so, for instance, if you are unfortunately poor then  someone else 
+will have to pay some fraction of the state's currency back to the state.
+The need to repay the government's currency is thus not because the receiver (a public 
+sector worker, or welfare beneficiary, or contractor) has taken upon a debt burden, in 
+fact it is the opposite, the government has the debt burden.
+
+It is only *society as a whole* that has the tax liability burden, and that is by 
+design, so that, in principle, the operation of the fiat currency can work without 
+the poorest shouldering the burden. Since taxation is what drives the demand for the 
+state currency someone has to have the tax liability imposed upon them, and so more 
+justly that should be those who accumulate the most, by failing to spend and circulate 
+their income, they aught to bear most of the tax return burden --- if we have a well designed system.
 
 But once bank credit goes into someone else's wallet, they cannot distinguish it 
 from government currency, because it is the same unit. A kilogram is a kilogram 
@@ -200,7 +209,9 @@ Bank credit sources produce instability, government issue does not.
 
 It is the social consequences of which issuer you get the currency from that matters. 
 It is better to get it as a creditor (work for government, or sell to someone) rather 
-than as a debtor.
+than as a debtor. You ideally, at the macro level, want the government to be the principle debtor, because they cannot run out of their won currency. This is 
+the thinking behind the Positive Money movement, which unfortunately also suffers 
+from insanity, so I should write about that some time.
 
 
 [Next post (TBD)](./)  
