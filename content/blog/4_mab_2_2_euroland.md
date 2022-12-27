@@ -109,18 +109,18 @@ how central bankers view the system, and why the central bankers are wrong.
 
 ## Credit is not money? 
 
-About 2 minutes in the lecture Mehrling seems to take pains to claim "Money is *not* 
+About 2 minutes into the lecture Mehrling seems to take pains to claim "Money is *not* 
 credit." 
 
 Here he is just plain wrong, at least in language framing. 
 
-The he starts with one view of his hierarchy of money with "gold is the ultimate 
-money".  Which is absurd. Gold has never been money. A gold standard is not a regime 
+He starts with one view of his hierarchy of money: with "gold is the ultimate 
+money".  Which is cringe. Gold has never been money. A gold standard is not a regime 
 where gold is money, it is a regime where temporarily (as long as trust in gold 
-supply lasts) a governments or other currency issuer promises to redeem for gold. When 
+supply lasts) a government or other currency issuer promises to redeem for gold. When 
 the gold runs out (or is known to be running out) they always get off the gold 
 standard until some later time when gold reserves are grabbed back. It is a charade. 
-No one ever uses the gold for purchasing, it is just  place-holder, just like grain 
+No one ever uses the gold for purchasing, it is just a place-holder, just like grain 
 weights of wheat, corn or barley were used in ancient times, they are just 
 placeholders for the currency unit. People (who are not fetishists) do not want or 
 need gold, they want the credits. They need to eat, so they want bread, not gold. 
@@ -142,6 +142,9 @@ extinction. That is why state money *seems* different to bank credit, but if the
 denominated in the same units then there is no difference, both forms are tax credits, 
 operationally and legally.  The difference is in the process of how you get them into your bank account, or wallet.
 
+But when the government says by fiat that their tax credit redeems for gold, they are not thereby making the gold the money. They are making gold the buffer stock.
+I do not think Mehrling understands this, but it is a critical thing to understand.
+
 What else Mehrling *really* means is that commercial bank credit (endogenous money) is 
 not the same as state currency (exogenous money).
 
@@ -152,7 +155,7 @@ The difference of course is stark, so I am *not* being pedantic. There are painf
 realities to taking on bank debt. You get the credit initially, along with signing an 
 explicit or implicit (credit card) agreement to repay. Then you spend, or why else 
 use a credit card? So your credit gets moved into someone else's bank account, they 
-are not in credit to the bank, and you are in debt, equally, at least until the 
+are now in credit to the bank, and you are in debt, equally, at least until the 
 interest charges accrue.
 
 But when the interest charges accrue the bank gains more credit upon you, and you 
