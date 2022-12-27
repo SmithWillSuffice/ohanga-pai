@@ -11,13 +11,13 @@ tags: []
 
 I will be writing the odd blog post over the next month commenting on highlights from Perry Mehrling's MOOC on [Money and Banking - online from INET]()
 
-Today a comment on when Mehrling starts out by alerting his students that he is going to talk about the ECB "as if" it were a private entity, and then only in later lectures talk about money as a creation of the state.
+Today it's a comment on when Mehrling starts out by alerting his students that he is going to talk about the ECB "as if" it were a private entity, and then only in later lectures talk about money as a creation of the state.
 
 I thought this is completely the wrong emphasis. The euro is an MMT system, but very 
 weirdly structured so as to look and function like a private or endogenous currency 
 system. But that is one of the veils of money.
 
-It is easy t make a state currency system (MMMT) look like a private currency.
+It is easy to make a state currency system (MMT) look like a private currency.
 
 Just listen to all the lunatics who claim the US FED is a private bank! 
 They obviously all believe the US dollar is created by the FED and not by Congress.
@@ -25,6 +25,12 @@ They are complete nutters.
 But it is easy to forgive them, because Congress also acts like the FED is a hands-off 
 private entity. So it is a little unfair to blame the nutters for their warped views. 
 Those in power controlling the USA MMT system share a lot of those warped views.
+
+((What is weird here is that in the USA at least, some of the EU, the nutters also 
+tend to hate government, and yet are following the government narrative. However, 
+this weirdness can be explained: those same nutters are often the ones getting 
+elected into government. Yeah. People who hate government are running governments.
+And why not? From their perspective, the best way to destroy something truly well is often from the inside. This is why we gotta stop electing them.))
 
 If enough people playing a baseball game think it is cricket, what you will observe is 
 a cricket game played with catching mitts and awkwardly rounded bats.
@@ -38,7 +44,18 @@ But how is Mehrling any different to the nutters?
 
 I think Mehrling understands the basics of MMT, but if you do, then I think the moral 
 obligation is to talk about the true account of currency monopoly first, which means 
-the state theory of money has to go first, because it is primary. 
+the state theory of money has to go first, because it is primary. Pedagogically order 
+matters.
+
+**Aside:** You can tell bad teachers from the good ones by the order in which they teach topics. I've had this in physics. The best way to teach quantum mechanics is 
+to tell the truth first, before the mathematical formalism, which is that: 
+
+> *We have no clue what the ontological basis for quantum mechanics is, so everything 
+to follow is pure descriptive formalism.*  The wavefunction is not ontology. So don't try to construct an ontology based on the properties of the wavefunction.
+
+((An even better physics teacher might add: although we do not think the wavefunction 
+is ontology, it could be ontology. The point is we do not know, so do not second guess 
+nature. It is ok to conjecture an ontology then test it.))
 
 However, the ECB certainly does function a lot like a private currency endogenous 
 money system, but that is only because that is the way the governments seem to wish 
@@ -49,7 +66,7 @@ source of the mess in euroland.
 
 ## Hierarchy of Money
 
-[Here is the relvant bit from the lecture](https://youtu.be/XB2DFuAP8SY?list=PLSuwqsAnJMtwZEwkJgHZCod2xP9b7skF5&t=51)
+[Here is the relvant bit from the lecture](https://youtu.be/XB2DFuAP8SY?list=PLSuwqsAnJMtwZEwkJgHZCod2xP9b7skF5&t=51).
 On this I commented:
 
 All well and good to "treat" the ECB as a "bankers bank" if indeed that is what it 
@@ -67,11 +84,11 @@ oligarchy).
 
 OK.
 
-But the fact the monetary system gets abused in several ways makes Mehrlings point 
+But the fact the monetary system gets abused in several ways makes Mehrling's point 
 about the hierarchy of financial instruments a reality, and a seriously big f-ing 
 problem.
 
-For social stability we need like things and production equivalences to remain rough 
+For social stability we need *like things* and production equivalences to remain rough 
 equivalences, as in trade parity principles. The predatory financial speculators and 
 merchants of financial ponzi schemes, tariffs, and other banking corruptions, mess 
 this up.
@@ -82,11 +99,11 @@ will fight back for them.
 
 I guess to be fair to Mehrling, if the aim is to learn how to think like a central 
 banker, then he has a fair point in leading with the ECB as "a bankers bank." 
-What I am saying is why the F would any studnet want to learn how to think like a 
+What I am saying is why the F would any student want to learn how to think like a 
 central banker *first*? First is a bias.
 
 So *first* you want students to think like expertly informed workers, who understand 
-the (MMT) system, and understand the abuse of it. The later it is fine to teach them 
+the (MMT) system, and understand the abuse of it. Then later it is fine to teach them 
 how central bankers view the system, and why the central bankers are wrong.
 
 
