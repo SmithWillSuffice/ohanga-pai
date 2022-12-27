@@ -153,7 +153,7 @@ in most nations, outside those who use a foreign currency as their tax credits.
 
 The difference of course is stark, so I am *not* being pedantic. There are painful 
 realities to taking on bank debt. You get the credit initially, along with signing an 
-explicit or implicit (credit card) agreement to repay. Then you spend, or why else 
+explicit or one-time (credit card) agreement to repay. Then you spend, or why else 
 use a credit card? So your credit gets moved into someone else's bank account, they 
 are now in credit to the bank, and you are in debt, equally, at least until the 
 interest charges accrue.
@@ -162,24 +162,45 @@ But when the interest charges accrue the bank gains more credit upon you, and yo
 gain more in debt, dollar for dollar. So sure enough, endogenously, all credit is 
 debt.
 
-However, it holds exogenous as ell, but in an entirely different way, wit profoundly 
+However, it holds exogenous as well, but in an entirely different way, with profoundly 
 different consequences, and this is the MMT account of state currency. The state 
 issues their currency by fiat, not by credit. You do not really need to pay it back.
-However, someone has t pay some fraction of it back, due to imposed tax liabilities. But thee are generalize arrangements, and can be arranged so that the poorest people need pay no tax return. 
+However, someone has to pay some fraction of it back, due to imposed tax liabilities. 
+But these are generalized arrangements, and can be arranged so that the poorest people 
+need pay no tax return. 
 That is the difference.
 
 Whether you are poor or rich, if you receive bank debt you must repay, or lose your 
-house, or file form bankruptcy. But if you receive government currency you do not 
+house, or file for bankruptcy. But if you receive government currency you do not 
 have to repay, if things are working well, if you are poor, but someone else will 
 have to pay some fraction of the state's currency back to the state, since taxation 
 is what drives the demand for the state currency.
 
-However, and maybe this is something Mehrling gets wrong later on (I am not sure yet) 
-the bank credit money is only as i demand as the government fiat currency, since the 
-government licences the banks, and the bank money to any creditors is equivalent to 
-government issue, since this currency unit is the same unit.
+But once bank credit goes into someone else's wallet, they cannot distinguish it 
+from government currency, because it is the same unit. A kilogram is a kilogram 
+whether it is a chicken being weighed or a brick. It is only macroeconomically that 
+the distinction between the issuing operations gets fully noticed: in the ratio of 
+private debt to government issue (or the ratio of private debt to GDP). 
 
-It is the social consequences of which issuer you get he currency form that matters. it is better to get it as a creditor (work for government, or sell to someone) rather than as a debtor.
+If private debt is too much higher than government fiat issue, and is growing faster, 
+then we have a severe recessionary bias, and totally needlessly.
+
+Also --- and maybe this is something Mehrling gets wrong later on (I am not yet sure) 
+--- the bank credit money is only as in demand as the government fiat currency, since 
+the government licences the banks, and the bank money to any creditors is equivalent 
+to government issue, since this currency unit is the same unit.
+
+When I say, "as in demand as" I mean generally, in the macro. Obviously people would 
+prefer being given the currency for selling goods or their labour time rather than 
+having to take the bank credit themselves. So it is not the bank credit that is just 
+as much in demand, it is the currency, freely floating, that is in demand. Once you 
+get a tax credit you don't care where it came from. Unless you are a macroeconomist 
+that is, then you do care. Steve Keen's Minksy models show you why you should care. 
+Bank credit sources produce instability, government issue does not.
+
+It is the social consequences of which issuer you get the currency from that matters. 
+It is better to get it as a creditor (work for government, or sell to someone) rather 
+than as a debtor.
 
 
 [Next post (TBD)](./)  
