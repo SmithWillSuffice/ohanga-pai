@@ -45,8 +45,8 @@ This seems to align somewhat with neoclassical economics and the
 "money **_is_** a veil over barter" story, but only if by "barter" we generalize to 
 "any trade in goods or social currency of debts, feuds and other obligations."
 
-((Which I think helps make it crystal clear the neoclassical 'Adam Smith' barter 
-story is both incomplete and reactionary --- because it either implies money 
+((Which I think helps make it crystal clear the neoclassical 'Adam Smith barter 
+story' is both incomplete and reactionary --- because it either implies money 
 is *only* about barter in goods, or in the generalized sense it implies people who 
 have money are in 'social credit' and hence have rightfully by divine decree earned 
 their position (as if theft, exploitation, corruption, and piracy were prevented 
@@ -96,7 +96,8 @@ Also in common is what currency issuers mostly worry about, which is how to driv
 demand for their otherwise worthless I.O.U's. The naïve naturalists, anarchists, 
 Austrian Schoolers, and neoclassicals do not want to grapple with this problem, they 
 try to wish it away like the tooth fairy. But it is the only major problem a wannabe 
-currency issuer faces. Warren Mosler wrote about how  fundamental problem is solved in
+currency issuer faces. Warren Mosler wrote about how this fundamental problem is 
+solved in
 [the 7DIF](https://www.moslereconomics.com/wp-content/powerpoints/7DIF.pdf), 
 first using the case of a family: the parents 
 issue their I.O.U and the children redeem it for extra playtime (or whatever) and 
