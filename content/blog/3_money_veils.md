@@ -112,6 +112,16 @@ overly biased view about what constitutes justified private property rights, and
 like a lot of economists who came out of the anti-marxist classical schools, he tends 
 to shy away from recognizing the role of governments as the currency monopolists.
 
+(Curiously though, most Marxists *also* shy away from recognizing government as the 
+currency monopolist, for the opposite ideological reasons. I guess being on opposite 
+sides of a class war can make people equally delusional.)
+
+The sad thing about that last parenthetical remark is that neither marxists nor 
+anti-marxists *need* to believe in the myth that money is a private creation of 
+banks. It helps both their cases if they recognize the MMT reality.
+You will not win the class war by relying upon a myth, because the other side will always grab an advantage by abandoning the myth and going to reality-based war.
+
+
 ### Misunderstanding energy
 
 This is just  a side note, but an important one, it perhaps concerns one other veil 
@@ -142,13 +152,13 @@ macroeconomic analysis using endogenous growth theory ideas.
 But there is no way pure endogenous growth theory works. It is a joke. 
 
 Furthermore, Young's supposed "big idea" was that contra-Quesnay, contra-Smith and 
-Contra-Marx, it is not land, or labour that is the "source of value" but rather 
+contra-Marx, it is not land, or labour that is the "source of value" but rather 
 "*trade.*" So Young was as naïve as all the rest, albeit a little more original. 
 Young's thesis on trade being the real source of "wealth" is, shall we say, 
 *interesting.* It is a nuanced position. But trade is not possible without energy, so 
 the physiocrats are still the foundation of economics. The higher layers of analysis 
 just ignore this, and never had to worry, until today when energy demands are 
-out-stripping the biospheres regenerative capacity, meaning no trade is going to help 
+out-stripping the biosphere's regenerative capacity, meaning no trade is going to help 
 with this.
 
 To apply Young's thinking however, is not fruitless, because the "trade" in 
@@ -156,7 +166,7 @@ To apply Young's thinking however, is not fruitless, because the "trade" in
 prepared to give Allyn Young his due on getting something good thought-out that went 
 more than a little bit beyond mainstream economic narrow-minded thought.
 
-I could come back to this later and identify this as a fourth veil of money --- the 
+I could come back to this later and identify this as a fifth veil of money --- the 
 idea that money is so dominant in commerce and that **_sales drive profits_** is so 
 critical to capitalism, that the role of energy as the one common dominant factor in 
 all production, of any kind, from socialist to capitalist to feudalist, gets utterly 
@@ -207,7 +217,7 @@ ecological stress boundaries were not understood, and seemed invisible.)
 
 Anyway, I am not going to call the blindness to the role of energy in production one 
 of the veils of money. But in hushed whispers I think it really is one of the veils 
-of money, so would be the fourth on my list. The only reason for whispering here is 
+of money, so would be the fifth on my list. The only reason for whispering here is 
 that I am not exactly sure of the true historical story of how energy got ignored. 
 If engineers and physicists had been the first economists, and not the philosophers 
 of politics and morality, then I think energy would always have been critical in 
@@ -254,7 +264,9 @@ temple, or some other power or authority or collective.
 The MMT story of money is still chartalist, but is *generalized chartalism* --- 
 which means it almost always practically takes some power or authority to run the 
 currency unit payments system. They have to be either trusted, feared, or both.
-Margaret Atwoods accounts in 
+
+
+On this topic, Margaret Atwood's accounts in 
 [Payback: Debt and the Shadow Side of Wealth](https://www.goodreads.com/book/show/3428252-payback) 
 give a vivid history that would make any Zeitgeist Movement Philes wet their pants.
 (The Zeitgeist Movement folks are not all bad though, their motives are all good.)
@@ -283,7 +295,7 @@ either by suspending the artifice of a gold standard, or they just implement pur
 fiat money operations without the gold standard veil forever after.
 
 The gold standard is thus revealed (by wars) to be a veil. There never really was a 
-gold standard. The currency is always a tax credit, and the issuer tells you what 
+gold money. The currency is always a tax credit, and the issuer tells you what 
 it is worth.  If they tell you it redeems for $\pi/100$ ounces of gold, then that's 
 the fiat price. What it can purchase then depends upon the relative price of gold to 
 other goods, but who gets that purchasing power is still a choice of the currency 
@@ -319,14 +331,15 @@ oligarchs.
 ### The second veil
 
 The second veil is the gold standard. The idea that because you need some token 
-to make a payment the token itself is somehow "the money."
+to make a payment the token (or the stuff it is made out of) itself is somehow 
+"the money."
 
 As explained above, the gold standard does not make gold the currency. 
 It makes gold the buffer stock. If the issuer runs out of gold the currency rapidly 
-deflates, since the buffer stock becomes scarce. It is an insane system. 
+deflates, since the buffer stock becomes scarce. It is an insane unstable system. 
 All mainstream economists agree with MMT that sustained moderate inflation is better 
 than any deflation, but especially better than bursts of deflation (bank runs, the 
-Cross of Gold, and all that).
+Cross of Gold, artificial austerity, and all that).
 
 
 ### The third veil
@@ -349,8 +362,8 @@ Japanese management (or any management experts who would listen) that they shoul
 not punish the lowest performing workers, because no matter how perfect their 
 production system, with all workers top notch talents, there is always a lowest 
 performer to be found. Being the lowest performer in a given period thus means next 
-to nothing. The system as a whole has to be judged, not the trivially existing 
-least productive worker. 
+to nothing, it is an incontrovertible statistic. The system as a whole has to be 
+judged, not the trivially existing least productive worker. 
 
 Deming said that if you have a poor performing worker who should "on paper" be an ok 
 worker, something is more likely wrong with the system.
