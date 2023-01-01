@@ -207,6 +207,43 @@ get a tax credit you don't care where it came from. Unless you are a macroeconom
 that is, then you do care. Steve Keen's Minksy models show you why you should care. 
 Bank credit sources produce instability, government issue does not.
 
+However, when a chap like Mehrling comes along and says credit is *not* money he 
+muddies the waters. It might even be poisoning the well. Because if you see "money" 
+as a standalone "thing" that is no other entity's obligation or debt, then you are 
+both crazy and privileging people who can "mine" that stuff out of the ground or on a 
+computer or pirate the stuff.
+
+Partly this is semantics, but in a society the semantics are incredibly important, 
+and if we all have a common misunderstanding that "money" equals "some scarce stuff 
+that everyone just agrees can settle payments" then you are down the cryptocurrency 
+dead-end road, allowing all sorts of scams and frauds. Whereas if you take the MMT 
+semantics, that all money is an IOU of the issuer --- a promise to redeem --- then you 
+have at least the possibility of a just society in the payments layer. the 
+possibility, because justice still needs to be fought for and protected, and MMT is 
+only an intellectual weapon in that on-going spiritual war or jihad.
+
+Why I say the semantics matters is because it makes a difference. You can easily 
+pirate gold or crytocurrency (the latter is called cracking (not hacking) or a 
+software back-door). But you cannot pirate records on a secured public ledger, at 
+least not very easily, you have to own the ledger. Private bank deposit accounts are 
+extremely secure in most nations. To the extent they are insecure they become 
+pirate-able. People are tight-assed about their bank accounts, and will soon let the 
+police or serious fraud office know if their account gets tampered with. To the 
+extent bankers are *at bare minimum* trusted *at least* not to fiddle too much 
+with the numbers in your bank account then the banking system prevents piracy. 
+History shows empirically it works. 
+It just works. Except when the thieves own the banks. 2008 GFC style.
+(Read William Black's book, 
+[\'The Best Way to Rob a Bank is to Own One\'](https://utpress.utexas.edu/books/blab2p).)
+
+But even in the lead-up to the 2008 GFC, no bankers were fiddling with the numbers in 
+*your* bank account. They do not need to. They need to fiddle with the numbers in 
+their own bank account, mark *them* ones up my dudes!
+I admit this matters if done on a large scale, because the ratio of the bank account 
+numbers is what matters for social equity and justice, if a million bankers can just 
+mark-up their accounts by ten times that of everyone else, using a keyboard, 
+they gain relatively more purchasing power, regardless of what "stuff" you think "the money" happens to be, fool.
+
 It is the social consequences of which issuer you get the currency from that matters. 
 It is better to get it as a creditor (work for government, or sell to someone) rather 
 than as a debtor. You ideally, at the macro level, want the government to be the principle debtor, because they cannot run out of their won currency. This is 
@@ -214,6 +251,6 @@ the thinking behind the Positive Money movement, which unfortunately also suffer
 from insanity, so I should write about that some time.
 
 
-[Next post (TBD)](./)  
+[Next post (Capitalism and Reality)](../5_capitalrealism)  
 [Previous post (The Veils of Money)](../3_money_veils)  
 [Back to Blog TOC](../)
