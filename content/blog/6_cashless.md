@@ -13,7 +13,7 @@ Over at [Real Progressives](https://realprogressives.org/podcast_episode/episode
 library of podcasts on macroeconomics and social issues relevant to our times, loads 
 of politics and brilliant thinkers. One of them is Brett Scott (a South African, 
 probably a Bok supporter, but we won't hold that against him aye All Blacks fans). 
-His wheelhouse is fintec (the horrors of it) and payments systems, particular cash, 
+His wheelhouse is fintec (the horrors of it) and payments systems, particularly cash, 
 and the 
 [War on Cash (for readers)](https://www.opendemocracy.net/en/opendemocracyuk/war-on-cash/) 
 or if you prefer watching [talks here.](https://www.youtube.com/watch?v=vcE1IiiIV0A)
