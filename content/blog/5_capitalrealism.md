@@ -1,8 +1,8 @@
 ---
 title: "Capitalism as It Exists"
 description: ""
-date: 2022-12-30
-lastmod: 2022-12-30
+date: 2022-12-29
+lastmod: 2022-12-29
 cover: ""
 coverAlt: ""
 katex: true
