@@ -143,23 +143,42 @@ This means to the point of allowing anyone to submit software patches. (Submitti
 I know what you are going to say, if you live in the UK or USA, which is that (a) you cannot trust your government, and (b) the Congress is too moribund to clear out the cockroaches at the FED and open the US central bank system up to democratic control.
 
 Well,... ($^\prime) how about trusting the private firms more? And (b$^\prime$) I think Brett Scott is never going to get his army to win the war on cash, so you'd better force your government to protect some payments system that has the same function as cash.
-Because you are going to lose paper and coin currency anyway (except for collector catalogues and historian's museums). If you do not see a CBDW as functionally as good as cash, you'd better look-up [Rohan Grey](https://rohangrey.net/writing/#digital) and the [MMN people](https://www.modernmoneynetwork.org/) to figure out the functional equivalent.
+Because you are going to lose paper and coin currency anyway (except for collector 
+catalogues and historian's museums). If you do not see a CBDW as functionally as good 
+as cash, you'd better look-up 
+[Rohan Grey](https://rohangrey.net/writing/#digital) 
+and the [MMN people](https://www.modernmoneynetwork.org/) to figure out the functional equivalent.
 
 As a mathematics nerd, I can tell you that is an easy thing to do. 
 
 I got into a one-tweet "feud" with Rohan about GNU Taler, which provides anonymity 
-for buyers, but not sellers (by design) and is purely payments method, not itself a currency (is is just software for frictionless payments with encryption security, and is open source free licenced, so is better than PayPal). 
-Rohan blasted me because some categories of workers who sell stuff a few lunatics do not want them too, need protection, so should also have anonymity protected.
+for buyers, but not sellers (by design) and is purely payments method, not itself a 
+currency (is is just software for frictionless payments with encryption security, and 
+is open source free licenced, so is better than PayPal). 
+Rohan blasted me because some categories of workers who sell stuff a few lunatics do 
+not want them too, need protection, so should also have anonymity protected.
 
 ((I do not think the payments system is the right place to protect workers, but it 
-might be a necessary last ditch protection in some backwards countries, like the USA.))
+might be a necessary last ditch protection in some backwards countries, like the 
+USA.))
  
 This ignores the fact GNU Taler can always protect certain categories of sellers too. 
-You just design it so. It is just software. t is a n existing proof of concept for a central bank digital wallet.  The point is, the technology already 
+You just design it so. It is just software. t is a n existing proof of concept for a 
+central bank digital wallet.  The point is, the technology already 
 exists for serving most of the functions of cash. My only other point was that GNU 
 Taler is free-libre software, so any central bank can use it, modify it to suit 
 public use to protect anyone Rohan Grey wants to protect, and it remains free-libre 
 (bu the GNU copyleft licence).
+
+I hope I do not come across as a nasty old grouchy nemesis of Brett Scott's. I do 
+think the war on cash is real. There are smart ways to win it for the 
+common people --- which I think is to abstract cash and make it bullet proof 
+by function.
+
+Whenever something exists identifiable as a war, it is usually not good for someone in 
+society, and usually tremendously so-much-winning for some giant fat asshole in a 
+suit. 
+
 
 [Next post (TBD)](./)  
 [Previous post (Capitalist Realism)](../5_capitalrealism)  
