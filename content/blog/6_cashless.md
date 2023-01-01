@@ -1,8 +1,8 @@
 ---
 title: "Is a Cashless Society Good?"
 description: ""
-date: 2022-12-29
-lastmod: 2022-12-29
+date: 2022-12-30
+lastmod: 2022-12-30
 cover: ""
 coverAlt: ""
 katex: true
