@@ -20,6 +20,6 @@ people act as if MMT is a fiction then we have a cause of great suffering for th
 
 That's all. Wittgenstein koan mode today.
 
-[Next post (TBD)](./)  
+[Next post (Is a Cashless Society Good?)](../6_cashless)  
 [Previous post (Money and Banking in Euroland)](../4_mab_2_2_euroland)  
 [Back to Blog TOC](../)
