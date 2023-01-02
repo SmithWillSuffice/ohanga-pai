@@ -73,7 +73,7 @@ Goodwin-Minsky variety, to get the very high level macro dynamics correct. A dud
 Portugal did this for the Portuguese economy, Pedro Sousa, you can get 
 [his PhD paper here.](https://repositorio.iscte-iul.pt/bitstream/10071/11199/1/TESEcorrigida.pdf)
 Being in the EU this thesis was not trivial, the bank flows had to be carefully 
-analysed.
+analysed. Sousa did an excellent job.
 
 Such models are not going to say squat about stock prices, but they might have useful 
 information for informing us about macro aggregates, like the S&P500 or NASDAQ, or in 
@@ -86,10 +86,64 @@ one price level, or two if you are clever (asset prices (I call them fictional g
 can be partially de-coupled from goods prices, real goods being physical things 
 people consume, not numbers on bits of paper).
 
+All the forces in most of the Keen-Minsky models I can currently build are 
+behavioural equations, such as the Phillips curve. The rest is just stock-flow 
+consistency (the "mere accounting".)
+
+Your nation does have to have a fair justice system to have the accounting rule 
+satisfied in reality though, it is not trivial. Imagine rampant counterfeit. Imagine 
+rampant bank fraud. Such deviant (and illegal) behaviour would invalidate a 
+Minksy-Kenn model, unless we accounted for it --- black market ops and counterfeit 
+rows in the Godley Tables?  for the most part we hope to be able to ignore such 
+factors.
+
+This leaves us with the generalized forces driving relative and absolute price 
+movements that will need to be empirically determined. That is a hard task. 
+But some physics principles can help us.
+
+
+### How can you measure a force?
+
+If something is moving, you can measure the force by measuring acceleration. 
+We can do this for a lot of the fiscal flow data published by the FRED and BIS.
+The good early news is that we can see hints of causal relations from looking at the 
+accelerations in lagged margin debt and the SPX. This is promising, because although 
+there is still a lot of noise, we can see a generalized force acting.
+
+The problem is the economic system has many people with their feet on gas peddles and 
+brakes, all over the place. And we are looking at the superposition of them all in the 
+aggregate. So it is always going to be noisy. 
+
+The conjecture our research is based upon is that some of this will be gaussian 
+noise. If it is, then we are not dealing with power law dynamics, and not with fat 
+tails in signals.  This is vital for getting well-trained neural nets. ANN's do not 
+"like" noise. It is best to think of an ANN as merely canning your reasoning capacity 
+when comatose or dead drunk. It is going to be feeble. But you can make out numbers 
+and letters, and maybe stop versus go signs.
+
+What if the forces are static (in stress)? I am not sure economics has this concept, 
+but "consumer sentiment" is possibly a qualitative form of data we might be able to 
+use, but at this stage it would be sketchy. (It is something stock brokers and finance 
+journalist use.) Debt-to-GDP is a stock, and stocks are a lot like static forces. You 
+can measure their velocity and acceleration to get a flow variable, but if you can 
+also find a "force" signal in the stock, then that is acting like a stress.
+
+A good example of this is a major example! The Great Crash of 1929 and the GFC of 
+2007-8. Both had private debt in excess of 150% of GDP. This was the stress variable. 
+It's rate of change was over 10%, and that was an acceleration measure. Both seem to 
+be triggers, neither separately, this is from empirical work by Richard Vague (see, 
+[A Breif History of Doom](https://www.upenn.edu/pennpress/book/15996.html).
+
+I should have more to write about this in coming months. We are trying to find the 
+dominant accelerators. I guess it is also worth mentioning Wall Street Quants 
+probably know the accelerators, they just do not make that knowledge public.
+So we have to do this work for our community of followers.
+
+
 ### Forces from Ledger Books?
 
 The Godley Tables [illustrated here by Ty Keynes](https://www.youtube.com/watch?v=CoglF8_z7lk) do not model generalized economic forces *per se*. 
-They model the accounting rules. The reason Steve Keen says his Minksy DS models 
+They model the accounting rules. The reason Steve Keen says his Minksy DynSys models 
 "prove MMT" is because he says "MMT is just accounting." (This is pretty awful of 
 Steve, but he can be forgiven.)
 
@@ -113,9 +167,9 @@ dynamics. Stock prices move by one type of set of forces, but wages by others. A
 often activists are more interested in wage and consumer price goods price movements, 
 and could give a fig about the stock price movements. 
 
-What MMT says is these cannot all be completely de-coupled, because of the fiscal 
+These cannot all be completely de-coupled, because of the fiscal 
 constraints embedded in the banking system. The government has "freedom" to set the 
-absolute price level (what appears in a Keen-Godowin-Minsky model) but not all the 
+absolute price level (what appears in a Keen-Goodwin-Minsky model) but not all the 
 relative prices (unless they are a totalitarian government, which we have never 
 really perfectly seen on Earth, just approximations).
 
@@ -150,12 +204,12 @@ who lives are already the most miserable, but pushing an austerity politics usin
 interest rate repeller, among other injustices.
 
 I would also claim that warren Mosler best understood the impact of moving to a 
-floating exchange rte, and the fiscal space this freed up for a government. 
+floating exchange rate, and the fiscal space this freed up for a government. 
 Post-Keynesians (generally, not all) still do not comprehend this, and Steve Keen 
 seems to still be one of them. Most post-Keynesian think the exchange rate is an 
 exogenous constraint. MMT says it is not, not if you understand the correct actual 
 software-driven, legally instituted monetary operations available to governments. But 
-this includes *legal.  Let me say it gains **-legal arrangements.** MMT says these 
+this includes *legal*.  Let me say it again **legal arrangements.** MMT says these 
 matter, over and above the accounting principles. This is vital for understanding why 
 no fit currency issuing government has any foreign exchange constraint (they do if 
 the make up one). Only Mosler in 1995 understood this. Nd most post-Keynesian still 
@@ -164,9 +218,44 @@ imports as a benefit (the MMT story, which is correct). The exports are the pric
 pay for your imports. This is not "neoclassical" thinking as Steve Keen slurs the MMT 
 community with, it is just logic.
 
-But the logic can cause suffering for poorer nations if people do not understand it. Like the logic of what happens when you ignore momentum and walk into street lamp poles.
+But the logic can cause suffering for poorer nations if people do not understand it. 
+Like the logic of what happens when you ignore momentum and walk into street lamp 
+poles.
 
-Once Steve acknowledges all this, and the other generalized forces on the MMT social 
+Lastly for today, I will mention two key **_conditional fundamentals_** that post-Keynesians do not seem to understand or know:
+
+1. Deposit holders know crap all about their bank. So the liability side of banking is not the place for market discipline.
+2. The central bank policy levers are about prices (interest rates) and not quantities.
+
+Why are these conditional fundamental? It is because they apply when a nation uses a 
+tax credit which is a non-convertible currency on a floating exchange rate. Without 
+those conditions the central bank has to employ methods like bond issuance to control 
+interest rates to control (weakly) exchange rates. With floating exchange rates there 
+is no need for those functions,and the above two fundamentals apply.
+
+On fundamental **1** Mosler writes, "...even Wall Street analysts can't reliably do this" (assess bank insolvency risk). I also thought it worth quoting the rest of Warren's paragraph on banking proposals for helping the smaller banks:
+
+> "Regulation and supervision on the asset side then became the imperative. And while 
+we have seen periodic failures due to lax regulation and supervision of the asset 
+side of the US banking system, and it's a work in progress, the alternative of using 
+the liability side of banking for market discipline exposes the real economy to far 
+more disruptions and far more destructive systemic risk."
+
+You cannot get more MMT than this. If you do not understand monetary operations, you will introduce instability and inequality.
+
+What ticked me off about Steve's flippant comments was that it is not only Warren who has been preaching the truth for years, Steve Keen's acquaintance Charles Goodhart has too, as Warren relates (fairly blisteringly true I might add):
+
+> Those who understand reserve accounting and monetary operations, including those 
+directly involved in monetary operations at the world's central banks, have known for 
+decades that in banking, causation runs from loans to deposits, with reserve 
+requirements, if any, being merely a 'residual overdraft' at the central bank and not 
+a control variable. This includes Professor Charles Goodhart at the Bank of England, 
+who has written extensively on this subject for roughly half a century, endlessly 
+debating the 'monetarist' academic economists who spew gold standard and fixed 
+exchange rate rhetoric, and who are unaware of how monetary operations are altered 
+when there is no legal convertibility of a currency.
+
+Once Steve acknowledges all this, and the other generalized forces in the MMT social 
 movement, he will apologise to us!  He is a good guy. I mean a *really* good and nice 
 guy. Salt of the Earth, with a bit of a fire cracker in his hand too though. Also, I 
 am pretty sure he is trolling us when he says "MMT is just accounting." So I took the 
