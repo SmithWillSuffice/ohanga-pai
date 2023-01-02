@@ -90,9 +90,20 @@ I would like to hear from anyone who thinks this is not the case and that someth
 unique and essential about physical cash (notes and coins, or even cheques) is missing 
 in something like an open source protected central bank digital currency. 
 I will concede the *comfort* of physical cash might have to go, but you can put fluffy 
-ears on your digital wallet plastic thingy. (This is not a credit card, but would look similar I guess. It is a tax credit card, the opposite of a credit card.)
+ears on your digital wallet plastic thingy. (This is not a credit card, but would look 
+similar I guess. It is a tax credit card, the opposite of a credit card.)
 
-((By the way, please do not use the term "tax credit card" in polite company. Although *we* know it is accurate, other people will completely misconstrue the meaning.))
+((By the way, please do not use the term "tax credit card" in polite company. 
+Although *we* know it is accurate, other people will completely misconstrue the 
+meaning.))
+
+The cheap-as-peanuts chip in the floppy cash card should *not* have any proprietary 
+firmware in it of course, and should be free-libre software. The banking system only 
+needs a ledger as a second security, in case this chip get zapped by a strong 
+magnetic or cosmic ray. Otherwise, it is like physical cash, it knows it's own 
+present value, and is not coupled to the Internet. When using it to pay you should be 
+able to visibly see the number marked-down,and likewise if you sell something the 
+number is marked up, or with tactile response for the blind.
 
 You have to disabuse yourself of the notion in the USA the FED is a private bank, or 
 if you still think it is, then we will say Congress scraps the FED (they did create 
@@ -198,6 +209,33 @@ In the USA today far too much private credit creation power exists and there are
 too few regulators protecting the public interest, so that has gone too far away from 
 a cash system.
 
+The point Brett Scott makes, and this is very important, is that when banks shut down 
+ATM and teller branches, they are forcing people to use their bank cards. But the 
+currency unit is still the state currency, so what is the problem?
+
+The problem is that using the bank **_instruments_** (credit cards, EFT-POS, 
+mortgages, hire-purchase) allows the banks to charge you transaction fees. The fees 
+are so small most people do not care, but that is a fallacy of composition. Like 
+voting in elections, the cumulative effect is a massive distortion. In voting it 
+gives you democracy, but in banking is delivers power and control to single private 
+institutions, the banks. It is far more egalitarian if the government's bank, the 
+central bank, gives you payments access without fees, and without making your 
+personal information the proprietary right of the banks to store.
+
+Governments do not need to charge fees, since they are the currency issuers. Unless 
+they need to drive more demand for their currency, they can run payments for free, as 
+a public utility, the cost of this is moving people who run the system out of the 
+private sector into the public sector, that is the "pay for."  Some folks are 
+religiously opposed to that, but they cannot fairly oppose a system that has both 
+options, private fee-charging banks *and* public fee-less banks.
+
+People say they would not trust governments either, and they're not wrong, but that's 
+a failure of democracy, not a success for democracy, so what you want is a public 
+currency system that is open and transparent and more democratic, not less.
+By all means though, if you trust a private banker more, then you can have the option 
+to have them store your data instead. My point (same as Brett) is that people should 
+have the option.
+
 
 ### Point 2 --- cash remains
 
@@ -276,6 +314,10 @@ Whenever something exists identifiable as a war, it is usually not good for some
 society, and usually tremendously so-much-winning for some giant fat asshole in a 
 suit. In any case, if Brett does rouse up an army for this war, I'll be giving them my 
 intellectual guns.
+
+### Your Challenge
+
+Force me to re-write or delete this post by coming up with an unassailable objection to either (i) retiaign cash, but also(ii) making cahs better, using secured digital wallets, free from the banking system, but accepted as "tax credit" anywhere. The same function as existing cash.
 
 
 [Next post (Accelerators and Repellers)](../7_accelerators_repellers)  
