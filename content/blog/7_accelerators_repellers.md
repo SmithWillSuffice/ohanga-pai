@@ -142,8 +142,33 @@ So we have to do this work for our community of followers.
 
 ### Forces from Ledger Books?
 
-The Godley Tables [illustrated here by Ty Keynes](https://www.youtube.com/watch?v=CoglF8_z7lk) do not model generalized economic forces *per se*. 
-They model the accounting rules. The reason Steve Keen says his Minksy DynSys models 
+The Godley Tables [explained here by Ty Keynes](https://www.youtube.com/watch?v=CoglF8_z7lk) do not model generalized economic forces *per se*. 
+They model the accounting rules. The flows are determined by behavioural equations 
+that relate the stock variables in Minsky-Keen models. For example, a Phillips Curve 
+for the wage rate as a function of employment and price level.
+
+The behavioral function, here $f(t)$,
+$$
+\frac{dx_i}{dt} = f(t, x_1, x_2, \ldots)
+$$
+is like a generalized force. But if the dependent variable $x_i$ here is not a price, 
+then it is not so useful for DougBot. The price might however be sensitive to $x_i$, 
+which would be useful to know.
+Also, we'd need $x_i$ itself to be a flow, not a stock. That is because a rate of 
+change, $dx/dt$ is a velocity, not an acceleration. If $x_i$ were a stock then $f(t)$ 
+would be a velocity (e.g., how fast cash is turning over).
+
+If we were to only look at velocities we would not have a causal model. To get cause, 
+we need force. Forces are the drivers. Velocities are the effects of the drivers, and 
+stocks are the lowest downstream effects (where things end up after a given time 
+period).
+
+I need to write a caveat: all this is largely metaphorical. Outside Steve Keen's 
+work, no one really understands the financial system in force-like terms, it is all 
+"energy-like" --- in thermodynamic equilibrium --- if you wanted a physics analogy, 
+which is all wrong-headed neoclassical thinking.
+
+BTW: The reason Steve Keen says his Minksy DynSys models 
 "prove MMT" is because he says "MMT is just accounting." (This is pretty awful of 
 Steve, but he can be forgiven.)
 
@@ -177,15 +202,15 @@ One reason Steve Keen tarnishes his reputation by abusing the MMT community as
 "nothing but accountants" is because it matters politically whether people understand 
 the MMT system, and use it wisely, and that has been the point of the MMT social 
 movement for over 30 years as of to date, from the founding by Warren Mosler, Bill 
-Mitchell and Randall Wray, coming in with Stephanie Kelton and Pavlina Tcherneva, 
+Mitchell and Randall Wray, joined by Stephanie Kelton and Pavlina Tcherneva, 
 Matt Forstadter, Scott Fulwiler, and now legions of others.
 
-In particular, what Steve Keen has never acknowledged correctly is the insight of 
-Bill Mitchell on buffer stocks, and that the MMT system which is currently an 
+In particular, what Steve Keen has never acknowledged correctly afaik is the insight 
+of Bill Mitchell on buffer stocks, and that the MMT system which is currently an 
 operational reality in most nations in the world, uses a labour buffer. This is vital 
 to MMT understanding. Without it you get idiots like Steve Keen (I can say this, 
 since he is a good Internet friend, and an Aussie, so he knows I am just blowing hot 
-air, but only half-joking).
+air, but only half-joking) claiming MMT is nothing but accounting. I say to Steve that a labour buffer is not accounting, it is a matter of grave social justice (or injustice, depending on how people understand the buffer). 
 
 I also think Steve Keen is very old school on the Treasury bonds story. 
 Warren Mosler 
