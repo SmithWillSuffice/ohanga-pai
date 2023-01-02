@@ -6,7 +6,6 @@ lastmod: 2022-12-30
 cover: ""
 coverAlt: ""
 katex: true
-draft: true
 tags: []
 ---
 
@@ -203,6 +202,6 @@ suit. In any case, if Brett does rouse up an army for this war, I'll be giving t
 intellectual guns.
 
 
-[Next post (Accelerators and Repellers)](../7_accelerators_repellers)  
+[Next post (TBD)](./)  
 [Previous post (Capitalist Realism)](../5_capitalrealism)  
 [Back to Blog TOC](../)
