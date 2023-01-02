@@ -100,6 +100,78 @@ the expertise to run the payments system. They will not be in to selling Treasur
 bonds. They will not be permitted to bail out fraudulent private institutions.
 
 
+### Avoiding trivilization of the comfort
+
+I did trivialize too much. The thing is, I believe there is a residual important 
+comfort factor for physical cash (notes and coins). But I do not buy Brett Scott's 
+rhetoric that saving cash is the way to go to maintain an inclusive society free from 
+predatory banks.
+
+This is similar to the one-tweet beef I had with Rohan Grey ([see below](#caveats)). 
+Grey wants to protect certian workers by allowing sellers to be anonymous. Whereas I 
+do not think that is healthy for a civilized society. We ought to protect precarious 
+and vulnerable workers in other more substantial ways than by anonymising the 
+payments layer. Firstly by eliminating precarious and vulnerable work. Why should a 
+sex worker have to commodify their body? It makes total inhuman sense to me. Why 
+should an abortion clinic fear the bombers? A payments anonymity is not going to 
+prevent them from being discovered. 
+
+Likewise with Brett Scott's fears for the vulnerable and those whom the banks prey 
+upon. Why the hell do we need the payments system to protect them? That, to me, is 
+ceding power to capitalism. We can do much better. Such as making banking boring 
+(the 
+[Mosler Proposals](http://moslereconomics.com/wp-content/uploads/2009/09/Proposals-for-the-Treasury.pdf). 
+They afford a huge amount of consumer protections very elegantly and parsimoniously.)
+
+I mean who is really being naïve here? Myself, who says we can have far better and 
+stronger protections for workers, or Brett and Rohan who want to use a system that is 
+not designed to protect workers to protect workers? I appreciate it can be useful to 
+design the payments layer to better protect workers, but I think it is insufficient 
+protection, and if you cannot see that then I am awfully sorry for your poor 
+intellect. There is a dirtbag leftie argument though: you gotta do what you can. So 
+in the USA, and maybe the UK, remaking the payments layer to fully include cash, 
+might be one way of temporarily protecting some workers, and that might be useful if 
+that is the only reform you can get. From this perspective I come across like an 
+idealistic fool, which is fair criticism if you have this perspective. I do not. I 
+think current societies can do better, all is not hopelessly capitalist realism.
+
+If you do want a form of payments that is functionally the same as cash, and still 
+physically comfortingly close to cash, then make the plastic the tax credit cards are 
+made from floppy and show the amount of credit on them, visibly, like a note. 
+You might call them "smart notes" and then go all Luddite on me because they have 
+embedded firmware. The solution to that is offer consumers free-libre software 
+floppy cash cards.
+
+This is the physics ontology fallacy. Notes and coins are made of the same stuff as 
+plastic card, electrons and quarks. Paper cash can be hacked perhaps even more easily 
+than digital wallets, since a digital wallet can be password protected, but a 
+pick-pocket can hack your notes and coins in the blink of an eye.  That's called 
+hacking in The Matrix, since if we were in a Matrix that pickpocketing would be all 
+digital functions and algorithms. Point is, we *do* live in a Matrix. Of a social 
+type, for sure, quantum physics and Einstein spacetime and all that, but it is still 
+a rule-driven system that permits hacks.
+
+Socially protected cash cards, or floppy comfy cash, is one thing which can be done 
+in a society --- so I guess the Thatcherites believe it cannot be done. In a society 
+other people who can comprehend the software will check it for bugs and back-doors, 
+*you* do not have to be individually responsible for securing your cash, the whole of 
+society can.
+
+What I like about all this is that you can see I am almost merging with Brett Scott, 
+because once I abstract the necessary functions of cash into some other more secure 
+system, there is really no difference in my position and Brett's. We just have to 
+abstract Brett Scott.
+
+We might see different ways to save cash, but functionally they'll be near enough to 
+the same in every important way. The psychological attachment to cash in notes and 
+coins can easily be overcome, without losing any of the other important functions. 
+That is because humans are incredibly adaptive beings. Few people cherish their old 
+Tamagotchi or PlayStation2 or worry than a vinyl record cannot ever be produced again 
+if one wants one (they are still produced these days, you just have to want one).
+
+<div style="text-align: center;">&nbsp; *&nbsp;&nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</div>
+
+
 Now a few comments on the above points.
 
 
