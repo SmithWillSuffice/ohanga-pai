@@ -34,9 +34,9 @@ understand human consciousness is not explained by physics (the inner subjective
 phenomenal qualia). So no matter what the source of human consciousness is (we do not 
 really care for present purposes) whatever it is, it is not physics. So human 
 psychology is not driven by bottom-up blind physical events. You will need to read my 
-other website ([T4G theory,](https://t4gu.gitlab.io/t4gu/) to see one set of reasons 
+other website ([T4G theory](https://t4gu.gitlab.io/t4gu/)) to see one set of reasons 
 why, or just trust me. Human beings making good and bad, lame and chad, decisions are 
-top-down influences on economics, with bottom-up signals as other inputs.)
+top-down influences on economics, with bottom-up signals as other inputs.))
 
 
 ## Generalized Forces
@@ -51,7 +51,141 @@ state-of-the-art dynamical systems models and ANN (artificial neural networks).
 
 The thing is, no dynamical system model can do a better prediction or modelling job 
 than the accuracy of your modelling assumptions permits. And no ANN can do a better 
-prediction of modelling job that the data it gets trained on can admit. 
+prediction or modelling job that the data it gets trained on can admit. This is 
+because all real ANN's are finite state machines. So they lack conscious thought and so 
+lack genuine creative insight capacity, and so cannot generate more than what 
+information theory à la Shannon can be found in their inputs. (This is all so 
+unless you subscribe to radical panpsychism.)
+
+Anyhow, this is a big issue for our effort over at the 
+[DougBot project](https://www.patreon.com/mmtmacrotrader), because what I argue (with 
+Douglas) is that we are automating his canniness, not creating a new thinking being 
+that can oracle the stock prices. In pragmatic terms this does not really effect our 
+research, because in research a team needs push and pull. But for you philosophers of 
+finance this might be of interest, also if you are an investor who has come across 
+some wild good claims about how a genius has found a way to beat the markets and earn 
+you insane returns. Did someone just say "Carlo Pietro Giovanni Guglielmo Tebaldo 
+Ponzi"? 
+
+Rather than looking for oracle powers, the idea and method for DougBot is to use 
+hybrid techniques. The simplest is to use a dynamical system model, of the Steve Keen 
+Goodwin-Minsky variety, to get the very high level macro dynamics correct. A dude in 
+Portugal did this for the Portuguese economy, Pedro Sousa, you can get 
+[his PhD paper here.](https://repositorio.iscte-iul.pt/bitstream/10071/11199/1/TESEcorrigida.pdf)
+Being in the EU this thesis was not trivial, the bank flows had to be carefully 
+analysed.
+
+Such models are not going to say squat about stock prices, but they might have useful 
+information for informing us about macro aggregates, like the S&P500 or NASDAQ, or in 
+New Zealand the NPX.
+
+The trouble is, macroeconomic models deal with fiscal flow or [Godley Tables,](https://www.youtube.com/watch?v=CoglF8_z7lk) 
+and there is no real generalized force in them for seeing how relative prices move, 
+because with the complexity available currently in these Minsky models, there is only 
+one price level, or two if you are clever (asset prices (I call them fictional goods) 
+can be partially de-coupled from goods prices, real goods being physical things 
+people consume, not numbers on bits of paper).
+
+### Forces from Ledger Books?
+
+The Godley Tables [illustrated here by Ty Keynes](https://www.youtube.com/watch?v=CoglF8_z7lk) do not model generalized economic forces *per se*. 
+They model the accounting rules. The reason Steve Keen says his Minksy DS models 
+"prove MMT" is because he says "MMT is just accounting." (This is pretty awful of 
+Steve, but he can be forgiven.)
+
+We, MMT enthusiasts, would say MMT is a lot more than accounting. It is about 
+societies legal and financial institutional arrangements, and much more than just 
+accounting rules. However, in part, Steve Keen is right about the use of Godley 
+tables because of these legal rules. In the old days it used to be 
+
+
+## The Interest Rate repeller
+
+
+```
+TODO: went on the rant below before finishing the notes on attractors adn repellers.
+```
+
+### Other Social Forces
+
+There is of course a lot more to the MMT analysis and its implications for system 
+dynamics. Stock prices move by one type of set of forces, but wages by others. And 
+often activists are more interested in wage and consumer price goods price movements, 
+and could give a fig about the stock price movements. 
+
+What MMT says is these cannot all be completely de-coupled, because of the fiscal 
+constraints embedded in the banking system. The government has "freedom" to set the 
+absolute price level (what appears in a Keen-Godowin-Minsky model) but not all the 
+relative prices (unless they are a totalitarian government, which we have never 
+really perfectly seen on Earth, just approximations).
+
+One reason Steve Keen tarnishes his reputation by abusing the MMT community as 
+"nothing but accountants" is because it matters politically whether people understand 
+the MMT system, and use it wisely, and that has been the point of the MMT social 
+movement for over 30 years as of to date, from the founding by Warren Mosler, Bill 
+Mitchell and Randall Wray, coming in with Stephanie Kelton and Pavlina Tcherneva, 
+Matt Forstadter, Scott Fulwiler, and now legions of others.
+
+In particular, what Steve Keen has never acknowledged correctly is the insight of 
+Bill Mitchell on buffer stocks, and that the MMT system which is currently an 
+operational reality in most nations in the world, uses a labour buffer. This is vital 
+to MMT understanding. Without it you get idiots like Steve Keen (I can say this, 
+since he is a good Internet friend, and an Aussie, so he knows I am just blowing hot 
+air, but only half-joking).
+
+I also think Steve Keen is very old school on the Treasury bonds story. 
+Warren Mosler 
+[had the insight](http://moslereconomics.com/wp-content/uploads/2019/10/35432615-Soft-Currency-Economics.pdf) 
+(no one else agreed with him at the time) that when the FED sells Treasury bonds for 
+"monetary operations" it was functionally the same as Treasury selling bonds for 
+"fiscal operations". He realized you cannot call them different functions. Still to 
+this day most post-Keynesians disagree, and this is not a mere accounting squabble. 
+People agree about the software operations, I think. It is a government function 
+insight. The FED cannot be thought of as a private entity independent of US 
+government. If you still think otherwise, you are not MMT aware.
+
+The thing is, it makes a huge difference in political economy, so is far, *far* 
+beyond the impact of "just accounting." It can ruin people's lives, and always those 
+who lives are already the most miserable, but pushing an austerity politics using the 
+interest rate repeller, among other injustices.
+
+I would also claim that warren Mosler best understood the impact of moving to a 
+floating exchange rte, and the fiscal space this freed up for a government. 
+Post-Keynesians (generally, not all) still do not comprehend this, and Steve Keen 
+seems to still be one of them. Most post-Keynesian think the exchange rate is an 
+exogenous constraint. MMT says it is not, not if you understand the correct actual 
+software-driven, legally instituted monetary operations available to governments. But 
+this includes *legal.  Let me say it gains **-legal arrangements.** MMT says these 
+matter, over and above the accounting principles. This is vital for understanding why 
+no fit currency issuing government has any foreign exchange constraint (they do if 
+the make up one). Only Mosler in 1995 understood this. Nd most post-Keynesian still 
+do not, hence we have stupid debates about trade policy and exports as a cost, 
+imports as a benefit (the MMT story, which is correct). The exports are the price you 
+pay for your imports. This is not "neoclassical" thinking as Steve Keen slurs the MMT 
+community with, it is just logic.
+
+But the logic can cause suffering for poorer nations if people do not understand it. Like the logic of what happens when you ignore momentum and walk into street lamp poles.
+
+Once Steve acknowledges all this, and the other generalized forces on the MMT social 
+movement, he will apologise to us!  He is a good guy. I mean a *really* good and nice 
+guy. Salt of the Earth, with a bit of a fire cracker in his hand too though. Also, I 
+am pretty sure he is trolling us when he says "MMT is just accounting." So I took the 
+bait. Also, he said that 
+[at an MMT Conference](https://www.youtube.com/watch?v=DoMPlG5kgNE), 
+so of course he was having an Aussie lark, but he can also be damaging to the MMT 
+movement when he says such things more publicly, because they are wrong. This matters because Steve is a very influential economist and activist.
+
+((**Note to self:** need to write a theory section on trade. When we write about trade, the important thing is to not be too simplistic and naïve (a word I seem to need to use a lot). Fadhel Kaboub and Jan Kregel are MMT aware and have a decent body of work on international trade, and the exchange rate is not their problem, the biggest problems by far are imperial power abuses, neocolonialism, and just broadly war and injustice and dysfunctional justice systems in the weaker nations. Fixing up their exchange rate is pretty much negligible help with all that, but they need the MMT lens to know what to do about it when they restore civil society. Australia will never have a foreign exchange constraint because their government know how to tell foreign buyers of their land and politicians to piss off --- at least if they want too, if they do not want to, well,...  then they're less civilized.))
+
+Even *more generally* we are, in the DougBot project, using an MMT understanding, a 
+lens, to do finer grain price analysis. It is not merely accounting, and although we 
+could call it post-Keynesian, or Institutionalist, MMT is a superset of these 
+schools, not a subset. Anyone thinking otherwise is just being very nasty to the 
+founders of the movement like Mosler and Mitchell. Randall Wray is a better arbiter, 
+since he was a post-Keynesian, and still is! He considers himself now MMT in thought. 
+Not that any of these labels and names matter, but funnily in the economics 
+profession they seem to, like they do not in physics or mathematics where I come 
+from.
 
 
 [Next post (TBD)](./)  
