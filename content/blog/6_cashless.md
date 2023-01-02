@@ -23,7 +23,8 @@ or if you prefer watching talks, [try here.](https://www.youtube.com/watch?v=vcE
 ## Control and Domination
 
 If you control the payments system you are a little bit like a god. 
-That's not healthy. 
+That's not healthy. Better that no one person does that, and rather a democracy 
+has the control.
 
 For a more scholarly argument you need to read or listen to Brett. The gist of the 
 war on cash is fourfold, which I've modulated from Brett's framing by inserting 
@@ -36,7 +37,7 @@ inclusion and some privacy if people cannot use cash.
 3. The war involves banks shutting down ATM and bank branches, making it impossible 
 for people to even get or move cash through the banking layer. The War involves many 
 other methods, most people are not even aware, it is a silent war. VISA run active 
-propaganda for their war on cash --- it is to raise their profits.
+propaganda for their war on cash, co-opting your favourite celebrities --- it is to raise their profits. Where do you think those profits come from? 
 4. Digital currency forms permit egregious surveillance if there are no regulatory 
 protections (the software banks use is proprietary and closed source).
 
@@ -56,7 +57,7 @@ credit assessor can make the bigger mortgage loans.
 
 Customers cannot discipline banks either, since 99% of customers have no clue whether 
 their bank is close to insolvency or is a deposit risk. Governments can just 100% 
-insure all deposits in their currency unit. The proper discipline on baking 
+insure all deposits in their currency unit. The proper discipline on banking 
 is rather on the assets side, not the liabilities. (I stole that from Warren Mosler, 
 so it's got 12 cylinder overhead valve chrome plated grease nipple cred, my dudes.) 
 So the credit assessments need to be disciplined by logic and mathematics, not profit 
@@ -91,12 +92,14 @@ in something like an open source protected central bank digital currency.
 I will concede the *comfort* of physical cash might have to go, but you can put fluffy 
 ears on your digital wallet plastic thingy. (This is not a credit card, but would look similar I guess. It is a tax credit card, the opposite of a credit card.)
 
+((By the way, please do not use the term "tax credit card" in polite company. Although *we* know it is accurate, other people will completely misconstrue the meaning.))
+
 You have to disabuse yourself of the notion in the USA the FED is a private bank, or 
 if you still think it is, then we will say Congress scraps the FED (they did create 
 it) and creates a proper central bank, a branch of government, protected by whatever 
 democracy you can muster. Maybe even the board of the Central Bank branches are 
 locally elected. They do not even need to be bankers, the permanent staff will have 
-the expertise to run the payments system. They will not be in to selling Treasury 
+the expertise to run the payments system. They will not be into selling Treasury 
 bonds. They will not be permitted to bail out fraudulent private institutions.
 
 
@@ -108,7 +111,7 @@ rhetoric that saving cash is the way to go to maintain an inclusive society free
 predatory banks.
 
 This is similar to the one-tweet beef I had with Rohan Grey ([see below](#caveats)). 
-Grey wants to protect certian workers by allowing sellers to be anonymous. Whereas I 
+Grey wants to protect certain workers by allowing sellers to be anonymous. Whereas I 
 do not think that is healthy for a civilized society. We ought to protect precarious 
 and vulnerable workers in other more substantial ways than by anonymising the 
 payments layer. Firstly by eliminating precarious and vulnerable work. Why should a 
@@ -166,7 +169,7 @@ We might see different ways to save cash, but functionally they'll be near enoug
 the same in every important way. The psychological attachment to cash in notes and 
 coins can easily be overcome, without losing any of the other important functions. 
 That is because humans are incredibly adaptive beings. Few people cherish their old 
-Tamagotchi or PlayStation2 or worry than a vinyl record cannot ever be produced again 
+Tamagotchi or PlayStation2 or worry that a vinyl record cannot ever be produced again 
 if one wants one (they are still produced these days, you just have to want one).
 
 <div style="text-align: center;">&nbsp; *&nbsp;&nbsp;&nbsp;&nbsp; * &nbsp;&nbsp;&nbsp; *</div>
@@ -179,10 +182,10 @@ Now a few comments on the above points.
 
 Although anyone can make money, the problem is getting others to accept it. Well you 
 cannot do the latter unless by some force, either psychological persuasion (a parent 
-issues their kids an IOU; or for a very short period a cryptotoken or baseball card) 
-or directly (a hut tax, or fines and fees).
+issues their kids an IOU; or for a very short period a cryptotoken or baseball card 
+fools allure) or directly (a hut tax, or fines and fees).
 
-If government permit private institutions to emit the public currency units, this is 
+If governments permit private institutions to emit the public currency units, this is 
 not good, they are giving a public power over to private interests.
 
 However, the public currency can be facilitated by private institutions who are 
