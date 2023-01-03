@@ -302,6 +302,6 @@ profession they seem to, like they do not in physics or mathematics where I come
 from.
 
 
-[Next post (TBD)](./)  
+[Next post (Semantics of MMT)](../8_mmt_semantics)  
 [Previous post (Is a Cashless Society Good?)](../6_cashless)  
 [Back to Blog TOC](../)
