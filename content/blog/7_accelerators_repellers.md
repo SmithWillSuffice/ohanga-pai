@@ -51,7 +51,7 @@ state-of-the-art dynamical systems models and ANN (artificial neural networks).
 
 The thing is, no dynamical system model can do a better prediction or modelling job 
 than the accuracy of your modelling assumptions permits. And no ANN can do a better 
-prediction or modelling job that the data it gets trained on can admit. This is 
+prediction or modelling job than the data it gets trained on can admit. This is 
 because all real ANN's are finite state machines. So they lack conscious thought and so 
 lack genuine creative insight capacity, and so cannot generate more than what 
 information theory à la Shannon can be found in their inputs. (This is all so 
@@ -90,12 +90,18 @@ All the forces in most of the Keen-Minsky models I can currently build are
 behavioural equations, such as the Phillips curve. The rest is just stock-flow 
 consistency (the "mere accounting".)
 
-Your nation does have to have a fair justice system to have the accounting rule 
+Your nation does have to have a fair justice system to have the accounting rules 
 satisfied in reality though, it is not trivial. Imagine rampant counterfeit. Imagine 
 rampant bank fraud. Such deviant (and illegal) behaviour would invalidate a 
-Minksy-Kenn model, unless we accounted for it --- black market ops and counterfeit 
-rows in the Godley Tables?  for the most part we hope to be able to ignore such 
+Minksy-Keen model, unless we accounted for it --- black market ops and counterfeit 
+rows in the Godley Tables?  For the most part we hope to be able to ignore such 
 factors.
+
+((Here I have a conjecture: to get wild insane returns, like one particular fund 
+claims, you need to be dealing in the black market, or something illegal. Drug dealers 
+and traffickers will be prepared to make insane losses, due to the nature of their
+business, they can still eat caviar, but their loss is someone else's gain, so a 
+black ops "hedge fund" I bet, an investor who is "extremely diversified."))
 
 This leaves us with the generalized forces driving relative and absolute price 
 movements that will need to be empirically determined. That is a hard task. 
@@ -124,15 +130,29 @@ and letters, and maybe stop versus go signs.
 What if the forces are static (in stress)? I am not sure economics has this concept, 
 but "consumer sentiment" is possibly a qualitative form of data we might be able to 
 use, but at this stage it would be sketchy. (It is something stock brokers and finance 
-journalist use.) Debt-to-GDP is a stock, and stocks are a lot like static forces. You 
-can measure their velocity and acceleration to get a flow variable, but if you can 
-also find a "force" signal in the stock, then that is acting like a stress.
+journalist use.) Debt-to-GDP is a stock divided by flow, and stocks are a lot like 
+static forces. You can measure their velocity and acceleration to get a flow variable, 
+but if you can also find a "force" signal in the stock, then that is acting like 
+a stress.
 
 A good example of this is a major example! The Great Crash of 1929 and the GFC of 
 2007-8. Both had private debt in excess of 150% of GDP. This was the stress variable. 
-It's rate of change was over 10%, and that was an acceleration measure. Both seem to 
-be triggers, neither separately, this is from empirical work by Richard Vague (see, 
+It's rate of change was over 10%, and that was a velocity measure, so the rate of change 
+of *the* was the acceleration, indicating an underlying force. Both the stress and the 
+velocity seem to be triggers, neither separately, this is from empirical work by 
+Richard Vague (see, 
 [A Breif History of Doom](https://www.upenn.edu/pennpress/book/15996.html).
+Although, if I am right, there should have been an impulse the triggered the 
+great crash, that would be s short burst in the accelerator. If I recall from reading 
+J K Galbraith 
+[The Great Crash, 1929](https://www.goodreads.com/book/show/41591.The_Great_Crash_of_1929) the force was mostly psychological: 
+"boundless hope and optimism". In 2007-8 the force was the emergence of just a few short 
+traders. They pushed the subprime mortgage market off the knife-edge balance of wild 
+optimism in real estate CDO's and MBS's. But it is always more complicated, rumour, 
+gossip, wild optimism yields to neurosis, &c.
+
+It is hard to gauge these forces. But in the time series the accelerations the 
+forces produce are always visible.
 
 I should have more to write about this in coming months. We are trying to find the 
 dominant accelerators. I guess it is also worth mentioning Wall Street Quants 
@@ -175,14 +195,19 @@ Steve, but he can be forgiven.)
 We, MMT enthusiasts, would say MMT is a lot more than accounting. It is about 
 societies legal and financial institutional arrangements, and much more than just 
 accounting rules. However, in part, Steve Keen is right about the use of Godley 
-tables because of these legal rules. In the old days it used to be 
+tables because of these legal rules. In the old days it used to be ledger books.
+Money was created by fountain pen.
+
+You'd have a hard time back then doing real-time forecasting! With the financial 
+time series published these days an amateur computer programmer can probably see 
+near to real time the velocities and accelerators in the financial data.
 
 
 ## The Interest Rate repeller
 
 
 ```
-TODO: went on the rant below before finishing the notes on attractors adn repellers.
+TODO: went on the rant below before finishing the notes on attractors and repellers.
 ```
 
 ### Other Social Forces
@@ -225,7 +250,7 @@ government. If you still think otherwise, you are not MMT aware.
 
 The thing is, it makes a huge difference in political economy, so is far, *far* 
 beyond the impact of "just accounting." It can ruin people's lives, and always those 
-who lives are already the most miserable, but pushing an austerity politics using the 
+who lives are already the most miserable, by pushing an austerity politics using the 
 interest rate repeller, among other injustices.
 
 I would also claim that warren Mosler best understood the impact of moving to a 
@@ -237,7 +262,7 @@ software-driven, legally instituted monetary operations available to governments
 this includes *legal*.  Let me say it again **legal arrangements.** MMT says these 
 matter, over and above the accounting principles. This is vital for understanding why 
 no fit currency issuing government has any foreign exchange constraint (they do if 
-the make up one). Only Mosler in 1995 understood this. Nd most post-Keynesian still 
+they make up one). Only Mosler in 1995 understood this. Most post-Keynesians still 
 do not, hence we have stupid debates about trade policy and exports as a cost, 
 imports as a benefit (the MMT story, which is correct). The exports are the price you 
 pay for your imports. This is not "neoclassical" thinking as Steve Keen slurs the MMT 
@@ -247,18 +272,23 @@ But the logic can cause suffering for poorer nations if people do not understand
 Like the logic of what happens when you ignore momentum and walk into street lamp 
 poles.
 
-Lastly for today, I will mention two key **_conditional fundamentals_** that post-Keynesians do not seem to understand or know:
+Lastly for today, I will mention two key **_conditional fundamentals_** that 
+post-Keynesians do not seem to understand or know:
 
 1. Deposit holders know crap all about their bank. So the liability side of banking is not the place for market discipline.
 2. The central bank policy levers are about prices (interest rates) and not quantities.
 
-Why are these conditional fundamental? It is because they apply when a nation uses a 
+Why are these *conditional* fundamentals? It is because they apply when a nation uses a 
 tax credit which is a non-convertible currency on a floating exchange rate. Without 
 those conditions the central bank has to employ methods like bond issuance to control 
-interest rates to control (weakly) exchange rates. With floating exchange rates there 
-is no need for those functions,and the above two fundamentals apply.
+interest rates to control (weakly) exchange rates. They furthermore will want to 
+deliberately cause mass unemployment to limit inflation, like psychopaths who have 
+broad public approval for their ax murdering.  With floating exchange rates there 
+is no need for those functions, and the above two fundamentals apply.
 
-On fundamental **1** Mosler writes, "...even Wall Street analysts can't reliably do this" (assess bank insolvency risk). I also thought it worth quoting the rest of Warren's paragraph on banking proposals for helping the smaller banks:
+On fundamental **1** Mosler writes, "...even Wall Street analysts can't reliably 
+do this" (assess bank insolvency risk). I also thought it worth quoting the rest 
+of Warren's paragraph on banking proposals for helping the smaller banks:
 
 > "Regulation and supervision on the asset side then became the imperative. And while 
 we have seen periodic failures due to lax regulation and supervision of the asset 
@@ -289,7 +319,8 @@ bait. Also, he said that
 so of course he was having an Aussie lark, but he can also be damaging to the MMT 
 movement when he says such things more publicly, because they are wrong. This matters because Steve is a very influential economist and activist.
 
-((**Note to self:** need to write a theory section on trade. When we write about trade, the important thing is to not be too simplistic and naïve (a word I seem to need to use a lot). Fadhel Kaboub and Jan Kregel are MMT aware and have a decent body of work on international trade, and the exchange rate is not their problem, the biggest problems by far are imperial power abuses, neocolonialism, and just broadly war and injustice and dysfunctional justice systems in the weaker nations. Fixing up their exchange rate is pretty much negligible help with all that, but they need the MMT lens to know what to do about it when they restore civil society. Australia will never have a foreign exchange constraint because their government know how to tell foreign buyers of their land and politicians to piss off --- at least if they want too, if they do not want to, well,...  then they're less civilized.))
+((**Note to self:** need to write a theory section on trade. When we write about trade, the important thing is to not be too simplistic and naïve (a word I seem to need to use a lot). Fadhel Kaboub and Jan Kregel are MMT aware and have a decent body of work on international trade, and the exchange rate is not their problem, the biggest problems by far are imperial power abuses, neocolonialism, and just broadly war and injustice and dysfunctional justice systems in the weaker nations. Fixing up their exchange rate is pretty much negligible help with all that, but they need the MMT lens to know what to do about it when they restore civil society. Australia will never have a foreign exchange constraint because their government know how to tell foreign buyers of their land and politicians to piss off --- at least if they want too, if they do not want to, well,...  then their civilized BBQ's with shrimp could turn into charcoaled gruel purchased at 
+a Tesco Lotus shop.))
 
 Even *more generally* we are, in the DougBot project, using an MMT understanding, a 
 lens, to do finer grain price analysis. It is not merely accounting, and although we 
