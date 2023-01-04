@@ -72,7 +72,7 @@ banks, but an IOU does require some sort of record keeper, even if it is you kee
 the record in your head. In the real world these are normally banks, or one of the 
 functions of banks. 
 
-We then have new term to define, for *state currency* or 
+We then have a new term to define, for *state currency* or 
 state money:
 
 * **State currency** is an IOU of the state, which for normative purposes MMT defines 
