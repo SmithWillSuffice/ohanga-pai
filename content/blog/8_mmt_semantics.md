@@ -37,14 +37,21 @@ What Varoufakis gets correct is that a lot of professional economists are  in fa
 not engaged in any science. In this he would agree with someone like Steve Keen who 
 would also say the mainstream Neoclassical school of economics is not a science.
 What is it then? The answer is that it is a mathematical theory. If formulated 
-consistently it violates common presumptions in the real world. When it is formulated with idealized axioms the Neoclassical *want* to believe are true in the real world 
-the theory can in fact become inconsistent (neoclassical axioms imply there is *no* stable rice vector). And so for these, and a few other reasons, Neoclassical 
-economics is a fictional fantasy. If consistent, it is not applicable to 
-the real world. If inconsistent then it is invalid in every possible world.
+consistently it violates common presumptions in the real world (real people are not 
+rational, and have poor capacity to maximize their subjective utility (utility as a 
+Neoclassical must non-circularly define it)). 
+
+When it is formulated with idealized axioms the Neoclassicals *want* to believe are 
+true in the real world the theory can in fact become inconsistent (neoclassical 
+axioms imply there is *no* stable price vector${}^\dagger$). And so for these, and a few other 
+reasons, Neoclassical economics is a fictional fantasy. If consistent, it is not 
+applicable to the real world. If inconsistent then it is invalid in every possible 
+world.
 
 That is what you call a diabolical piece of mathematics and a waste of human 
 intellect. Like String Theory that proves Strings are inconsistent.
 
+${}^\dagger$See John Blatt *[Dynamic Economic Systems](https://www.routledge.com/Dynamic-Economic-Systems-A-Post-Keynesian-Approach/Blatt/p/book/9780873323062)*.
 
 ### Definitions Give Formal Semantics
 
@@ -82,7 +89,9 @@ understand *that* you have to know the macroeconomics, because there is no way a
 whole a society will accept worthless bits of paper for payments. The system as a 
 whole "knows" something backs the state currency, and as soon as they learn it is not 
 gold stored in Fort Knox, they realize it is pure state power. It is not by genial 
-"social agreement".))
+"social agreement". The state can use the gold as a fig leaf of course, to hide the 
+naked reality of their fiat currency, should they feel the need to do so. An MMT'er 
+would not need them too, enjoying the full naked splendour. Bloody perverts.))
 
 The phrase "the money" is ambiguous, since it can refer to the tokens, or the account 
 records, or the units of the records (unit of account). Provided you appreciate there 
@@ -90,19 +99,28 @@ is this ambiguity we will allow you to talk to us using the word "money" if it i
 clear enough from context which meaning you are employing.
 
 With a few other definitions and axioms (simple postulates that we agree need not be 
-proven) which I will not belabour by writing them all down, MMT can now claim a few 
-corollaries.
+proven) which I will not belabour by writing them all down 
+(see [Theory](/ohanga-pai/questions/1_basic_ohangapai)), 
+MMT can now claim a few corollaries.
 
 One is that it now matters a great deal whether you can get the tax credits *only* 
 from government, or *only* from private banks, or both.
-Because bankers can be tiny little assholes about their tightness on credit. Why? Because 
-governments deem them insolvent if they cannot cover their liabilities! Also, 
-because if governments allow themselves to emit their own tax credits then the demos 
-has some measure of protection from predatory bankers, and also the government itself 
-is now not beholden to the pecuniary interests of private bankers. It seems to me 
-this is sociologically extremely important! 
+Because bankers can be tiny little assholes about their tightness on credit. Why? 
+Because governments deem them insolvent if they cannot cover their liabilities (how 
+frickin' dare that government encroach upon the beautiful efficiency of the private 
+sector! All going and making the currency valuable and all.)
 
-MMT is thus not "merely accounting." [The Money Story](/ohanga-pai/questions/1_basic_ohangapai#money_story), which is a political story, makes a huge f-ing 
+It matters also because if governments allow themselves to emit their own tax credits 
+then the demos has some measure of protection from predatory bankers, and also the 
+government itself is now not beholden to the pecuniary interests of private bankers. 
+It seems to me this is sociologically extremely important!
+
+((Note to Positive Money activists: why would a government --- as in *the 
+**govern**ors* --- refuse to allow themselves the ability to issue their own tax 
+credits? Why am I even bothering to ask the question!?))
+
+MMT is thus not "merely accounting." 
+[The Money Story](/ohanga-pai/questions/1_basic_ohangapai#money_story), which is a political story, makes a huge f-ing 
 difference. If you get it wrong you can get mired in austerity politics and all 
 sorts of other abuses and crimes against humanity (allowing involuntary unemployment)
 and all for no good reason but ignorance.
@@ -135,14 +153,18 @@ It is because they are licenced to use the state's unit of account. So when you 
 the bank credit, now being in debt to the bank, you are nonetheless in credit to the 
 government, who will always accept your currency in receipt of tax payment.
 This is why you can always use your "bank money" to purchase goods (why else do you 
-take on the debt to the bank?) a seller will take your filthy "bank money" because to 
+take on the debt to the bank?).  A seller will take your filthy "bank money" because to 
 them it is functionally exactly the same as clean green government issued currency. 
 They may indeed pay off their tax liabilities with a fraction of your purchase.
 
 The problem here is the commercial banking system, the private banks, are not the 
 currency monopoly. So you can certainly pay off your tax liabilities, but then you still 
 owe the bank, or they'll take your house off you (or whatever you implicitly or 
-explicitly offered as collateral).
+explicitly offered as collateral). 
+
+But why? Why can the bank not pay itself?
+
+Do I really have to say why? They are licenced and regulated *by the state*. Anyone heard of jail for fraud laws? Anyone?
 
 So this is very different to the state's currency operations, but it is using the 
 same unit of currency.
@@ -188,7 +210,10 @@ However, if the state accepts the bank created records as redemption for tax
 liabilities, then the state is in cooperation with the private banks making it be so 
 (by law) that the bank credit is state currency. Or, the state might say you need 2 
 units of bank credit to redeem one unit of their tax liabilities. (They usually do 
-not, but they could.)
+not, but they could.) That would then be a dual money system, but trivially so, a 
+conversion factor. You could very well just assume you have to pay double the tax you 
+used to, denominated in the "private money" tokens. Total bananas, but I guess 
+pigs could grab jet packs and fly.
 
 
 ### Trolling Over Definitions
@@ -253,16 +278,61 @@ charade of Bretton-Woods (a quasi gold standard, but really based on the US doll
 but the USA was technically still promising redemption in gold up until 1972.  No 
 longer.).
 
+I will concede ground to our frenemy "Rob" on the comments sections${}^\ddagger$, that gold *is* 
+moved around. How about that, people do elevator it up out of Fort Knox, and back 
+down in a hole in the ground in Moscow.  Why the F? If it is not for an electrical 
+engineering or high-end consumer electronics factory?
+
+${}^\ddagger$I do not want to slander the real Rob, so I hereby make a strawman Rob, 
+who I will name Niels Rob, or Niels Bor in Danish, or Niels Bohr. He takes the 
+Copenhagen Interpretation of quantum currency (it's gold) and I am Einstein taking 
+the realist account of state currency (a tax credit). Notice we are already stupid 
+both, since we have different definitions. But the idea is to determine if there are 
+real world consequences that can be tested, like the EPR experiment. (Bohr is 
+considered to have won this debate, ok Rob?)  ((Apologies to physicists who would 
+recognize I have Einstein and Bohr backwards in this analogy. Credit is entangled 
+with debt. Gold cannot be entangled. But read my 
+[T4GU pages](https://t4gu.gitlab.io/t4gu/) to see why Einstein knew about entanglement 
+better than Bohr in the ultimate end. ER=EPR my dudes.))
+
+Partly, rubes need this charade that something physical (real stuff, man!) "backs" the 
+currency. You know.... otherwise they might not find someone willing to purchase 
+their wares. Someone's promising gold for redemption,... right? 
+
+Satisfying the rubes is a time-honoured tradition. It is unknown whether Putin 
+understood any of this. He might be one of those rubes thinking Moscow better stick 
+gold under the ground or the rouble might collapse. The permafrost, you see. 
+In any case, gold bullion *does* get shipped around from time-to-time to keep these 
+rubes sleeping at night. I mean... the horror! What if people lost all the credit 
+records??? Haven't you seen *Mr Robot?* You can't be a giga-chad if you do not own 
+gold my dudes.
+
+Ultimately though, there could be method to Putin's madness. If you have some idea 
+the gold price is going to go up in dollar units, you can meddle with your foreign 
+exchange rate by selling gold you bought cheaper with your currency (yen, euro, 
+rouble,...).  Again I can give some battle ground to Niels Bohr here. If Russia 
+desires a fixed exchange rate, and thereby signal they want to help their export 
+oligarchs and screw their domestic workers over, than they'll try to maintain some 
+foreign exchange rate target they decide is satisfactory for the exporters. This will 
+not help them win a  military conflict however, so I really do not know what Putin is 
+thinking. He has workers, energy, steel, they can make bullets. Why do they give a 
+toss about the forex rate? They could be rubes. Or they could think this is a form of 
+psychological warfare, because the foreign state officials also believe gold is 
+currency rather than a buffer stock. Who knows.
+
 It is possible some utter catastrophe could destroy all branches of the US 
 government, then the IRS might stop functioning and the demand for the USD collapse 
 to zero, and water or coffee beans or gold might become a medium of exchange for a 
-while until a new government with tax authority and enforcement is formed. Then Fort 
-Knox *might* get raided, and whoever raids the most *might* find themselves as the new 
-monopoly issuer of a private currency (records that it promises to redeem for gold).
+while until a new government with tax authority and enforcement is formed. 
+Before then Fort Knox *might* get raided, and whoever raids the most *might* find 
+themselves as the new monopoly issuer of a private currency (records that it promises 
+to redeem for gold). Adults not being adults and making misery for the masses.
 
 I love, or love to laugh at, pedants who say this is why MMT is false. When exactly 
 do they think the USA will collapse?  Sure it could happen, but until it does the US 
-dollar system is well-described by MMT.
+dollar system is well-described by MMT. Same here in New Zealand for the NZD. 
+I mean seriously, when the Aussies run out of fertile soil and desalinated water... 
+"We will fight on the beaches..."
 
 
 
@@ -294,7 +364,10 @@ They are right to refute affiliation with MMT, because MMT would say, "LOL! The 
 already have sovereign currency," they just do not know it, and act like they do not 
 have BOE created money. It is fair, I think, to say the UK monetary system looks like 
 a private bank mafiosi, but appearances are deceptive. It is a bankers mafia only 
-because the government wants it to be.
+because the government wants it to be. Why does any foreign power accept the LIBOR? 
+
+Warren Mosler's suggestion was to steer the Fifth Fleet up the Thames and tell them 
+what the interest rate will be.
 
 All private banks in the UK have all obtained their UKP equity from past UK 
 government deficits. So "the money" all came from the UK government. It was never silver 
@@ -324,19 +397,24 @@ create "positive money" it is an inapplicable notion, because *all money* is an 
 of the issuer, otherwise it is not "money".  The issuer has the debt obligation 
 (promise to redeem) the receiver has the credit.
 
+
+<a name="fn1">${}^\ast$</a> I do not quite see how a government that wants to 
+empower private banks and 
+credit creation, rather than government issue, is a conspiracy. It is at least a 
+conspiracy conducted in broad daylight, and a crime against humanity (I am possibly 
+even more insistent it is a human rights crime than the Positive Money people --- 
+because I know the government does not need any new laws to stop the banker mafia). If 
+you cannot see in broad daylight, how am I to aid you? 
+
+
 If there is no promise to redeem you have not got a currency, you have a ponzi scheme. 
 Like Bitcoin.
 
 
 ### Giving Back the Bank of England the Monopoly? LOL
 
-MMT reveals the central banks are already branches of government, and governments are 
-already the currency monopolists. They regulate the private banks. They just need to 
-do it better, so people in need are never in debt (a Job Guarantee policy). No 
-private bank ever should have a seat at the JG policy table, the private bankers 
-interest is in getting people into debt. That serves no public purpose unless a firm 
-wants to be in debt (to expand their green sustainable business --- should be the 
-rule, and here the Positive Money people would agree, hooray!).
+MMT (and Law scholarship --- an _**integral** part of MMT_) reveals the central banks are already branches of 
+government, and governments are already the currency monopolists. They regulate the private banks. They just need to do it better, so people in need are never in debt (a Job Guarantee policy). No private bank ever should have a seat at the JG policy table, the private bankers interest is in getting people into debt. That serves no public purpose unless a firm wants to be in debt (to expand their green sustainable business --- should be the rule, and here the Positive Money people would agree, hooray!).
 
 Somehow the Positive Money theorists got the spurious idea in their heads that 
 governments are beholden to private banks. Perhaps that is due to the perverse way 
@@ -374,7 +452,7 @@ The proposals,
 * more targeted public investments,
 * better accountability (eliminate fraudulent lending),
 * green economy fiscal targetting (tax polluters, invest in sustainable firms),
-* digital cash.
+* digital cash,
 
 are all fine, I have no issue with them. But where the heck is the guarantee of 
 employment for anyone seeking the positive money? What is the PM buffer stock?
@@ -413,20 +491,12 @@ permit Freedom of Information Act requests (FOIA). We could use a few of those.
 
 ((Yah, getting a Positive Money activist on-board can take a while.))
 
-In brief, there is no need fractional reserve banking. There is a
+In brief, there is no need for fractional reserve banking${}^\S$. There is a
 need for accurate accounting (which is already performed) and so that only leaves 
 the need to understand the monetary system and stop it from being abused.
 
 It *is* being abused. Using an unemployed buffer stock *of human labour* is a 
 human rights crime, by any fair account of the matter.
-
-<a name="fn1">${}^\ast$</a> I do not quite see how a government that wants to 
-empower private banks and 
-credit creation, rather than government issue, is a conspiracy. It is at least a 
-conspiracy conducted in broad daylight, and a crime against humanity (I am possibly 
-even more insistent it is a human rights crime than the Positive Money people --- 
-because I know the government does not need any new laws to stop the banker mafia). If 
-you cannot see in broad daylight, how am I to aid you? 
 
 If not abused it does not need reform. The managers of the system are the ones 
 needing the reform. If we do the Positive Money reforms, what's to stop the banking 
@@ -437,6 +507,11 @@ not. But we can help educate them so they are, or the next generation at least. 
 will likely shut down our current DougBot project, requiring a reboot, since we'd be 
 in a new regime. But I will not be complaining.
 
+
+${}^\S$ Fractional reserve banking is an artificial self-imposed 
+constraint on credit. Also known as artificial austerity. If Positive Money people 
+have a defence to avoid needless austerity, then why the extra complication and 
+rules that requires resources to enforce? I will admit I am a bit vague on why some of the Positive Money people want fractional reserve banking to be a thing.
 
 ## Caveats
 
