@@ -21,8 +21,8 @@ For high risk choose a very &ldquo;low significance&rdquo; (say 1% or less).</li
 getting a true negative (NullHyp is true & the test indicates it is true) &mldr;</li><li>&mldr; and a low chance (1%) of getting a false positive (NullHyp is false & the test indicates it is true).</li></ul><p>These interpretations of $p$-values are terrible dicey though:</p><ul><li>These are not absolute probabilities, they&rsquo;re conditional &mdash; they are
 probabilities only <em>given</em> the assumptions of the model are correct (and
 Gaussian errors, whatever else the test statistic assumes, etc.)</li><li>If you are in social sciences you might tolerate more false negatives (NullHyp is true
-& the test indicates it is false) but only as the cost for decreasing your rate of
-false positives.</li><li>For a lot of problems the more hazardous (in real life terms) outcome is a false
+& the test indicates it is false) but only as the cost for the pay-off of decreasing
+your rate of false positives.</li><li>For a lot of problems the more hazardous (in real life terms) outcome is a false
 positive (NullHyp is true & test indicates it is false) &mdash; this is because a true
 NullHyp is &ldquo;There is no effect&rdquo;, so a false positive is going to bias you towards
 thinking there is an effect when according to a putative oracle there is none.</li></ul><p>A better way perhaps to remember what the $p$-value is, is that it is simply
@@ -40,7 +40,7 @@ meta-statistics stuff).</p><p>But how would you &ldquo;know&rdquo; the test is i
 cut-off (5% or whatever) is a binary distinction, so you&rsquo;d only have the first two
 output statements coded.</p><p><strong>Better practice?</strong> I would not choose one single cut-off, but a worst case and best
 case, so a range of significance levels. Ex. for extreme risk analysis maybe you want
-worst case acceptance of a false positive to be 0.01% (which if getting more like the
+worst case acceptance of a false positive to be 0.01% (which is getting more like the
 6-sigma level for particle physics research); and best case to be even more
 stringent, like 0.001%.</p><p><em>Alright!</em> Now in your code you can print out the third statement above, whenever the
 measured statistic yields a $p$-value in between your best and worst case significances.</p><p>If you are in social sciences those significance levels would be a bit absurd, you&rsquo;d
