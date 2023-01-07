@@ -47,8 +47,8 @@ probability_!!!!
 * Decide on what the qualitative and quantitative value of the test outcome is for you. 
 For high risk choose a very "low significance" (say 1% or less).
 * A significance level of 1% is a *high chance* 99% (assuming a bunch of stuff) of 
-getting a true negative (NullHyp is true & the test indicates it is true) ...
-* ... and a low chance (1%) of getting a false positive (NullHyp is false & the test indicates it is true).
+getting a true negative (NullHyp is oracle true & the test indicates it is true) or a false negative (NullHyp is oracle false & the test indicates it is true)...
+* ... and a low chance (1%) of getting a false positive (NullHyp is oracle true & the test indicates it is false).
 
 These interpretations of $p$-values are terrible dicey though:
 
