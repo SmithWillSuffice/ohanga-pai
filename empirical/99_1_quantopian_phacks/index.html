@@ -44,10 +44,17 @@ get too many false negatives (accepting NullHyp when the oracle would say it is 
 But like we said, depending upon context that can often be better than more chance of
 false positives (rejecting NullHyp when the oracle would say it is true).</p><p>Always remember, a $p$-value test is highly dependent upon your choice of
 significance level. It is a cut-off encoding your knowledge of a situation or context,
-it is not a machine telling you what the real world is like.</p><p>Before summarizing, one other point: Multiple comparison bias is not a thing in
+it is not a machine telling you what the real world is like.</p><p>Before summarizing, one other point: <strong>Multiple comparison bias</strong> is not a thing in
 statistics, it is a mistake of mere mortals. You would never have such bias if you
 understood the statistics, you would always be making the appropriate corrections,
-which is the study of uncertainty and error propagation.</p><h3 id=in-summary><a class=anchor href=#in-summary title='Anchor for: In summary.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>In summary</h3><p>Figure out what a <em>sensible</em> significance level range is <em>first</em> using your
+which is the study of uncertainty and error propagation.</p><p>The Quantopian <a href="https://www.youtube.com/watch?v=YiDfbYtgUPc0" target=_blank>lecture on p-hacking and multiple comparisons bias</a>
+is a good overview of this topic, with a few tips for people who are at risk of
+over-suing neutral networks and whatnot. A lecture is only as good though as the
+student is willing to take heed. In a dog-eat-dog world and rat-race people are prone
+to taking short-cuts and skipping the grind of testing. So just do not say you were
+never warned.</p><p><em>Do the <strong>out-of-sample testing</strong> my dudes.</em> If you have the need to make it fun,
+use it to prank your colleagues. (Fudge their data, yo! Just don&rsquo;t forget to tell
+them afterwards.)</p><h3 id=in-summary><a class=anchor href=#in-summary title='Anchor for: In summary.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>In summary</h3><p>Figure out what a <em>sensible</em> significance level range is <em>first</em> using your
 domain expert knowledge.
 Then in your code do not print out the $p$-value, instead print out only, either</p><p><strong>(1)</strong> &ldquo;no significant relationship indicated.&rdquo;<br>    or<br><strong>(2)</strong> &ldquo;a significant relationship is indicated.&rdquo;<br>    or<br><strong>(3)</strong> &ldquo;the test is inconclusive.&rdquo;</p><p><strong>Further TODO:</strong> a $p$-value hypothesis test can be useful when you are in
 <em>Moderatistan</em> (Gaussians) but could be highly misleading if your underlying data
