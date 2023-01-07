@@ -129,7 +129,8 @@ which the Quantopian [explains here](https://youtu.be/YiDfbYtgUPc?t=1694) but we
 $\alpha/m$ where $\alpha$ is your overall desired significance. You then should 
 expect a fraction $\alpha$ of the tests pass, and $(1-\alpha)$ fail.
 
-If that's not the case within reasonable uncertainties then your model (or data) needs updating).
+In this way the false positive rate when taking *all* the $m$ tests together is 
+back to $\alpha$. If that's not the case within reasonable uncertainties then your model (or data) needs updating).
 
 The Quantopian [lecture on p-hacking and multiple comparisons bias](https://www.youtube.com/watch?v=YiDfbYtgUPc0) 
 is a good overview of this topic, with a few tips for people who are at risk of 
