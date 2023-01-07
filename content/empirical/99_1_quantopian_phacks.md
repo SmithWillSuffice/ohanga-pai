@@ -123,7 +123,7 @@ which is the study of uncertainty and error propagation.
 
 The Quantopian [lecture on p-hacking and multiple comparisons bias](https://www.youtube.com/watch?v=YiDfbYtgUPc0) 
 is a good overview of this topic, with a few tips for people who are at risk of 
-over-suing neutral networks and whatnot. A lecture is only as good though as the 
+over-using neural networks and whatnot. A lecture is only as good though as the 
 student is willing to take heed. In a dog-eat-dog world and rat-race people are prone 
 to taking short-cuts and skipping the grind of testing. So just do not say you were 
 never warned.
