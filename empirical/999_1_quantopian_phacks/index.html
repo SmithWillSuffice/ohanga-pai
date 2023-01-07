@@ -18,7 +18,7 @@ You never know the oracle of course, but you at least should know the odds.</p><
 $p$-value is a probability &mdash; <em><strong>but</strong> you do <strong>not</strong> want to <strong>use</strong> it as a
 probability</em>!!!!</p><ul><li>Decide on what the qualitative and quantitative value of the test outcome is for you.
 For high risk choose a very &ldquo;low significance&rdquo; (say 1% or less).</li><li>A significance level of 1% is a <em>high chance</em> 99% (assuming a bunch of stuff) of
-getting a true negative (NullHyp is true & the test indicates it is true) &mldr;</li><li>&mldr; and a low chance (1%) of getting a false positive (NullHyp is false & the test indicates it is true).</li></ul><p>These interpretations of $p$-values are terrible dicey though:</p><ul><li>These are not absolute probabilities, they&rsquo;re conditional &mdash; they are
+getting a true negative (NullHyp is oracle true & the test indicates it is true) or a false negative (NullHyp is oracle false & the test indicates it is true)&mldr;</li><li>&mldr; and a low chance (1%) of getting a false positive (NullHyp is oracle true & the test indicates it is false).</li></ul><p>These interpretations of $p$-values are terrible dicey though:</p><ul><li>These are not absolute probabilities, they&rsquo;re conditional &mdash; they are
 probabilities only <em>given</em> the assumptions of the model are correct (and
 Gaussian errors, whatever else the test statistic assumes, etc.)</li><li>If you are in social sciences you might tolerate more false negatives (NullHyp is true
 & the test indicates it is false) but only as the cost for the pay-off of decreasing
