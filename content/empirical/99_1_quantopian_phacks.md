@@ -111,10 +111,21 @@ Always remember, a $p$-value test is highly dependent upon your choice of
 significance level.  It is a cut-off encoding your knowledge of a situation or context, 
 it is not a machine telling you what the real world is like.
 
-Before summarizing, one other point: Multiple comparison bias is not a thing in 
+Before summarizing, one other point: **Multiple comparison bias** is not a thing in 
 statistics, it is a mistake of mere mortals. You would never have such bias if you 
 understood the statistics, you would always be making the appropriate corrections, 
 which is the study of uncertainty and error propagation.
+
+The Quantopian [lecture on p-hacking and multiple comparisons bias](https://www.youtube.com/watch?v=YiDfbYtgUPc0) 
+is a good overview of this topic, with a few tips for people who are at risk of 
+over-suing neutral networks and whatnot. A lecture is only as good though as the 
+student is willing to take heed. In a dog-eat-dog world and rat-race people are prone 
+to taking short-cuts and skipping the grind of testing. So just do not say you were 
+never warned.
+
+*Do the **out-of-sample testing** my dudes.* If you have the need to make it fun, 
+use it to prank your colleagues. (Fudge their data, yo! Just don't forget to tell 
+them afterwards.)
 
 ### In summary
 
