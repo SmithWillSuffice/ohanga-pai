@@ -281,5 +281,5 @@ low compared to Europe and the USA.
 
 
 [Next chapter (TBD)](./)  
-[Previous chapter (Projects Overview)](../1_ohangapai_projects)  
+[Previous chapter (Quantopian Series)](../99_1_quantopian_phacks)   
 [Back to Empirical Pages](../)

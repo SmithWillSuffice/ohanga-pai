@@ -133,3 +133,8 @@ Then in your code do not print out the $p$-value, instead print out only, either
 source is fat-tailed. If you are dealing with fat-tails (first test for them using 
 maximum values) and consider using a different type of hypothesis test, e.g., one 
 that scores maximum values, not the medians or means.
+
+
+[Next chapter (Macro Trading-1)](../999_macro_trader)  
+[Previous chapter (Projects Overview)](../1_ohangapai_projects)  
+[Back to Empirical Pages](../)
