@@ -33,7 +33,8 @@ more than the risk of getting false negatives. (But this can depend upon context
 example, in medical drug trials (a dodgy area of application) the default has to be 
 "not release the drug" so you certainly want the bias to be for false negatives 
 rather than false positives. A false positive is a bias towards releasing a drug 
-(with possible side-effects) that is in facta  useless drug.
+(with possible side-effects) that is in fact a useless drug, maybe harmful in other 
+ways.
 
 A false negative is a bias towards not releasing a drug that would have had benefits. 
 You never know the oracle of course, but you at least should know the odds.
