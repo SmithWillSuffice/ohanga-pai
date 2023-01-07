@@ -6,7 +6,11 @@ katex: true
 toc: true
 ---
 
-A few highlights from the [Quantopian Series](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291) worth remembering for teaching. these will start off unordered, but after I write a half dozen or so I will try to impose some loose pedagogical order. (That just means the links will change, ok. So if referencing use the TOC and search box instead.)
+A few highlights from the 
+[Quantopian Series](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291) 
+worth remembering for teaching. these will start off unordered, but after I write a half 
+dozen or so I will try to impose some loose pedagogical order. (That just means the 
+links will change, ok. So if referencing use the TOC and search box instead.)
 
 
 ## p-value Hacking
@@ -15,8 +19,7 @@ Ref: [Quantopian Lecture Series: p-Hacking and Multiple Comparisons Bias](https:
 
 ### Terminology
 
-* **False positive** --- a test indicates presence of an effect when in reality an oracle 
-would say there is no effect.
+* **False positive** --- a test indicates presence of an effect when in reality an oracle would say there is no effect.
 * **False negative** --- a test indicates absence of an effect when in reality an oracle 
 would say there is an effect.
 * Think of the Null Hypothesis as the "negative" hypothesis ("there is no effect" or "there is no discernable distinction").
@@ -49,8 +52,8 @@ getting a true negative (NullHyp is true & the test indicates it is true) ...
 These interpretations of $p$-values are terrible dicey though:
 
 * These are not absolute probabilities, they're conditional --- they are 
-probabilities only *given* the assumptions of the model are correct (Gaussian errors, 
-whatever else the test statistic assumes, etc.)
+probabilities only *given* the assumptions of the model are correct (and 
+Gaussian errors, whatever else the test statistic assumes, etc.)
 * If you are in social sciences you might tolerate more false negatives (NullHyp is true 
 & the test indicates it is false).
 * For a lot of problems the more hazardous (in real life terms) outcome is a false 
