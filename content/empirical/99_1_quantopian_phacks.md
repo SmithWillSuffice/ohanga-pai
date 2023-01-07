@@ -56,7 +56,8 @@ These interpretations of $p$-values are terrible dicey though:
 probabilities only *given* the assumptions of the model are correct (and 
 Gaussian errors, whatever else the test statistic assumes, etc.)
 * If you are in social sciences you might tolerate more false negatives (NullHyp is true 
-& the test indicates it is false).
+& the test indicates it is false) but only as the cost for decreasing your rate of 
+false positives.
 * For a lot of problems the more hazardous (in real life terms) outcome is a false 
 positive (NullHyp is true & test indicates it is false) --- this is because a true 
 NullHyp is "There is no effect", so a false positive is going to bias you towards 
