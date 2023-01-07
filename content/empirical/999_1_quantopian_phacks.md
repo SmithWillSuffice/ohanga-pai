@@ -121,6 +121,16 @@ statistics, it is a mistake of mere mortals. You would never have such bias if y
 understood the statistics, you would always be making the appropriate corrections, 
 which is the study of uncertainty and error propagation.
 
+On very basic correction is the 
+[Bon-Ferroni Correction](https://en.wikipedia.org/wiki/Bonferroni_correction) 
+which the Quantopian [explains here](https://youtu.be/YiDfbYtgUPc?t=1694) but we can state it in one sentence: 
+
+> Bon-Ferroni correction: if you use $m$ tests, in each use a significance level of 
+$\alpha/m$ where $\alpha$ is your overall desired significance. You then should 
+expect a fraction $\alpha$ of the tests pass, and $(1-\alpha)$ fail.
+
+If that's not the case within reasonable uncertainties then your model (or data) needs updating).
+
 The Quantopian [lecture on p-hacking and multiple comparisons bias](https://www.youtube.com/watch?v=YiDfbYtgUPc0) 
 is a good overview of this topic, with a few tips for people who are at risk of 
 over-using neural networks and whatnot. A lecture is only as good though as the 
