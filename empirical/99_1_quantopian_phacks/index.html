@@ -21,7 +21,8 @@ For high risk choose a very &ldquo;low significance&rdquo; (say 1% or less).</li
 getting a true negative (NullHyp is true & the test indicates it is true) &mldr;</li><li>&mldr; and a low chance (1%) of getting a false positive (NullHyp is false & the test indicates it is true).</li></ul><p>These interpretations of $p$-values are terrible dicey though:</p><ul><li>These are not absolute probabilities, they&rsquo;re conditional &mdash; they are
 probabilities only <em>given</em> the assumptions of the model are correct (and
 Gaussian errors, whatever else the test statistic assumes, etc.)</li><li>If you are in social sciences you might tolerate more false negatives (NullHyp is true
-& the test indicates it is false).</li><li>For a lot of problems the more hazardous (in real life terms) outcome is a false
+& the test indicates it is false) but only as the cost for decreasing your rate of
+false positives.</li><li>For a lot of problems the more hazardous (in real life terms) outcome is a false
 positive (NullHyp is true & test indicates it is false) &mdash; this is because a true
 NullHyp is &ldquo;There is no effect&rdquo;, so a false positive is going to bias you towards
 thinking there is an effect when according to a putative oracle there is none.</li></ul><p>A better way perhaps to remember what the $p$-value is, is that it is simply
