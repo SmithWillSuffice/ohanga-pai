@@ -51,7 +51,12 @@ significance level. It is a cut-off encoding your knowledge of a situation or co
 it is not a machine telling you what the real world is like.</p><p>Before summarizing, one other point: <strong>Multiple comparison bias</strong> is not a thing in
 statistics, it is a mistake of mere mortals. You would never have such bias if you
 understood the statistics, you would always be making the appropriate corrections,
-which is the study of uncertainty and error propagation.</p><p>The Quantopian <a href="https://www.youtube.com/watch?v=YiDfbYtgUPc0" target=_blank>lecture on p-hacking and multiple comparisons bias</a>
+which is the study of uncertainty and error propagation.</p><p>On very basic correction is the
+<a href=https://en.wikipedia.org/wiki/Bonferroni_correction target=_blank>Bon-Ferroni Correction</a>
+which the Quantopian <a href="https://youtu.be/YiDfbYtgUPc?t=1694" target=_blank>explains here</a>
+but we can state it in one sentence:</p><blockquote><p>Bon-Ferroni correction: if you use $m$ tests, in each use a significance level of
+$\alpha/m$ where $\alpha$ is your overall desired significance. You then should
+expect a fraction $\alpha$ of the tests pass, and $(1-\alpha)$ fail.</p></blockquote><p>If that&rsquo;s not the case within reasonable uncertainties then your model (or data) needs updating).</p><p>The Quantopian <a href="https://www.youtube.com/watch?v=YiDfbYtgUPc0" target=_blank>lecture on p-hacking and multiple comparisons bias</a>
 is a good overview of this topic, with a few tips for people who are at risk of
 over-using neural networks and whatnot. A lecture is only as good though as the
 student is willing to take heed. In a dog-eat-dog world and rat-race people are prone
