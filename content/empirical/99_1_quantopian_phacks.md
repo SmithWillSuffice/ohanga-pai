@@ -56,8 +56,8 @@ These interpretations of $p$-values are terrible dicey though:
 probabilities only *given* the assumptions of the model are correct (and 
 Gaussian errors, whatever else the test statistic assumes, etc.)
 * If you are in social sciences you might tolerate more false negatives (NullHyp is true 
-& the test indicates it is false) but only as the cost for decreasing your rate of 
-false positives.
+& the test indicates it is false) but only as the cost for the pay-off of decreasing 
+your rate of false positives.
 * For a lot of problems the more hazardous (in real life terms) outcome is a false 
 positive (NullHyp is true & test indicates it is false) --- this is because a true 
 NullHyp is "There is no effect", so a false positive is going to bias you towards 
@@ -100,7 +100,7 @@ output statements coded.
 
 **Better practice?** I would not choose one single cut-off, but a worst case and best 
 case, so a range of significance levels. Ex. for extreme risk analysis maybe you want 
-worst case acceptance of a false positive to be 0.01% (which if getting more like the 
+worst case acceptance of a false positive to be 0.01% (which is getting more like the 
 6-sigma level for particle physics research); and best case to be even more 
 stringent, like 0.001%. 
 
