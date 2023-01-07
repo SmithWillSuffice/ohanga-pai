@@ -151,6 +151,6 @@ maximum values) and consider using a different type of hypothesis test, e.g., on
 that scores maximum values, not the medians or means.
 
 
-[Next chapter (Macro Trading-1)](../999_macro_trader)  
-[Previous chapter (Projects Overview)](../1_ohangapai_projects)  
+[Next chapter (TBD)](./)  
+[Previous chapter (Macro Trading-1)](../99_macro_trader)  
 [Back to Empirical Pages](../)
