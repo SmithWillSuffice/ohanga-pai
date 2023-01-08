@@ -87,6 +87,40 @@ used to run the credit system. The description is good. To bolster our Myth 1 bu
 we note Nielson's high level view of the balance sheets and T-accounts, does not 
 mention the class system. 
 
+### Is there really a "borrower"
+
+Tell me if this is too pedantic. On Nielson's explanations of balance sheets, we 
+see a "lender" a bank" and "borrower". The credit  borrowed is recorded on each entities 
+balance sheet. What's wrong here?
+
+It is a macroeconomic perspective, I think. Th banking system as a whole needs to be 
+referenced in a macro analysis. When the "borrower" takes the credit it almost 
+instantly (transactions delays permitting) becomes a liability of the baking system 
+--- a deposit.
+
+This deposit "came form nowhere" --- which is flowery rhetoric for the fact the bank 
+just created it on a  balance sheet, nothing was printed by government, no gold 
+supply was raided, no tax payer was shafted.
+It is the endogenous money story.  The loan created the deposit.
+
+There really is no "borrower" in the commonsense meaning of the word, since 
+*nothing was borrowed**.  What happened is that a credit--debt set of records was 
+created.
+
+It is a relationship between three parties, not two. A customer of the bank (buyer) the 
+bank, and a seller of goods (also a customer of some bank, usually, absent drug lords 
+etc).
+
+1. Customer (a buyer) got credit (they can spend = asset, but have to repay = liability).
+2. Bank got a promise to repay (bank asset), but also a deposit (the seller of goods 
+banked the payment).
+3. Seller got rid of assets (real assets) and gained credit (the deposit).
+
+Those are six balance sheet entries, minimum (the central bank has not get got 
+involved in our story, but are in the background adding two more balance sheet 
+entries regarding movements of reserves at the end of a settlement period). It is as 
+Randall Wray and now Steve Keen would recognize, not just quadruple entry 
+book-keeping, but octuple.
 
 ### Beware the Ideals --- capitalism is not capitalism
 
