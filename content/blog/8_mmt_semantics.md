@@ -539,6 +539,6 @@ time, a stock.
 change of net credit). The time period is usually taken as one year.
 
 
-[Next post (TBD)](./)  
+[Next post (Finance Politics)](../9_finance_politics)  
 [Previous post (Accelerators and Repellers)](../7_accelerators_repellers)  
 [Back to Blog TOC](../)
