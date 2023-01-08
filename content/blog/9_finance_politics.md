@@ -13,7 +13,7 @@ tags: []
 Itching for a scrap, here I am going to combat some of Daniel Neilson's substack 
 posts ([Soon Parted](https://www.soonparted.co/)). Not because I disagree, but 
 because I find Daniel's blog informative, but lacking an MMT lens. But he gets a lot 
-right, and is a student of Mehrling's, so he understands ba;lance sheets and whatnot. 
+right, and is a student of Mehrling's, so he understands balance sheets and whatnot. 
 So with Daniel Nielson we are not dealing with some unhinged libertarian or Austrian 
 School fantasist.
 
@@ -28,9 +28,12 @@ to be a settled body of theory like, say, physics.
 
 Politics is the art of governing, and economics is the fair distribution of output,
 while finance is the study of using a currency system (records of credits and debits) 
-to "[political economy of finance](https://www.soonparted.co/p/credit)" in Daniel's 
-[Morocco substack post series](https://www.soonparted.co/p/credit), these three get merged. This is 
-hazardous, because of several contradictions when the theory is exposed to the real world. I will talk about a few of these.
+to achieve the fair distribution.
+
+The phrase "[political economy of finance](https://www.soonparted.co/p/credit)" 
+in Daniel's [Morocco substack post series](https://www.soonparted.co/p/credit), 
+merges these three concepts. This is hazardous, because of several contradictions 
+when the theory is exposed to the real world. I will talk about a few of these.
 
 ### Finance is corruptible
 
@@ -39,7 +42,10 @@ the financial system are open to corruption, "finance politics" must address not
 just the reality of MMT, but also the way the monetary system is abused.
 
 The result of such abuses is a breakdown of the goal of fair distribution 
-(the economics).
+(the economics). The abuse almost always originates from the politics. To complete 
+a bit of a circle: the means to abuse the politics most often resides in 
+financial assets, and the more unfairly they are distributed, the more the 
+tendency towards corruption.
 
 One source of corruption is failure to recognize that we **_do not live in a pure 
 capitalist system_**. All major nations today have a currency monopoly, and it is the 
@@ -93,12 +99,12 @@ Tell me if this is too pedantic. On Nielson's explanations of balance sheets, we
 see a "lender" a bank" and "borrower". The credit  borrowed is recorded on each entities 
 balance sheet. What's wrong here?
 
-It is a macroeconomic perspective, I think. Th banking system as a whole needs to be 
+It is a macroeconomic perspective, I think. The banking system as a whole needs to be 
 referenced in a macro analysis. When the "borrower" takes the credit it almost 
 instantly (transactions delays permitting) becomes a liability of the baking system 
 --- a deposit.
 
-This deposit "came form nowhere" --- which is flowery rhetoric for the fact the bank 
+This deposit "came from nowhere" --- which is flowery rhetoric for the fact the bank 
 just created it on a  balance sheet, nothing was printed by government, no gold 
 supply was raided, no tax payer was shafted.
 It is the endogenous money story.  The loan created the deposit.
@@ -107,9 +113,9 @@ There really is no "borrower" in the commonsense meaning of the word, since
 *nothing was borrowed**.  What happened is that a credit--debt set of records was 
 created.
 
-It is a relationship between three parties, not two. A customer of the bank (buyer) the 
-bank, and a seller of goods (also a customer of some bank, usually, absent drug lords 
-etc).
+It is a relationship between **three parties**, not two. A customer of the 
+bank (buyer) the bank, and a seller of goods (also a customer of some bank, 
+usually, absent drug lords etc).
 
 1. Customer (a buyer) got credit (they can spend = asset, but have to repay = liability).
 2. Bank got a promise to repay (bank asset), but also a deposit (the seller of goods 
