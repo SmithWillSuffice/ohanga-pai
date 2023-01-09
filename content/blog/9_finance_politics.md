@@ -10,7 +10,8 @@ toc: true
 tags: []
 ---
 
-Itching for a scrap, here I am going to combat some of Daniel Neilson's substack 
+Itching for a scrap with something that can't fight back, here I am going to combat 
+some of Daniel Neilson's substack 
 posts ([Soon Parted](https://www.soonparted.co/)). Not because I disagree, but 
 because I find Daniel's blog informative, but lacking an MMT lens. But he gets a lot 
 right, and is a student of Mehrling's, so he understands balance sheets and whatnot. 
@@ -63,7 +64,8 @@ the payments system for currency in the state's unit of account.
 In fact, the government is so powerful the "banks" end up asking for licences from 
 the state to use the state's tax credits for their credit. 
 
-The Sequence is vital to understand, and is similar to Warren Mosler's Sequence. 
+The Sequence is vital to understand, and is similar to Warren Mosler's 
+[Sequence](/ohanga-pai/questions/1_basic_ohangapai/#money_story). 
 The sequence here is *first* the state issues tax liabilities, *then second* they 
 issue currency which functions as tax credit, "that which can be redeemed for 
 extinguishing tax liabilities." Governments are not all stupid, they retain the 
@@ -76,7 +78,7 @@ running it, but unfortunately the justice system and fair distribution are not s
 robust.))
 
 Being licenced by the state, these private banks are effectively doing the bidding of 
-the state: issuing private credit to fuel entrepreneurs who ned finance capital to 
+the state: issuing private credit to fuel entrepreneurs who need finance capital to 
 start or expand businesses prior to having sales streams.
 
 This sounds like an important function of "capitalism," but this is not capitalism 
@@ -99,10 +101,10 @@ Tell me if this is too pedantic. On Nielson's explanations of balance sheets, we
 see a "lender" a bank" and "borrower". The credit  borrowed is recorded on each entities 
 balance sheet. What's wrong here?
 
-It is a macroeconomic perspective, I think. The banking system as a whole needs to be 
-referenced in a macro analysis. When the "borrower" takes the credit it almost 
-instantly (transactions delays permitting) becomes a liability of the baking system 
---- a deposit.
+It is a macroeconomic perspective, I think --- it is missing. The banking system as 
+a whole needs to be referenced in a macro analysis. When the "borrower" takes the 
+credit it almost instantly (transactions delays permitting) becomes a liability of 
+the banking system --- a deposit.
 
 This deposit "came from nowhere" --- which is flowery rhetoric for the fact the bank 
 just created it on a  balance sheet, nothing was printed by government, no gold 
@@ -110,7 +112,7 @@ supply was raided, no tax payer was shafted.
 It is the endogenous money story.  The loan created the deposit.
 
 There really is no "borrower" in the commonsense meaning of the word, since 
-*nothing was borrowed**.  What happened is that a credit--debt set of records was 
+**_nothing was borrowed_**.  What happened is that a credit--debt set of records was 
 created.
 
 It is a relationship between **three parties**, not two. A customer of the 
@@ -126,7 +128,25 @@ Those are six balance sheet entries, minimum (the central bank has not get got
 involved in our story, but are in the background adding two more balance sheet 
 entries regarding movements of reserves at the end of a settlement period). It is as 
 Randall Wray and now Steve Keen would recognize, not just quadruple entry 
-book-keeping, but octuple.
+book-keeping, but octuple.  Octuple that is, if we follow the whole credit-spend 
+cycle. Just a single transaction (just the credit issue) remains quadruple entry, 
+until the central bank clearing gets computed, but that's usually a few hours later 
+(used to be weeks later).
+
+Pure borrowers and lenders do exist, but they do not involve banks. 
+Savings & loans firms, savings cooperatives, and shadow banks all operate without 
+endogenous money, they "circulate and hold" only, no new money gets created. 
+However, to fuel a monetary production system the circulation of the currency is 
+critical. So these non-bank quasi-bank institutions can serve a useful purpose, they 
+allow circulation of savings.  Banks do not. Banks gum things up for a monetary 
+economy, but when they issue credit they fuel the economy, it is a dual purpose and 
+it pays to understand both functions. Credit issuance is a demand add, savings a 
+demand drain.
+
+Did Steve Keen's [Minksy](https://sourceforge.net/projects/minsky/) 
+model "prove" this? Not really, unless you have a very liberal 
+notion of "proof". But I will talk about that in another article another day.
+
 
 ### Beware the Ideals --- capitalism is not capitalism
 
@@ -135,7 +155,7 @@ The final statement for the first in the
 
 > "The purpose of this course is to help us understand the system of credit relationships, and by doing so, to better understand capitalism itself."
 
-As I said, Nielson is  smart dude and teaches well. But here he is teaching folks 
+As I said, Nielson is a smart dude and teaches well. But here he is teaching folks 
 about a system that does not exist. If we only focus on endogenous money operations 
 we ignore the most important institution in the whole system, the monopoly issuer, 
 the government.
@@ -173,7 +193,7 @@ So give them something to chew on, in the vicinity of a cognitive dissonance.
 
 This is what Douglas (hopelessly materialistic nice guy) over at MMT Macro Trader 
 is trying to do, and we need soldiers in this army to help. Which is why I am helping 
-Douglas to explore MMT implications at the mesoeconomic level. Any intellectual fuel I can provide to mind-bomb the neliberals is fuel worth the effort of producing.
+Douglas to explore MMT implications at the mesoeconomic level. Any intellectual fuel I can provide to mind-bomb the neoliberals is fuel worth the effort of producing.
 
 
 [Next post (TBD)](./)  
