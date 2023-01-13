@@ -1,0 +1,150 @@
+---
+title: "Source of Surplus Value"
+description: ""
+date: 2023-01-03
+lastmod: 2023-01-03
+cover: ""
+coverAlt: ""
+katex: true
+toc: true
+tags: []
+---
+
+Even in Marx's day "value" in social and relative utility or any subjective terms that emerges ina  society, was measured using the state's unit of account (dolalrs, yuan, yen, pesos, &c.)
+
+So when some economists talk about theories of surplus value they often reduce to nominal terms (the sate currency unit) not real terms (energy and material).
+But hs is fine. As logn as you know when it is appropriate to translate between real and nominal terms
+
+## Philosophizing with a Hammer and Sickle
+
+If I was really desperate to goof off, and was bored of physics or philosophy of consciousness, I might try one time picking up Jonas Ceki's book "How to Philosophize with a Hammer and Sickle" because it'd like to get a postmodernists perspective on Marx and Nietzche.
+
+Nietzche fascinates me a little bit because he was a crap philosopher, but highly esteemed, and highly despised. You know you've done at least one thing right when you create enemies on all sides. But what exactly did Nietzche get right that pissed off so many and led to high esteem in the eyes of others?
+
+To put a blunt point on it, I'd say it was introducing (or rather emphasising) the 
+study of raw social power into social philosophy.
+
+OK. Good job. Vital. No wonder postmodernists eat it up --- postmodernism largely 
+eschewed Marx and turned to titillating each other with academic conferences about 
+power relations. This is critical theory, and a large block of postmodernism.
+
+But this is not the topic to hand.
+
+I mention Ceika because I decided to take the lazy man's way today and while looking 
+for the pixie sleepy dust I turned on a channel 
+[@AWorldToWin](https://www.youtube.com/@AWorldtoWin) hosted by Melody, which had a 
+review of Ceika's book. The review runs into the "younger Marx" (idealist) and the "older 
+Marx" (political economist). That provoked a comment, so I wrote one, and will repeat 
+here with embellishments.
+
+## Labour Theory of Value is False (by a long way)
+
+Melody points out a critique of Marx by Louis Althusser (1918-1990) an old white dude 
+philosopher, who pointed out this "epistemic break" in Karl Marx from the younger 
+(Hegelian) to the older (materialist).
+
+I found this fascinating, because from reading Marx and following a few scholars who 
+understand the economics content in both the 
+[Grundrisse](https://www.marxists.org/archive/marx/works/1857/grundrisse/) and 
+[Capital](https://libcom.org/article/capital-karl-marx), I was able to, thanks to 
+Althusser (via Melody) pull out a splinter in my mind that had bugged me.
+
+This is the little puzzle of why in the Grudrisse Marx figured out the source of 
+surplus value in production, knew it was not all labour, but then reversed to 
+deliberately falsify himself in Capital.
+He tried to find human labour as the sole source of surplus value in Capital, 
+but failed in the Grundrisse. He found a weaselly way to twist his logic to argue for 
+the Labour Theory of Value (LTV) in Capital, and presented it. 
+
+I mean, I understood his motive: you tell the noble lie.
+He wanted to scientifically (which means unscientifically in this context) "prove" 
+capitalism was self-destructive.
+
+Why? Because he wanted to "scientifically" motivate fervour for socialism.
+
+But noble lies like this are still lies, and can lead to no good (in my humble 
+opinion, not based on stupid petty moralisms, but empirically, and spiritually --- in 
+spiritual terms, one big lie, even if noble, discloses a tainted heart).
+Not that I condemn Marx, I do not know the guy. Marx had good reason to want to 
+suppress his emotions about the horrors going on in this Dickensian times. He'd be 
+inhuman not to be touched by the plight of the poor and working class in general. But 
+instead of appealing correctly to spiritual impulses, as the younger idealistic Karl 
+might have done, he thought he'd grown up and so had to use "science" --- like an 
+18th Century but socialist Ben Shapiro (try to forget I wrote that, I couldn't 
+resist).
+So, yeah. Who the hell am I to condemn a noble lie.
+
+But me, today, I could never take a time machine go back and witness industrial 
+worker horrors and defile Science to motivate  socialist revolution, not matter how 
+much I'd want a revolution. My approach is that truth matter, and is more powerful 
+than the noble lie.
+
+Now, of course, I cannot say Marx was guilty of falsification. He wrote both volumes, 
+so must have been aware of the problem. I think he just tried to suppress his logic 
+and present a near-enough good argument for LTV. But in logic 'near enough" has no 
+menaing, and in fact Marx got it wrong in Capital. As any sceintist todya would tell 
+you.
+
+The physical inputs into production are energy, machinery, and skilled labour. (you 
+might count others, but these are the big three). Marx can argue that machinery was 
+always built using past labour. So the LTV holds good so far. But not all energy (and 
+mass) is created by the hands of humans. And not by several orders of magnitudes (as 
+inputs 
+into production). So the LTV is ridiculously false.
+
+But in Marx's day, no economists understood what energy was. None of them understood 
+thermodynamics or basic physics. So you could, perhaps, forgive them this error? 
+
+In fact to this very day, several strains of sockcuckery economics (the bullsh*tters 
+--- the Neoclassicals, Austrians and New Keynesians, even some post-Keynesians) 
+totally ignore the role of energy in production. Energy does not factor into their 
+models except as just one more commodity market like any other. They "givea-way" they 
+do not understand is if you ask them about constraints at the macroeconomic level. If 
+they dare say "run out of other people's money" you know they're scientifically 
+illiterate. The contraints are real resources, and maximally that's available free 
+mass-energy ("free" here in the thermodynamicists sense, not the financial sense, 
+free energy = exergy).
+
+((Yet the French Physiocrats, not the nicest guys, did understand the role of energy in production. A pity they were not humanistically inclined. It could have aided the socialist cause had they been talking with Marx and Engels.))
+
+The comment I eventually left on the youtube clip was:
+
+> another trouble with the "older Marx" was he was anti-scientific but thought he was 
+scientific. He showed why LTV is false in the Grundrisse, but then in Capital tried 
+to weasel his way out of it to be able to derive the FLP. Total failure. You know a 
+logically illiterate marxist zealot by whether they still believe the LTV and FRP. 
+The "younger Marx" had it all right - labour is not the sole source of surplus value, 
+but that does not matter because labour is the only socially exploited source of 
+surplus value. So capitalism (qua Marx) is morally and ethically plain wrong, 
+completely regardless of what the source of surplus value in production happens to be 
+(it's the Sun and soil, air and sea, for the most part, we get that "for free" 
+without social exploitation, until the rentiers arrive on the scene).
+
+Couldn't get too much more succinct.
+
+I guess I could have written it not to take such a pot shot at marxist zealots. But to 
+my mind this sort of criticism matters.
+
+Any wannabe revolutionary today had better understand power relations (the one thing 
+Nietzche hit a decent nerve with, even if for warped reasons and messed up directions). 
+There economics thinking is stuck back in the ignorant past with gold stnadard 
+"commodity currency" thinking, or at best updated to New Keynesians fixed exchange rate 
+brainworm mentality.
+
+It's not that you need to grok MMT to be a better revolutionary (but it woould not 
+hurt) but that you need spiritual weapon to fight the mdoern class war. Material 
+weapons will not overthrow neoliberalism. There is not falling rate of profit. There 
+is no direct material force of historical materialism inevitably leading to the 
+collapse of neoliberalism.
+
+If you wan tot defeat neoliberals, you will be either waiting for massive catastrophe 
+like climate or ecological damages, accompanied by violence from the green fascists, 
+*_or_* or you'll be teaching people who are honest and decent and humble that 
+neoliberalism is evil and cannot be tolerated, and we have no need to wait for nature 
+to tell us this is so. We all have agency. We only lack solidarity.
+
+
+
+[Next post (TBD)](./)  
+[Previous post (Proof of X)](../10_proof_of_x)  
+[Back to Blog TOC](../)
