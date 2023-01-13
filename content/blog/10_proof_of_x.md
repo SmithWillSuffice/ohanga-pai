@@ -281,7 +281,24 @@ that produces the output we want.
 Ah! But this would remove one data time series the DougBot would use to "prove MMT". 
 So we are asking Mosler to shush his smart alec trap shut, for a while anyway.
 
+## The Proof in the Eaten pudding
 
-[Next post (TBD)](./)  
+We have already had abundant evidence over the COVID supply shock crisis that, 
+
+* government spending adds to GDP.
+* Central bank bond rate hikes add to GDP.
+* Government deficit acceleration comes *after* the inflation impulse, not before 
+(is an effect, not a cause) --- to check this one must drag the CPI published inflation back in time to when the actual store prices would have risen.
+* MMT also "predicts" (conditionally) that central bank rate hikes are directly 
+inflationary --- but this was near to impossible to validate for most of the COVID-19 
+era because all the initial inflationary impulse came from the effects of supply 
+chain disruptions and mass lost output due to lockdowns, death, ongoing supply chain 
+frictions, and then at the tail end egregious price gouging by OPEC+ and other 
+monopolists (oil being the single biggest input to food production).
+
+All consistent with MMT, and difficult to explain with any other mainstream school 
+of thought.
+
+[Next post (Surplus Value)](../11_surplus_value)  
 [Previous post (Finance Politics)](../9_finance_politics)  
 [Back to Blog TOC](../)
