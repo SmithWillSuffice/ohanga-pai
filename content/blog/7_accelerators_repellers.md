@@ -141,7 +141,7 @@ It's rate of change was over 10%, and that was a velocity measure, so the rate o
 of *the* was the acceleration, indicating an underlying force. Both the stress and the 
 velocity seem to be triggers, neither separately, this is from empirical work by 
 Richard Vague (see, 
-[A Breif History of Doom](https://www.upenn.edu/pennpress/book/15996.html).
+[A Brief History of Doom](https://www.upenn.edu/pennpress/book/15996.html).
 Although, if I am right, there should have been an impulse the triggered the 
 great crash, that would be s short burst in the accelerator. If I recall from reading 
 J K Galbraith 

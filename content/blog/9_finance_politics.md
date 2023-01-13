@@ -193,9 +193,10 @@ So give them something to chew on, in the vicinity of a cognitive dissonance.
 
 This is what Douglas (hopelessly materialistic nice guy) over at MMT Macro Trader 
 is trying to do, and we need soldiers in this army to help. Which is why I am helping 
-Douglas to explore MMT implications at the mesoeconomic level. Any intellectual fuel I can provide to mind-bomb the neoliberals is fuel worth the effort of producing.
+Douglas to explore MMT implications at the mesoeconomic level. Any intellectual fuel I 
+can provide to mind-bomb the neoliberals is fuel worth the effort of producing.
 
 
-[Next post (TBD)](./)  
+[Next post (Proof of X)](../10_proof_of_x)  
 [Previous post (Semantics of MMT)](../8_mmt_semantics)  
 [Back to Blog TOC](../)
