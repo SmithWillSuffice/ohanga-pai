@@ -1,8 +1,8 @@
 ---
 title: "Source of Surplus Value"
 description: ""
-date: 2023-01-03
-lastmod: 2023-01-03
+date: 2023-01-04
+lastmod: 2023-01-04
 cover: ""
 coverAlt: ""
 katex: true
