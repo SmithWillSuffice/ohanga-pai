@@ -116,6 +116,18 @@ The good early news is that we can see hints of causal relations from looking at
 accelerations in lagged margin debt and the SPX. This is promising, because although 
 there is still a lot of noise, we can see a generalized force acting.
 
+The conceptual idea of movements in incomes and wages and other macroeconomics variables can be illustrated in a diagram:
+
+{{< attractors_and_repellers >}}
+
+Here the physics concept of "energy" needs to be replaced in economics by something 
+like an optimal output, such as "productivity" or "real output". So on one side there's too little (starvation) on the other side too much (resource depletion). 
+
+The illustration is only showing one-dimension, in the real world there will be multiple dimensions, so instead of a curve we'd actually have the "ball" (the system of interest, a firm, a household sector, a commodity, or any sub-system of the economy you are interested in that causes changes in the $y$ objective function). 
+The general point is that viewed this way, only as a metahor, there are "forces" at work in macroeconomics.
+
+On the left diagram the interest rate is shown as a repeller force. If you are middle income at the top of the "energy" curve you are maybe safe but unstable to getting poor or rich, since the interest rate hikes hurt the poor and reward the rich, it is a force that creates a growing wealth divide. 
+
 The problem is the economic system has many people with their feet on gas peddles and 
 brakes, all over the place. And we are looking at the superposition of them all in the 
 aggregate. So it is always going to be noisy. 
