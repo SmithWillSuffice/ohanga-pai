@@ -515,29 +515,43 @@ rules that requires resources to enforce? I will admit I am a bit vague on why s
 
 ## Caveats
 
-Steve Keen defines *Credit* as rate of change of debt. This is, I believe, highly 
-non-standard usage, and terribly confusing. He means of course on *opposite* sides 
-of a balance sheet or Godley table: entity $A$ has "credit" equals entity $B$ having 
-"rising debt," not just "debt".  I hate this usage!
+Steve Keen defines *Credit* as rate of change of debt. I cannot honetsly tell if this is standard usage, it seems economists lack some standards.
+
+If "Credit" on the FRED H.8 tables is the amount of credit isssued over a year by banks, then that's a flow, not a stock, it is the stock of money from bank credit divided by $1\,$year. That agrees with Prof Keen.
+
+However, as an outsider to econ academia, I find this terribly confusing. 
+
+What we should be talking about is *opposite* sides of a balance sheet or Godley 
+table: entity $A$ has "rising credit" equals entity $B$ having "rising debt" 
+not just "debt". 
+
+But in macroeconomics debt is a stock. The *government debt* accumulates year on year. 
+It is the *government deficit* that is the flow ($\Delta$Debt$/\Delta t$, with 
+$\Delta t $ = $1\\,$year.)
 
 When a bank debits an account it always credits another, by the same amount. No rate in 
-time is involved.
+time is involved. And is I have state notes then I have a tax credit,, not a flow of anything like a wage.  Wages are rates of change of my tax credits $\Delta$credit$/\Delta t$.
 
 The interest rate and the time span of the credit factors in a time dimension. 
 (You have to return the credit after some time.) But in this case debt should also 
 be a flow too, not a stock, if you want to be consistent. 
 
-This would then conflict with standard usages for the government sector. Government 
+Having "'credit" be rate of change of another's debt would then conflict with 
+what I believe is standard semantics for the government sector. Government 
 deficit (or surplus) is the flow. Government debt is the accumulated deficit over all 
-time, a stock. 
+time, a stock = all the outstanding tax credits. 
 
 **MMT Usage:** 
+
+This is just my vote:
 
 * Credit $=$ $-$Debt. 
 * $\Delta$Credit = $-\Delta$ Debt.
 * Rate of change of debt is *deficit*, and when positive is *surplus* (=rate of 
 change of net credit). The time period is usually taken as one year.
 
+So sort it out you econ nerds. Geesh!  What... is writing an ISO standard document 
+too beneath your poncy *ass*ets?
 
 [Next post (Finance Politics)](../9_finance_politics)  
 [Previous post (Accelerators and Repellers)](../7_accelerators_repellers)  

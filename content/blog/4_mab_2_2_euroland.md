@@ -9,7 +9,7 @@ katex: true
 tags: []
 ---
 
-I will be writing the odd blog post over the next month commenting on highlights from Perry Mehrling's MOOC on [Money and Banking - online from INET]()
+I will be writing the odd blog post over the next month commenting on highlights from Perry Mehrling's MOOC on [Money and Banking - online from INET](https://www.ineteconomics.org/education/courses/the-economics-of-money-banking).
 
 Today it's a comment on when Mehrling starts out by alerting his students that he is going to talk about the ECB "as if" it were a private entity, and then only in later lectures talk about money as a creation of the state.
 
