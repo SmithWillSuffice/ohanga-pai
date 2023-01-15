@@ -24,7 +24,7 @@ and nominal terms.
 
 If I was really desperate to goof off, and was bored of physics or philosophy of 
 consciousness, I might try one time picking up Jonas Ceika's book "How to Philosophize 
-with a Hammer and Sickle" because it'd like to get a postmodernists perspective on 
+with a Hammer and Sickle" because I'd like to get a postmodernists perspective on 
 Marx and Nietzche.
 
 Nietzche fascinates me a little bit because he was a crap philosopher, but highly 
@@ -107,18 +107,17 @@ Marx got it wrong in Capital. As any scientist today would tell you.
 The physical inputs into production are energy, machinery, and skilled labour. (you 
 might count others, but these are the big three). Marx can argue that machinery was 
 always built using past labour. So the LTV holds good so far. But not all energy (and 
-mass) is created by the hands of humans. And not by several orders of magnitudes (as 
-inputs 
-into production). So the LTV is ridiculously false.
+mass) is created by the hands of humans. And not by several orders of magnitude (as 
+inputs into production). So the LTV is ridiculously false.
 
-But in Marx's day, no economists understood what energy was. None of them understood 
+But in Marx's day, no economists understood what energy was. Few of them understood 
 thermodynamics or basic physics. So you could, perhaps, forgive them this error? 
 
 In fact to this very day, several strains of sockcuckery economics (the bullsh*tters 
 --- the Neoclassicals, Austrians and New Keynesians, even some post-Keynesians) 
 totally ignore the role of energy in production. Energy does not factor into their 
-models except as just one more commodity market like any other. They "give-away" 
-that they do not understand is if you ask them about constraints at the macroeconomic level. If they dare say "run out of other people's money" you know they're scientifically illiterate. The contraints are real resources, and maximally that's available free mass-energy ("free" here in the thermodynamicists sense, not the financial sense, free energy = [exergy](https://en.wikipedia.org/wiki/Exergy)).
+models except as just one more commodity market like any other. The "give-away" 
+that they do not understand is if you ask them about constraints at the macroeconomic level. If they dare say "run out of other people's money" you know they're scientifically illiterate. The constraints are real resources, and maximally that's available free mass-energy ("free" here in the thermodynamicists sense, not the financial sense, free energy = [exergy](https://en.wikipedia.org/wiki/Exergy)).
 
 ((Yet the French Physiocrats, not the nicest guys, did understand the role of energy in production. A pity they were not humanistically inclined. It could have aided the socialist cause had they been talking with Marx and Engels.))
 
@@ -150,14 +149,15 @@ The comment I eventually left on the youtube clip was:
 
 > another trouble with the "older Marx" was he was anti-scientific but thought he was 
 scientific. He showed why LTV is false in the Grundrisse, but then in Capital tried 
-to weasel his way out of it to be able to derive the FLP. Total failure. You know a 
-logically illiterate marxist zealot by whether they still believe the LTV and FRP. 
-The "younger Marx" had it all right - labour is not the sole source of surplus value, 
-but *that does not matter* because _labour is the **only socially exploited** source of 
-surplus value_. So capitalism (qua Marx) is morally and ethically plain wrong, 
-completely regardless of what the source of surplus value in production happens to be 
-(it's the Sun and soil, air and sea, for the most part, we get that "for free" 
-without social exploitation, until the rentiers arrive on the scene).
+to weasel his way out of it to be able to derive the FLP ((falling rate of profit)). 
+Total failure. You know a logically illiterate marxist zealot by whether they still 
+believe the LTV and FRP. The "younger Marx" had it all right - labour is not the sole 
+source of surplus value, but *that does not matter* because _labour is the **only 
+socially exploited** source of surplus value_. So capitalism (qua Marx) is morally 
+and ethically plain wrong, completely regardless of what the source of surplus value 
+in production happens to be (it's the Sun and soil, air and sea, for the most part, 
+we get that "for free" without social exploitation, until the rentiers arrive on the 
+scene).
 
 Couldn't get too much more succinct.
 
@@ -170,7 +170,7 @@ my mind this sort of criticism matters.
 Any wannabe revolutionary today had better understand power relations (the one thing 
 Nietzche hit a decent nerve with, even if for warped reasons and messed up directions). 
 There economics thinking is stuck back in the ignorant past with gold standard 
-"commodity currency" thinking, or at best updated to New Keynesians fixed exchange rate 
+"commodity currency" thinking, or at best updated to New Keynesian fixed exchange rate 
 brainworm mentality.
 
 In fundamental physics the force carriers are the bosons (characterized by not 
