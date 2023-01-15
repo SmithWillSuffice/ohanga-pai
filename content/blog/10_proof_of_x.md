@@ -25,7 +25,7 @@ The motive does not need to be to make money ahead of the average market returns
 sector, is an MMT system, even if the traders do not like it! So an educational 
 project.
 
-To get such "proof of MMT we'd be also looking to predict (or retrodict, which is 
+To get such "proof of MMT" we'd be also looking to predict (or retrodict, which is 
 just as valid) movements in unemployment and tax flows. For this 
 [The Sequence](/ohanga-pai/questions/1_basic_ohangapai/#money_story) 
 of MMT is getting tested. 
@@ -46,7 +46,7 @@ cycle.
 This is extreme sort of "proof" --- like saying to some joker, "Hey, suppose you 
 are right that anti-gravity inertia free propulsion exists. Now let's see if that 
 shadowy thing yonder that looks like a shadow, is truly accelerating 
-instantaneously..."
+instantaneously and is not a shadow..."
 
 While this could be construed as violating Lerner's Law (never concede the principle) 
 this is ok, because we're only doing it as an internal part of our project. In public 
@@ -68,6 +68,8 @@ Market operations when the government spends. Randall Wray and others have alrea
 this, and they show governments do in fact issue or create new currency when they spend.
 There is no borrowing or taxing involved.
 
+Incidentally, [Richard Werner](https://www.sciencedirect.com/science/article/pii/S1057521915001477) did the analogous thing for private bank credit creation --- the software proves banks do not loan deposits nor reserves, they just issue money by keystrokes (in return for a promissory note to repay --- every credit matches a debt).
+
 However, this is too smart alecky for us. Suppose we were truly dumb Austrian 
 Kindergartners and refused to regard the Central Bank as a branch of government.
 
@@ -88,7 +90,7 @@ The shorter time interval has to be found from,
 * (step-$1$) government spend, to (step-$2$) real output growth,   
 &nbsp;&nbsp;&nbsp;&nbsp;and then,  
 * *also* the shorter time lag must be from ($1^\prime$) accelerated increasing 
-general tax returns to ($2^\prime$) downward price and employment movements.
+general tax returns to ($2^\prime$) downward price and employment movements.   
 &nbsp;&nbsp;&nbsp;&nbsp;and,  
 * *also* the shorter time lag must be from ($1^{\prime\prime}$) increasing employment to 
 increasing rate of FICA tax returns then a lag to ($2^{\prime\prime}$) stalled price and 
@@ -125,7 +127,7 @@ sophisticated analysis).
 ### Fooling the System without Fooling the System
 
 You can have a system that runs by certain rules, but which when looked at purely 
-empirically seems to not run by coherent rules.
+empirically seems to not run by said coherent rules.
 
 Need an example? Consider Rugby: get all the equipment and trained teams et cetera, 
 but then they all decide they "do not believe in Rugby" (too tankie-commie) and start 
@@ -163,7 +165,7 @@ So this is what all neoliberals do, whether left-wing or right-wing or up-wing o
 down-wing, red-wing, blue-wing or green-wing, dirty-wing or clean-wing. I feel a Dr 
 Seuss cartoon coming on.
 
-If a numbskull who had no concept of rule of law, be able to then look at just the 
+Would a numbskull who had no concept of rule of law be able to then look at just the 
 financial data and conclude it was not an MMT operations system?
 
 Douglas said 'No!"
@@ -173,33 +175,52 @@ the pieces.
 
 I reckon, "Yes!"
 
-That's the stance that a there is a poverty of input, and it becomes possible to imagine 
+That's the stance that there is a poverty of input, and it becomes possible to imagine 
 something non-MMT about the monetary system, even though underneath it is all MMT 
 operations, down to the last tax liability and bank credit.
 
 Which is it?
 
 I suspect we'd find neither is entirely true nor false. There is in fact too much 
-poverty of input without an understanding of the legal system and Parliamentary law. 
+poverty of input without an understanding of the legal system and parliamentary law. 
 Which means, just examining balance sheet data, one would not be able to get a 
 statistically significant score to separate some of the theories. MMT would just become 
 one of many.
 
-Suppose, for instance, US Congress decided once and forall *not* to raise the 
-fictional "deb ceiling"?
+Suppose, for instance, US Congress decided once and for all *not* to raise the 
+fictional "debt ceiling"?
 
 There is a conditional: anyone failing to see this is a free vote of Congress would 
 be perhaps unable to tell the system is fiat currency. They might be led to conclude 
 bank credit constrains the government net spending. This would be despite the fact 
 the monetary operations and software systems are still all in accord with MMT.
 
+It would be weird though. You'd not be able to compute the determinable amount of 
+bank credit which constrains government. The banks certainly would not know. 
+But mere weirdness is not a proof.
+
 This is at least something to think about if the DougBot project "proof of MMT" is 
 to be rhetorically successful, even if technically unimpeachable.
 
 
+### But... the Triple Sector Balances!
+
+The Three Sector Balance always shows government deficit equals private surplus, to the penny.
+
+Is this really a "poof of MMT" though? It's just an accounting identity. In my 
+explanation of [MMT Basics](/ohanga-pai/questions/1_basic_ohangapai/) this is only 
+one of three principle ingredients. I use **(1)** real resource limits, and 
+**(2)** the legal framework as the other two principles. So knuckleheads will not 
+regard this as "proof of MMT". (We are assuming bone-headed Austrians are incapable 
+of looking up The Law).
+
+
 ## Push and Pulls
 
+```
+TODO: was gonna write about the opposing forces.  
 
+```
 
 
 
@@ -228,8 +249,9 @@ showing _**if** what MMT describes is correct, **then** government deficits are 
 This is a conditional.
 
 To use such models to "prove MMT" one has to then examine the data to see whether 
-rising government deficits add to GDP, thus falsifying the Null Hypothesis of the New 
-Keynesians and Neoclassicals that  welfare incurs a dead weight loss.
+rising government deficits add to GDP without subtracting all the add via the 
+inflation deflator, if true then this would falsify the Null Hypothesis of the 
+New Keynesians and Neoclassicals that  welfare incurs a dead weight loss.
 
 One cannot prove or disprove MMT without such empirical data.
 
@@ -298,6 +320,20 @@ monopolists (oil being the single biggest input to food production).
 
 All consistent with MMT, and difficult to explain with any other mainstream school 
 of thought.
+
+**An important caveat:**  one might expect the FED raising the interest rate floor 
+(a [repeller](../7_accelerators_repellers), so not always an add to 
+every households income!) would sustain inflation. MMT would say "Yes, but..."  Why? 
+Because the source of the COVID era inflation was not from too much effective demand 
+(money supply) it was from real good supply and labour shocks. You cannot cure a 
+supply shock with a demand add, not through the interest-income channel at least. You 
+need the demand add to be in the form of real investments to boost the supply of 
+goods. 
+
+Read [Bill Mitchell's accounts of the COVID inflation era](http://bilbo.economicoutlook.net/blog/?s=inflation) 
+if you are in doubt.
+
+
 
 [Next post (Surplus Value)](../11_surplus_value)  
 [Previous post (Finance Politics)](../9_finance_politics)  

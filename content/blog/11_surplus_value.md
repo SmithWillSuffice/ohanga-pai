@@ -10,14 +10,14 @@ toc: true
 tags: []
 ---
 
-Even in Marx's day "value" in social in relative utility terms, or any subjective terms 
+Even in Marx's day "value" in social and relative utility terms, or any subjective terms 
 that emerges in a  society, was measured using the state's unit of account (dollars, 
 pounds, marks, yuan, yen, pesos, &c.)
 
 So when some economist talks about theories of surplus value they often reduce to 
 nominal terms (the state currency unit) not real terms (energy and material).
 But this is fine. As long as you know when it is appropriate to translate between real 
-and nominal terms
+and nominal terms.
 
 
 ## Philosophizing with a Hammer and Sickle

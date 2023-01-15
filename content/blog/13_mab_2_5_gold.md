@@ -58,12 +58,11 @@ stabilizers, such as welfare payments, which rise in a recession, adding to high
 powered money. 
 
 When this happens the government is moving to more in debt, we are all moving
-collectively to more in credit (as a whole we move more into credit, less int debt) 
+collectively to more in credit (as a whole we move more into credit, less into debt) 
 but being in debt is irrelevant for the monopoly issuer of the currency, which is why 
 we can say the government injection is "high powered" (High Powered Money HPM --- is 
-also the acronym for Hyman Minksy, probably no accident.) 
-
-
+also the acronym for Hyman Minksy, probably no accident.) They'll always redeem for 
+tax payments, almost without question. When have they ever refused? High powered.
 
 ## Caveat
 
@@ -84,6 +83,6 @@ Mehrling seems like a nice gentleman. Hard to hate him, and I don't. I love all
 sincere teachers.
 
 
-[Next post (TBD)](./)  
-[Previous post (The debt Pyramid or Stack)](../12_debt_pyramid)  
+[Next post (Status is a Beyatch)](../14_status_bitches)  
+[Previous post (The Debt Pyramid or Stack)](../12_debt_pyramid)  
 [Back to Blog TOC](../)
