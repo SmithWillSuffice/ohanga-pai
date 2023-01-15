@@ -111,6 +111,10 @@ But some physics principles can help us.
 ### How can you measure a force?
 
 If something is moving, you can measure the force by measuring acceleration. 
+But that's only provided there is a single force. Which is not the case in general. Multiple forces can cancel, whenever there are pushes and pulls, then this manifests 
+as a type of stress. However, it is still always true that any *net* force will be manifested as an acceleration, and that's what one worries about for price movements, 
+the net force.
+
 We can do this for a lot of the fiscal flow data published by the FRED and BIS.
 The good early news is that we can see hints of causal relations from looking at the 
 accelerations in lagged margin debt and the SPX. This is promising, because although 
@@ -121,12 +125,36 @@ The conceptual idea of movements in incomes and wages and other macroeconomics v
 {{< attractors_and_repellers >}}
 
 Here the physics concept of "energy" needs to be replaced in economics by something 
-like an optimal output, such as "productivity" or "real output". So on one side there's too little (starvation) on the other side too much (resource depletion). 
+like an optimal output, such as "productivity" or "real output". So on one side there's 
+too little (starvation) on the other side too much (resource depletion). 
 
-The illustration is only showing one-dimension, in the real world there will be multiple dimensions, so instead of a curve we'd actually have the "ball" (the system of interest, a firm, a household sector, a commodity, or any sub-system of the economy you are interested in that causes changes in the $y$ objective function). 
-The general point is that viewed this way, only as a metahor, there are "forces" at work in macroeconomics.
+The illustration is only showing one-dimension, in the real world there will be 
+multiple dimensions, so instead of a curve we'd actually have the "ball" (the system 
+of interest, a firm, a household sector, a commodity, or any sub-system of the 
+economy you are interested in that causes changes in the $y$ objective function). 
+The general point is that viewed this way, only as a metaphor, there are "forces" at 
+work in macroeconomics.
 
-On the left diagram the interest rate is shown as a repeller force. If you are middle income at the top of the "energy" curve you are maybe safe but unstable to getting poor or rich, since the interest rate hikes hurt the poor and reward the rich, it is a force that creates a growing wealth divide. 
+On the right diagram the interest rate is shown as a repeller force. If you are 
+middle income at the top of the "energy" curve you are maybe safe but unstable to 
+getting poor or rich, since the interest rate hikes hurt the poor and reward the 
+rich, it is a force that creates a growing wealth divide. 
+
+The deceptive thing about simple diagrams (like IS-LM models) is that they are not 
+showing the full manifold of all effective objective functions (happiness, social 
+unrest/peace, optimal food output, optimal savings, &c.)  On the right diagram I drew 
+the curve going back upwards at higher wealth levels, which for instance might be due 
+to a third dimension an the manifold not visible that effects $y$ when too many rich 
+people exist. You can imagine several such factors from too many idle people 
+(lowering optimal useful output) to social unrest (lowering unit worker 
+productivity).
+
+I will maybe re-use these metaphors in further discussion, because although they're 
+not quantitative, they are useful for illustrating conceptual idea that are very 
+important in macroeconomics. I'd summarize this as going beyond the stupid 
+"equilibrium" supply--demand curves.
+
+### It's a high-dimensional Manifold
 
 The problem is the economic system has many people with their feet on gas peddles and 
 brakes, all over the place. And we are looking at the superposition of them all in the 

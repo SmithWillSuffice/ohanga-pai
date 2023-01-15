@@ -202,6 +202,6 @@ to tell us this is so. We all have agency. We only lack solidarity.
 
 
 
-[Next post (TBD)](./)  
+[Next post (The Debt Pyrami)](../12_debt_pyramid)  
 [Previous post (Proof of X)](../10_proof_of_x)  
 [Back to Blog TOC](../)
