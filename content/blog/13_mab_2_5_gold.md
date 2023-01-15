@@ -19,11 +19,13 @@ few more segments from
 
 ## Money is Not Gold
 
-Mehrling thinks gold is money, This is nuts.  He is terribly wrong, since a speck of 
+Mehrling thinks <span style="color: #ffff66;">gold</span> is money. 
+This is <span style="color: #965a3e;">nuts</span>.
+He is terribly wrong, since a speck of 
 gold dust is not a promise to redeem, nor a claim on anything. 
 
-Of course you can argue semantics: "Well, I'm *defining* gold dust as a money thing' so 
-suck it!"
+Of course you can argue semantics: "Well, I'm *defining* gold dust as a 
+'money thing' so suck it!"
 
 This indeed might be faintly true if a government promised to accept gold dust in 
 return for extinguishing tax liabilities, or someone else was promising t exchange 
@@ -39,6 +41,29 @@ constrained by *_all real resources_* not just gold. So a government cannot hire
 $15/hour a worker already employed i the private sector for say $20/hour. Resource 
 constraint. Gold is *_not_* money, that's an ancient Neanderthal view, although 
 that's unfair to Neanderthals. An IOU promising gold is money.
+
+
+## Credit Dynamics
+
+I'll give Mehrling a pass on the way he explains how credit changes dynamically, and 
+leads to more high powered money being issued. But I do not think he understands how.
+
+Bank credit (endogenous money) nets to zero. No one can change this, no matter what 
+form of credit it gets shifted to. The risk of holding can change, but not he amount 
+(measured in the state's unit of account, dollars for the USA, yen for Japan, &c.).
+
+In a recession when debtors default (bankruptcy) this destroys the accounting 
+records. Still netting to zero. But about the same time the government has automatic 
+stabilizers, such as welfare payments, which rise in a recession, adding to high 
+powered money. 
+
+When this happens the government is moving to more in debt, we are all moving
+collectively to more in credit (as a whole we move more into credit, less int debt) 
+but being in debt is irrelevant for the monopoly issuer of the currency, which is why 
+we can say the government injection is "high powered" (High Powered Money HPM --- is 
+also the acronym for Hyman Minksy, probably no accident.) 
+
+
 
 ## Caveat
 
