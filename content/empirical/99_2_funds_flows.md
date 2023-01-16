@@ -62,6 +62,6 @@ then also ned to be tested. Just curve fitting to data can be done with any old
 nonsense model (DSGE) provided with enough free parameters (order up your Ptolemaic 
 epicycles).
 
-[Next chapter (TBD)](./)  
-[Previous chapter (Quantopian Series)](../99_1_quantopian_phacks)   
+[Next chapter (Quantopian Series)](../999_1_quantopian_phacks)   
+[Previous chapter (MMT Trader-1 Intro)](../99_1_macro_trader)  
 [Back to Empirical Pages](../)

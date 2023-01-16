@@ -114,6 +114,6 @@ For more of this sort of theory of micro versus macro in economics see the [phil
 
 
 
-[Next chapter (Quantopian Series)](../99_1_quantopian_phacks)  
+[Next chapter (MMT Macro Trader Series)](../99_1_macro_trader)  
 [Previous chapter (Projects Introduction)](../0_introduction_to_projects)  
 [Back to Empirical Pages](../)

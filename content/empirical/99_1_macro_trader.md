@@ -281,5 +281,5 @@ low compared to Europe and the USA.
 
 
 [Next chapter (MT-2 Flow of Funds)](../99_2_funds_flows)  
-[Previous chapter (Quantopian Series)](../99_1_quantopian_phacks)   
+[Previous chapter (Projects Overview)](../1_ohangapai_projects)   
 [Back to Empirical Pages](../)
