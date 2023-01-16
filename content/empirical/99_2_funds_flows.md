@@ -30,9 +30,9 @@ the Patreon.com hosting fees).
 
 ## Proving MMT
 
-My own interest is in building a model for Longbon's CFD's retrospectively, so not to 
-make investments, but to track what one *would have gained historically* **_if_** one 
-had been using the MMT informed strategy.
+My own interest is in building a model for Longbon's CFD trades retrospectively, 
+so not to make investments, but to track what one *would have gained historically* 
+**_if_** one had been using the MMT informed strategy.
 
 As I've written about elsewhere, [this is not "proof of MMT"](/ohanga-pai/blog/10_proof_of_x/) --- but it is Bayesian style evidence in favour of the MMT principles:
 
