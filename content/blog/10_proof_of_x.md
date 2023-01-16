@@ -13,6 +13,24 @@ tags: []
 In casual talks with [Douglas MMT Trader](https://www.patreon.com/mmtmacrotrader) 
 questions about what constitutes a "proof of MMT" or a disproof arose.
 
+## New Zealand is an MMT Economy
+
+We already know, from the [Banking Acts](https://legislation.govt.nz/act/public/2021/0031/latest/LMS286978.html) and [Public Finance Acts](https://www.legislation.govt.nz/act/public/1989/0044/latest/DLM160809.html) that New Zealand is 
+an MMT monetary economy.
+
+Just thought I'd mention this upfront. Although the legal statutes only prove half 
+the case. We'd also need the accounting rules in the software and public accounts to 
+obey the sectoral balance identities. Since the software is not open-source, we have 
+to infer from the sectoral balances published. It turns out New Zealand somehow 
+magically obeys the accounting rules! Imagine that?  What on earth could be going on 
+with our gold miners?
+
+```
+TODO: I had some old Three Sector Balance data for NZ, but need to 
+update *live* on a dashboard using the BIS/FRED data, but was missing the 
+private credit balance code. I think Douglas had it.
+```
+
 
 ## Research Objectives
 

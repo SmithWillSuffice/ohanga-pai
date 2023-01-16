@@ -62,6 +62,18 @@ then also ned to be tested. Just curve fitting to data can be done with any old
 nonsense model (DSGE) provided with enough free parameters (order up your Ptolemaic 
 epicycles).
 
+### The Case for New Zealand
+
+I am also motivated to build the charts analogous to Longbon's for New Zealand.
+Stay tuned. However, I'm not getting paid to do this, so don't hold your breath.
+Instead, consider subscribing via 
+[KoFi subscription](https://ko-fi.com/achrononmaster/) or 
+at the [MMT Macro Trader](https://www.patreon.com/mmtmacrotrader), 
+where we'll be posting updates on the research.
+
+((We already know, from the [Banking Acts](https://legislation.govt.nz/act/public/2021/0031/latest/LMS286978.html) and [Public Finance Acts](https://www.legislation.govt.nz/act/public/1989/0044/latest/DLM160809.html) that New Zealand is 
+an MMT monetary economy.))
+
 [Next chapter (Quantopian Series)](../999_1_quantopian_phacks)   
 [Previous chapter (MMT Trader-1 Intro)](../99_1_macro_trader)  
 [Back to Empirical Pages](../)
