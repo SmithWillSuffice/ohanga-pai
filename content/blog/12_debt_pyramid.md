@@ -257,10 +257,51 @@ likely take it. If you were able to hold onto the bond until maturity of course
 you'd have received a lot more than 100 dollars.
 
 
+## Utility of Perry
+
+There's another thing Mehrling's lectures do that's useful, and you can hear this 
+near the middle of [Lecture-2 part-7](https://www.youtube.com/watch?v=nVLB1dAIix0), 
+which is that the major economist probably still think that the central bankers 
+probably still think they "are on gold."
+
+So a bit of a blind leading the blind scenario.
+
+Most central bankers know they do not need gold reserves, because they know taxes 
+drive state currencies. But when leading economists have not grokked this it can be a major source of political policy blundering, and a horror show for the unemployed workers.
+
+Mehrling gives us a hint at why the gold myth perpetuates, and it is because it is 
+theoretically possible to conceive of the 
+"<span style="color: gold;">Ultimate Money</span>"${}^\dagger$ being 
+"all the gold so far mined". If that were the case, *the buffer stock would be gold* 
+and we'd have a dystopia even worse than neoliberalism. But it is the conceivability 
+of the "Gold is Ultimate" myth that makes such groupthink stupidity possible. Sadly 
+it seems Mehrling has this brainworm, I'm hoping later he will recant.
+
+${}^\dagger$ Mehrling's phrase for "the gold, the gold."
+
+This is all useful awareness.
+
+It gives one other way to "prove MMT" (which I'm in the habit of quoting to ensure 
+you realise it's a bit for laughs). This is by showing the buffer stock is not gold, 
+but labour.
+
+How could we do this? I think it is relatively simple, just by looking at general 
+prices. The buffer for state currency is that which if supplied (or withdrawn) to 
+stabilize prices. In every major nation on Earth today this buffer is labour. 
+To only a very minor extent it is credit. We can measure which buffer is more 
+powerful by the movements in recessions and booms. It is always labour demand that 
+moves the most, so is the most powerful buffer stock.
+
+The great MMT (and Keynes) insight was that Karl Marx should be treated as the morla 
+compass for all economists, and if labour really is the buffer stock, it is cruel 
+to use an unemployed buffer stock. This was Bill Mitchell's synthesis of Marx, Keynes 
+and Minksy.
+
+
 ## Caveats
 
 I have not got through the whole of Mehrling's course, so maybe at some point he 
-says, "Ha ha! fooled you!" ((about gold being money.)
+says, "Ha ha! fooled you!" (about gold being money.)
 
 If I've triggered you as a devotee of Mehrling's please email me with your concerns 
 after [donating here](https://ko-fi.com/achrononmaster/), 
