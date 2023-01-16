@@ -9,10 +9,7 @@ katex: true
 tags: []
 ---
 
-I will be writing the odd blog post over the next month commenting on highlights from 
-Perry Mehrling's MOOC on [Money and Banking - online from INET](https://www.ineteconomics.org/education/courses/the-economics-of-money-banking).
-
-I've been making the odd note about Mehrling's course. This week I'll comment on a 
+I've been making the odd note about [Mehrling's course](https://www.ineteconomics.org/education/courses/the-economics-of-money-banking). This week I'll comment on a 
 few more segments from
 [Lecture-2](https://www.youtube.com/watch?v=W0IGZW0QOr4&list=PLmtuEaMvhDZYfVv95KDQWd8-7UrJCJ9Pm&index=5) 
 

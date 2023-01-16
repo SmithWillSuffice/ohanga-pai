@@ -1,5 +1,5 @@
 ---
-title: "MT 2 - Flow of Funds"
+title: "MT-2 - Flow of Funds"
 description: ""
 date: 2023-01-14
 lastmod: 2023-01-14
