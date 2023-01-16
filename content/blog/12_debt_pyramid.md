@@ -186,7 +186,8 @@ status above others, equivalent to a general secured creditor. Harsh world huh?
 
 Mehrling thinks not of risk of default or probability of redemption, but in terms of 
 what claims each type of money instrument has on another. To me that's just building 
-a different type of stack, but not really getting to the nub of the purpose of a monetary system.
+a different type of stack, but not really getting to the nub of the purpose of a 
+monetary system.
 
 In this sort of scheme it does make *some* sense to put <span style="color: 
 gold;">gold</span> at the top, but that really should be "gold" in quotes, since what 
@@ -197,6 +198,44 @@ really be up the top --- whatever you cannot live without.
 Mehrling does at least get the credit expansion/contraction picture correct in 
 [Lecture-2 Part-4](https://www.youtube.com/watch?v=YXVaY-gIahw). So at least 
 implicitly he is saying all money is credit and $\Delta$credit = $\Delta$debt.
+
+
+### What Mehrling Gets Right
+
+The hierarchy of money instruments, even those that government backs, are different 
+in quality, that's for sure. This is a function of both liquidity and interest, 
+basically.
+
+The more liquid the more useful, so the higher above some fictional "par" value a 
+nominal unit on a money instrument can trade. But if you say "par" is the face value 
+then cash is at par. Bonds are above par (they promise interest) and corporate notes 
+are below par.
+
+The more interest bearing the higher the instrument can trade. Government bonds are 
+bought above par because the buyer reckons the interest will get paid, and 999% of 
+the time they're right, they just need to keep their mug-shot off Interpol databases 
+and whatnot.
+
+For a black market dealer cash is superior to bonds, and sometimes fake money like 
+bitcoin can be more useful than cash.
+
+But gold? Gold is not a money instrument. A paper certificate that legally promises 
+gold is currency, and that is whatever the market price for gold happens to be, it 
+is not in the state hierarchy of money. A certificate for gold has no currency face 
+value, it has a weight of gold value, which is different to currency. 
+But partly that's just semantics. The paper certificate promising gold could be 
+stamped each day with the market price for that weight of gold. 
+Or, I suppose (I am not familiar) the paper might promise a weight of gold priced in 
+a fixed state currency amount, say "$\\$$800 worth at the spot price today" --- then is 
+that a money instrument? It can be traded, but it is not redeemable for tax 
+liabilities, so it is not state currency. Most people would probably call it currency, but I'm not so sure that is accurate. It is a certificate for gold, like a 
+book voucher. I guess you can call it "a money-like thing". If you trade it for cash, 
+you now have actual money. If the promise to redeem for gold is good, then the certificate can be considered a form of money (an IOU of the issuer). But the gold is not the money in this case, the certificate is the money.
+
+I get the feeling Mehrling does not make this distinction. Does it matter? I truly 
+do not really know, but I think it does matter, it is a source of idiocy in the 
+world. I mean, give me a claim on future clean water any day, not gold. I don't care about gold. The certificate for a claim on water is far more valuable, if the nominal amount is the same ($\\$$800 worth of clean water baby, that's a tonne more happiness than the same amount of gold).
+
 
 ## Caveats
 

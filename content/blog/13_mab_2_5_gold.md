@@ -35,9 +35,9 @@ Credit is infinite. Banks are not constrained by gold, since they do not promise
 redeem gold. They are constrained by their need to find legally (or illegally) 
 credit-worthy borrowers. Governments are not even as constrained as that, they are 
 constrained by *_all real resources_* not just gold. So a government cannot hire for 
-$15/hour a worker already employed i the private sector for say $20/hour. Resource 
-constraint. Gold is *_not_* money, that's an ancient Neanderthal view, although 
-that's unfair to Neanderthals. An IOU promising gold is money.
+\$\\$$15/hour a worker already employed i the private sector for say 
+$\\$$20/hour. Resource constraint. Gold is *_not_* money, that's an ancient Neanderthal 
+view, although that's unfair to Neanderthals. An IOU promising gold is money.
 
 
 ## Credit Dynamics
