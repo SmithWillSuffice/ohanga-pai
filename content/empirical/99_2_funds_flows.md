@@ -38,7 +38,7 @@ As I've written about elsewhere, [this is not "proof of MMT"](/ohanga-pai/blog/1
 
 1. Governments operating fiat currencies and floating exchange rates have no fiscal constraints (other than self-imposed).
 2. They have real resource constraints.
-#. Sectorla balances sum to zero (otherwise an accountant made a mistake).
+3. Sectoral balances sum to zero (otherwise an accountant made a mistake).
 
 What Alan's strategy amounts to really is finding the governments who have the fewer 
 self-imposed constraints, then estimating the relative strengths of the currencies. 
