@@ -236,11 +236,31 @@ I get the feeling Mehrling does not make this distinction. Does it matter? I tru
 do not really know, but I think it does matter, it is a source of idiocy in the 
 world. I mean, give me a claim on future clean water any day, not gold. I don't care about gold. The certificate for a claim on water is far more valuable, if the nominal amount is the same ($\\$$800 worth of clean water baby, that's a tonne more happiness than the same amount of gold).
 
+At the end of this [Lecture-2-6](https://www.youtube.com/watch?v=5NnlQIz2UOw) 
+segment Mehrling is very helpful in saying much the same thing. It is what the 
+currency redeems that maters, ethically, morally, and subjectively.
+This redeemed Lecture-02 for me.
+
+### When Liquidity Fades
+
+Another thing Mehrling usefully emphasises is that having a money instrument worth 
+$\\$$X units is not the same as having a government insured bank deposit of $\\$$X 
+units. Why not? The answer is because the bank will always redeem. (For cash notes or 
+tax liabilities, or fees, or fines of the state, or firms that can be legally 
+enforced).
+
+This is why dealers like Treasury bonds, because they trade above par and are 
+government guaranteed. There is no higher powered money. Cash is only more liquid. 
+But guess what, if you need the cash you can always find a buyer for your bond, you 
+might get $\\$$98 for a face value $\\\$100$ bond, but if you need liquidity you'll 
+likely take it. If you were able to hold onto the bond until maturity of course 
+you'd have received a lot more than 100 dollars.
+
 
 ## Caveats
 
 I have not got through the whole of Mehrling's course, so maybe at some point he 
-says, "Ha ha! fooled you!"
+says, "Ha ha! fooled you!" ((about gold being money.)
 
 If I've triggered you as a devotee of Mehrling's please email me with your concerns 
 after [donating here](https://ko-fi.com/achrononmaster/), 
