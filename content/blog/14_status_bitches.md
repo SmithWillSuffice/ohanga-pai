@@ -1,8 +1,8 @@
 ---
 title: "Status is a Beyatch"
 description: ""
-date: 2023-01-07
-lastmod: 2023-01-07
+date: 2023-01-09
+lastmod: 2023-01-09
 cover: ""
 coverAlt: ""
 katex: true
@@ -101,5 +101,5 @@ any inflation.
 
 
 [Next post (TBD)](./)  
-[Previous post (Money and Banking Lecture-4)](../13_mab_4_4_gold)    
+[Previous post (Money and Banking L-4 Civil War)](../13_1_mab3_4_civilwar)    
 [Back to Blog TOC](../)
