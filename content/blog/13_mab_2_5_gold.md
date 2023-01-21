@@ -9,8 +9,9 @@ katex: true
 tags: []
 ---
 
-I've been making the odd note about [Mehrling\'s course](https://www.ineteconomics.org/education/courses/the-economics-of-money-banking). This week I'll comment on a 
-few more segments from
+I've been making the odd note about 
+[Mehrling\'s course](https://www.ineteconomics.org/education/courses/the-economics-of-money-banking). 
+This week I'll comment on a few more segments from
 [Lecture-3](https://www.youtube.com/watch?v=AGkH0w9hpSQ&list=PLmtuEaMvhDZZyyAkEniNUMTTnlJj6qiKW&index=4) 
 
 

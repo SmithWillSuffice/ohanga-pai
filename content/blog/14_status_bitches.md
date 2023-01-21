@@ -100,6 +100,6 @@ own, due to government austerity policy. Why needless? They're not the one causi
 any inflation.
 
 
-[Next post (TBD)](./)  
+[Next post (Media Funding)](../15_media_funding)  
 [Previous post (Money and Banking L-4 Civil War)](../13_1_mab3_4_civilwar)    
 [Back to Blog TOC](../)
