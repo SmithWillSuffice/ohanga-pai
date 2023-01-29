@@ -22,14 +22,14 @@ This post I'm going to have a crack at writing about similar risk in politics.
 You ought to read [Thomas Frank](https://www.youtube.com/watch?v=VWKsTzHwIsM) if 
 you're asking this question, but here's the short version.
 
-True populism arose basically in Kansas in the 1890's It was a working class 
+True populism arose basically in Kansas in the 1890's. It was a working class 
 movement, cross-cultural, multi-ethnic, multi-class (but rooted in the working class 
 --- upper crust people with a conscience, or "class traitors", made up some of 
 the composition). Their cause was broadly speaking economic justice. The farmers 
 wanted a fair deal, the workers wanted fair wages, not to be ripped off and exploited 
 because they needed to work for wages just to eat.
 
-No right-winger has ever been a true populist. Daemonizing "the populist left" as 
+No right-winger has ever been a true populist. Demonizing "the populist left" as 
 like the conservative reactionary fake populists (Nixon, Buchanan, Trump, DeSantis, 
 et al), is a terrible thing, and something Frank rightly rails bitterly against.
 
@@ -103,7 +103,7 @@ public hearings for the public to have their say before the votes). There is no 
 in the New Zealand government, except on a spreadsheet. 
 
 If you are going to call a spreadsheet entry *you control* a "fund" you are some 
-special type of sociopath.  Legally the NZ government score-keeping is nothing like 
+special type of sociopath. Legally the NZ government score-keeping is nothing like 
 the legal liability of a private charity, savings & loan, or other house that has a 
 fund in a bank account. Those bank accounts *are* funds, not because they are pots of 
 gold, but because legally the holders are entitled to redemption from the banker. The 
@@ -119,6 +119,13 @@ Rep. John Yarmuth (Kentucky) made the journey to MMT eventually, then retired. A
 But as a private citizen he now also has a chance to redeem for past misguided 
 allegiance to neoliberal centrism. I wonder what will become of him? It is never too 
 late for an established insider, now an outsider, to risk facing the guns of neoliberalism. Take a few on the chin or in the guts for the working class.
+
+Yeah, yeah, call me out for volunteering someone else for the firing squad. But you 
+don't know me. I'd take a gut full of bullets for all the workers of the world if 
+they could be free of their bosses and still productive and creating the goods for 
+each other. The perennial problem is utter obscurity, I can't seem to take any 
+bullets since no one is aiming at me. I'm a true populist but don't have the holes 
+in my guts to prove it. 
 
 
 [Next post (TBD)](./)  
