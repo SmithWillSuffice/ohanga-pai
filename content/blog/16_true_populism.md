@@ -25,7 +25,9 @@ you're asking this question, but here's the short version.
 True populism arose basically in Kansas in the 1890's. It was a working class 
 movement, cross-cultural, multi-ethnic, multi-class (but rooted in the working class 
 --- upper crust people with a conscience, or "class traitors", made up some of 
-the composition). Their cause was broadly speaking economic justice. The farmers 
+the composition). It rapidly spread across rural and small town USA. 
+
+Their cause was broadly speaking economic justice. The farmers 
 wanted a fair deal, the workers wanted fair wages, not to be ripped off and exploited 
 because they needed to work for wages just to eat.
 
@@ -44,6 +46,37 @@ abandoned Leninism (too violent), but then unrightly turned traitor and adopted
 neoconservatism or centrist neoliberalism (basically anti-communism, but not for 
 good reasons).  Neoliberalism is no less violent than Stalinism or Leninism, just a 
 different form of violence.
+
+However, even some pseudo-Marxists who did not jump ship to neoliberlaism have still 
+not understood populism. However, I won't sy old K.M. himself would've embraced 
+populism, I don't know what he would've thought.
+
+However, you can find Idiot Nerds writing against populism form the Marxist Ivory 
+Tower [here](http://www.whatnextjournal.org.uk/Pages/Back/Wnext28/Populism.html):
+
+> Those of us who would change the world must first unlearn the dogmas of capitalism 
+and construct new ways of thinking. Only when these ideas become sufficiently 
+widespread (whether in the working class or a group defined on some other basis) can 
+a challenge be mounted which could really threaten the dominant structures of the 
+present society. Only then can we begin to consider the possibility of radical social 
+transformation as an immediate political possibility.
+
+"Those of us who would change the world..." oh my gawd! 
+
+Don't get me wrong, I'm all for "raising class consciousness". But man, it's not 
+rocket science. These sockcucking academic marxists have no clue. They're almost 
+impediments to overthrowing neoliberalism (I know they do not mean to be, I don't 
+hate these writers). 
+
+You need a little humanity, some honesty, some humility, some balls, and a bit of a 
+load of sh*t dumped on you by a boss. That can be turned into a potent revolutionary 
+force brew. You don't need a whole new language or elite level comprehension my friends.
+There are no dogmas of capitalism anyone need to unlearn to know they're been abused.
+
+A revolutionary force does not need an army of policy wonks. there are plenty 
+who'll crawl out of the woodwork once the hard yakka has been done. Some might even 
+be good MMT'ers, so you won't all get f*ked over by more austerity in the name of 
+Neo-Marx.
 
 
 ### To Be Good Requires Populism
