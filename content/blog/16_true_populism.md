@@ -51,7 +51,7 @@ However, even some pseudo-Marxists who did not jump ship to neoliberlaism have s
 not understood populism. However, I won't sy old K.M. himself would've embraced 
 populism, I don't know what he would've thought.
 
-However, you can find Idiot Nerds writing against populism form the Marxist Ivory 
+However, you can find Idiot Nerds writing against populism${}^\ast$ from the Marxist Ivory 
 Tower [here](http://www.whatnextjournal.org.uk/Pages/Back/Wnext28/Populism.html):
 
 > Those of us who would change the world must first unlearn the dogmas of capitalism 
@@ -63,6 +63,10 @@ transformation as an immediate political possibility.
 
 "Those of us who would change the world..." oh my gawd! 
 
+${}^\ast$I picked this article out because it was fair writing, it's not exactly 
+vigorously anti-populism, but it was too smug for my taste. Also, the author might 
+not be an academic, so the "Ivory Tower" jab is just me doing some rhetoric.
+
 Don't get me wrong, I'm all for "raising class consciousness". But man, it's not 
 rocket science. These sockcucking academic marxists have no clue. They're almost 
 impediments to overthrowing neoliberalism (I know they do not mean to be, I don't 
@@ -72,6 +76,13 @@ You need a little humanity, some honesty, some humility, some balls, and a bit o
 load of sh*t dumped on you by a boss. That can be turned into a potent revolutionary 
 force brew. You don't need a whole new language or elite level comprehension my friends.
 There are no dogmas of capitalism anyone needs to unlearn to know they're being abused.
+
+I think the revolution will be over well and truly before that author gets around 
+to "consider the possibility of radical social transformation." (Sounds like a 
+plagiarism from a friggin Pete Buttigieg line.) This is one things about populism, 
+it can run over a population like a steam-roller, without killing anyone. We know it 
+from history. More recently we saw fake-populism from the right-wing almost mimic true 
+populism in spreading like a steam-roller. 
 
 Also, what the hell is "sufficiently widespread"? You do not know what that is 
 until after the fact. But there's no point pissing around waiting for class 
