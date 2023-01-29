@@ -47,12 +47,18 @@ neoconservatism or centrist neoliberalism (basically anti-communism, but not for
 good reasons).  Neoliberalism is no less violent than Stalinism or Leninism, just a 
 different form of violence.
 
-However, even some pseudo-Marxists who did not jump ship to neoliberlaism have still 
-not understood populism. However, I won't sy old K.M. himself would've embraced 
-populism, I don't know what he would've thought.
+However, even some pseudo-Marxists who did not jump ship to neoliberalism have still 
+not understood populism. However, I won't say old K.M. himself would've or would not 
+have embraced populism, I don't know what he would've thought. It is however always 
+a slimy cop-out to label something "bourgeois" and reject it via the label 
+connotations (although, this is a legitimate tactic as regards MacDonalds 
+fast-food, just apply the label "MacDonalds" and Boom!, you have an instant 
+rejection by a bolshy food-snob like myself). 
+Marxism itself is bourgois, justsayin'.
 
-However, you can find Idiot Nerds writing against populism${}^\ast$ from the Marxist Ivory 
-Tower [here](http://www.whatnextjournal.org.uk/Pages/Back/Wnext28/Populism.html):
+However, you can find Idiot Nerds writing against populism${}^\ast$ from the 
+Marxist Ivory Tower 
+[say here](http://www.whatnextjournal.org.uk/Pages/Back/Wnext28/Populism.html):
 
 > Says this marxist nerd: "Those of us who would change the world must first unlearn 
 the dogmas of capitalism and construct new ways of thinking. Only when these ideas 
@@ -79,10 +85,10 @@ There are no dogmas of capitalism anyone needs to unlearn to know they're being 
 
 I think the revolution will be over well and truly before that author gets around 
 to "consider the possibility of radical social transformation." (Sounds like a 
-plagiarism from a friggin Pete Buttigieg line.) This is one things about populism, 
+plagiarism from a friggin Pete Buttigieg line.) This is one thing about populism, 
 it can run over a population like a steam-roller, without killing anyone. We know it 
 from history. More recently we saw fake-populism from the right-wing almost mimic true 
-populism in spreading like a steam-roller. 
+populism in spreading like a cancer.  What we need is the steam-roller. 
 
 Also, what the hell is "sufficiently widespread"? You do not know what that is 
 until after the fact. But there's no point pissing around waiting for class 
