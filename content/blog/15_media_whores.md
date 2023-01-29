@@ -94,6 +94,6 @@ their ideas are not the reason they're raking in the profits, it's their billion
 daddies.
 
 
-[Next post (TBD)](./)  
+[Next post (True Populism)](../16_true_populism.md)  
 [Previous post (Status is a Beyatch)](../14_status_bitches)    
 [Back to Blog TOC](../)
