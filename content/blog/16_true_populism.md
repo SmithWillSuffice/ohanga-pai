@@ -54,12 +54,12 @@ populism, I don't know what he would've thought.
 However, you can find Idiot Nerds writing against populism${}^\ast$ from the Marxist Ivory 
 Tower [here](http://www.whatnextjournal.org.uk/Pages/Back/Wnext28/Populism.html):
 
-> Those of us who would change the world must first unlearn the dogmas of capitalism 
-and construct new ways of thinking. Only when these ideas become sufficiently 
-widespread (whether in the working class or a group defined on some other basis) can 
-a challenge be mounted which could really threaten the dominant structures of the 
-present society. Only then can we begin to consider the possibility of radical social 
-transformation as an immediate political possibility.
+> Says this marxist nerd: "Those of us who would change the world must first unlearn 
+the dogmas of capitalism and construct new ways of thinking. Only when these ideas 
+become sufficiently widespread (whether in the working class or a group defined on 
+some other basis) can a challenge be mounted which could really threaten the dominant 
+structures of the present society. Only then can we begin to consider the possibility 
+of radical social transformation as an immediate political possibility."
 
 "Those of us who would change the world..." oh my gawd! 
 
