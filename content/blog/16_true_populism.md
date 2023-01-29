@@ -74,7 +74,7 @@ vigorously anti-populism, but it was too smug for my taste. Also, the author mig
 not be an academic, so the "Ivory Tower" jab is just me doing some rhetoric.
 
 Don't get me wrong, I'm all for "raising class consciousness". But man, it's not 
-rocket science. These sockcucking academic marxists have no clue. They're almost 
+rocket science. Some of these academic marxists have no clue. They're almost 
 impediments to overthrowing neoliberalism (I know they do not mean to be, I don't 
 hate these writers). 
 
