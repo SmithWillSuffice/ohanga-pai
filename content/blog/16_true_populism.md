@@ -71,9 +71,16 @@ hate these writers).
 You need a little humanity, some honesty, some humility, some balls, and a bit of a 
 load of sh*t dumped on you by a boss. That can be turned into a potent revolutionary 
 force brew. You don't need a whole new language or elite level comprehension my friends.
-There are no dogmas of capitalism anyone need to unlearn to know they're been abused.
+There are no dogmas of capitalism anyone needs to unlearn to know they're being abused.
 
-A revolutionary force does not need an army of policy wonks. there are plenty 
+Also, what the hell is "sufficiently widespread"? You do not know what that is 
+until after the fact. But there's no point pissing around waiting for class 
+consciousness to arise the way you say it should. It's not science. Scientific 
+materialism, or whatever the hell you think modern Marxism is based upon is a pile 
+of horseshyte. But by all means, try to mold something from it if you can, I'm not 
+opposed to the effort.
+
+A revolutionary force does not need an army of policy wonks. There are plenty 
 who'll crawl out of the woodwork once the hard yakka has been done. Some might even 
 be good MMT'ers, so you won't all get f*ked over by more austerity in the name of 
 Neo-Marx.
@@ -83,6 +90,7 @@ Neo-Marx.
 
 In political economy no pure ideology is going to take unless "the people" accept it. 
 You are illegitimate if you force people at gun-point to accept a political regime.
+(Literal or figurative gun-point, either.)
 
 "Where is the gun of neoliberalism?" you might ask. This is the thing, the 
 neoliberals have the most powerful gun imaginable, it is invisible. Figuratively 
