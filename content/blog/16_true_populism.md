@@ -186,6 +186,6 @@ bullets since no one is aiming at me. I'm a true populist but don't have the hol
 in my guts to prove it. 
 
 
-[Next post (TBD)](./)  
+[Next post (Machines Can\'t Think to Work)](../17_machinescandothework)  
 [Previous post (Media Whores)](../15_media_whores)    
 [Back to Blog TOC](../)
