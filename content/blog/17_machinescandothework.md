@@ -129,8 +129,75 @@ efficient cars.) Those pesky regulations. Bloody making the capitalists actually
 How dare they!
 
 
+## Machines Can't Think to Work
+
+The more philosophical issue I disagree with Douglas about is whether the machine 
+systems like chatGPT, or Stable Diffusion, or the new automated programming tool 
+CoPilot, are ever going to be sentient. Being a materialist Douglas obviously thinks 
+it is possible machine systems might some day "become" conscious. But how? How does a 
+machine system "turn on subjectivity"?
+
+((I know absence of knowledge of an answer is not evidence there is no answer. 
+I am questioning not just whether there is an answer but whether the question even 
+makes sense.))
+
+Subjective awareness does not seem like something one can program. This means it 
+would have to "emerge." But even then, how? This is where materialists simply resort 
+to blind faith: humans evolved or emerged as conscious beings on Earth, why not 
+machines?
+
+There are two problems with this faith.
+
+1. Human evolution is not a computation. It is physics. We do not *know* that physics is 
+computation. It might not be. 
+2. No one has any clue what they mean by "emergence." It's one of those buzzwords in so-
+called 'complexity studies". It is meaningless.
+
+On the first point, I have good reasons to suspect physics is definitely not 
+computation. But that's partly because I regard inputs and initial boundary 
+conditions *always* as part of a computation. This should *not* be controversial, 
+it conforms with Turing's model.
+
+(Von Neumann architecture is not a model of computation, Tring's model is. von 
+Neumann designed a type of process do do something like a sub-Truing machine could 
+do on paper, but the model was not a model of computation *per se*, it was the 
+snow plough.)
+
+Douglas did find CoPilot and Stable Diffusion incredibly useful. But I try to tell 
+him that's his mind he a was using. The snow ploughs were not suggesting anything 
+conscious was emerging. If Copilot did what I do --- which is anticipate Douglas' 
+MacroTrader needs, and then slyly go and work on something even better, then I'd be 
+willing to attribute the system some sentience.
+
+If Douglas is prompting you, and that's all, you are not conscious, or if you are 
+you're a slave.
+
+On the second point: emergence. I've often thought about writing for a journal on this 
+topic, but my ideas are too far from mainstream science t get published probably.
+
+David Chalmers and others have done some ok work on defining categories of emergence, so 
+they give you a start.
+
+The problem is the big daddy of emergence: **_genuine emergence_** of novelty from 
+beginning s or priors that make the emergent stuff not merely unpredictable, but 
+impossible without a high-level description.  that is t say, the emergent system 
+cannot even in principle be reduced to base physics.
+
+But then what is is based upon?
+It cannot be based upon physics. So it as to be "genuine" emergence. 
+We could not build them from first principles.
+
+If such systems exist, they're not physical. They're something we would not comprehend, 
+perhaps we'd call them spiritual?  Perhaps we'd call them human?
+
+However, we "build" humans all the time, with a bit of hanky panky in the bedrooms 
+or wherever you get your kicks. It's kind of funny making babies is such a sweaty and 
+emotional process. God must have a sense of humour.
+
+As I like to say, there is no artificial intelligence. There's no genuine "AI" there 
+is just "*_I_*."
 
 
 [Next post (TBD)](./)  
-[Previous post (True Populist)](../16_true_populism)    
+[Previous post (True Populist)](../16_true_populism)   
 [Back to Blog TOC](../)
