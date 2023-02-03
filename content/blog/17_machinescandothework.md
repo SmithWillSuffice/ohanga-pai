@@ -34,10 +34,30 @@ tax liabilities drive state currency?)
 
 AI does help science, but indirectly. Every failure of AI to demonstrate something 
 like sentient comprehension of deep abstractions is telling us something about what 
-the human mind is not. That sort of negative finding is incredibly useful in science, 
-totally disappointing in engineering or corporate tech euphoria. Science is way more 
-interesting than engineering. Negative results don't win Nobel Prizes, but they drive 
-most of science. Every day I wake up wanting to refute an hypothesis.
+the human mind is **_not_**. That sort of negative finding is incredibly useful in 
+science, totally disappointing in engineering or corporate tech euphoria. Science is 
+way more interesting than engineering. Negative results don't win Nobel Prizes, but 
+they drive most of science. Every day I wake up wanting to refute an hypothesis.
+
+### Poverty of Inputs 
+
+Another remark Chomsky made (often makes) is that deep learning ANN models are way 
+too powerful to be considered sentient or comprehending. They vastly over-learn, so 
+can produce garbage, or can be trained to learn "impossible languages" and other 
+anomalies that no thinking being could achieve, or certainly no human.
+
+This tells us something negative about human minds. We are not just very powerful 
+computers. The negativa are powerful my friends. Any good statistician is highly 
+interested in negativa. "What does the data **_not_** tell me? What is the noise?"
+
+For an instance, Gary Marcus brings up the cognitive science learning that human 
+infants appear to have some innate hard-wired (so-to-speak, no one knows what this 
+means) capabilities for comprehending basic abstractions.  Like "space" and like 
+"time".
+
+Darwininsts can surely explain (easily) why this is useful to have evolved. Almost 
+trivially. But cognitive science has zero understanding of how infants develop innate 
+awareness of these abstractions.
 
 If humans (or other sentient creatures) *start* with "space, time and causality" 
 that's a serious f-ing problem for all future AI, because space, time and causality 
