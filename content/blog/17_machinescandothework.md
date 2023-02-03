@@ -236,6 +236,6 @@ As I like to say, there is no artificial intelligence. There's no genuine "AI" t
 is just "**$I$**".
 
 
-[Next post (TBD)](./)  
+[Next post ()](./)  
 [Previous post (True Populist)](../16_true_populism)   
 [Back to Blog TOC](../)
