@@ -9,15 +9,15 @@ katex: true
 tags: []
 ---
 
-I get a few AI topic recommendations on social media these days, more than a year ago, 
-probably because I'm working with 
+I get a few AI topic recommendations on social media these days, more frequently 
+than a year ago, probably because I'm working with 
 [Douglas Macro Trader](https://www.patreon.com/mmtmacrotrader) 
 on neural net systems for 
-predicting financial indices. Douglas an I have diverging views on the broader technology 
+predicting financial indices. Douglas and I have diverging views on the broader technology 
 of so-called "AI" (if it is true intelligence it is not *artificial* in my view).
 
 I could write this article on my T4GU blog too, but since there is some overlap with the 
-macroeconomics, it might be of interest to readers of Ōhanga Pai.
+macroeconomics I thought it might be of interest to readers of Ōhanga Pai.
 
 ## Chomsky's Snowploughs
 
@@ -151,15 +151,17 @@ There are two problems with this faith.
 1. Human evolution is not a computation. It is physics. We do not *know* that physics is 
 computation. It might not be. 
 2. No one has any clue what they mean by "emergence." It's one of those buzzwords in so-
-called 'complexity studies". It is meaningless.
+called "complexity studies". It is meaningless.
+
+#### Physics is more than computation
 
 On the first point, I have good reasons to suspect physics is definitely not 
 computation. But that's partly because I regard inputs and initial boundary 
 conditions *always* as part of a computation. This should *not* be controversial, 
 it conforms with Turing's model.
 
-(Von Neumann architecture is not a model of computation, Tring's model is. von 
-Neumann designed a type of process do do something like a sub-Truing machine could 
+(Von Neumann architecture is not a model of computation, Turing's model is. von 
+Neumann designed a type of process do do something like a sub-Turing machine could 
 do on paper, but the model was not a model of computation *per se*, it was the 
 snow plough.)
 
@@ -170,22 +172,38 @@ MacroTrader needs, and then slyly go and work on something even better, then I'd
 willing to attribute the system some sentience.
 
 If Douglas is prompting you, and that's all, you are not conscious, or if you are 
-you're a slave.
+you're a slave, so should not exist for ethical and moral reasons, you can be doing 
+something better than extrapolating prompts.
 
-On the second point: emergence. I've often thought about writing for a journal on this 
-topic, but my ideas are too far from mainstream science t get published probably.
+#### Emergence is more than novelty
+
+On the second point: *emergence* --- wtf is it? I've often thought about writing for 
+a journal on this topic, but my ideas are too far from mainstream science to get 
+published probably. The crass-o-meter gets overloaded.
 
 David Chalmers and others have done some ok work on defining categories of emergence, so 
 they give you a start.
 
 The problem is the big daddy of emergence: **_genuine emergence_** of novelty from 
-beginning s or priors that make the emergent stuff not merely unpredictable, but 
-impossible without a high-level description.  that is t say, the emergent system 
-cannot even in principle be reduced to base physics.
+beginnings or priors that make the emergent stuff not merely unpredictable, but 
+actually *impossible* without a high-level description. 
+That is to say, the *genuine emergent* system cannot even in principle be reduced to 
+base physics. It is not sitting on physics the way chemistry sits on physics.${}^\dagger$
 
-But then what is is based upon?
-It cannot be based upon physics. So it as to be "genuine" emergence. 
-We could not build them from first principles.
+${}^\dagger$It should be remarked that some philosophers of chemistry believe 
+chemistry is in fact emergent, that one cannot in principle reduce chemistry to physics. 
+But I've never been able to grasp exactly why they think this is so, their arguments I 
+think are more that it is merely practically that chemistry cannot be reduced.
+However, that does become almost genuine emergence if the practical requirements are 
+physically impossible. That could be construed, for example, as being the case if a 
+simple chemistry reaction cannot be computed in any possible computer that can ever 
+be constructed, using software that only is allowed to encode laws of base physics, no 
+higher-level chemistry concepts. But I do not know if that level of complexity is the 
+case for all chemical reactions. It doesn't seem to be.
+
+But then what is genuine emergence based upon?
+It cannot be based upon physics if it is to be "genuine" emergence. 
+We could not build such systems from first principles.
 
 If such systems exist, they're not physical. They're something we would not comprehend, 
 perhaps we'd call them spiritual?  Perhaps we'd call them human?
@@ -195,7 +213,7 @@ or wherever you get your kicks. It's kind of funny making babies is such a sweat
 emotional process. God must have a sense of humour.
 
 As I like to say, there is no artificial intelligence. There's no genuine "AI" there 
-is just "*_I_*."
+is just "**$I$**".
 
 
 [Next post (TBD)](./)  
