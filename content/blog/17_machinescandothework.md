@@ -111,7 +111,7 @@ production systems with lower net heat and waste output a potentially big win fo
 engineering.
 Everyone, especially the *formerly* poor, can get more purchasing power, without the 
 production systems permitting that power to be exercised heating up the oceans and 
-atmosphere and polluting hem with junk. Energy-efficient housing for instance --- not 
+atmosphere and polluting them with junk. Energy-efficient housing for instance --- not 
 things we buy today and throw away tomorrow.
 
 There is a whole literature on how unbridled capitalisms and the marketing and 
