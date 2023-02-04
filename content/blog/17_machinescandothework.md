@@ -114,7 +114,7 @@ production systems permitting that power to be exercised heating up the oceans a
 atmosphere and polluting them with junk. Energy-efficient housing for instance --- not 
 things we buy today and throw away tomorrow.
 
-There is a whole literature on how unbridled capitalisms and the marketing and 
+There is a whole literature on how unbridled capitalism and the marketing and 
 advertising/PR industry has encouraged planned obsolescence --- the deliberate 
 creation of unnecessary waste products by design. To keep consumers purchasing the same 
 stuff they had yesterday which is now designed to be broken, or designed to be shinier 
@@ -142,7 +142,7 @@ stock rises.
 However, ignoring the business ethics, just focusing on the technology, there are 
 useful insights to be gained from Tesla's leveraging of OpenAI with self-driving cars.
 
-Road transport can become a whole lot safer, since even though with AI drivers fail, they 
+Road transport can become a whole lot safer, since even though when AI drivers fail, they 
 fail big, the death rate is still a lot less than from human fallibilities.
 One could argue the better effort is to reduce all transport fatalities, with a 
 combination of the driverless and the human.
@@ -162,15 +162,24 @@ both the pedestrian and driver should be safer. And why not use hazard detection
 too, as long as it doesn't chew up electricity like bitcoin.
 
 The great advantage of such a smart rail system is we can get not only inner city 
-light rail going, but urban and rural rail too, at low cost, just paint the rails on 
-the road. Government buys out the patents on the software. All is then better and safer, 
-and the commuter is not paying the private sector road toll costs. (Did you know they 
-still have toll roads in some states in the USA --- to "pay for" highways that are 
-already built.)
+light rail going, but urban and rural rail too, at low cost, just paint${}^\ddagger$ 
+the rails on the road. Government buys out the patents on the software. All is then 
+better and safer, and the commuter is not paying the private sector road toll costs. 
+(Did you know they still have toll roads in some states in the USA --- to "pay for" 
+highways that are already built.)
 
 Can anyone come up with strong objections?
 
 I think the software will be up to the task pretty soon.
+
+${}^\ddagger$I do not mean literally paint the road with paint. But something about 
+as simple, some low frequency fingerprint. You want the software rails to be robust 
+to tampering and cyberattack, with redundancy for when there is a cyberattack (since 
+nothing is completely immune to cyber-attack). They can still be cheap.
+However, the best method for eliminating crime is known to MMT --- we give everyone 
+the means to live comfortably, which means using the currency for redistribution.
+Redistribution as crime prevention. No one should even be thinking of theft or crime 
+just to survive.
 
 
 This leaves the last hurdle of the energy. How to get the electric? That is where 
