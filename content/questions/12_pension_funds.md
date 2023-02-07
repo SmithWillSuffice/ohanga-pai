@@ -322,10 +322,10 @@ but I cannot promise a fixed due date.
 If you want to see such models, GPL code too, sooner than "vaguely soon" then 
 please consider donating, and drop me a message when you do telling me what you want to see.
 
-To help me complete these chapters and write the software, please donating    
+To help me complete these chapters and write the software, please donating   
 via [Achronomaster \@ Ko-fi.](https://ko-fi.com/achrononmaster/)
 
 
-[Next chapter (Why Does it all Matter?)](../100_why_does_it_matter)  
+[Next chapter (Periphery Countries)](../20_peripherynations)  
 [Previous chapter (Interest Rate Myths)](../6_interest_rate_myths)  
 [Back to Questions TOC](../)

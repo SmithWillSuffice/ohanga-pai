@@ -339,5 +339,5 @@ We do not *need* to tax super rich people, we need to not have super rich people
 
 
 [Next chapter (None, this is the End)](./)  
-[Previous chapter (Pension Funds)](../12_pension_funds)  
+[Previous chapter (Periphery Nations)](../20_peripherynations)  
 [Back to Questions TOC](../)
