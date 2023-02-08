@@ -87,15 +87,15 @@ south nation's currency for euro or USD, guess who is at fault?
 
 It is not MMT or the global south nation at fault, it is the foreign empires.  
 Provided the global south nation are driving domestic demand for their currency via 
-taxation, their currency s always worth real value, specifically whatever that 
+taxation, their currency is always worth real value, specifically whatever that 
 nation's people can produce for a unit tax credit worth of their labour and industry.
 
 The FOREX rate for that weak nation is thus never zero. It is zero only if imperial 
 nations force it to be zero by economic and political warfare.  No nation should 
-accept this, and we have something called the Untied Nations to at least mildly 
+accept this, and we have something called the United Nations to at least mildly 
 action against such imperialism.
 
-It is something else too if that waker nation is utterly corrupt and has no 
+It is something else too if that weaker nation is utterly corrupt and has no 
 functioning legal system. In that case it's currency is of highly indeterminate 
 value, but it is still never zero, so can still be exchanged. Which means they can 
 still pay for imports.
