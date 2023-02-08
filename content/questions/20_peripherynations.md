@@ -110,7 +110,7 @@ prosperity as their domestic production allows.
 
 What that means is optimising their real terms of trade.
 
-They only condition when the weaker nation cannot optimize it's terms of trade 
+The only condition when the weaker nation cannot optimize it's terms of trade 
 (sacrifice some desired domestic output to get critical imports) is when they are 
 suffering from out-right economic warfare, like Iran or Cuba.
 
@@ -118,9 +118,31 @@ Incidentally, what nation has the lowest exchange rate against the USD? It is Ir
 But they have a fair enough justice system. They are a good example of how political 
 decision in Washington effect trade effects upon exchange rates. Yet their people are 
 not suffering terribly badly. There average wage still buys a lot of stuff.
-That is the thing about a fiat currency. When apples cost say 20,000 tax credits per  
+That is the thing about a fiat currency. When apples cost say 20,000 tax credits per
 kilogram, but your wage is 50,000,000 tax credits a month, you might be grumpy, but 
 you are probably not starving.
+
+### The MMT Base Case is Where to Start
+
+However, all such issue of superimperialism accounted for and acknowledged, what 
+is the best policy for the weaker nation to pursue?
+
+In all cases, without exception, it is the MMT Base Case.
+
+The fact the MMT Base Case analysis fails to apply for a weak, corrupt, periphery 
+nation held under oppression of imperialism, is not an argument against MMT, and nor 
+is it an argument something other than MMT should be their monetary system. In all 
+cases they are better off employing MMT operations to run full domestic employment. 
+They gain *nothing* in real terms by unemploying their workers.
+
+If their workers are being exploited to produce military munitions for foreigners, 
+then MMT is not the problem, the political economic warfare is the problem.
+
+Now I wrote this little section before reading part-3 of Vergnhanini and 
+De&nbsp;Conti's paper. I did this because I expected, or hoped, to be surprised that 
+they would refute this assertion that regardless of the nation's standing on the 
+international stage, they are *still* better off adopting MMT Base Case policy. I was 
+prepared to be awed by any counter-argument to this assertion.
 
 
 ```TODO: only just getting started.
