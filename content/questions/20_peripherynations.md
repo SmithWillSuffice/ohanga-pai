@@ -67,11 +67,13 @@ exchange for the domestic currency, then it would be subjected to constraints of
 international markets (Wray, 2014a)."</span>
 
 This "recognition" is an opinion and analysis of an MMT economist (Randy Wray) about 
-a putative global south nation that is not running an MMT system. Why? It is because 
-under a full MMT Base Case no nation is obliged to issue foreign debt. Private 
-citizens and corporation might want to, might do so, but the government does not. 
-They can pay all debts in their own currency and have no need to borrow a foreign 
-currency.
+a putative global south nation that is *not running an MMT **Base Case** system*. 
+However, they probably still have an MMT system. The lack of following the 
+Base Case matters.
+Why? It is because under a full MMT Base Case no nation is obliged to issue 
+foreign debt. Private citizens and corporation might want to, might do so, but the 
+government does not. They can pay all debts in their own currency and have no need 
+to borrow a foreign currency.
 
 If "international markets" are obliging the *government* of the weak nation to issue 
 foreign debt this is *not* an MMT Base Case, it would be called neocolonialism or 
@@ -98,10 +100,11 @@ functioning legal system. In that case it's currency is of highly indeterminate
 value, but it is still never zero, so can still be exchanged. Which means they can 
 still pay for imports.
 
-They might not get many imports, but that's the real price they pay for corruption and lack of rule of law, or rule of fair law.
+They might not get many imports, but that's the real price they pay for corruption 
+and lack of rule of law, or rule of fair law.
 
 If one sets up a so-called "periphery nation" that is corrupt as hell to start with, 
-then that's not a far criticism of MMT.  It is a criticism of that nation's politics. 
+then that's not a far criticism of MMT. It is a criticism of that nation's politics. 
 MMT still applies if their government want it to apply. They can have as much 
 prosperity as their domestic production allows.
 
