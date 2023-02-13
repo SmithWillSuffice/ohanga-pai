@@ -121,6 +121,15 @@ so I'm going with the ThomasFrankerator.
 
 
 
+## Blackadder Points
+
+The easiest thing to do here in-person is to pull out the Python Holy Grail and see 
+if its waters sizzle Tymoigne's skin. But lacking Tymoigne in person, we resort to the
+Chaplinograph, which produces a silent black & white test. No ambiguity here.
+
+
+
+
 
 [Next chapter (Why Does it all Matter?)](../100_why_does_it_matter)  
 [Previous chapter (Periphery Countries)](../20_peripherynations)  
