@@ -2,7 +2,7 @@
 title: "Problems with 'Sovereignty' in the Periphery Nations"
 description: ""
 date: 2023-01-01
-lastmod: 20123-01-01
+lastmod: 2023-01-01
 cover: ""
 coverAlt: ""
 toc: true
