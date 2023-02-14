@@ -10,8 +10,8 @@ tags: []
 katex: true
 ---
 
-Following on from the [Questions](/ohanga-pai/questions/20_peripherynations) chapter 
-I wrote last week "[MMT and the Periphery](../20_peripherynations)" commentary, 
+Following on from the [Questions](/ohanga-pai/questions) chapter 
+I wrote last week "[MMT and the Periphery](/ohanga-pai/questions/20_peripherynations)" commentary, 
 I thought it might be useful to critically review the defences of MMT, from a hard 
 core MMT perspective (that's me). At least I think I am hard core. 
 As in what [Buttercup said to Bubbles](https://www.youtube.com/watch?v=_rBPiMHkgx8). 
