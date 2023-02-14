@@ -153,61 +153,70 @@ prepared to be awed by any counter-argument to this assertion.
 Let's first see if the general criticisms raised by Vergnhanini & 
 De&nbsp;Conti are of any merit (and if not, why are they repeating them?).
 
-1. **Origin of Money** the criticism is that MMT places too much emphasis on 
+1. **Origin of Money** --- The criticism is that MMT places too much emphasis on 
 tax-driven demand. The critics say MMT ignores the secondary functions of: means of 
-payment, store of value, and "unit of account". the third of these is a stupid 
+payment, store of value, and "unit of account". The third of these is a stupid 
 critique, since the tax-driven chartal currency *is* the unit of account, so 
 Vergnhanini and 
-De&nbsp;Conti are off to a poor start, not giving MMT its due. However, the first two 
+De&nbsp;Conti are off to a poor start, not giving MMT its due. The first two 
 functions are fully recognized by MMT. Why does a currency attain a store of value 
 functional and means of payment function? It's because there is demand. What drives 
 that demand is the point in question. MMT does not deny methods *other* than taxes can 
 drive demand, see Wray's latest readable book 
 [“Making Money Work for Us”](https://www.goodreads.com/book/show/61723716-making-money-work-for-us) and the earlier [“Modern Money Primer”]() and [“Modern Money Theory 101: A reply to critics”](https://www.econstor.eu/bitstream/10419/110016/1/770835929.pdf).
-2. **Consolidated Government Framework**  MMT analysis often consolidates central 
+2. **Consolidated Government Framework** --- MMT analysis often consolidates central 
 bank and treasury, even while acknowledging they have different functions and 
 mandates. Marc Lavoie this time, and Palley (again) are called upon as the critics. 
 This is again a completely stupid critique. Firstly, MMT recognizes the separation of 
-functions (monetary and fiscal policy). But consolidating governmetns is the correct 
-framework for the most basic sectoral balances. For when Treasury makes the central 
-bank payments, it is the left pocket of government paying the right pocket. Lavoie is 
+functions (monetary and fiscal policy). But consolidating governments is the correct 
+framework for the most basic sectoral balances. For when Treasury makes payments to the 
+central bank, it is the left pocket of government paying the right pocket. Lavoie is 
 the fictionalizer here. If Treasury defaults on payments due to the CB it'd be 
-entirely pointless, and those   liabilities have zero real economic consequences 
-other than exerting some false psychology. It is the false psychology of policy 
+entirely pointless, and those liabilities have zero real economic consequence 
+other than exerting some false psychology effects (policy insanity). It is the false psychology of policy 
 makers that is at fault here, not MMT. Lavoie is better to start teaching the 
 reality, which is that for many purposes it's a good idea to consolidate government 
 in an analysis.
-3. **Inflation and Interest Rates Explanation** MMT is "lacking a rigorous 
+3. **Inflation and Interest Rates Explanation** --- MMT is "lacking a rigorous 
 explanation" says Palley. This is bollocks. Only MMT has an explanation of the 
 general price level, which implies also rate of change, i.e., inflation. The general 
 framework can be found in Mosler and Forstater, 
 [“A general framework for the analysis of currencies and commodities”](http://moslereconomics.com/wp-content/uploads/2018/04/A-General-Analytical-Framework.pdf).  For 
 the interest rate the framework is found in another Mosler and Forstater paper, [“The Natural Rate of Interest is Zero”](https://www.jstor.org/stable/4228167).
 The "L shaped" inflation (Phillips) curve described by MMT is not seen in the real 
-world not because MMT is a falwed framework, but because no government runs a Job 
+world not because MMT is a flawed framework, but because no government runs a Job 
 Guarantee labour buffer. If they did, by definition the Phillips curve would flatten, 
-it would not even be visibly L-shaped. it would be $-$ shaped. But we will not know 
+it would not even be visibly L-shaped. it would be '---' shaped. But we will not know 
 this empirically 
 until some government runs a Job Guarantee policy. However, the theory is solid, and [Bill Mitchell, here: “Full Employment Abandoned: shifting sands and policy failures”](http://www.billmitchell.org/publications/journals/J74_2010.pdf) has plenty of modelling 
 to show the basic idea of flattening the Phillips curve.
-4. **ZIRP Effects** Tom Palley against asserts ZIRP would lead to asset price 
+4. **ZIRP Effects** --- Tom Palley against asserts ZIRP would lead to asset price 
 inflation. This is wrong, or would need to be supported by lax bank credit collateral 
 requirements and/or government fiscal injections supporting asset prices. Both 
 effects could occur, and do occur. But MMT is not at fault here. How does a monetary 
 authority prevent asset price inflations caused by ZIRP? Firstly, ZIRP does not cause 
 anything, since the natural rate is zero. It therefore must be the regulatory policy 
-government bank lending and collateral that supports rising asst prices. MMT suggests 
-the role of government should be to better regulate banks, not use interest rates. 
-Palley cannot ever deny this is true, unless sit is tried and does not work. But of 
-course regulating banks would work, if enforced, if not corrupted. So is the 
-"critique" of MMT that in the real world governments are corrupt? That'd be highly 
-disingenuous, since it is not a critique of MMT, it'd be a critique of certain 
-governments. This is, to their credit, acknowledged 
-by Vergnhanini and De&nbsp;Conti, so is recognized as not a valid critique of MMT.
-5. **Floating Exchange Rate** This critique is the more *apropo* for Vergnhanini and 
+governing bank lending and collateral that supports rising asset prices. Moreover, in 
+the MMT Base case a rise in interest rates will inject currency into the economy 
+whenever government Treasury issue to GDP ratio is above about 50%, which is pretty 
+typical, in this case higher interests rates are more free money but only to people 
+ho already have money. If this likely to push up asset prices? Over time youbetcha. 
+Short run it may drive savings into bonds rather than other assets, but once the 
+interest payments flow the asset prices will pick up. The opposite to how fools like 
+Palley see things.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MMT suggests the role of government should be to 
+better regulate banks, not use interest rates. Palley cannot ever deny this is true, 
+unless it is tried and does not work. But of course regulating banks would work, if 
+enforced, if not corrupted. So is the "critique" of MMT that in the real world 
+governments are corrupt? That'd be highly disingenuous, since it is not a critique of 
+MMT, it'd be a critique of certain governments. This is, to their credit, 
+acknowledged 
+by Vergnhanini and De&nbsp;Conti, so this one of Palley's is recognized as not a 
+valid critique of MMT.
+5. **Floating Exchange Rate** --- This critique is the more *apropo* for Vergnhanini & 
 De&nbsp;Conti's paper. Tom Palley again is resuscitated from the vampire crypt to 
 attack MMT, he claims floating exchange rates are insufficient to "insulate" a small 
-open economy from pass-through effects of inflation. this attack misses the mark by a 
+open economy from pass-through effects of inflation. This attack misses the mark by a 
 country mile, because the purpose of MMT informed policy for a small open economy is 
 not price stability, it is full employment. Price stability can be abandoned 
 indefinitely. Few critics of MMT understand this, and many MMT advocates also fail to 
@@ -226,7 +235,7 @@ to your argument.
 
 ## Fair Trade Issues {#FairTradeIssues}
 
-Here we are at the critical point where the critique of Vergnhanini and 
+Here we are at the critical point where the critique of Vergnhanini & 
 De&nbsp;Conti coalesces with a similar critique of MMT by friend Steve Keen. The MMT 
 case is that _imports are a **real** benefit, and exports are a **real** cost_. The issue 
 is that some post-Keynesians see this as "too simplistic". However, they ignore the 
