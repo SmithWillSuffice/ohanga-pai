@@ -299,7 +299,9 @@ You might include other risks like plagues, droughts, asteroid strikes, war, gen
 stupidity and educational dumbing down and whatnot. All of which can erode the 
 real wage potentially. 
 If you can foresee these, then definitely include them in policy planning to mitigate 
-the foreseeable erosion of real wages.
+the foreseeable erosion of real wages. To the *implement* those policies MMT is only going to be able to help, not hinder, and will help you far better than any other 
+school of economic thought. ("You" meaning a commoner, not necessarily you if you're 
+in the rentier upper class.)
 
 
 Under an international imperialist despot (like the USA) of course this simple story 
@@ -338,7 +340,8 @@ What about trade embargoes, like those imposed upon Cuba?
 
 Even here, Cuba is best advised to run an MMT system. There is no benefit to doing 
 otherwise. Why unemploy your workers just because some other nation is not trading 
-with you? It'd be like penalizing your dog for stepping in your neighbours doodoo.
+with you? It'd be like penalizing your dog for stepping in your neighbours doodoo 
+while he was warding off an intruder.
 
 
 
