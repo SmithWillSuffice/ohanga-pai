@@ -11,7 +11,8 @@ katex: true
 ---
 
 Some fresh MMT education material starts today. I've been posting to the Blog 
-recently more regularly, since starting the DougBot Project, and as part of that 
+recently more regularly, since starting the 
+[DougBot Project](https://www.patreon.com/mmtmacrotrader), and as part of that 
 research effort the opportunity to pose some questions to the founder of MMT (in the 
 modern 20th century form, as opposed to the Sumerian form) arose.
 
@@ -227,21 +228,64 @@ to your argument.
 
 Here we are at the critical point where the critique of Vergnhanini and 
 De&nbsp;Conti coalesces with a similar critique of MMT by friend Steve Keen. The MMT 
-case is that **_imports are a real benefit, and exports are a real cost_**. The issue 
-is that some post-Keynesians see this is "too simplistic". However, they ignore the 
+case is that _imports are a **real** benefit, and exports are a **real** cost_. The issue 
+is that some post-Keynesians see this as "too simplistic". However, they ignore the 
 macroeconomics point of MMT, which is based on realism about the Base Case for 
-Analysis (no imperial despots, floating exchange rate,s fiat currency). Under the 
-Base Case it is a truism that imports are real benefits and exports are rel costs.
+Analysis (no imperial despots, floating exchange rates, fiat currency driven by tax 
+liabilities). Under the Base Case it is a truism that imports are real benefits 
+and exports are real costs.
 
-Steve Keen, for his ill part, oftens leaves off the qualifier real", and so false frames the debate into monetary terms. Certainly, allowing foreigners to accumulate your currency means they can buy your goods. But MMT would counter that this is no risk unless governments make it a risk.  Goods you produce domestically do not *have(* to be for sale to foreigners.
+Steve Keen, for his ill part, oftens leaves off the qualifier "real", and so false 
+frames the debate into monetary terms. Certainly, allowing foreigners to accumulate 
+your currency means they can buy your goods. But MMT would counter that this is no 
+risk unless governments make it a risk.  Goods you produce domestically do not 
+*have* to be for sale to foreigners.
 
-Keen also raises the "de-industrialization" fear-mongering. But why would being a net importer mean you *have* to de-industrialize? It means no such thing. Anything that can be produced at more expense domestically can be sourced domestically, if that is desired for strategic reasons. So this is not a fair critique of MMT, because such strategic resource policies are entirely up to governments to choose. They may choose right or wrong for their people, regardless of what MMT teaches them. Better to regard MMT, I say.
+Keen also raises the "de-industrialization" fear-mongering. But why would being a net 
+importer mean you *have* to de-industrialize? It means no such thing. Anything that 
+can be produced at more expense domestically can be sourced domestically, if that is 
+desired for strategic reasons. So this is not a fair critique of MMT, because such 
+strategic resource policies are entirely up to governments to choose. They may choose 
+right or wrong for their people, regardless of what MMT teaches them. Better to 
+regard MMT, I say.
 
-The purpose is to optimize your **_real_** terms of trade, not your current account balances, which for governments are mere accounting records.  Any nation may optimize their real terms of trade.  That does not mean all can be net importers, which is an impossible state, there must be at least one net exporter, by capital account balances.
-That country is still seeking to get as many quality imports it can get for the minimal amount they can export. Or, at least, that's what they ought to be doing in trade negotiations. There's no telling for what ignorance will accomplish.
+The purpose is to optimize your **_real_** terms of trade, not your current account 
+balances, which for governments are mere accounting records.  Any nation may optimize 
+their real terms of trade.  That does not mean all can be net importers, which is an 
+impossible state, there must be at least one net exporter, by capital account 
+balances.
+That country is still seeking to get as many quality imports it can get for the 
+minimal amount they can export. Or, at least, that's what they ought to be doing in 
+trade negotiations. There's no telling for what ignorance will accomplish.
 
 If you drop the qualifier "real" then you'll misunderstand. The money becomes unimportant 
 in this case (since there is assumed no imperialism).
+
+You may, like Steve Keen or Michael Hudson, still get it wrong if you are thinking in 
+currency terms and *fixed exchange rates* instead of real terms an floating exchange 
+rates.  The trade risk is never nominal inflation. The risk is running out of real 
+resources, that is to say, the risk should be thought of in terms of real inflation 
+(eroding of the purchasing power of the annual wage).
+
+Under MMT, there are still two major factors that can erode the *real* wage:
+
+1. **Rentiers** --- rent extraction to the top One Percent, which is tantamount to stolen 
+wages from the working class, although MMT generally is taken to subsume Keynes, so you'd 
+be euthanizing your rentiers, would you not? So not much of a risk factor for an MMT 
+informed government wishing to protect *all* their people.
+2. **Imperialists** --- a large nation simply refuses to trade with you. MMT is not going 
+to help here, but nor is any other school of economic thought, so you might as well 
+adhere to MMT policy and at least maximise domestic non-bullsh*t output.
+
+Unemployment directly reduces output too, eroding the real wage, but that's not going to 
+happen in the MMT Base Case, so it is not a risk factor.
+
+You might include other risks like plagues, droughts, asteroid strikes, war, general 
+stupidity and educational dumbing down and whatnot. All of which can erode the 
+real wage potentially. 
+If you can foresee these, then definitely include them in policy planning to mitigate 
+the foreseeable erosion of real wages.
+
 
 Under an international imperialist despot (like the USA) of course this simple story 
 can get twisted,. But this is hardly a fault or flaw in MMT. If you do not like 
@@ -251,28 +295,35 @@ Remember, *any* pass-through effects of inflation can be tolerated indefinitely 
 monopoly currency issuer.
 
 The problem is getting other nations who have things to sell to accept your currency. 
-If they will not accept your currency than you need to swap on the FOREX market, 
+If they will not accept your currency then you need to swap on the FOREX market, 
 which if done on a mass scale risks currency depreciation and pass-through inflation. 
 However, that inflation can go on forever. There is no limit, provided the domestic 
 currency is fiat and on a float. 
 
-The better way to understand it is to understand the purpose of exporting real 
-goods: the exports pay for the imports.  They are a price you pay for keeping 
-pass-through inflation under control.
+In severe cases the FOREX market will not even accept your currency, in which case 
+you have bigger problems than monetary economics. Almost all nations today can 
+operate a FOREX desk, and should always find takers for their currency if they are 
+imposing domestic tax liabilities payable only in their unit of account. (The 'unit 
+of account' being equivalent to the tax credit, which was misunderstood by Palley in 
+the note above --- the state unit of account need not be the tax credit, but almost 
+invariably is!)
 
-The way to remove the psychological inflation effects is to raise domestic production 
-over time. You cannot do this any better than with full domestic employment, so you 
-will *need* MMT.
+The better way to understand all this is to understand the purpose of exporting real 
+goods: the exports pay for the imports. They are a price you pay for keeping 
+pass-through inflation under control while receiving a few nice imports.
+
+The way to remove the damaging neoliberal psychological effect of inflation is to 
+raise domestic production over time. You cannot do this any better than with full domestic employment, so you will *need* MMT in both theory and practice.
 
 It is possible benign rich nations could gift you imports. Or they might lend at zero 
 interest rate. That'd obviate the need for an exchange rate float, but who is ever going 
 to rely on such a commonwealth? Nice if you can get it.
 
-what about trade embargoes, like hose imposed upon Cuba? 
+What about trade embargoes, like those imposed upon Cuba? 
 
 Even here, Cuba is best advised to run an MMT system. There is no benefit to doing 
 otherwise. Why unemploy your workers just because some other nation is not trading 
-with you? It'd be like penalizing your dog for stepping in your neighbours sh1t.
+with you? It'd be like penalizing your dog for stepping in your neighbours doodoo.
 
 
 
