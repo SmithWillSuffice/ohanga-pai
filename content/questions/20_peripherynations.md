@@ -26,6 +26,8 @@ weaker nations as they are about decent small nations like New Zealand?
 The paper this discussion is based upon is by Vergnhanini and De&nbsp;Conti (2017), 
 [Modern Money Theory: a criticism from the periphery](https://www.braziliankeynesianreview.org/BKR/article/download/115/90).
 
+If you want to skip the preliminary defences of MMT, which reply to standard criticism, and go staright to the trade issues, then [click here to the Trade Issues](#FairTradeIssues) section.
+
 ## They Still Aren't Stating MMT Correctly
 
 Before they get around to their supposed critique of "MMT", Vergnhanini & De&nbsp;Conti 
@@ -145,9 +147,132 @@ international stage, they are *still* better off adopting MMT Base Case policy. 
 prepared to be awed by any counter-argument to this assertion.
 
 
-```TODO: only just getting started.
-```
+## The "General" Criticisms
 
+Let's first see if the general criticism raised by Vergnhanini and 
+De&nbsp;Conti are of any merit (and if not, why are they repeating them?).
+
+1. **Origin of Money** the criticism is that MMT places too much emphasis on 
+tax-driven demand. The critics say MMT ignores the secondary functions of: means of 
+payment, store of value, and "unit of account". the third of these is a stupid 
+critique, since the tax-driven chartal currency *is* the unit of account, so 
+Vergnhanini and 
+De&nbsp;Conti are off to a poor start, not giving MMT its due. However, the first two 
+functions are fully recognized by MMT. Why does a currency attain a store of value 
+functional and means of payment function? It's because there is demand. What drives 
+that demand is the point in question. MMT does not deny methods *other* than taxes can 
+drive demand, see Wray's latest readable book 
+[“Making Money Work for Us”](https://www.goodreads.com/book/show/61723716-making-money-work-for-us) and the earlier [“Modern Money Primer”]() and [“Modern Money Theory 101: A reply to critics”](https://www.econstor.eu/bitstream/10419/110016/1/770835929.pdf).
+2. **Consolidated Government Framework**  MMT analysis often consolidates central 
+bank and treasury, even while acknowledging they have different functions and 
+mandates. Marc Lavoie this time, and Palley (again) are called upon as the critics. 
+This is again a completely stupid critique. Firstly, MMT recognizes the separation of 
+functions (monetary and fiscal policy). But consolidating governmetns is the correct 
+framework for the most basic sectoral balances. For when Treasury makes the central 
+bank payments, it is the left pocket of government paying the right pocket. Lavoie is 
+the fictionalizer here. If Treasury defaults on payments due to the CB it'd be 
+entirely pointless, and those   liabilities have zero real economic consequences 
+other than exerting some false psychology. It is the false psychology of policy 
+makers that is at fault here, not MMT. Lavoie is better to start teaching the 
+reality, which is that for many purposes it's a good idea to consolidate government 
+in an analysis.
+3. **Inflation and Interest Rates Explanation** MMT is "lacking a rigorous 
+explanation" says Palley. This is bollocks. Only MMT has an explanation of the 
+general price level, which implies also rate of change, i.e., inflation. The general 
+framework can be found in Mosler and Forstater, 
+[“A general framework for the analysis of currencies and commodities”](http://moslereconomics.com/wp-content/uploads/2018/04/A-General-Analytical-Framework.pdf).  For 
+the interest rate the framework is found in another Mosler and Forstater paper, [“The Natural Rate of Interest is Zero”](https://www.jstor.org/stable/4228167).
+The "L shaped" inflation (Phillips) curve described by MMT is not seen in the real 
+world not because MMT is a falwed framework, but because no government runs a Job 
+Guarantee labour buffer. If they did, by definition the Phillips curve would flatten, 
+it would not even be visibly L-shaped. it would be $-$ shaped. But we will not know 
+this empirically 
+until some government runs a Job Guarantee policy. However, the theory is solid, and [Bill Mitchell, here: “Full Employment Abandoned: shifting sands and policy failures”](http://www.billmitchell.org/publications/journals/J74_2010.pdf) has plenty of modelling 
+to show the basic idea of flattening the Phillips curve.
+4. **ZIRP Effects** Tom Palley against asserts ZIRP would lead to asset price 
+inflation. This is wrong, or would need to be supported by lax bank credit collateral 
+requirements and/or government fiscal injections supporting asset prices. Both 
+effects could occur, and do occur. But MMT is not at fault here. How does a monetary 
+authority prevent asset price inflations caused by ZIRP? Firstly, ZIRP does not cause 
+anything, since the natural rate is zero. It therefore must be the regulatory policy 
+government bank lending and collateral that supports rising asst prices. MMT suggests 
+the role of government should be to better regulate banks, not use interest rates. 
+Palley cannot ever deny this is true, unless sit is tried and does not work. But of 
+course regulating banks would work, if enforced, if not corrupted. So is the 
+"critique" of MMT that in the real world governments are corrupt? That'd be highly 
+disingenuous, since it is not a critique of MMT, it'd be a critique of certain 
+governments. This is, to their credit, acknowledged 
+by Vergnhanini and De&nbsp;Conti, so is recognized as not a valid critique of MMT.
+5. **Floating Exchange Rate** This critique is the more *apropo* for Vergnhanini and 
+De&nbsp;Conti's paper. Tom Palley again is resuscitated from the vampire crypt to 
+attack MMT, he claims floating exchange rates are insufficient to "insulate" a small 
+open economy from pass-through effects of inflation. this attack misses the mark by a 
+country mile, because the purpose of MMT informed policy for a small open economy is 
+not price stability, it is full employment. Price stability can be abandoned 
+indefinitely. Few critics of MMT understand this, and many MMT advocates also fail to 
+appreciate the purpose of price stability. Price stability is a political goal, not 
+an economic goal. The economic goal is a gradual improvement in the *real wage*, and 
+that can occur with any inflation level that is tolerated by political psychology. 
+The limits here are entirely political, not monetary, not real resources.
+Since you will not see this in most standard MMT literature, I will reference the 
+analysis of the Weimar hyperinflation by 
+[Armstrong and Mosler](https://gimms.org.uk/wp-content/uploads/2020/11/Weimar-Republic-Hyperinflation-through-a-Modern-Monetary-Theory-Lens.pdf). It should suffice,
+
+It you take issue with any of these defences of MMT or the references let me know after 
+[donating here](https://ko-fi.com/achrononmaster/) so I can justify the time responding 
+to your argument.
+
+
+## Fair Trade Issues {#FairTradeIssues}
+
+Here we are at the critical point where the critique of Vergnhanini and 
+De&nbsp;Conti coalesces with a similar critique of MMT by friend Steve Keen. The MMT 
+case is that **_imports are a real benefit, and exports are a real cost_**. The issue 
+is that some post-Keynesians see this is "too simplistic". However, they ignore the 
+macroeconomics point of MMT, which is based on realism about the Base Case for 
+Analysis (no imperial despots, floating exchange rate,s fiat currency). Under the 
+Base Case it is a truism that imports are real benefits and exports are rel costs.
+
+Steve Keen, for his ill part, oftens leaves off the qualifier real", and so false frames the debate into monetary terms. Certainly, allowing foreigners to accumulate your currency means they can buy your goods. But MMT would counter that this is no risk unless governments make it a risk.  Goods you produce domestically do not *have(* to be for sale to foreigners.
+
+Keen also raises the "de-industrialization" fear-mongering. But why would being a net importer mean you *have* to de-industrialize? It means no such thing. Anything that can be produced at more expense domestically can be sourced domestically, if that is desired for strategic reasons. So this is not a fair critique of MMT, because such strategic resource policies are entirely up to governments to choose. They may choose right or wrong for their people, regardless of what MMT teaches them. Better to regard MMT, I say.
+
+The purpose is to optimize your **_real_** terms of trade, not your current account balances, which for governments are mere accounting records.  Any nation may optimize their real terms of trade.  That does not mean all can be net importers, which is an impossible state, there must be at least one net exporter, by capital account balances.
+That country is still seeking to get as many quality imports it can get for the minimal amount they can export. Or, at least, that's what they ought to be doing in trade negotiations. There's no telling for what ignorance will accomplish.
+
+If you drop the qualifier "real" then you'll misunderstand. The money becomes unimportant 
+in this case (since there is assumed no imperialism).
+
+Under an international imperialist despot (like the USA) of course this simple story 
+can get twisted,. But this is hardly a fault or flaw in MMT. If you do not like 
+imperialism then failing to adopt an MMT system and policies will not help you, it'll 
+make things worse.
+Remember, *any* pass-through effects of inflation can be tolerated indefinitely for a 
+monopoly currency issuer.
+
+The problem is getting other nations who have things to sell to accept your currency. 
+If they will not accept your currency than you need to swap on the FOREX market, 
+which if done on a mass scale risks currency depreciation and pass-through inflation. 
+However, that inflation can go on forever. There is no limit, provided the domestic 
+currency is fiat and on a float. 
+
+The better way to understand it is to understand the purpose of exporting real 
+goods: the exports pay for the imports.  They are a price you pay for keeping 
+pass-through inflation under control.
+
+The way to remove the psychological inflation effects is to raise domestic production 
+over time. You cannot do this any better than with full domestic employment, so you 
+will *need* MMT.
+
+It is possible benign rich nations could gift you imports. Or they might lend at zero 
+interest rate. That'd obviate the need for an exchange rate float, but who is ever going 
+to rely on such a commonwealth? Nice if you can get it.
+
+what about trade embargoes, like hose imposed upon Cuba? 
+
+Even here, Cuba is best advised to run an MMT system. There is no benefit to doing 
+otherwise. Why unemploy your workers just because some other nation is not trading 
+with you? It'd be like penalizing your dog for stepping in your neighbours sh1t.
 
 
 

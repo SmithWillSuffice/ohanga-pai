@@ -98,7 +98,8 @@ Let's get on with the Marxometer muscle flexing scoring then...
 
 
 
-```TODO: only just getting started. This is a stub.
+```
+TODO: only just getting started. This is a stub.
 ```
 
 
@@ -114,10 +115,10 @@ For style points we need to pull out the Keltonometer.
 It is tricky to assess streetsmart points. The Moslerometer would normally do, but 
 suffers from calibration uncertainty owing to logarithmic scale jumps when encountering 
 neoclassicals, and I have not learned to do the stochastic equilibrium calibration 
-corrections. The ThomasFrankerator however is a very simple device and can also be 
-used to slap orthodox economists after use, which is a handy dual purpose. 
-The Moslerometer is more sensitive and requires recuperation in the Caribbean tropics, 
-so I'm going with the ThomasFrankerator.
+corrections. The ThomasFrankerator however is a very simple device and soft enough it 
+can also be used to slap orthodox economists after use, which is a handy dual purpose. 
+The Moslerometer is more sensitive and requires recuperation in the Caribbean tropics 
+after use, so I'm going with the ThomasFrankerator.
 
 
 
