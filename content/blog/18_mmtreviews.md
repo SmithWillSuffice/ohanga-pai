@@ -10,7 +10,7 @@ tags: []
 katex: true
 ---
 
-Following on from the [Questions](ohangapai/questions/20_peripherynations) chapter 
+Following on from the [Questions](/ohanga-pai/questions/20_peripherynations) chapter 
 I wrote last week "[MMT and the Periphery](../20_peripherynations)" commentary, 
 I thought it might be useful to critically review the defences of MMT, from a hard 
 core MMT perspective (that's me). At least I think I am hard core. 
