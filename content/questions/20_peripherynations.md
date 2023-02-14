@@ -41,31 +41,30 @@ markets might force a nation to purchase goods for sale in a foreign currency. T
 would be *only* when the weaker nation *needs* critical imports that it cannot source 
 domestically or purchase in their own currency. 
 
-However, to argue *on common ground* we have to accept the MMT Base case, otherwise 
+However, to argue *on common ground* we have to accept the MMT Base Case, otherwise 
 the authors are being disingenuous. The base case is:
 
-1. The supposedly "weaker" nation is running a fiat currency on a floating exchange rate, 
-no peg, no fixed rate policy.
+1. The (supposedly "weaker") nation is running a fiat currency on a floating exchange rate, no peg, no fixed rate policy.
 2. They are maintaining ZIRP --- so any central bank bond issue is zero interest. For 
 purposes of running the payments layer only, interbank clearing. (Or not, the MMT 
 base case is really that currency issuers never need to offer bonds for sale, private 
 banks can be permitted to operate term deposits for customers).
-3. The weaker nation runs a Job Guarantee, which supports a base wage floor, 
+3. The nation runs a Job Guarantee, which supports a base wage floor, 
 permanent full employment for anyone wishing to work for the tax credits.
 
-We, they, cannot criticize "MMT" if they are not considering both ZIRP *and* the 
-Job Guarantee.
+We, they, you, cannot criticize "MMT" if we are not considering all of: ZIRP, 
+a fiat float, tax-driven, *and* the Job Guarantee.
 
 What this means is that the "weakness" pointed to by Wray is false. It occurs in the 
-present day real world because the nations in the global south are not running Job 
-guarantee policy, thy ar instead forcing the poor, the unemployed, to pay the price for 
-getting the imports in the foreign currency.
+present day real world because the nations in the global south are not running job 
+guarantee policy, they are instead forcing the poor, the unemployed, to pay the price 
+for getting the imports in the foreign currency.
 
-With this all stated, we can see the first mischaracterization by of "MMT", they write,
+With this all stated, we can see the first mischaracterization by Vergnhanini & De&nbsp;Conti of "MMT", they write,
 
-> <span style="color: grey;">"The MMT recognizes that if the country is forced to 
-international indebtedness because it is obliged to issue debt in a foreign currency 
-or because it needs goods or services that are not available in 
+> <span style="color: grey;">"The [sic.] MMT recognizes that if the country is forced 
+to [sic.] international indebtedness because it is obliged to issue debt in a foreign 
+currency or because it needs goods or services that are not available in 
 exchange for the domestic currency, then it would be subjected to constraints of 
 international markets (Wray, 2014a)."</span>
 
@@ -74,7 +73,7 @@ a putative global south nation that is *not running an MMT **Base Case** system*
 However, they probably still have an MMT system. The lack of following the 
 Base Case matters.
 Why? It is because under a full MMT Base Case no nation is obliged to issue 
-foreign debt. Private citizens and corporation might want to, might do so, but the 
+foreign debt. Private citizens and corporations might want to, might do so, but the 
 government does not. They can pay all debts in their own currency and have no need 
 to borrow a foreign currency.
 
@@ -85,8 +84,9 @@ economic warfare.
 The MMT Base Case has to be adjusted, as Wray does so, in the event of international 
 warfare.
 
-If the international markets, specifically the FOREX desks, refuse to exchange the global 
-south nation's currency for euro or USD, guess who is at fault?
+If the international markets, specifically the FOREX desks, refuse to exchange the 
+global south nation's currency for euro or USD, guess who is at fault? Who sparked this 
+economic war?
 
 It is not MMT or the global south nation at fault, it is the foreign empires.  
 Provided the global south nation are driving domestic demand for their currency via 
@@ -96,7 +96,7 @@ nation's people can produce for a unit tax credit worth of their labour and indu
 The FOREX rate for that weak nation is thus never zero. It is zero only if imperial 
 nations force it to be zero by economic and political warfare.  No nation should 
 accept this, and we have something called the United Nations to at least mildly 
-action against such imperialism.
+act against such imperialism.
 
 It is something else too if that weaker nation is utterly corrupt and has no 
 functioning legal system. In that case it's currency is of highly indeterminate 
@@ -119,15 +119,15 @@ suffering from out-right economic warfare, like Iran or Cuba.
 
 Incidentally, what nation has the lowest exchange rate against the USD? It is Iran. 
 But they have a fair enough justice system. They are a good example of how political 
-decision in Washington effect trade effects upon exchange rates. Yet their people are 
-not suffering terribly badly. There average wage still buys a lot of stuff.
+decision in Washington exerts trade effects upon exchange rates. Yet their people are 
+not suffering terribly badly. Their average wage still buys a lot of stuff.
 That is the thing about a fiat currency. When apples cost say 20,000 tax credits per
 kilogram, but your wage is 50,000,000 tax credits a month, you might be grumpy, but 
 you are probably not starving.
 
 ### The MMT Base Case is Where to Start
  
-However, all such issue of superimperialism accounted for and acknowledged, what 
+All such issues of superimperialism accounted for and acknowledged, what 
 is the best policy for the weaker nation to pursue?
 
 In all cases, without exception, it is the MMT Base Case.
@@ -150,7 +150,7 @@ prepared to be awed by any counter-argument to this assertion.
 
 ## The "General" Criticisms
 
-Let's first see if the general criticism raised by Vergnhanini and 
+Let's first see if the general criticisms raised by Vergnhanini & 
 De&nbsp;Conti are of any merit (and if not, why are they repeating them?).
 
 1. **Origin of Money** the criticism is that MMT places too much emphasis on 
