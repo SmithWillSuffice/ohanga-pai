@@ -244,6 +244,11 @@ Analysis (no imperial despots, floating exchange rates, fiat currency driven by 
 liabilities). Under the Base Case it is a truism that imports are real benefits 
 and exports are real costs.
 
+For these purposes --- for trade relations --- the MMT Base Case applies pretty well to 
+New Zealand, Australia, Canada, Japan, maybe the UK, any country trade-friendly with 
+both the USA and China. (Although the Japanese have not yet figured out their exports 
+are too high a cost, given their aging population dependency ratio problem.) 
+
 Steve Keen, for his ill part, oftens leaves off the qualifier "real", and so false 
 frames the debate into monetary terms. Certainly, allowing foreigners to accumulate 
 your currency means they can buy your goods. But MMT would counter that this is no 
@@ -268,10 +273,10 @@ minimal amount they can export. Or, at least, that's what they ought to be doing
 trade negotiations. There's no telling for what ignorance will accomplish.
 
 If you drop the qualifier "real" then you'll misunderstand. The money becomes unimportant 
-in this case (since there is assumed no imperialism).
+in the case when we're analysing *real* terms of trade (since there is assumed no imperialism).
 
 You may, like Steve Keen or Michael Hudson, still get it wrong if you are thinking in 
-currency terms and *fixed exchange rates* instead of real terms an floating exchange 
+currency terms and *fixed exchange rates* instead of real terms and floating exchange 
 rates.  The trade risk is never nominal inflation. The risk is running out of real 
 resources, that is to say, the risk should be thought of in terms of real inflation 
 (eroding of the purchasing power of the annual wage).
@@ -283,8 +288,9 @@ wages from the working class, although MMT generally is taken to subsume Keynes,
 be euthanizing your rentiers, would you not? So not much of a risk factor for an MMT 
 informed government wishing to protect *all* their people.
 2. **Imperialists** --- a large nation simply refuses to trade with you. MMT is not going 
-to help here, but nor is any other school of economic thought, so you might as well 
-adhere to MMT policy and at least maximise domestic non-bullsh*t output.
+to help here, but nor is any other school of economic thought, since it is a political 
+problem. So you might as well adhere to MMT policy and at least maximise domestic 
+non-bullsh*t output.
 
 Unemployment directly reduces output too, eroding the real wage, but that's not going to 
 happen in the MMT Base Case, so it is not a risk factor.
