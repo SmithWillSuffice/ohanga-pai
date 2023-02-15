@@ -10,6 +10,8 @@ tags: []
 katex: true
 ---
 
+## The Hard Problem of MMT
+
 It's about time I start writing more about the <font style="color:#cc66ff">*Hard Problem of MMT*</font>. This is the problem of getting nations that have MMT currency systems to 
 actually **(a)** acknowledge this, and **(b)** use this knowledge to implement the MMT 
 Base Case, meaning,
