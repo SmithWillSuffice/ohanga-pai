@@ -165,8 +165,8 @@ functional and means of payment function? It's because there is demand. What dri
 that demand is the point in question. MMT does not deny methods *other* than taxes can 
 drive demand, see Wray's latest readable book 
 [“Making Money Work for Us”](https://www.goodreads.com/book/show/61723716-making-money-work-for-us) and the earlier [“Modern Money Primer”]() and [“Modern Money Theory 101: A reply to critics”](https://www.econstor.eu/bitstream/10419/110016/1/770835929.pdf).
-2. **Consolidated Government Framework** --- MMT analysis often consolidates central 
-bank and treasury, even while acknowledging they have different functions and 
+2. **Consolidated Government Framework** --- MMT analysis often consolidates Central 
+Bank and Treasury, even while acknowledging they have different functions and 
 mandates. Marc Lavoie this time, and Palley (again) are called upon as the critics. 
 This is again a completely stupid critique. Firstly, MMT recognizes the separation of 
 functions (monetary and fiscal policy). But consolidating governments is the correct 
@@ -174,20 +174,21 @@ framework for the most basic sectoral balances. For when Treasury makes payments
 central bank, it is the left pocket of government paying the right pocket. Lavoie is 
 the fictionalizer here. If Treasury defaults on payments due to the CB it'd be 
 entirely pointless, and those liabilities have zero real economic consequence 
-other than exerting some false psychology effects (policy insanity). It is the false psychology of policy 
-makers that is at fault here, not MMT. Lavoie is better to start teaching the 
-reality, which is that for many purposes it's a good idea to consolidate government 
-in an analysis.
+other than exerting some false psychology effects (policy insanity). It is the false 
+psychology of policy makers that is at fault here, not MMT. Lavoie is better to start 
+teaching the reality, which is that for many purposes it's a good idea to consolidate 
+government in an analysis.  If you *think* Parliament has to constrain spending because 
+it "owes" the "independent" Central Bank scorepoints, *you* are the problem, not MMT.
 3. **Inflation and Interest Rates Explanation** --- MMT is "lacking a rigorous 
-explanation" says Palley. This is bollocks. Only MMT has an explanation of the 
-general price level, which implies also rate of change, i.e., inflation. The general 
-framework can be found in Mosler and Forstater, 
+explanation" says Palley. This is truly Orwellian. Total bollocks. Only MMT *has* an 
+explanation of the general price level, which implies also rate of change, i.e., 
+inflation. The general framework can be found in Mosler and Forstater, 
 [“A general framework for the analysis of currencies and commodities”](http://moslereconomics.com/wp-content/uploads/2018/04/A-General-Analytical-Framework.pdf).  For 
 the interest rate the framework is found in another Mosler and Forstater paper, [“The Natural Rate of Interest is Zero”](https://www.jstor.org/stable/4228167).
 The "L shaped" inflation (Phillips) curve described by MMT is not seen in the real 
 world not because MMT is a flawed framework, but because no government runs a Job 
 Guarantee labour buffer. If they did, by definition the Phillips curve would flatten, 
-it would not even be visibly L-shaped. it would be '---' shaped. But we will not know 
+it would not even be visibly L-shaped. It would be '---' shaped. But we will not know 
 this empirically 
 until some government runs a Job Guarantee policy. However, the theory is solid, and [Bill Mitchell, here: “Full Employment Abandoned: shifting sands and policy failures”](http://www.billmitchell.org/publications/journals/J74_2010.pdf) has plenty of modelling 
 to show the basic idea of flattening the Phillips curve.
@@ -198,7 +199,7 @@ effects could occur, and do occur. But MMT is not at fault here. How does a mone
 authority prevent asset price inflations caused by ZIRP? Firstly, ZIRP does not cause 
 anything, since the natural rate is zero. It therefore must be the regulatory policy 
 governing bank lending and collateral that supports rising asset prices. Moreover, in 
-the MMT Base case a rise in interest rates will inject currency into the economy 
+the MMT Base Case a rise in interest rates will inject currency into the economy 
 whenever government Treasury issue to GDP ratio is above about 50%, which is pretty 
 typical, in this case higher interests rates are more free money but only to people 
 ho already have money. If this likely to push up asset prices? Over time youbetcha. 
