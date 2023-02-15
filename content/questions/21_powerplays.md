@@ -10,7 +10,7 @@ tags: []
 katex: true
 ---
 
-It's about time I start writing more about the *Hard Problem of MMT*. This is the 
+It's about time I start writing more about the <font style="color:#cc66ff">*Hard Problem of MMT*</font>. 
 problem of getting nations that have MMT currency systems to actually 
 **(a)** acknowledge this, and **(b)** use this knowledge to implement the MMT Base Case, meaning,
 
