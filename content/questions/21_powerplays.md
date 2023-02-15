@@ -43,10 +43,10 @@ So this is one theme I will write about. It seems a simple problem to solve, but
 * <font style="color:#cc66ff">The Educational Hard Problem</font> is greatly aided and mitigated by the fact once you grok MMT there is no going back to false knowledge. So there is a ratchet effect. This is always powerful in slowly driving a paradigm change.
 * <font style="color:#cc66ff">The language framing HP</font> --- a tough one. Even good MMT'ers capitulate to standard language framing, unconsciously perhaps. It takes a fair bit of will power and tolerance of people staring weirdly at you to overcome.
 * <font style="color:#cc66ff">The Inertia HP</font> --- pretty darn tough. "I'm doing good, leave things alone."
-* <font style="color:#cc66ff">The Seizing Government Seats HP</font> --- this may come last, but I suspect i might end up concluding this is an easy problem, or only moderately hard. The principle behind this being politicians are sheep, they are followers not leaders. So putting MMT aware politicians into government depends on the educational HP. 
+* <font style="color:#cc66ff">The Seizing Government Seats HP</font> --- this may come last, but I suspect I might end up concluding this is an easy problem, or only moderately hard. The principle behind this being politicians are sheep, they are followers not leaders. So putting MMT aware politicians into government depends on the educational HP. 
 Once the Education HP is solved, it should be (this is the question) easy to first locally nominate good people, then get them elected. What workers anywhere is not perpetually freaked out by the threat of being unemployed?
 
-#### Suplemental Notes
+#### Supplemental Notes
 
 These scrap notes are important, but I'll give away the sneak peek.
 
@@ -61,6 +61,21 @@ Let the political parties battle out the culture wars. As long as they all ackno
 MMT were going to all be better off regardless. I mean, for heavens sake, give the fascism 
 a rest will you right-wingers! Give the violent militancy pretensions a rest tankies! 
 Some culture war issues are just fake issues, pretensions of knaves and fools.
+
+
+## Punking the Plutocrats
+
+There is a common thread to all the above Hard Problems, which is overcoming the power of 
+the present day powers. The oligarchs and plutocrats. 
+
+General popular public opinion is in our favour here, and that's the leverage, this 
+and of course the knowledge of MMT. But there is a third more invisible lever we 
+probably have to pull, which is spirituality, or in the common parlance: morality and 
+ethics, or in even less pretentious parlance --- basic human dignity and decency. But 
+all these are the same in my eyes. (There is a time and a place for being pedantic, 
+but this ain't it.)
+
+
 
 ```
 TODO: This is an article stub. Activist activities have 
