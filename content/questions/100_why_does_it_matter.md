@@ -239,7 +239,7 @@ or more rapidly redeem their tax liabilities if they earned more than they
 needed for a month's groceries and whatnot.
 
 ${}^\ast$They were totally into the experiment zealously, you can tell, 
-since why not make it 10%?!!!
+since why not make it 10% as Gesell had proposed?!!!
 
 In amazing solidarity for Austrians (that's a joke) the whole town agreed to the system. 
 The result was full employment and relatively high prosperity compared to the surrounding 
