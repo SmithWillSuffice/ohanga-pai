@@ -195,7 +195,7 @@ because... you know... they were neoliberals.
 The lesson was for the physicists: your public purpose job is not just "do physics" 
 you have a moral and ethical responsibility too.)
 
-### Anti-inflation: "run the economy hot""
+### Anti-inflation: "run the economy hot"
 
 The scholar Sam Levey wrote a nice article about bullsh-t jobs: *[To Fight Bullsh*t Jobs, run the economy hot.](https://slevey087.medium.com/to-fight-bullshit-jobs-run-the-economy-really-hot-f11206e024b1)*
 

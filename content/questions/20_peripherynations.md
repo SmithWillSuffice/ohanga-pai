@@ -343,7 +343,8 @@ goods: the exports pay for the imports. They are a price you pay for keeping
 pass-through inflation under control while receiving a few nice imports.
 
 The way to remove the damaging neoliberal psychological effect of inflation is to 
-raise domestic production over time. You cannot do this any better than with full domestic employment, so you will *need* MMT in both theory and practice.
+raise domestic production over time. You cannot do this any better than with full 
+domestic employment, so you will *need* MMT in both theory and practice.
 
 It is possible benign rich nations could gift you imports. Or they might lend at zero 
 interest rate. That'd obviate the need for an exchange rate float, but who is ever going 
