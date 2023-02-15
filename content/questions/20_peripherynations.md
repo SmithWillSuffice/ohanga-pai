@@ -45,7 +45,7 @@ However, to argue *on common ground* we have to accept the MMT Base Case, otherw
 the authors are being disingenuous. The base case is:
 
 1. The (supposedly "weaker") nation is running a fiat currency on a floating exchange rate, no peg, no fixed rate policy.
-2. They are maintaining ZIRP --- so any central bank bond issue is zero interest. For 
+2. They are maintaining ZIRP --- so any central bank bond issue is zero interest, for 
 purposes of running the payments layer only, interbank clearing. (Or not, the MMT 
 base case is really that currency issuers never need to offer bonds for sale, private 
 banks can be permitted to operate term deposits for customers).
@@ -55,12 +55,13 @@ permanent full employment for anyone wishing to work for the tax credits.
 We, they, you, cannot criticize "MMT" if we are not considering all of: ZIRP, 
 a fiat float, tax-driven, *and* the Job Guarantee.
 
-What this means is that the "weakness" pointed to by Wray is false. It occurs in the 
-present day real world because the nations in the global south are not running job 
-guarantee policy, they are instead forcing the poor, the unemployed, to pay the price 
-for getting the imports in the foreign currency.
+What this means is that the "weakness" pointed to by Wray is false *for the MMT Base 
+Case*. It occurs in the present day real world because the nations in the global 
+south are not running job guarantee policy, they are instead forcing the poor, the 
+unemployed, to pay the price for getting the imports in the foreign currency.
 
-With this all stated, we can see the first mischaracterization by Vergnhanini & De&nbsp;Conti of "MMT", they write,
+With this all stated, we can see the first mischaracterization by 
+Vergnhanini & De&nbsp;Conti of "MMT", they write,
 
 > <span style="color: grey;">"The [sic.] MMT recognizes that if the country is forced 
 to [sic.] international indebtedness because it is obliged to issue debt in a foreign 
@@ -81,7 +82,7 @@ If "international markets" are obliging the *government* of the weak nation to i
 foreign debt this is *not* an MMT Base Case, it would be called neocolonialism or 
 economic warfare.
 
-The MMT Base Case has to be adjusted, as Wray does so, in the event of international 
+The MMT Base Case has to be adjusted, as Wray does so, in the event of such international 
 warfare.
 
 If the international markets, specifically the FOREX desks, refuse to exchange the 
@@ -107,7 +108,7 @@ They might not get many imports, but that's the real price they pay for corrupti
 and lack of rule of law, or rule of fair law.
 
 If one sets up a so-called "periphery nation" that is corrupt as hell to start with, 
-then that's not a far criticism of MMT. It is a criticism of that nation's politics. 
+then that's not a fair criticism of MMT. It is a criticism of that nation's politics. 
 MMT still applies if their government want it to apply. They can have as much 
 prosperity as their domestic production allows.
 
