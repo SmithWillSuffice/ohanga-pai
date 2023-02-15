@@ -26,8 +26,10 @@ in power.
 They might even run a periodic Debt Jubilee, or equivalently relax some punitive 
 aspects of bankruptcy law. Whether they be capitalist, socialist, autocracy, 
 communist or anarchist societies (and most are mixed --- let's be honest *all* are 
-mixed societies) they *will* run these three policies. There is no other option 
-absent stupidity.
+mixed societies) they *will* run these three policies, all they need is a smidgeon of 
+populism (meaning a bit of vainglory desire to be wildly popular without lies and 
+deception, by being a genuine character). And let's face it, pretty much every 
+politician has such vainglory. There is no other option absent stupidity.
 
 As I often say, only half-joking, the only political ideology incompatible with MMT is 
 neoliberalism. If we fudge a bit I can make the case this is no joke.
