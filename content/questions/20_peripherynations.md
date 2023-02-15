@@ -51,6 +51,7 @@ base case is really that currency issuers never need to offer bonds for sale, pr
 banks can be permitted to operate term deposits for customers).
 3. The nation runs a Job Guarantee, which supports a base wage floor, 
 permanent full employment for anyone wishing to work for the tax credits.
+4. Non-convertible currency.
 
 We, they, you, cannot criticize "MMT" if we are not considering all of: ZIRP, 
 a fiat float, tax-driven, *and* the Job Guarantee.
@@ -239,12 +240,18 @@ to your argument.
 
 Here we are at the critical point where the critique of Vergnhanini & 
 De&nbsp;Conti coalesces with a similar critique of MMT by friend Steve Keen. The MMT 
-case is that _imports are a **real** benefit, and exports are a **real** cost_. The issue 
-is that some post-Keynesians see this as "too simplistic". However, they ignore the 
-macroeconomics point of MMT, which is based on realism about the Base Case for 
-Analysis (no imperial despots, floating exchange rates, fiat currency driven by tax 
+case is that _imports are a **real** benefit, and exports are a **real** cost_. 
+The issue is that some post-Keynesians see this as "too simplistic." However, they 
+ignore the macroeconomics point of MMT, which is based on realism about the Base Case 
+for Analysis (no imperial despots, floating exchange rates, fiat currency driven by tax 
 liabilities). Under the Base Case it is a truism that imports are real benefits 
 and exports are real costs.
+
+I've grown used to these sorts of disingenuous or ignorant attacks on MMT. 
+A beginning MMTer can find them perplexing, but after some maturity you realise it's 
+the orthodox economists who are simplistic. Their level of comprehension of MMT is 
+extremely flawed and too simplistic. A case of Moles calling the Owl blind: 
+"You can't see it because I can't see it, so if you see it you must be going mad."
 
 For these purposes --- for trade relations --- the MMT Base Case applies pretty well to 
 New Zealand, Australia, Canada, Japan, maybe the UK, any country trade-friendly with 
@@ -301,13 +308,12 @@ You might include other risks like plagues, droughts, asteroid strikes, war, gen
 stupidity and educational dumbing down and whatnot. All of which can erode the 
 real wage potentially. 
 If you can foresee these, then definitely include them in policy planning to mitigate 
-the foreseeable erosion of real wages. To the *implement* those policies MMT is only going to be able to help, not hinder, and will help you far better than any other 
+the foreseeable erosion of real wages. To *implement* those policies MMT is only going to be able to help, not hinder, and will help you far better than any other 
 school of economic thought. ("You" meaning a commoner, not necessarily you if you're 
 in the rentier upper class.)
 
-
 Under an international imperialist despot (like the USA) of course this simple story 
-can get twisted,. But this is hardly a fault or flaw in MMT. If you do not like 
+can get twisted. But this is hardly a fault or flaw in MMT. If you do not like 
 imperialism then failing to adopt an MMT system and policies will not help you, it'll 
 make things worse.
 Remember, *any* pass-through effects of inflation can be tolerated indefinitely for a 
@@ -327,6 +333,11 @@ of account' being equivalent to the tax credit, which was misunderstood by Palle
 the note above --- the state unit of account need not be the tax credit, but almost 
 invariably is!)
 
+Basket case nations like Ecuador (converting to USD) and Argentina (using a dual 
+currency) and Venezuela (oligarchs looting billions and converting bolivar to USD) 
+are not cases proving MMT is false, because they're not employing an MMT Base Case 
+system.
+
 The better way to understand all this is to understand the purpose of exporting real 
 goods: the exports pay for the imports. They are a price you pay for keeping 
 pass-through inflation under control while receiving a few nice imports.
@@ -342,12 +353,12 @@ What about trade embargoes, like those imposed upon Cuba?
 
 Even here, Cuba is best advised to run an MMT system. There is no benefit to doing 
 otherwise. Why unemploy your workers just because some other nation is not trading 
-with you? It'd be like penalizing your dog for stepping in your neighbours doodoo 
+with you? It'd be like punishing your dog for stepping in your neighbours doodoo 
 while he was warding off an intruder.
 
 
 
 
-[Next chapter (Pension Funds)](../100_why_does_it_matter)  
+[Next chapter (Why Does It All Matter?)](../100_why_does_it_matter)  
 [Previous chapter (Pension Funds)](../12_pension_funds)  
 [Back to Questions TOC](../)
