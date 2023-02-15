@@ -38,7 +38,7 @@ It's a huge f-ing problem because while knowing almost all nations (even the EU 
 run an MMT system (non-convertible fiat currencies driven by taxation) the influential academics, the prominent industrialists, the more dangerous lobbyists, the dumb-dumb lefties, the right-wingnuts, almost all the politicians, the permanent civil service, almost to a person, do not understand this.
 
 Thus education is the first element of the <font style="color:#cc66ff">Hard MMT Problem</font>. Without knowledge, there is no power leveraging that knowledge.
-So this is one theme I will write about. It seems a simple problem to solve, but once you understand academic paradigms in a largely non-scientific profession like economics (dearth of good data for testing rival theories) you'll see education is indeed a hard component of the <font style="color:#cc66ff">The Hard MMT Problem</font>. I will try not to belabour this point, but once you get the gist of it I encourage you to go out into the world and try teaching people MMT. That'll be sufficient empirical proof it falls under the <font style="color:#cc66ff">Hard Problem</font>.
+So this is one theme I will write about. It seems a simple problem to solve, but once you understand academic paradigms in a largely non-scientific profession like economics (dearth of good data for testing rival theories) you'll see education is indeed a hard component of the The Hard MMT Problem. I will try not to belabour this point, but once you get the gist of it I encourage you to go out into the world and try teaching people MMT. That'll be sufficient empirical proof it falls under the Hard Problem.
 
 ### Rough notes
 
