@@ -260,11 +260,11 @@ Gesell currency is still misunderstood to this day by neoclassicals.
 advocates Japan can use a Gesell currency --- in the form of negative 
 interest rate --- to get the inflation they seek. Complete idiot!
 
-First, low interest rates are deflationary${}^\ast$, so in driving their JCB rate to zero 
+First, low interest rates are deflationary${}^\dagger$, so in driving their JCB rate to zero 
 Japan are promoting anti-inflation. Second, if they raised their JCB interest rate 
 it would promote inflation but only by enriching people who already have money.
 
-${}^\ast$More technically, a zero interest rate should be par, so neither 
+${}^\dagger$More technically, a zero interest rate should be par, so neither 
 deflationary nor inflationary, but machine automation and other tech 
 advances tend to raise the productivity of labour and lower energy production 
 costs more or less continuously.
@@ -293,7 +293,7 @@ Gesell currency.
 For a Gesell currency the mechanism is different to what I (actually Bill Mitchell 
 originally) advocate for Japan. The Gesell mechanism is that the currency becomes 
 a hot potato know one wants to hold for long, but which for every shop vendor has an 
-at point of sale par value (given by the time stamp). The currency rapidly circulates, 
+"at point of sale" par value (given by the time stamp). The currency rapidly circulates, 
 promoting sales and hence employment. People turn up for public sector work on offer 
 because they need the currency.
 
