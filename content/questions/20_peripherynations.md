@@ -192,7 +192,7 @@ it would not even be visibly L-shaped. It would be '---' shaped. But we will not
 this empirically 
 until some government runs a Job Guarantee policy. However, the theory is solid, and [Bill Mitchell, here: “Full Employment Abandoned: shifting sands and policy failures”](http://www.billmitchell.org/publications/journals/J74_2010.pdf) has plenty of modelling 
 to show the basic idea of flattening the Phillips curve.
-4. **ZIRP Effects** --- Tom Palley against asserts ZIRP would lead to asset price 
+4. **ZIRP Effects** --- Tom Palley again, asserts ZIRP would lead to asset price 
 inflation. This is wrong, or would need to be supported by lax bank credit collateral 
 requirements and/or government fiscal injections supporting asset prices. Both 
 effects could occur, and do occur. But MMT is not at fault here. How does a monetary 
@@ -200,9 +200,9 @@ authority prevent asset price inflations caused by ZIRP? Firstly, ZIRP does not 
 anything, since the natural rate is zero. It therefore must be the regulatory policy 
 governing bank lending and collateral that supports rising asset prices. Moreover, in 
 the MMT Base Case a rise in interest rates will inject currency into the economy 
-whenever government Treasury issue to GDP ratio is above about 50%, which is pretty 
-typical, in this case higher interests rates are more free money but only to people 
-ho already have money. If this likely to push up asset prices? Over time youbetcha. 
+whenever the government Treasury issue to GDP ratio is above about 50%, which is pretty 
+typical, in this case higher interest rates are more free money but only to people 
+who already have money. If this likely to push up asset prices? Over time youbetcha. 
 Short run it may drive savings into bonds rather than other assets, but once the 
 interest payments flow the asset prices will pick up. The opposite to how fools like 
 Palley see things.   
@@ -228,7 +228,7 @@ that can occur with any inflation level that is tolerated by political psycholog
 The limits here are entirely political, not monetary, not real resources.
 Since you will not see this in most standard MMT literature, I will reference the 
 analysis of the Weimar hyperinflation by 
-[Armstrong and Mosler](https://gimms.org.uk/wp-content/uploads/2020/11/Weimar-Republic-Hyperinflation-through-a-Modern-Monetary-Theory-Lens.pdf). It should suffice,
+[Armstrong and Mosler](https://gimms.org.uk/wp-content/uploads/2020/11/Weimar-Republic-Hyperinflation-through-a-Modern-Monetary-Theory-Lens.pdf). It should suffice.
 
 It you take issue with any of these defences of MMT or the references let me know after 
 [donating here](https://ko-fi.com/achrononmaster/) so I can justify the time responding 
