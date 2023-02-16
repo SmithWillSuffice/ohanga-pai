@@ -235,6 +235,15 @@ It you take issue with any of these defences of MMT or the references let me kno
 [donating here](https://ko-fi.com/achrononmaster/) so I can justify the time responding 
 to your argument.
 
+### Fixed Exchnage Rate Brainworms
+
+The exchange rate criticism is a common one coming from post-Keynesians, who are 
+parents to the MMT off-spring. Paul Davidson is a prominent PK economist who advocates for Kenyes' Bancor program of fixed exchange rates.
+
+What the PK'ers have is a mental disease, which is a fundamental misunderstanding of 
+the state currency purpose, which is to float supply in order to stabilize price.
+
+
 
 ## Fair Trade Issues {#FairTradeIssues}
 
