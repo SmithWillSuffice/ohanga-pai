@@ -314,7 +314,8 @@ the domestic real economy. exports are a real cost. So this is also austerity by
 other name. They could seek to employ cheap immigrant labour (the immigrants are 
 never the problem, they're your solution, especially in these fixed exchange rate 
 situations). The exporters could also make their goods more attractive by cutting the 
-wages they pay to reduce their rices. Again, austerity.
+wages they pay to reduce their rices. Again, austerity. This always results in higher 
+involuntary unemployment.
 
 There is no non austere solution, I hope you can see.
 
@@ -331,6 +332,24 @@ The tragedy of countries like Peekayland, run by neoclassically trained but mayb
 bastard Keynesians, is they will often in the real world choose this second scenario, 
 even if they're not Russia and *could* raise taxes. The least powerful political 
 constituency, the poor, the low waged, take all the bullets, in uncivilized societies.
+
+You might say, "Well, why didn't they just devalue the PKD manually themselves?" 
+The answer is fistly, "Devalue to what?" There's no magic formula for obtaining 
+PKD$\leftrightarrow$USD market stability, they'd risk deflation and hence economic 
+contraction. Secondly, the central bankers who are neoclassical or bastard Keynesian, 
+tend to think the markets will correct, they tend to always make the exchange rate 
+devaluation too late, so the damage gets done. We know this because they're the type 
+suggesting fixed exchange rates in the first place. You'd hope less damage occurs 
+than if no correction was taken, but needless unemployment of Peekaylanders results 
+all the same --- a decline in the standard of living.
+
+On an exchange rate float there is no such dynamic. Full employment can *always* be 
+maintained in perpetuity. The price paid for the supply shock is a lower exchange 
+rate, which redistributes imports domestically (who gets to play golf, who has to 
+show up at the factory). The loss in standard of living is then minimal, because 
+*domestically* such a government desiring to protect its people can always (if they 
+so desire) make the necessary fiscal adjustments to make sure everyone has about the 
+same amount of "golf time".
 
 
 ## Fair Trade Issues {#FairTradeIssues}
