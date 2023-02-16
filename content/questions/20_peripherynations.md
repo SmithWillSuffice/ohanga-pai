@@ -290,7 +290,13 @@ inflationary pressures (all demand for zero supply). Typically some inflation wi
 materialize, leading the PCB to hike rates further to draw in some of the excess 
 purchasing power into PKGB.
 
-How does this all get stabilized?  Maybe the USD on offer interest rate drops, or 
+This can snow-ball, as the interest payments on the PKGB inject more PDK into the 
+top-end of the economy it can push up asset prices, but also "trickle-down" to even 
+more consumer spending, but then also more demand for USD, which the PCB cannot create 
+legally, so the reserves get drained, leading to an even higher PKGB rate, and 
+so more deficit injection, and so on.
+
+How does this all get stabilized?  Maybe the USD interest rate drops exogenously, or 
 the USA fiscal policy becomes expansionary, more Americans buying imports generally 
 and supply the foreign sector (hence Peekayland) with USD. This is chancy, it's not 
 going to happen by magic wands and wishes. If such exogenous exchange rate 
@@ -299,7 +305,7 @@ a never-ending upwards pressure on the PKGB interest rate, or the option to run 
 USD and default on their swap obligations.
 
 In the latter case they've decided (or been forced) to go off the fixed exchange rate, 
-they will devalue, or move tot a floating exchange rate.
+they will devalue, or move to a floating exchange rate.
 
 If not, they could choose the highly regressive option of restricting PKD, impose 
 austerity. Either by raising taxes drastically (if they were Russian they'd be unable 
@@ -310,12 +316,12 @@ guaranteed!) and whatnot.)
 Their other source of exchange rate stabilization would be to export more to the USA, 
 or to other nations who have currencies convertible to USD or tradeable for USD. 
 But you again cannot wave magic wands to suddenly boost exports without contracting 
-the domestic real economy. exports are a real cost. So this is also austerity by any 
-other name. They could seek to employ cheap immigrant labour (the immigrants are 
-never the problem, they're your solution, especially in these fixed exchange rate 
-situations). The exporters could also make their goods more attractive by cutting the 
-wages they pay to reduce their rices. Again, austerity. This always results in higher 
-involuntary unemployment.
+the domestic real economy. Exports are a real cost. So this is also austerity by any 
+other name. They could seek to employ cheap immigrant labour for a time trying to 
+"weather the storm" (the immigrants are never the problem, they're your solution, 
+especially in these fixed exchange rate situations). The exporters could also make 
+their goods more attractive by cutting the wages they pay to reduce their rices. 
+Again, austerity. This always results in higher involuntary unemployment.
 
 There is no non austere solution, I hope you can see.
 
