@@ -61,7 +61,7 @@ Once the Education HP is solved, it should be (this is the question) easy to fir
 
 #### Supplemental Notes
 
-These scrap notes are important, but I'll give away the sneak peek.
+These scrap notes are important for later, but I'll give away a sneak peek.
 
 * The <font style="color:#cc66ff">Seizing Government HP</font> has a very interesting 
 Lemma, which is that you really must (I say "must" but I'd be ok with "should") adopt 
@@ -69,6 +69,11 @@ a non-partisan local political nomination strategy. If your country has a partis
 party system this is tough, but you can always try getting an MMT candidate on all 
 the party ballots. The beauty of MMT is that this should be relatively easy, 
 conditional upon the Educational HP being largely solved.
+* **Why an MMT candidate?** Having the MMT base case comprehension is important, 
+maybe not always the *most* important tool in a political candidate's arsenal 
+(campaign backing, charisma, savvy , genuineness all help too) but at the national 
+level MMT is critical. You can elect the nicest people, but they'll give you back 
+needless crippling austerity if they cannot grok MMT.
 
 Let the political parties battle out the culture wars. As long as they all acknowledge 
 MMT were going to all be better off regardless. I mean, for heavens sake, give the fascism 
@@ -78,8 +83,8 @@ Some culture war issues are just fake issues, pretensions of knaves and fools.
 
 ## Punking the Plutocrats
 
-There is a common thread to all the above Hard Problems, which is overcoming the power of 
-the present day powers. The oligarchs and plutocrats. 
+There is a common thread to all the above Hard Problems, which is the weaving needed 
+to overcome the power of the present day powers. The oligarchs and plutocrats. 
 
 General popular public opinion is in our favour here, and that's the leverage, this 
 and of course the knowledge of MMT. But there is a third more invisible lever we 
@@ -239,7 +244,7 @@ broaden your sphere of activists and learners.
 ## Further Reading
 
 I've not exhausted the topic of seizing power and the Hard Problem of MMT. 
-The next article will continue on these themes. 
+The next article will continue on these themes, expanding the [rough notes](#rough-notes) above. 
 
 
 [Next chapter (Why Does It All Matter?)](../100_why_does_it_matter)  
