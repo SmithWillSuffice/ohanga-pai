@@ -235,14 +235,102 @@ It you take issue with any of these defences of MMT or the references let me kno
 [donating here](https://ko-fi.com/achrononmaster/) so I can justify the time responding 
 to your argument.
 
-### Fixed Exchnage Rate Brainworms
+
+### Fixed Exchange Rate Brainworms
 
 The exchange rate criticism is a common one coming from post-Keynesians, who are 
-parents to the MMT off-spring. Paul Davidson is a prominent PK economist who advocates for Kenyes' Bancor program of fixed exchange rates.
+slightly dysfunctional parents to the MMT off-spring prodigy. Paul Davidson is a 
+prominent PK economist who advocates for Kenyes' Bancor program of fixed exchange rates.
 
 What the PK'ers have is a mental disease, which is a fundamental misunderstanding of 
 the state currency purpose, which is to float supply in order to stabilize price.
+I'll try to give a basic synopsis of the problem with fixed exchange rate policy, for 
+which concrete examples can be found all over the world, the Hong Kong currency board 
+problems (due to fixed exchange rate control and US$\\$$ fiscal tightening), and the 
+Russian ruble late 1990's deterioration (due to fixed exchange rates and loss of tax 
+enforcement power), are two illustrative examples, but I will only give the abstract 
+case.
 
+We start off with any normal state currency. A fixed exchange rate is desired, as is 
+full employment. It is not too violent a loss of abstraction to consider this 
+abstract country, say Peekayland, pegs to the US dollar (USD), thus offer convertibility 
+at their central bank from their currency the PKD to USD. 
+
+Holder of marginal PKD (no use for them) have only three options,
+
+1. Hold PKD in a deposit account.
+2. Buy PKD Treasuries,, we'll cal these PKGB.
+3. Swap PKD for USD at their central bank.
+
+Options 2 and 3 are competing. But could be initially "in equilibrium" (there is 
+indifference between 2 and 3).
+
+But then something happens, it could be one critical import their economy needs (this'd 
+usually be energy or grain) runs short and their import price goes up, or maybe the 
+USD rate is hiked, or Peekayland suffers some on-going chronic labour disruptions or 
+other supply shock. Note (for later) this disturbance need not be too big. 
+
+This creates enormous pressure for the holder of marginal ruble to go for option 3, 
+since why would they not? The option is available and they know the intrinsic value of 
+the PKD, which is backed by the industrial output of Peekayland's labour, is threatened.
+The run 'out of' the PKD 'into' USD places downward pressure on the Peekayland exchange 
+rate. But wait! They're operating a fixed rate policy. The response of the Peekayland 
+central bank, the PCB, must be to raise the interest rate on PKD bonds, to attract 
+back some PKD, so they do not run out of USD reserves.
+
+Note the PCB and their Parliament + Treasury can create PKD by fiat (Parliament 
+authorize, Treasury keeps books and advises, PCB makes payments), so solvency is 
+not a problem. But they are worried about price inflation too, so need to restrict 
+supply of PKD appropriately, through taxation or spending adjustments.
+
+The issuance of more PKGB (Peekay Government Bonds) at the higher rate adds to their 
+government deficit, all other things equal. If this scenario is sustained for a while 
+this becomes a huge net injection of PKD into the Peekayland economy, creating 
+inflationary pressures (all demand for zero supply). Typically some inflation will 
+materialize, leading the PCB to hike rates further to draw in some of the excess 
+purchasing power into PKGB.
+
+How does this all get stabilized?  Maybe the USD on offer interest rate drops, or 
+the USA fiscal policy becomes expansionary, more Americans buying imports generally 
+and supply the foreign sector (hence Peekayland) with USD. This is chancy, it's not 
+going to happen by magic wands and wishes. If such exogenous exchange rate 
+adjustments fail to materialise (and typically they'll not materialize) Peekayland faces 
+a never-ending upwards pressure on the PKGB interest rate, or the option to run out of 
+USD and default on their swap obligations.
+
+In the latter case they've decided (or been forced) to go off the fixed exchange rate, 
+they will devalue, or move tot a floating exchange rate.
+
+If not, they could choose the highly regressive option of restricting PKD, impose 
+austerity. Either by raising taxes drastically (if they were Russian they'd be unable 
+to enforce, so this'd not work) or they could cut government spending drastically --- 
+closing public utilities and maybe cutting pension payments (which ought to have been 
+guaranteed!) and whatnot.)
+
+Their other source of exchange rate stabilization would be to export more to the USA, 
+or to other nations who have currencies convertible to USD or tradeable for USD. 
+But you again cannot wave magic wands to suddenly boost exports without contracting 
+the domestic real economy. exports are a real cost. So this is also austerity by any 
+other name. They could seek to employ cheap immigrant labour (the immigrants are 
+never the problem, they're your solution, especially in these fixed exchange rate 
+situations). The exporters could also make their goods more attractive by cutting the 
+wages they pay to reduce their rices. Again, austerity.
+
+There is no non austere solution, I hope you can see.
+
+The fixed exchange rate has directly undermined their real standard of living in 
+Peekayland. For sure, the supply shock or small disturbance started this ball 
+rolling, but they cannot insulate themselves from all possible shocks. It'll happen 
+sooner or later. We just had major flooding and earthquakes at the same time in New 
+Zealand. But luckily we've got a floating exchange rate. Our imports will thus get 
+relatively dearer, but our economy will be fine. You have to pay in real terms for 
+natural disasters, no magic since we've actually not got Gandalf here ensconced at 
+Hobbiton smoking pipe-weed, sorry to say.
+
+The tragedy of countries like Peekayland, run by neoclassically trained but maybe 
+bastard Keynesians, is they will often in the real world choose this second scenario, 
+even if they're not Russia and *could* raise taxes. The least powerful political 
+constituency, the poor, the low waged, take all the bullets, in uncivilized societies.
 
 
 ## Fair Trade Issues {#FairTradeIssues}
