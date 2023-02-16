@@ -177,29 +177,61 @@ seeing them manifested in physical creatures).
 
 I've always seen MMT as a critical inseparable component of Spiritual Economics. Why?
 
-It is because MMT is the only truly <font style="color:#cc66ff">*honest*</span> 
+It is because MMT is the only truly <font style="color:#ff66cc">*honest*</font> 
 framework for macroeconomics. 
-If you disagree than by all means let me know 
+If you disagree then by all means let me know 
 (please [donate](https://ko-fi.com/achrononmaster/) so I can justify listening to 
 your arguments.)
 
-Honesty is the key spiritual virtue here. It's another question whether you can trust 
-or find kindness and compassion in MMT, since MMT is a framework for analysis I argue 
-you cannot find these spiritual qualities, however, they are latent because when 
-real people implement just policies by employing their knowledge of MMT then you get the 
-greater gamut of spiritual qualities manifested in material relations.
+<font style="color:#ff66cc">Honesty</font> is the key spiritual virtue here. It's 
+another question whether you can trust or find kindness and compassion in MMT, since 
+MMT is a framework for analysis I argue you cannot find these spiritual qualities, 
+however, they are latent because when real people implement just policies by 
+employing their knowledge of MMT then you get the greater gamut of spiritual 
+qualities manifested in material relations.
 
 ((Even a dumb Marxist can understand this in terms pf their jargon of base structure 
 and superstructure. Superstructure is mostly abstract. Hence in the superstructure 
 you can recognize spiritual virtues or the lack of them.))
 
+The point is, MMT arose from an honest look at macroeconomics. Whoever formulated the 
+core MMT ideas and framework may or may not have been an honest or scrupulous 
+person, but the result of their endeavour is pure honesty. They did the hard work for 
+us. It then becomes a matter of spiritual principle within each of us to recognize 
+the validity of MMT, so we ourselves become honest in at least this lens or 
+framework.
 
+I do of course realize the pedants will claim one can legitimately honestly not 
+believe MMT is an accurate framework. Then you're simply unwise, but that is another 
+spiritual quality, so if you desire wisdom, you'll eventually get to honesty and then 
+eventually accept the core principles of MMT.
 
+If the political economy radically changes and MMT becomes inapplicable, then it's 
+incumbent upon us to then honestly recognize MMT is no longer the applicable framework 
+for analysis. So I never say MMT *per se* is spiritual economics. It is spiritual 
+economics via honesty *in the context of a currency monopoly.*
+
+### Transcending Divides
+
+Here is a corollary which greatly aids economic justice activism: it is that 
+<font style="color:#ff66cc">honesty</font> 
+transcends political ideological divides (or most of them!). 
+You do not have to convince a right-winger to become a bleeding heart in order for them 
+to realize a Job Guarantee is a superior automatic stabiliser.
+
+You certainly never need to convince a leftie that giving workers a public option, so 
+they can quit sh*tty jobs, is good for them, regardless of the counter-cyclical 
+stability properties.
+
+((If you run into a leftie or anarchist who just hates money altogether, then you've 
+got an "in" for discussing David Graeber's work, and the fact social relations cannot 
+escape credit and debt obligations in one form or another, even if you do not call 
+the records of obligations "money".))
 
 
 ```
-TODO: This is an article stub. Activist activities have 
-temporarily delayed writing.
+TODO: This is still an article stub. Activist activities  
+temporarily delayed my thought processes.
 ```
 
 
