@@ -228,11 +228,18 @@ got an "in" for discussing David Graeber's work, and the fact social relations c
 escape credit and debt obligations in one form or another, even if you do not call 
 the records of obligations "money".))
 
+Now if you fail to see how spiritual economics, aided and abetted by MMT, can punk 
+the Plutocrats, I do not know what more to tell you? Do you need a recipe for it?
 
-```
-TODO: This is still an article stub. Activist activities  
-temporarily delayed my thought processes.
-```
+You start with yourself, learn, be honest, seek wisdom, don't "go it alone". Then you 
+broaden your sphere of activists and learners.
+<font style="color:#26A269">Each one teach one.</font>
+
+
+## Further Reading
+
+I've not exhausted the topic of seizing power and the Hard Problem of MMT. 
+The next article will continue on these themes. 
 
 
 [Next chapter (Why Does It All Matter?)](../100_why_does_it_matter)  
