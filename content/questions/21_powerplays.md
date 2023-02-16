@@ -103,8 +103,8 @@ a monetary production system.
 
 Money can't do squat without labour and machines to produce the output, wherever they 
 happen to reside, domestic or on foreign shores. 
-This means labour really has the upper hand. the problem is in generating the 
-consciousness of this power. there almost is none!
+This means labour really has the upper hand. The problem is in generating the 
+consciousness of this power, the solidarity and unity. There almost is none!
 This power is all nascent and latent, it used to exist to some degree during the 
 golden age of the labour movement, but neoliberal psychology has deeply suppressed 
 worker cooperatives and unions.
@@ -117,19 +117,20 @@ be careful.
 
 To my mind a few basic principles should be adopted:
 
-1. Unions cannot be plural. It works better f there is only one union, fighting for all workers, not just sector-by-sector (which often pts worker against worker). 
-2. The wage demand has to be a demand for freedom form wage slavery too! This implies a job gaurantee has to be the principle demand: make the bosses fight for workers.
-3. Workplace democracy: this means the demadn has to also be for collective worker ownership in the private sector. There's no need to have state ownership (centrally planend socialism) but there is a need for more worker autonomy, hence workplace democracy. People need a say in their workplace, we know this form basic psychology, Maslow's heirarchy and all that, "the happy worker is the more productive one" is the (exagerated but spiritually correct) meme.
-4. Lower the work week. Removing bullsh*t jobs can be done by heating up the monetary economy simultaneous with cooling down the real energy use economy. "Cool otput, hot wages."
+1. Unions cannot be plural. It works better if there is only one union, fighting for all workers, not just sector-by-sector (which often pits worker against worker). 
+2. The wage demand has to be a demand for freedom from wage slavery too! Not just higher wages. This implies a job guarantee has to be the principle demand: make the bosses fight for workers.
+3. Workplace democracy: this means the demand has to also be for collective worker ownership in the private sector. There's no need to have state ownership (centrally planned socialism) but there is a need for more worker autonomy, hence workplace democracy. People need a say in their workplace, we know this from basic psychology, Maslow's hierarchy and all that, "the happy worker is the more productive one" is the (exaggerated but spiritually correct) meme.
+4. Lower the work week. Removing bullsh*t jobs can be done by heating up the monetary economy simultaneous with cooling down the real energy use economy. "<font style="color:#26A269">Cool output</font>, <font style="color:#dc2624">hot wages.</font>"
 
-On the first principle, a very recent class case of dysfunction is in the airline 
-industry, where one airline offers their workers sweet deals which undermine unions 
-efforts for wage bargaining at a competition airline. The COVID lockdown effects on 
+On the first principle, a very recent classic case of dysfunction is in the airline 
+industry, where one airline offers their workers sweet deals which undermine union 
+efforts for wage bargaining at a competitor airline. The COVID lockdown effects on 
 travel and hospitality brought such dysfunction and schisms to light, but it's always 
 been present in unions that are not truly unions. A union has to be a worker's union, 
-not a trade union, so has to be *all workers everywhere*.
+not a mere unionized workplace, not even a trade union, (the airline case) so has to be 
+*all workers everywhere*.
 
-The old model of unions bought too heavily into neoclassical economics myths. it was 
+The old model of unions bought too heavily into neoclassical economics myths. It was 
 all about competition for wages from "loanable funds" which automatically pits worker 
 against worker, a great win for the capitalist class. Damaging for output for all in 
 society. Even the upper class Tories lose when worker competition for wages drives up 
