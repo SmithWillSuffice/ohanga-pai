@@ -292,13 +292,20 @@ government deficit, all other things equal. If this scenario is sustained for a 
 this becomes a huge net injection of PKD into the Peekayland economy, creating 
 inflationary pressures (all demand for zero supply). Typically some inflation will 
 materialize, leading the PCB to hike rates further to draw in some of the excess 
-purchasing power into PKGB.
+purchasing power into PKGB (hypothetically you understand, because we're assuming 
+they're post-Keynesians or neo-Keynesians, so do not understand their monetary system).
 
 This can snow-ball, as the interest payments on the PKGB inject more PDK into the 
 top-end of the economy it can push up asset prices, but also "trickle-down" to even 
 more consumer spending, but then also more demand for USD, which the PCB cannot create 
 legally, so the reserves get drained, leading to an even higher PKGB rate, and 
 so more deficit injection, and so on.
+
+This is all hypothetical, but realist. Events might not turn out this way, supposing 
+there is a sudden huge upsurge in demand for the goods Peekayland produces --- then 
+they can gain foreign revenue and prevent the (mistaken) imperative for PCB interest 
+rate hikes. Or they might wake up one day and realize they don't have to be 
+neo-Keynesians. But for illustration we'll continue with the realistic case.
 
 How does this all get stabilized?  Maybe the USD interest rate drops exogenously, or 
 the USA fiscal policy becomes expansionary, more Americans buying imports generally 
@@ -324,7 +331,7 @@ the domestic real economy. Exports are a real cost. So this is also austerity by
 other name. They could seek to employ cheap immigrant labour for a time trying to 
 "weather the storm" (the immigrants are never the problem, they're your solution, 
 especially in these fixed exchange rate situations). The exporters could also make 
-their goods more attractive by cutting the wages they pay to reduce their rices. 
+their goods more attractive by cutting the wages they pay to reduce their prices. 
 Again, austerity. This always results in higher involuntary unemployment.
 
 There is no non austere solution, I hope you can see.
@@ -344,7 +351,7 @@ even if they're not Russia and *could* raise taxes. The least powerful political
 constituency, the poor, the low waged, take all the bullets, in uncivilized societies.
 
 You might say, "Well, why didn't they just devalue the PKD manually themselves?" 
-The answer is fistly, "Devalue to what?" There's no magic formula for obtaining 
+The answer is firstly, "Devalue to what?" There's no magic formula for obtaining 
 PKD$\leftrightarrow$USD market stability, they'd risk deflation and hence economic 
 contraction. Secondly, the central bankers who are neoclassical or bastard Keynesian, 
 tend to think the markets will correct, they tend to always make the exchange rate 
