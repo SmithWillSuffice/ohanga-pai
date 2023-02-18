@@ -274,7 +274,7 @@ usually be energy or grain) runs short and their import price goes up, or maybe 
 USD rate is hiked, or Peekayland suffers some on-going chronic labour disruptions or 
 other supply shock. Note (for later) this disturbance need not be too big. 
 
-This creates enormous pressure for the holder of marginal ruble to go for option 3, 
+This creates enormous pressure for the holder of marginal PKD to go for option 3, 
 since why would they not? The option is available and they know the intrinsic value of 
 the PKD, which is backed by the industrial output of Peekayland's labour, is threatened.
 The run 'out of' the PKD 'into' USD places downward pressure on the Peekayland exchange 
