@@ -391,19 +391,21 @@ New Zealand, Australia, Canada, Japan, maybe the UK, any country trade-friendly 
 both the USA and China. (Although the Japanese have not yet figured out their exports 
 are too high a cost, given their aging population dependency ratio problem.) 
 
-Steve Keen, for his ill part, oftens leaves off the qualifier "real", and so false 
-frames the debate into monetary terms. Certainly, allowing foreigners to accumulate 
-your currency means they can buy your goods. But MMT would counter that this is no 
-risk unless governments make it a risk.  Goods you produce domestically do not 
-*have* to be for sale to foreigners.
+Steve Keen, for his ill part, oftens leaves off the qualifier "real" in "exports are 
+a real cost", and so false frames the debate into monetary terms. Certainly, allowing 
+foreigners to accumulate your currency means they can buy your goods. But MMT would 
+counter that this is no risk unless governments make it a risk.  Goods you produce 
+domestically do not *have* to be for sale to foreigners.
 
 Keen also raises the "de-industrialization" fear-mongering. But why would being a net 
 importer mean you *have* to de-industrialize? It means no such thing. Anything that 
 can be produced at more expense domestically can be sourced domestically, if that is 
 desired for strategic reasons. So this is not a fair critique of MMT, because such 
-strategic resource policies are entirely up to governments to choose. They may choose 
-right or wrong for their people, regardless of what MMT teaches them. Better to 
-regard MMT, I say.
+strategic resource policies are entirely up to governments to choose. In fact it's a 
+backhanded endorsement of MMT if you think about it (a government always has the 
+capacity to fund higher wage cost domestic production). 
+They may choose right or wrong for their people, regardless of what MMT teaches them. 
+Better to regard MMT, I say.
 
 The purpose is to optimize your **_real_** terms of trade, not your current account 
 balances, which for governments are mere accounting records.  Any nation may optimize 
@@ -416,6 +418,13 @@ trade negotiations. There's no telling for what ignorance will accomplish.
 
 If you drop the qualifier "real" then you'll misunderstand. The money becomes unimportant 
 in the case when we're analysing *real* terms of trade (since there is assumed no imperialism).
+
+((Do the neoclassicals even account for imperialists? The point is all realist 
+economists should be factoring in imperialists, but this does not change the fact MMT 
+is your best Base Case. You do not resist imperialism by borrowing from the IMF and 
+unemploying your workforce. As a government, why not at least employ everyone looking 
+for work to fight the imperialists. It's economic war, so no one has to die because 
+they're unemployed.))
 
 You may, like Steve Keen or Michael Hudson, still get it wrong if you are thinking in 
 currency terms and *fixed exchange rates* instead of real terms and floating exchange 
