@@ -251,6 +251,10 @@ Russian ruble late 1990's deterioration (due to fixed exchange rates and loss of
 enforcement power), are two illustrative examples, but I will only give the abstract 
 case.
 
+Warren Mosler goes through the gory details for 
+[Russia](http://moslereconomics.com/wp-content/uploads/2007/12/Exchange-Rate-Policy-and-Full-Employment.htm) and 
+[Hong Kong](http://moslereconomics.com/wp-content/uploads/2007/12/Exchange-Rate-Policy-and-Full-Employment.htm) [here](http://moslereconomics.com/wp-content/uploads/2007/12/Exchange-Rate-Policy-and-Full-Employment.htm) if you're interested.
+
 We start off with any normal state currency. A fixed exchange rate is desired, as is 
 full employment. It is not too violent a loss of abstraction to consider this 
 abstract country, say Peekayland, pegs to the US dollar (USD), thus offer convertibility 
@@ -259,7 +263,7 @@ at their central bank from their currency the PKD to USD.
 Holder of marginal PKD (no use for them) have only three options,
 
 1. Hold PKD in a deposit account.
-2. Buy PKD Treasuries,, we'll cal these PKGB.
+2. Buy PKD Treasuries, we'll call these PKGB.
 3. Swap PKD for USD at their central bank.
 
 Options 2 and 3 are competing. But could be initially "in equilibrium" (there is 
