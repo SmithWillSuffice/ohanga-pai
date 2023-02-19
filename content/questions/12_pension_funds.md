@@ -307,6 +307,106 @@ communism or as little communism as its people desire. The NAIRU is just not a
 constraint to such governments, if only they knew.
 
 
+### Pension Indexing Issues --- Inflationary?
+
+No, the rising old age population meaning more government spending on pensions is 
+**_not inflationary_** to first order. Why not? It is because pension payments 
+themselves support the production of the goods pensioners want to consume. The 
+pension payments are not taken out of the rest of the private sector (unless you've 
+done so in the past via regressive FICA taxes). The MMT remedy is to not withdraw 
+*any* currency from circulation for making pension payments.
+
+The pension payments are then pure injection. But wait? Isn't a pure injection of 
+base money for no supply inflationary? Yes, it is, at least an inflationary bias.
+But the consumption is also taxed, one way or another (through rents, wage incomes 
+from sales to pensioners, and so on).
+The pension payments are not a monetary cost of the private firms, they're income, 
+but a real cost: the firms will sell more to the pensioners not their workers.
+This however supports private firm debt relief and savings desires.
+
+Plus, pensioners are not bidding up prices directly, they'll pay the rent, utilities 
+and groceries &c., at the going price.
+
+So there is no mechanism whereby decent pension payments can be inflationary.
+To generate inflation requires some positive feedback.
+At worst, pension payments maintain a base inflation rate that should be pretty 
+constant until the nation hits real resource limits and full employment.
+It will not be an accelerating inflation rate in other words. So if it is 
+politically tolerable today, it will be again tomorrow.
+
+At full employment but with a rising old age population-to-worker ratio, then yes, 
+you can get inflation, but then only if technology has not increased the productivity 
+of workers. If not, then the supply/demand dynamic can generate inflation if you are 
+at full employment. And some inflation just below full employment if there is no 
+policy for keeping workers skilled.
+
+Overall then, with a rising dependency ratio and an unskilled wasted workforce, the way 
+pensions should index roughly to CPI can have an inflation risk.
+
+However, there are sensible offsets: targeted taxes to pull workers out of bullsh*t 
+or luxury goods jobs and tax breaks to get workers into more socially useful 
+production. In the worst case, if some moderate inflation is so politically 
+intolerable then rationing could be used, but which is the more politically 
+intolerable? Any other fiscal policies to share the burden of the rising dependency 
+ratio is simply what a decent civilized nation should look to implement.
+
+Is some moderate inflation a good political hassle to bear for caring for your 
+elderly? Only a sociopathic politician would think not.
+
+In any case, there is never hyperinflation from *only* too much demand. Because 
+households have insatiable savings desires. If luxury goods and house prices go up 
+those households will simply stop buying, they always do. They know the price will 
+come down later, and if not they're always prepared to forego the luxuries.
+I'm not in favour of enriching pensioners by squeezing the lower class, it's a matter 
+of balance, and the upper class can always be induced to take more of the burden if 
+the government wishes it to be so. It does take a steel balls government, so in 
+this case "I'm just sayin'."
+
+The worst case would be a rising dependency ratio causes about the same rise in 
+prices, if you are at full employment. But the MMT community would point out this is 
+probably fine, you're at least maximising useful production (if the functional tax is 
+applied to do so --- shift workers from unproductive or bullsh*t jobs into useful 
+productive jobs). In which case you are never going to do any better for your retirees.
+
+Most youthful and middle age workers are ten times as productive as needed to support 
+the elderly. So if you are not producing enough for a comfortable retirement for the 
+elderly there is something else terribly wrong, not the payments system. The world 
+has never known a nation with a working age population that could not provide well 
+for the elderly.
+
+We have, under neoliberalism, seen nations where the political class have chosen to 
+use unemployment to "fight inflation" which starves the elderly. Why would they 
+choose such policy though? It can only be they do not understand the monetary system 
+or do not wish to understand, for whatever classist or reactionary reasons. 
+We saw this in Greece: austerity imposed by the EU Troika, which was really economic 
+warfare by Germany and Brussels on Greece. The Greeks raided their pensioners to 
+avoid more Troika penalties. The Germans laughed.
+
+This is not "an MMT problem" --- but I should point out the whole thrust of MMT 
+activism is to highlight these problems. MMT'ers are deeply concerned with the 
+political! That's our whole project. 
+
+No other activists understand the truth about the complete barbarism the Greeks 
+endured. They (other activists) point to "neoliberalism" and "the oligarchs" and they 
+are right, but they can't offer a proper critique when the bastard neoliberals start 
+talking about "huge government debt" and "leaving debt to our grandchildren" and 
+"needing to raise taxes", and all the rest of the horseshit that otherwise 
+well-meaning liberals with a conscience buy, hook line and sinker. 
+
+"Oh dear, I'd better pay more taxes!"  No you don't (Mr Piketty). You need to spend 
+on the poor. Because your government isn't. Your government likely is over-taxing you.
+
+MMT is the knowledge that tells us when the economic constraints are fake and stupid. 
+Why are Marxists and other socialists not making these points? They have the same 
+social justice goals. It's because they do not understand the monetary system, so 
+they think within the context of the self-imposed voluntary constraints the elites 
+place on our government. I am sure the socialists do not want to be ignorant, so we 
+have to educate. There's no other way, because we're not going to achieve economic 
+justice with a military or guerilla warfare solution. Fascists will for sure win 
+*that* war. (Or maybe I watch too many movies?)
+
+
+
 ## Caveats
 
 I do not have too many caveats for this chapter. One is that building 

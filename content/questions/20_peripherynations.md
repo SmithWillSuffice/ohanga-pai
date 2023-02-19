@@ -423,8 +423,8 @@ in the case when we're analysing *real* terms of trade (since there is assumed n
 economists should be factoring in imperialists, but this does not change the fact MMT 
 is your best Base Case. You do not resist imperialism by borrowing from the IMF and 
 unemploying your workforce. As a government, why not at least employ everyone looking 
-for work to fight the imperialists. It's economic war, so no one has to die because 
-they're unemployed.))
+for work to fight the imperialists. It's economic war, so no one has to die, and 
+certainly not because they're unemployed.))
 
 You may, like Steve Keen or Michael Hudson, still get it wrong if you are thinking in 
 currency terms and *fixed exchange rates* instead of real terms and floating exchange 
@@ -459,7 +459,12 @@ can get twisted. But this is hardly a fault or flaw in MMT. If you do not like
 imperialism then failing to adopt an MMT system and policies will not help you, it'll 
 make things worse.
 Remember, *any* pass-through effects of inflation can be tolerated indefinitely for a 
-monopoly currency issuer.
+monopoly currency issuer, without altering domestic full employment. It might lower 
+bullsh*t job employment, but that's a good thing.
+
+On a floating exchange rate, with a non-convertible currency, domestic full employment 
+is a simple policy choice, not a foreign-set exogenous variable. This is so for *any* 
+nation, whether they are import dependent or poor or not.
 
 The problem is getting other nations who have things to sell to accept your currency. 
 If they will not accept your currency then you need to swap on the FOREX market, 
@@ -470,19 +475,32 @@ currency is fiat and on a float.
 In severe cases the FOREX market will not even accept your currency, in which case 
 you have bigger problems than monetary economics. Almost all nations today can 
 operate a FOREX desk, and should always find takers for their currency if they are 
-imposing domestic tax liabilities payable only in their unit of account. (The 'unit 
-of account' being equivalent to the tax credit, which was misunderstood by Palley in 
-the note above --- the state unit of account need not be the tax credit, but almost 
-invariably is!)
+imposing *and enforcing* domestic tax liabilities payable only in their unit of 
+account. (The 'unit of account' being equivalent to the tax credit, which was 
+misunderstood by Palley in the note above --- the state unit of account need not be 
+the tax credit, but almost invariably is!)
 
 Basket case nations like Ecuador (converting to USD) and Argentina (using a dual 
 currency) and Venezuela (oligarchs looting billions and converting bolivar to USD) 
 are not cases proving MMT is false, because they're not employing an MMT Base Case 
-system.
+system. On the other hand, MMT very well describes their predicaments, so they 
+"prove MMT" by counterfactual, showing you what happens when you do 
+not understand MMT.
 
 The better way to understand all this is to understand the purpose of exporting real 
 goods: the exports pay for the imports. They are a price you pay for keeping 
 pass-through inflation under control while receiving a few nice imports.
+
+Keeping inflation under control for a non-convertible fiat currency is not a financial 
+problem, it's a psychological problem. People do not like to see prices go up 
+*even when their real wage is appreciating!*  Go figure. Not a fault of MMT, but a 
+psychological problem an MMT system has to psychologically socially overcome if they 
+are under foreign imperialist or import embargo pressures. 
+
+I mean, you'd better figure out how to combat the false psychology, or you'll end up 
+being a dictator like Castro, or simply collapse into something much worse --- neoliberal 
+slaves to the IMF and Washington Consensus. MMT is only going to *help* fix the false 
+psychology, not hinder.
 
 The way to remove the damaging neoliberal psychological effect of inflation is to 
 raise domestic production over time. You cannot do this any better than with full 
@@ -490,7 +508,7 @@ domestic employment, so you will *need* MMT in both theory and practice.
 
 It is possible benign rich nations could gift you imports. Or they might lend at zero 
 interest rate. That'd obviate the need for an exchange rate float, but who is ever going 
-to rely on such a commonwealth? Nice if you can get it.
+to rely on such a commonwealth? Nice if you can get it.  
 
 What about trade embargoes, like those imposed upon Cuba? 
 
