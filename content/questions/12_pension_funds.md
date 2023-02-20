@@ -314,18 +314,36 @@ No, the rising old age population meaning more government spending on pensions i
 themselves support the production of the goods pensioners want to consume. The 
 pension payments are not taken out of the rest of the private sector (unless you've 
 done so in the past via regressive FICA taxes). The MMT remedy is to not withdraw 
-*any* currency from circulation for making pension payments. At the zeroeth order this does not add to firm's financial costs, only there real costs, whihc are costs to other consumer who also want to buy the firm's output. To first order the pension payments support private savings desires. Only to third order are pension payments having an inflationary bias --- when the firms cannot produce both what both retirees want to consume and the rest of us.
+*any* currency from circulation for making pension payments. At the zeroeth order 
+this does not add to firm's financial costs, only there real costs, which are costs 
+to other consumer who also want to buy the firm's output. To first order the pension 
+payments support private savings desires. Only to third order are pension payments 
+having an inflationary bias --- when the firms cannot produce both what both retirees 
+want to consume and the rest of us.
 
-Even then, you re likely to see price inflation only in commodities the pensioners are 
-buying, so that's a relative price story, not a general inflation story. Do reltive 
-price upwards adjustments over pass-through to general prices? Yes, but not often. The 
-energy sector is one where all other prices tend to upwards adjust to the OPEC + 
-cartel price fixing. But that's natural, it is still a relative price sotry, when 
-OPEC+ go upwards, the governments can go upwards with the minimum wage (or 
-hypothetical job guarantee wage floor). 
+Even then, you're likely to see price inflation only in commodities the pensioners are 
+buying, so that's a relative price story, not a general inflation story. Because of the 
+way the CPI is constructed this shows up as "inflation" in the popular press, but 
+that's false language framing. Hard to fight against of course, such is social 
+psychology. But wherever you find a chance, please make the point! Each one teach one.
+
+The only inflation worth talking about in social media and officialdom is the real 
+wage. But officials like to use the olde time religious scaremongering in class 
+warfare, so use the CPI for their murderous austerity ends. (Either that, or they are 
+just woefully ignorant idiots, tragically for others.)
+
+They really should not even bother computing the CPI. Just publish the real wage 
+statistics, and do so by class and income group. C'mon all you government statistics 
+departments, I know you're not all neoliberals.
+
+Do relative price upwards adjustments ever pass-through to general prices? Yes, but 
+not often. The energy sector is one where all other prices tend to upwards adjust to 
+the OPEC+ cartel price fixing. But that's natural, it is still a relative price 
+story, when OPEC+ go upwards, the governments can go upwards with the minimum wage 
+(or hypothetical job guarantee wage floor). 
 
 The constraints here (on governments) are entirely political, not financial. Only MMT 
-understands this. Which is precisely why MMT is not "mere accounting" --- no, no,no!  
+understands this. Which is precisely why MMT is not "mere accounting" --- no, no,no! 
 MMT is the most political branch of heterodox economics possible, because it shows 
 you what the real constraints are, no bullsh*t, not fairy stories about "fiscal 
 discipline, because if the plebs knew they'd be out with pitchforks."  MMT tells us 
@@ -345,6 +363,54 @@ honesty to misinformation and obfuscation. All sorts are MMT'ers.
 
 Fascists are the worst MMT'ers, and being anti-fascist is something you have to 
 do *as well as* being an MMT activist.
+
+
+## Aside on Spiritual Economics
+
+I mentioned Dick Cheney and Don Rumsfeld were half-neocon and half-MMT'ers. 
+But the mind rejects the latter! Why is that?
+
+This is only my personal opinion, but I think it is because the birth of MMT out 
+of the post-Keynesian and Institutionalist schools of thought was always predicated 
+upon honesty. Forget about telling comforting lies to assert "fiscal discipline" 
+(which does not work anyway, the discipline ends up being far too severe). 
+
+Honesty is a spiritual virtue, not a term of science. 
+
+So from inception MMT has been a nascent spiritual economics. This is why the mind 
+rejects Cheney and Rumsfeld. They were MMT'ers without being MMT'ers.
+
+The meaning of *that* (to use a Mitchellerian phrase I love) is that whether you are 
+left-wing or right-wing, up-wing or down-wing, MMT is based on a spiritual quality: 
+the truth and honesty regardless of consequences. That can be brutal. 
+Maybe even the body rejects it, psycho-somatically?
+
+The MMT Money Story starts with the coercion of imposed legal liabilities (tax 
+liabilities as well as the potential of fees and fines). That's brutal medicine for 
+any anarchist or libertarian to swallow, and *they* find their mind rejecting MMT. 
+But they're rejecting truth.
+
+The fairer types (semi-fair?) like old 
+[Bob Murphy](https://www.youtube.com/watch?v=cUTLCDBONok), 
+might say, "Well, I accept MMT is correct, I just hate it and don't want it!"
+
+Gimme back <font style="color: gold">da gold</font>.
+
+Maybe it's just the character of folks like us, do we like a little touch of intellectual 
+masochism. A bit of intellectual grotgrot? It's like a Wim Hof cold treatment, bracing, 
+but honest. Yes, we have a coercive system. But what's the damn purpose of that?
+
+Ask for the purpose, see it's not being up-held, and then you have seeds for a very 
+decent intellectual revolution that can have impressive knock-on political, 
+realpolitik, consequences. You at the very minimum give the bully oligarchs the 
+mental tools to avoid the pitchforks, if they wish to avoid 'em.
+
+I believe we've already seen some of these knock-on effects of spreading knowledge 
+of MMT. No one serious (no one who is not a joke) was worrying in their dreams about 
+where government would "get the money from" for the COVID stimulus.
+
+Wouldn't it be nice if people just turned a few scant degrees around on their 
+intellectual axis and figured the same about pension payments?
 
 
 ### Pure Injections
