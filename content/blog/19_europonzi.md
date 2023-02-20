@@ -52,14 +52,20 @@ baked-in to law (welfare payments, pension payments, and various other long term
 budget commitments).
 
 It helps to think of the central government budget as a moral document, not a 
-financial document. There is o fiscal constraint on the government, but there is a 
-moral constraint in a nominal or semblance of a democracy will (often like hawks) 
-maintain. You do not need Wall Street or bankers to impose fiscal discipline, the 
+financial document. There is no fiscal constraint on the government, but there is a 
+moral constraint in a nominal or semblance of a democracy. 
+
+In a semblance of a democracy the populace will by amorphous social psychology (often like hawks) maintain the constraints your society "wants" --- metaphysically speaking, it's by definition this is "what society wants", at least absent wild 
+[Gilens and Page](https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-ofamerican-politics-elites-interest-groups-and-averagecitizens/62327F513959D0A304D4893B382B992B) effects. 
+There are composition fallacy logics here, sometimes a collective votes against their 
+whole interest out of self-interest.
+
+In any case, you do not need Wall Street or bankers to impose fiscal discipline, the 
 general population is always sufficient. The neoliberal elites of course hate the 
-very idea of democracy (a Point Randall Wray made very well at the same conference).
-he population at large really does not like like to see their currency inflate --- 
+very idea of democracy (a point Randall Wray made very well at the same conference).
+The population at large really does not like like to see the prices inflate --- 
 even when the real wage is rising! Go figure. So regardless of the bankers and elite 
-pearl clutchers, any reasonable democracy will constrain government. How? Vote them 
+pearl-clutchers, any reasonable democracy will constrain government. How? Vote them 
 out of office and try the other guys.
 
 You might think this could just be a seesaw (or in multi-party democracies a revolving 
@@ -71,12 +77,12 @@ do it.
 What about the EMU?
 
 The member states are not fiscal authorities, so they've avoided the race to the 
-bottom like Australia and th USA. But the problem is they are now in a ponzi 
-position, because they have to get euro's of the other guys.
+bottom like Australia and the USA. But the problem is they are now in a ponzi 
+position, because they have to get euro's off the other guys.
 
 The simple solution is to operate a European Parliament as a fiscal authority.
 
-The best answer why they have not done this is usually given by 
+The best answer why they have *not* done this is usually given by 
 [Bill Mitchell](https://youtu.be/cryXJd_6Ufg?t=343) 
 ([same conference](https://youtu.be/cryXJd_6Ufg?t=343) again, or in many places 
 where he writes and speaks). The EU leaders seemed to know damn well they needed 
@@ -96,8 +102,8 @@ The idea of the slightly less sociopathic EU leaders was that a currency union
 would somehow over time force a political union.
 
 Well, they might almost have that correct, but it's an unstable game. Greece came 
-very close to a Grexit, and th Brits had Charles Goodhart advising against going into 
-the eurozone fro the very beginning. (There was no need for Brexit, sine the UK was 
+very close to a Grexit, and the Brits had Charles Goodhart advising against going into 
+the eurozone from the very beginning. (There was no need for Brexit, since the UK was 
 always monetarily sovereign.)
 
 
@@ -111,9 +117,16 @@ immigration fear-mongering issue (for Tories) plus a democracy issue (for Corbyn
 
 In any case, the UK is better out of the EU in many ways, they just don't know it. 
 So, personally, I have in-laws whose grant fundings have been cut, so they're out of 
-a nice university research job. Unemployed. It was of course EU funding. No one at 
-that university is asking why the UK government cannot fund the research. Why not? 
-They are clueless, they do not understand MMT.
+a nice university research job. Unemployed. It was of course previously EU funding. 
+No one at that university is asking why the UK government cannot fund the research, or 
+maybe they are, but they don't seem to be demanding UK government funding. Why 
+not? They are clueless, they do not understand MMT.
+
+((To be fair, maybe they're saving their energy. The UK government will not presently 
+issue the science grant funds, and if the university professors know this you can 
+perhaps forgive them for not being more vocal, they'd risk losing their jobs. 
+Nevertheless it still seems a little gutless and shows total lack of solidarity for 
+their highly skilled research technicians.))
 
 Instead of investing in cutting edge biological research then they're investing in 
 making people unemployed, highly skilled people. Turning them into high school 
