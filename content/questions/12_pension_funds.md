@@ -429,7 +429,7 @@ base money for no supply inflationary? Yes, it is, at least an inflationary bias
 But the consumption is also taxed, one way or another (through rents, wage incomes 
 from sales to pensioners, and so on).
 The pension payments are not a monetary cost of the private firms, they're income, 
-but a real cost: the firms will sell more to the pensioners not their workers.
+but they are a real cost: the firms will sell more to the pensioners not their workers.
 This however supports private firm debt relief and savings desires.
 
 Plus, pensioners are not bidding up prices directly, they'll pay the rent, utilities 
@@ -441,6 +441,11 @@ At worst, pension payments maintain a base inflation rate that should be pretty
 constant until the nation hits real resource limits and full employment.
 It will not be an accelerating inflation rate in other words. So if it is 
 politically tolerable today, it will be again tomorrow.
+
+We are working under the implicit assumption (now making it explicit) that we as a 
+society do not desire to have the pensioners live like kings and queens. We just want 
+them to have a comfortable retirement, after all, we expect the same when we get old. 
+(It is interesting how fast a greedy self-obsessed yuppie twenty year old can skip straight past that logic.)
 
 At full employment but with a rising old age population-to-worker ratio, then yes, 
 you can get inflation, but then only if technology has not increased the productivity 
