@@ -185,7 +185,16 @@ present topic though, because the EU is the last bastion of neoliberalism, if it
 crumbles we might have some success. The path getting there being horrific 
 notwithstanding.
   
-  ```
+ ```
+ NOTE: need to add this bit in the Questions section on inflation myths.
+```
+
+It's always worth the time to spare to go back and read or listen to the OG MMT crowd.
+That [Fiscal Sustainability Conference in 2010](https://www.youtube.com/playlist?list=PLKvPLZsgEcXSbdqMUTc-4usIO-9f0xBlc) 
+was a massively seismic proportions 
+important event in world history. Registered $0.1$ on the neoclassical tectonic plate 
+seismograph.
+
 
 [Next chapter (TBD)](./)  
 [Previous chapter (MMArt Critics)](../18_mmtreviews)  
