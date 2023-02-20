@@ -416,10 +416,10 @@ intellectual axis and figured the same about pension payments?
 ### Pure Injections
 
 The FICA tax is a demand drain, it re-gauges your actual wage earning, and that 
-is all. Maybe is reduces a tad what you claim leaving some on the supermarket shelf 
+is all. Maybe it reduces a tad what you claim leaving some on the supermarket shelf 
 for the pensioners, but that effect is insignificant to non-existent. If you think 
 correctly that it is a re-gauge and is not funding the government capacity to mark-up 
-pensioner bank accounts each month, then you are better able to realise what the **_rela_** problem with social security happens to be: it's supply of the goods retirees desire to consume.  The problem is not "how are we going to financially afford it?"
+pensioner bank accounts each month, then you are better able to realise what the **_real_** problem with social security happens to be: it's supply of the goods retirees desire to consume.  The problem is not "how are we going to financially afford it?"
 It is **_how are we going to resource it?_**
 
 ((That was straight out of chief neoliberal sockcucker [Greenspan\'s mouth](https://www.youtube.com/watch?v=DNCZHAQnfGU}{Greenspan), go figure.))
