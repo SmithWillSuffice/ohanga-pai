@@ -385,7 +385,7 @@ left-wing or right-wing, up-wing or down-wing, MMT is based on a spiritual quali
 the truth and honesty regardless of consequences. That can be brutal. 
 Maybe even the body rejects it, psycho-somatically?
 
-The MMT Money Story starts with the coercion of imposed legal liabilities (tax 
+The [MMT Money Story](../1_basic_ohangapai/#money_story) starts with the coercion of imposed legal liabilities (tax 
 liabilities as well as the potential of fees and fines). That's brutal medicine for 
 any anarchist or libertarian to swallow, and *they* find their mind rejecting MMT. 
 But they're rejecting truth.
@@ -405,7 +405,7 @@ decent intellectual revolution that can have impressive knock-on political,
 realpolitik, consequences. You at the very minimum give the bully oligarchs the 
 mental tools to avoid the pitchforks, if they wish to avoid 'em.
 
-I believe we've already seen some of these knock-on effects of spreading knowledge 
+I believe we've already seen some of these knock-on effects from spreading knowledge 
 of MMT. No one serious (no one who is not a joke) was worrying in their dreams about 
 where government would "get the money from" for the COVID stimulus.
 
@@ -414,6 +414,15 @@ intellectual axis and figured the same about pension payments?
 
 
 ### Pure Injections
+
+The FICA tax is a demand drain, it re-gauges your actual wage earning, and that 
+is all. Maybe is reduces a tad what you claim leaving some on the supermarket shelf 
+for the pensioners, but that effect is insignificant to non-existent. If you think 
+correctly that it is a re-gauge and is not funding the government capacity to mark-up 
+pensioner bank accounts each month, then you are better able to realise what the **_rela_** problem with social security happens to be: it's supply of the goods retirees desire to consume.  The problem is not "how are we going to financially afford it?"
+It is **_how are we going to resource it?_**
+
+((That was straight out of chief neoliberal sockcucker [Greenspan\'s mouth](https://www.youtube.com/watch?v=DNCZHAQnfGU}{Greenspan), go figure.))
 
 The pension payments are then pure injection. But wait? Isn't a pure injection of 
 base money for no supply inflationary? Yes, it is, at least an inflationary bias.
