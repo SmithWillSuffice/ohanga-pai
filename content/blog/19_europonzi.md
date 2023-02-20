@@ -147,6 +147,16 @@ They should just get the hell out of the eurozone, but stay in the EU for trade
 liberalization reasons, just ditch the euro currency. The MMT solution.
 If the Germans are content to work as the slaves to the Spanish and Portuguese, let 'em.
 
+Or it *would be* the "MMT solution" for as long as the Europeans hate each other.
+If they can learn to love each other and get along like mates then the Mosler Plan A 
+would be fine, (short of getting yourselves a proper European Parliament) 
+which is or have the ECB issue block grants per capita to the eurozone members, combined 
+with risk capital full deposit insurance for all member nation banks, and unsecured loans 
+to the member banks, all for provisioning up to full employment constraints (no one 
+showing up for the unemployment benefit). In other words, the ECB runs the Job Guarantee 
+program for euroland, establishing a non-inflationary *de facto* minimum wage, a policy 
+choice.
+
 Guess which EU nation does not net import from Germany? (You tell me, I 
 [looked up a few](https://wits.worldbank.org/CountryProfile/en/Country/DEU/Year/LTST/TradeFlow/EXPIMP) and lost patience trying to find one.) Seems people really like 
 getting German stuff.
