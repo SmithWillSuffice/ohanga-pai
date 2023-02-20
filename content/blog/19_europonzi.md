@@ -31,10 +31,10 @@ case, that is not a robust way to guarantee non-ponzi.))
 
 Such is the EMU arrangement that the more aggressive internal within-euroland net 
 exporters in euro can effectively force another eurozone member into such a severe 
-current account deficit, that the latter runs past the Stability and (non)Growth Pact 
-deficit limit, meaning harsh penalties get imposed, needlessly. Should they put the 
-SGP back in place post-COVID, and post-Ukraine.
-(Put the "lazy" Greeks out of work because they're not working hard enough.)
+current account deficit (in euro), that the latter runs past the Stability and 
+(non)Growth Pact deficit limit, meaning harsh penalties get imposed, needlessly
+(should they put the SGP back in place post-COVID, and post-Ukraine). (Put the "lazy" 
+Greeks out of work because they're not working hard enough.)
 
 ## The Moral Hazard
 
@@ -46,8 +46,8 @@ of a race to the bottom: who can issue the most currency and sustain inflation
 psychologically long enough before the others crumble.
 
 This is why USA and Australian states are not currency issuers. But in their case the 
-Federal government is a fiscal authority constantly injecting US dollars through both 
-discretionary but *crucially* through several non-discretionary means, which are 
+Federal government is a fiscal authority constantly injecting USD (AUD) dollars through 
+both discretionary but *crucially* through several non-discretionary means, which are 
 baked-in to law (welfare payments, pension payments, and various other long term 
 budget commitments).
 
