@@ -446,7 +446,7 @@ At full employment but with a rising old age population-to-worker ratio, then ye
 you can get inflation, but then only if technology has not increased the productivity 
 of workers. If not, then the supply/demand dynamic can generate inflation if you are 
 at full employment. And some inflation just below full employment if there is no 
-policy for keeping workers skilled.
+policy for keeping workers skilled. And the thing is, this is a good healthy source of inflation! Real wage goes up, purchasing power of idle wealth goes down.
 
 Overall then, with a rising dependency ratio and an unskilled wasted workforce, the way 
 pensions should index roughly to CPI can have an inflation risk.
