@@ -314,7 +314,40 @@ No, the rising old age population meaning more government spending on pensions i
 themselves support the production of the goods pensioners want to consume. The 
 pension payments are not taken out of the rest of the private sector (unless you've 
 done so in the past via regressive FICA taxes). The MMT remedy is to not withdraw 
-*any* currency from circulation for making pension payments.
+*any* currency from circulation for making pension payments. At the zeroeth order this does not add to firm's financial costs, only there real costs, whihc are costs to other consumer who also want to buy the firm's output. To first order the pension payments support private savings desires. Only to third order are pension payments having an inflationary bias --- when the firms cannot produce both what both retirees want to consume and the rest of us.
+
+Even then, you re likely to see price inflation only in commodities the pensioners are 
+buying, so that's a relative price story, not a general inflation story. Do reltive 
+price upwards adjustments over pass-through to general prices? Yes, but not often. The 
+energy sector is one where all other prices tend to upwards adjust to the OPEC + 
+cartel price fixing. But that's natural, it is still a relative price sotry, when 
+OPEC+ go upwards, the governments can go upwards with the minimum wage (or 
+hypothetical job guarantee wage floor). 
+
+The constraints here (on governments) are entirely political, not financial. Only MMT 
+understands this. Which is precisely why MMT is not "mere accounting" --- no, no,no!  
+MMT is the most political branch of heterodox economics possible, because it shows 
+you what the real constraints are, no bullsh*t, not fairy stories about "fiscal 
+discipline, because if the plebs knew they'd be out with pitchforks."  MMT tells us 
+the pitchforks (at least intellectually) are justified, and in a way other heterodox 
+schools of thought (post-Keynesians, Marxists) do not appreciate. the latter think we 
+need to generate "class consciousness" --- which I do not disagree with, but it's 
+never gong to be enough.
+
+If you doubt any of this, just tune into the Internet MMT army. It's fairly small 
+numbers, but the most sincere little army in terms of knowledge and appropriate 
+outrage, and it is diverse as heck, all sorts are MMT'ers. The only characters I have 
+not yet found among MMT'ers are neoliberals. (Dick Cheney and Don Rumsfeld were 
+right-wingnut MMT'ers and neocons, so borderline fascists, not neoliberals, they were 
+for prosperity for the M.I.C. and austerity only for the working class, so that's I 
+guess a half-neoliberal.) I know this is not a sexy MMT selling point, but I prefer 
+honesty to misinformation and obfuscation. All sorts are MMT'ers.
+
+Fascists are the worst MMT'ers, and being anti-fascist is something you have to 
+do *as well as* being an MMT activist.
+
+
+### Pure Injections
 
 The pension payments are then pure injection. But wait? Isn't a pure injection of 
 base money for no supply inflationary? Yes, it is, at least an inflationary bias.
