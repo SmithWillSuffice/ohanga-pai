@@ -177,7 +177,7 @@ never recover the lost output sacrificed by tolerating unemployment. To recover 
 lost output that could have been gained had some moderate inflation been tolerated 
 we'd have to grow economies at ten times the rate, or more, just to catch up with 
 what was lost. That will never happen, it's impossible, so by thinking inflation is a 
-worry we're undermine our real wealth in tragic epic proportions.
+worry we've horrifically undermined our real wealth by tragic epic proportions.
 
 Inflation is not the problem we face. Neoliberalism (with obsessive pointless focus 
 on the inflation bogeyman) is the problem, it's killing people. This does fit the 
