@@ -230,13 +230,13 @@ notwithstanding.
   
  ```
  NOTE: need to add this bit in the Questions section on inflation myths.
+ Will recycle a fair bit of the last section.
 ```
 
 It's always worth the time to spare to go back and read or listen to the OG MMT crowd.
 That [Fiscal Sustainability Conference in 2010](https://www.youtube.com/playlist?list=PLKvPLZsgEcXSbdqMUTc-4usIO-9f0xBlc) 
-was a massively seismic proportions 
-important event in world history. Registered $0.1$ on the neoclassical tectonic plate 
-seismograph.
+was a massively important event of seismic proportions in world history. 
+Registered $0.1$ on the neoclassical tectonic plate seismograph.
 
 
 [Next chapter (TBD)](./)  
