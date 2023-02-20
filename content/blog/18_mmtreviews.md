@@ -159,6 +159,6 @@ even more important than the software.
 
 
 
-[Next chapter (Why Does it all Matter?)](../100_why_does_it_matter)  
-[Previous chapter (Periphery Countries)](../20_peripherynations)  
+[Next chapter (Euroland Is Ponzi)](../19_europonzi)  
+[Previous chapter (Machines Can\'t Think to Work)](../17_machinescandothework)  
 [Back to Questions TOC](../)
