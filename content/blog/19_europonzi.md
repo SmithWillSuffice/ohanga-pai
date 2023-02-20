@@ -147,7 +147,6 @@ They should just get the hell out of the eurozone, but stay in the EU for trade
 liberalization reasons, just ditch the euro currency. The MMT solution.
 If the Germans are content to work as the slaves to the Spanish and Portuguese, let 'em.
 
-
 <div style = "text-align: center">*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*</div>
 
 Or it *would be* the "MMT solution" for as long as the Europeans hate each other.
@@ -178,9 +177,9 @@ embargo on Portugal for the punishment of employing all their workers.
 Portugal becomes the next mini Cuba. All tragically needless and all because the 
 Germans do not see that currently they're losing.
 
-Where does an MMT activist trace this back to? It's got to be class. The German consumer 
-is losing, the German export oligarch is winning. Since workers out-number oligarchs 
-by about a million to one, overall Germany is losing big time.
+Where does an MMT activist trace this back to? It's got to be class. The German 
+worker-consumer is losing, the German export oligarch is winning. Since workers 
+out-number oligarchs by about a million to one, overall Germany is losing big time.
 
 
 ## Other Suitable Outrage
@@ -196,16 +195,32 @@ of inflation. Inflation is simply not what anyone should worry about,
 
 <font style="color: cornflowerblue">**(a)**</font> there is always something else driving hyperinflation that's worse than monetary 
 (e.g., supply shock, war, pestilence, famine),   
-<font style="color: cornflowerblue">**(b)**</font> there has never been an excess demand driven hyperinflation in all known history, and it'd be extremely hard to do, spend-thrifts get vote out of office if the spending is not productive,  
+<font style="color: cornflowerblue">**(b)**</font> there has never been an excess demand driven hyperinflation in all known history, and it'd be extremely hard to do, spend-thrifts get voted out of office if the spending is not productive,  
 <font style="color: cornflowerblue">**(c)**</font> the massive,
 <font style="color:tomato">*truly massive* cost of unemployment</font> dwarfs the costs of all wars in all recorded or dimly known history combined.
   
 This last point **(c)** is what progressive types need to drive home daily. We can 
 never recover the lost output sacrificed by tolerating unemployment. To recover the 
 lost output that could have been gained had some moderate inflation been tolerated 
-we'd have to grow economies at ten times the rate, or more, just to catch up with 
-what was lost. That will never happen, it's impossible, so by thinking inflation is a 
-worry we've horrifically undermined our real wealth by tragic epic proportions.
+for just two years we'd have to grow economies at ten times the rate, or more, just 
+to catch up with what was lost. That will never happen, it's impossible, so by 
+thinking inflation is a worry we've horrifically undermined our real wealth by tragic 
+epic proportions.
+
+That is because populations are normally growing at about 3%, but so is productivity, 
+so if you go for two years at 10% unemployment (a best case scenario under neoliberalism)  
+you are more like 19% below the potential standard of living you could have had without 
+doing anything crazy.
+
+And at the very least that could have knocked off 8 hours from the work week for the average worker, with no decline in *their* standard of living.
+
+You can't just ramp up productivity or population, you only have the +10% to fully 
+employ, you'll have to whip them like slaves to recover the output that was lost, so 
+basically enormous real output is lost forever.
+
+Put that in the context of that lost output could have been green jobs, or building 
+needed sustainable energy infrastructure. Then you get a feel for the enormity of the 
+horror show of neoliberalism.
 
 Inflation is not the problem we face. Neoliberalism (with obsessive pointless focus 
 on the inflation bogeyman) is the problem, it's killing people. This does fit the 
