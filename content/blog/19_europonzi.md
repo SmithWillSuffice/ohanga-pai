@@ -76,18 +76,21 @@ position, because they have to get euro's of the other guys.
 
 The simple solution is to operate a European Parliament as a fiscal authority.
 
-The best answer why they have not done this is usually given by Bill Mitchell (same 
-conference again, or in many places where he writes and speaks). The EU leaders 
-seemed to know damn well they needed a parliament, the documents, the minutes, 
+The best answer why they have not done this is usually given by 
+[Bill Mitchell](https://youtu.be/cryXJd_6Ufg?t=343) 
+([same conference](https://youtu.be/cryXJd_6Ufg?t=343) again, or in many places 
+where he writes and speaks). The EU leaders seemed to know damn well they needed 
+a parliament, 
+[the documents, the minutes](https://www.cvce.eu/en/education/unit-content/-/unit/02bb76df-d066-4c08-a58a-d4686a3e68ff/021072be-929c-4ca0-ad76-32760b5dc2ff), 
 written during the long period of formation of the EMU make this very clear.
 
 So why did they not establish a parliament with spending authority?
 
-From what Mitchell gleaned it was because they also knew damn well Europeans are not 
-a united people. The Germans and Dutch *hate* the Italians and the Greeks. Not just 
-person-to-person, but amorphously, through culture and such like, but that's always a 
-complex  aggregate of individual prejudices and subtle hatreds. Yet they wanted some 
-sort of cosmopolitan union to compete with the USA!
+From what Mitchell gleaned (he is multi-lingual) it was because they also knew damn 
+well Europeans are not a united people. The Germans and Dutch *hate* the Italians and 
+the Greeks. Not just person-to-person, but amorphously, through culture and such 
+like, but that's always a complex  aggregate of individual prejudices and subtle 
+hatreds. Yet they wanted some sort of cosmopolitan union to compete with the USA!
 
 The idea of the slightly less sociopathic EU leaders was that a currency union 
 would somehow over time force a political union.
@@ -151,6 +154,38 @@ Where does an MMT activist trace this back to? It's got to be class. The German 
 is losing, the German export oligarch is winning. Since workers out-number oligarchs 
 by about a million to one, overall Germany is losing big time.
 
+
+## Other Suitable Outrage
+
+This is not a euroland topic, but you really need to watch that 
+MMT Fiscal Sustainability Conference for the section where 
+[Mosler, Mitchell and Wray](https://youtu.be/hTWEFKH144M?t=1827) 
+talk about the [massive costs of unemployment](https://youtu.be/hTWEFKH144M?t=1827) 
+and contrast them with the puny costs of inflation.
+
+I cannot find any better video on youtube that talks about the insignificant "threat" 
+of inflation. Inflation is simply not what anyone should worry about, 
+
+<font style="color: cornflowerblue">**(a)**</font> there is always something else driving hyperinflation that's worse than monetary 
+(e.g., supply shock, war, pestilence, famine),   
+<font style="color: cornflowerblue">**(b)**</font> there has never been an excess demand driven hyperinflation in all known history, and it'd be extremely hard to do, spend-thrifts get vote out of office if the spending is not productive,  
+<font style="color: cornflowerblue">**(c)**</font> the massive,
+<font style="color:tomato">*truly massive* cost of unemployment</font> dwarfs the costs of all wars in all recorded or dimly known history combined.
+  
+This last point **(c)** is what progressive types need to drive home daily. We can 
+never recover the lost output sacrificed by tolerating unemployment. To recover the 
+lost output that could have been gained had some moderate inflation been tolerated 
+we'd have to grow economies at ten times the rate, or more, just to catch up with 
+what was lost. That will never happen, it's impossible, so by thinking inflation is a 
+worry we're undermine our real wealth in tragic epic proportions.
+
+Inflation is not the problem we face. Neoliberalism (with obsessive pointless focus 
+on the inflation bogeyman) is the problem, it's killing people. This does fit the 
+present topic though, because the EU is the last bastion of neoliberalism, if it 
+crumbles we might have some success. The path getting there being horrific 
+notwithstanding.
+  
+  ```
 
 [Next chapter (TBD)](./)  
 [Previous chapter (MMArt Critics)](../18_mmtreviews)  
