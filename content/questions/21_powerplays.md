@@ -1,8 +1,8 @@
 ---
 title: "Punked Plutocrat Power Plays"
 description: ""
-date: 2023-01-19
-lastmod: 2023-01-19
+date: 2023-02-16
+lastmod: 2023-02-16
 cover: ""
 coverAlt: ""
 toc: true
