@@ -98,7 +98,7 @@ Worse than that, if you just look at the employment numbers you are failing to c
 all the truly bullsh*t jobs. Those are _also_ massive opportunity costs, severe costs. 
 
 
-### The Social Costs of Unemployment
+## The Social Costs of Unemployment
 
 The better MMT'ers list these, and here I will steal a few from 
 [Wray](https://www.levyinstitute.org/publications/public-service-employment-a-path-to-full-employment) and 
