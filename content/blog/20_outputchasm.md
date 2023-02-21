@@ -50,9 +50,9 @@ are jobs understood, usually by the worker, to be unnecessary for a decent human
 civilization.
 
 On point 2: because human well-being is subjective, it is hard to quantify optimal potential GDP. We really should use some other metrics. But failing that, we can 
-"do a Kenyes" and for now take the recent past as the best guide to the present.
+"do a Keynes" and for now take the recent past as the best guide to the present.
 Although that's going to be conservative and regressive, it could also be considered 
-a fair baseline, because the greater the well-being of workers usually the more productive and less bullsh*t the work. So a reactionary conservative psture (the recent past) will likely under-estimate the output gap.
+a fair baseline, because the greater the well-being of workers usually the more productive and less bullsh*t the work. So a reactionary conservative posture (the recent past) will likely under-estimate the output gap.
 
 That is ok for our purposes, because all we need to show is that the estimated
 conservative output gap is still an horrific waste of human lives, a veritable crime against humanity (or should be thought of as so).
