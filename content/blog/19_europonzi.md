@@ -1,8 +1,8 @@
 ---
 title: "Euroland Is Ponzi"
 description: ""
-date: 2023-01-18
-lastmod: 2023-01-18
+date: 2023-02-18
+lastmod: 2023-02-18
 cover: ""
 coverAlt: ""
 toc: true
