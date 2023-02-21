@@ -100,7 +100,8 @@ all the truly bullsh*t jobs. Those are _also_ massive opportunity costs, severe 
 
 ### The Social Costs of Unemployment
 
-The better MMT'ers list these, and here I will steal a few from Wray and 
+The better MMT'ers list these, and here I will steal a few from 
+[Wray](https://www.levyinstitute.org/publications/public-service-employment-a-path-to-full-employment) and 
 from [Pavlina Tcherneva](https://pavlina-tcherneva.net/the-case-for-a-job-guarantee/).
 
 ```
