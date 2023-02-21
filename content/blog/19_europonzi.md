@@ -63,7 +63,7 @@ whole interest out of self-interest.
 In any case, you do not need Wall Street or bankers to impose fiscal discipline, the 
 general population is always sufficient. The neoliberal elites of course hate the 
 very idea of democracy (a point Randall Wray made very well at the same conference).
-The population at large really does not like like to see the prices inflate --- 
+The population at large really does not like to see the prices inflate --- 
 even when the real wage is rising! Go figure. So regardless of the bankers and elite 
 pearl-clutchers, any reasonable democracy will constrain government. How? Vote them 
 out of office and try the other guys.
