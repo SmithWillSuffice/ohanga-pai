@@ -59,8 +59,8 @@ conservative output gap is still an horrific waste of human lives, a veritable c
 
 ```
 TODO: this is an article stub.
-To come - how a small output gap balloons (Big Bang theory 
-of the output chasm).
+To come - how a small output gap balloons 
+(Big Bang theory of the output chasm).
 It's a whole different universe.
 ```
 
@@ -97,12 +97,17 @@ firms fraudulently sold neoliberalism), or like lambs to the slaughter.
 Worse than that, if you just look at the employment numbers you are failing to count 
 all the truly bullsh*t jobs. Those are _also_ massive opportunity costs, severe costs. 
 
+
 ### The Social Costs of Unemployment
 
-The better MMT'ers list these, and here I will steal a few from Wray and Tcherneva.
+The better MMT'ers list these, and here I will steal a few from Wray and 
+from [Pavlina Tcherneva](https://pavlina-tcherneva.net/the-case-for-a-job-guarantee/).
 
-``` TODO: depression, skill loss, fmaily brekup, 
-dependency ratios, rising crime, suicide, ...
+```
+TODO: depression, skill loss, health loss, 
+family breakup, rising dependency ratios, 
+rising crime, suicide, ...
+(Maybe no need to expand? Cite Tcherneva.)
 ```
 
 Regardless of the massive output gap costs, never to be recovered, these social costs 
