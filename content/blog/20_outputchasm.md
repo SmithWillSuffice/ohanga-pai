@@ -59,8 +59,42 @@ conservative output gap is still an horrific waste of human lives, a veritable c
 
 ```
 TODO: this is an article stub.
+To come - how a small output gap balloons (Big Bang theory 
+of the output chasm).
+It's a whole different universe.
 ```
+
+### Investors are not to blame
+
+Let's first distinguish between investors (people buying stocks or shares in 
+productive firms) from the more finance rentier types (people speculating in purely 
+financial assets and derivatives --- as Mosler puts it, a total waste of human 
+endeavour.)
+
+Real investors are people with marginal savings: money they do not need, so seek to 
+"put it to work" for some return on their investment.
+
+Did not Keynes say that the drain on an economy were the rentiers and the savers --- 
+people *not* spending all their income. So true.
+
+If everyone sent all their income it would drive up supply, i.e., output, and lead us
+close to full employment, if not full non-bullsh*t job employment.
+
+The tragedy f our times is firms do not like to hire the long term unemployed, and 
+yet deliberate neoliberal policy generates long term unemployment, by design, due to 
+their NAIRU myth. So we have a problem, even if everyone tried to spend all their 
+income, it is unlikely firms will hire all workers. So we'd still have a small output 
+gap.
+
+However, the point to make today is that we are nowhere near full employment, and 
+have not been in any major industrialized country since the 1960's, when 
+neoliberalism roughly started to take hold, the monetarists become grossly ascendant, 
+and austerity and "belt-tightening" became the foolish order of the day, which the 
+innocent public swallowed like bitter medicine (which is how PR firms fraudulently 
+sold neoliberalism), or like lambs to the slaughter.
+
+
  
-[Next chapter (TBD)](./) 
+[Next chapter (TBD)](./)    
 [Previous chapter (Euroland Is Ponzi)](../19_europonzi)  
 [Back to Questions TOC](../)

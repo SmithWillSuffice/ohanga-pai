@@ -200,16 +200,25 @@ of inflation. Inflation is simply not what anyone should worry about,
 <font style="color:tomato">*truly massive* cost of unemployment</font> dwarfs the costs of all wars in all recorded or dimly known history combined.
   
 This last point **(c)** is what progressive types need to drive home daily. We can 
-never recover the lost output sacrificed by tolerating unemployment. To recover the 
-lost output that could have been gained had some moderate inflation been tolerated 
-for just two years we'd have to grow economies at ten times the rate, or more, just 
-to catch up with what was lost. That will never happen, it's impossible, so by 
-thinking inflation is a worry we've horrifically undermined our real wealth by tragic 
-epic proportions.
+never recover the lost output sacrificed by tolerating unemployment. 
+
+The future economic prosperity you get is completely path dependent --- if you lose 
+output this year, you have to work doubly harder next year just to get back to where 
+you *could* have been. If you let unemployment reign for two years then you'll have 
+to work quadruply harder, just to catch up to where you could have been. But you 
+never can recover those you left for dead.
+
+To recover the lost output that could have been gained had some moderate inflation 
+been tolerated for just two years we'd have to grow economies at ten times the rate, 
+or more, just to catch up with what was lost. That will never happen, it's 
+impossible, so by thinking inflation is a worry we've horrifically undermined our 
+real wealth by tragic epic proportions.
 
 That is because populations are normally growing at about 3%, but so is productivity, 
 so if you go for two years at 10% unemployment (a best case scenario under 
-neoliberalism) you are more like 19% below the potential standard of living you could have had without doing anything crazy.
+neoliberalism) you are more like 19% below the potential standard of living you could 
+have had without doing anything crazy. (The math is not exact here, just a rough back 
+of a napkin estimate.)
 
 And at the very least that could have knocked off 8 hours from the work week for the 
 average worker, with no decline in *their* standard of living.
