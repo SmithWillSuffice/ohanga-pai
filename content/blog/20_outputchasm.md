@@ -27,7 +27,7 @@ resources been fully employed.
 Notice a problem with that definition?
 
 It implies slavery of some description. So we'd better fix it. We do not really want 
-to estimate the "maximum potential GDP' but rather the *optimal* level of GDP form 
+to estimate the "maximum potential GDP" but rather the *optimal* level of GDP from 
 full resource employment.  Now what does that mean? Well, there are at least two 
 problems with maximisation as compared to optimization (maybe more than two):
 
