@@ -77,22 +77,39 @@ Real investors are people with marginal savings: money they do not need, so seek
 Did not Keynes say that the drain on an economy were the rentiers and the savers --- 
 people *not* spending all their income. So true.
 
-If everyone sent all their income it would drive up supply, i.e., output, and lead us
-close to full employment, if not full non-bullsh*t job employment.
+If everyone spent all their income it would drive up supply, i.e., output, and lead 
+us close to full employment, if not full non-bullsh*t job employment. I realize 
+"non-bullsh*t" is doing a lot of work here, it basically is a way of capturing the microeconomics but speaking at a macro level, so a bit dodgy.
 
-The tragedy f our times is firms do not like to hire the long term unemployed, and 
-yet deliberate neoliberal policy generates long term unemployment, by design, due to 
-their NAIRU myth. So we have a problem, even if everyone tried to spend all their 
-income, it is unlikely firms will hire all workers. So we'd still have a small output 
-gap.
+Nevertheless, the tragedy of our times is firms do not like to hire the long term 
+unemployed, and yet deliberate neoliberal policy generates long term unemployment, by 
+design, due to their NAIRU myth. So we have a problem, even if everyone tried to 
+spend all their income, it is unlikely firms will hire all workers. So we'd still 
+have a small output gap.
 
 However, the point to make today is that we are nowhere near full employment, and 
-have not been in any major industrialized country since the 1960's, when 
-neoliberalism roughly started to take hold, the monetarists become grossly ascendant, 
-and austerity and "belt-tightening" became the foolish order of the day, which the 
-innocent public swallowed like bitter medicine (which is how PR firms fraudulently 
-sold neoliberalism), or like lambs to the slaughter.
+have not been near full employment in any major industrialized country since the 
+1960's, when neoliberalism roughly started to take hold, the monetarists become 
+grossly ascendant, and austerity and "belt-tightening" became the foolish order of 
+the day, which the innocent public swallowed like bitter medicine (which is how PR 
+firms fraudulently sold neoliberalism), or like lambs to the slaughter.
 
+Worse than that, if you just look at the employment numbers you are failing to count 
+all the truly bullsh*t jobs. Those are _also_ massive opportunity costs, severe costs. 
+
+### The Social Costs of Unemployment
+
+The better MMT'ers list these, and here I will steal a few from Wray and Tcherneva.
+
+``` TODO: depression, skill loss, fmaily brekup, 
+dependency ratios, rising crime, suicide, ...
+```
+
+Regardless of the massive output gap costs, never to be recovered, these social costs 
+are truly horrific. Even a complete economic nerd can appreciate the cost to society 
+to "treat" depression and all the other pathologies associated with long term 
+involuntary unemployment dwarf the costs of inflation or a decent living wage 
+non-bullsh*t job guarantee. 
 
  
 [Next chapter (TBD)](./)    
