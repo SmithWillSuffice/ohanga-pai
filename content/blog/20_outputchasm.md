@@ -21,7 +21,7 @@ only in *political* economy to the issue of lasting world peace.
 ## The Output Gap
 
 The output gap is defined as the difference between real GDP produced in a given year 
-and the potential maximum GDP that *could* have been produces had all available 
+and the potential maximum GDP that *could* have been produced had all available 
 resources been fully employed.
 
 Notice a problem with that definition?
