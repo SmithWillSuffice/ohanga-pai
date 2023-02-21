@@ -208,11 +208,11 @@ thinking inflation is a worry we've horrifically undermined our real wealth by t
 epic proportions.
 
 That is because populations are normally growing at about 3%, but so is productivity, 
-so if you go for two years at 10% unemployment (a best case scenario under neoliberalism)  
-you are more like 19% below the potential standard of living you could have had without 
-doing anything crazy.
+so if you go for two years at 10% unemployment (a best case scenario under 
+neoliberalism) you are more like 19% below the potential standard of living you could have had without doing anything crazy.
 
-And at the very least that could have knocked off 8 hours from the work week for the average worker, with no decline in *their* standard of living.
+And at the very least that could have knocked off 8 hours from the work week for the 
+average worker, with no decline in *their* standard of living.
 
 You can't just ramp up productivity or population, you only have the +10% to fully 
 employ, you'll have to whip them like slaves to recover the output that was lost, so 
