@@ -96,6 +96,7 @@ firms fraudulently sold neoliberalism), or like lambs to the slaughter.
 
 Worse than that, if you just look at the employment numbers you are failing to count 
 all the truly bullsh*t jobs. Those are _also_ massive opportunity costs, severe costs. 
+What else good could these bullsh*t job workers be doing? The answer is, "a lot!"
 
 
 ## The Social Costs of Unemployment
