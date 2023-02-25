@@ -112,6 +112,9 @@ rising crime, suicide, ...
 (Maybe no need to expand? Cite Tcherneva.)
 ```
 
+™
+
+
 Regardless of the massive output gap costs, never to be recovered, these social costs 
 are truly horrific. Even a complete economic nerd can appreciate the cost to society 
 to "treat" depression and all the other pathologies associated with long term 
