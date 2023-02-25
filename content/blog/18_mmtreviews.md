@@ -86,8 +86,7 @@ journals) I am going to guess what my reaction will be.
 
 I am guessing Tymoigne will do a fair job, accurate, but missing some critical 
 spiritual principles and moral analysis. MMT needs defence not *only* because it is 
-accurate, but because this matters, it matters a helluva lot. This, I believe, 
-Tymoigne is going to entirely miss.
+accurate, but because this matters, it matters a helluva lot.
 
 So we'll give him strength, style, streetsmart, and Blackadder points. 
 I'm predicting 60 to 70 out of 100 points. Maybe 80, since Tymoigne is no slouch and 
