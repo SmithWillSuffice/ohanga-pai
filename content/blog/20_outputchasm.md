@@ -95,7 +95,7 @@ the day, which the innocent public swallowed like bitter medicine (which is how 
 firms fraudulently sold neoliberalism), or like lambs to the slaughter.
 
 Worse than that, if you just look at the employment numbers you are failing to count 
-all the truly bullsh*t jobs. Those are _also_ massive opportunity costs, severe costs. 
+all the truly bullsh\*t jobs. Those are _also_ massive opportunity costs, severe costs. 
 What else good could these bullsh*t job workers be doing? The answer is, "a lot!"
 
 
@@ -111,9 +111,6 @@ family breakup, rising dependency ratios,
 rising crime, suicide, ...
 (Maybe no need to expand? Cite Tcherneva.)
 ```
-
-™
-
 
 Regardless of the massive output gap costs, never to be recovered, these social costs 
 are truly horrific. Even a complete economic nerd can appreciate the cost to society 
