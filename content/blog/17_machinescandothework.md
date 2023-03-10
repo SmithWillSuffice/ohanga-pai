@@ -74,10 +74,10 @@ capacity. What the human infant displays is something far more profound that can
 be derived from any behavioural or Darwinist adaptive story. Human beings comprehend 
 the abstract essence of spaces and time in more than behavioral terms. This is why we 
 can generalize the concept of space to things like spaces of square integrable 
-functions, or higher dimensional manifolds, or topoi, or $n$-categories.
+functions, or higher dimensional manifolds, or topoi, or $\omega$-categories.
 
 Intuition, mental qualia, are more than computation imho. I'd 
-want to figure out if the Physical Church-Turing thesis could be true or not (The 
+want to figure out if the Physical Church-Turing thesis could be true or not (the 
 thesis that: *All physical processes at the classical mechanics level can be computed 
 by a Turing machine*).  I think it's not true, because classical physics emerges from 
 physics that cannot be computed (an hypothesis --- worth trying to figure out how the 
@@ -124,7 +124,10 @@ choices for harmful electricity sapping things people do.
 Not so harmful for the profit seekers of course, but one day they'll realize it is all 
 basically ponzi. We probably have not reached saturation of PR and advertising limits, 
 but the limits do exist I think, they're just hard to estimate. More than two ads 
-on a youtube channel and I for one switch off (unless it is All Black rugby).
+on a youtube channel and I for one switch off${}^\dagger$ (unless it is All Black rugby).
+
+${}^\dagger$If I think it's an interesting clip I will just auto-download it, watch later 
+offline. Let's see them stick ads into that! (Don't you go telling them I dared them!)
 
 The AI itself has to include it's own energy consumption of course, but that'll often 
 be a one-time cost, if the AI solves an underlying energy efficiency problem with a 
@@ -137,7 +140,7 @@ design engineers already would implicitly know about, but have not pieced togeth
 
 One issue Douglas initially disagreed with me upon was on Tesla prospects. I don't 
 see Tesla as a well managed ethical company, so I see them failing, even as their 
-stock rises.
+stock rises.  Black Swans my friends.
 
 However, ignoring the business ethics, just focusing on the technology, there are 
 useful insights to be gained from Tesla's leveraging of OpenAI with self-driving cars.
@@ -282,6 +285,6 @@ As I like to say, there is no artificial intelligence. There's no genuine "AI" t
 is just "**$I$**".
 
 
-[Next post (MMArt Critics)](../18_mmtreviews.md)  
+[Next post (MMArt Critics)](../18_mmtreviews)  
 [Previous post (True Populist)](../16_true_populism)   
 [Back to Blog TOC](../)
