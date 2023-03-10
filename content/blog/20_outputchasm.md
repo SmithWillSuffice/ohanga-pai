@@ -78,7 +78,7 @@ Did not Keynes say that the drain on an economy were the rentiers and the savers
 people *not* spending all their income. So true.
 
 If everyone spent all their income it would drive up supply, i.e., output, and lead 
-us close to full employment, if not full non-bullsh*t job employment. I realize 
+us close to full employment, if not full non-bullsh\*t job employment. I realize 
 "non-bullsh*t" is doing a lot of work here, it basically is a way of capturing the microeconomics but speaking at a macro level, so a bit dodgy.
 
 Nevertheless, the tragedy of our times is firms do not like to hire the long term 
