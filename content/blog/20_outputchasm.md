@@ -122,6 +122,6 @@ involuntary unemployment dwarf the costs of inflation or a decent living wage
 non-bullsh*t job guarantee. 
 
  
-[Next chapter (TBD)](./)    
+[Next chapter (Macro Platonification)](../21_macro_platonification)    
 [Previous chapter (Euroland Is Ponzi)](../19_europonzi)  
 [Back to Questions TOC](../)
