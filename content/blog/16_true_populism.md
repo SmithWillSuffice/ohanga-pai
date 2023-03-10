@@ -85,10 +85,12 @@ There are no dogmas of capitalism anyone needs to unlearn to know they're being 
 
 I think the revolution will be over well and truly before that author gets around 
 to "consider the possibility of radical social transformation." (Sounds like a 
-plagiarism from a friggin Pete Buttigieg line.) This is one thing about populism, 
-it can run over a population like a steam-roller, without killing anyone. We know it 
-from history. More recently we saw fake-populism from the right-wing almost mimic true 
-populism in spreading like a cancer.  What we need is the steam-roller. 
+plagiarism from a friggin Pete Buttigieg line --- or was it the Starbucks CEO campaign, Howie $chmultz.) 
+
+This is one thing about populism, it can run over a population like a steam-roller, 
+without killing anyone. We know it from history. More recently we saw fake-populism 
+from the right-wing almost mimic true populism in spreading like a cancer.  What we 
+need is the steam-roller. Not the plague.
 
 Also, what the hell is "sufficiently widespread"? You do not know what that is 
 until after the fact. But there's no point pissing around waiting for class 

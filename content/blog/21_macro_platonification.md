@@ -36,12 +36,13 @@ of efficient markets, or the more nuanced almost opposite platonification of
 "zero knowledge agents" and "sticky prices". Orthodox macroeconomics is a topsy-turvy 
 world --- mostly because it has no anchor in reality, just some vague platonic ideals 
 that are very difficult to identify in the real world. In fact, they just are not 
-found in the real world, except in the heads of fake economists (the olde book taught 
+found in the real world, except in the heads of fake economists (the olde textbook taught 
 variety).
 
 Because of this topsy-turviness we can simultaneously have orthodox economics schools 
 talking about efficient markets (as an idealization of market clearing equilibria) 
-as well as zero knowledge agents (a markets game theory idealization).
+as well as zero knowledge agents (a markets game theory idealization). That's pretty 
+hilarious if you are cognizant of the contrast.
 
 
 ### Marxist platonifications
@@ -63,22 +64,24 @@ substance.
 It's accounting records folks: the government currency has been, and will always be 
 (probably) a tax credit.  One reason is parsimony: an MMT system is a very simple 
 system, low cost, and democratic and equitable provided your government is democratic 
-and equitable (can't ask for much more!).
+and equitable (can't ask for much more!).  
+
+((Of course I realize the word "equitable" is doing a lot of overtime work there.))
 
 I agree modern marxists bastardize Marx. People point out how British economist Joan 
 Robinson criticized modern "Keynesians" as being bastardized Keynesians (so in fact 
 anti-Keynes).  The same criticism could be levelled at many (not all) modern 
 marxists.  One thing Marx emphasized as a philosopher was that followers should not 
-stay consistent to the original philosophical project.  They should adapt and change 
-according to the needs of the time and to changes in society.
+stay consistent to the original philosophical project. They should adapt and change 
+according to the needs of the time and to changes in society. Wise advice.
 
-Well, we've had radical changes sice Marx's da. for one thing governments are far 
+Well, we've had radical changes since Marx's day. For one thing governments are far 
 bigger in size, as percent of investments. Governments have always been currency and 
 legal fiat monopolists in some respects, and as oligarch influence over governments 
 dwindles they become all the more so (a happy thing if you can get it).
 
-This means monetary operations no longer even appear t operate like a gold stndard. 
-So  almost all of Marx's derivations based on commodity currency are worng. I am sure 
+This means monetary operations no longer even *appear* to operate like a gold standard. 
+So  almost all of Marx's derivations based on commodity currency are wrong. I am sure 
 he'd want his followers to update.
 
 One drastic consequence is that the Falling Rate of Profit is no longer derivable. 
@@ -91,20 +94,30 @@ plummeted. It's a political choice, our governments make such choices from time 
 time.
 They could also choose instead to bail out the consumers, but hardly ever do, for no 
 good reason other than false consciousness of the economic impacts. (Talk to an 
-MMT'er about this --- you want to bail our people who do, or organize, productive 
+MMT'er about this --- you want to bail out people who do, or organize, productive 
 work, not the rentiers.)
 
 The simple reason for the latter (fallacy of the LTV) is that energy is a major input 
-into production, and we et most of our energy for free from Nature. The labour 
+into production, and we get most of our energy for free from Nature. The labour 
 involved in transforming the Sun's energy and fertility of soil, is near 
 insignificant to the gain we get from industry. This is both in terms of raw energy 
 as well as the numeraire for pricing energy production (the tax credit). So free 
-exergy form the soil and Sun is the main source of surplus value.
+exergy from the soil and Sun is the main source of surplus value.
 
-What Marx got correct was that Labour is the only socially exploited source of 
+What Marx got correct was that Labour is the only *socially exploited* source of 
 surplus value --- but that's in monetary pricing terms, not energy terms. It takes 
 very little energy to create a billion tax credits. In fact it takes about 60 watts I 
 imagine. You don't mine fiat currency out of the ground like gold.
+
+This means not only is the LTV not platonic, we know how to compensate labour fairly 
+for their contribution to society. Pay them a fair wage. If the employers cannot do 
+this they should not be in business. One way to gradually eliminate (through 
+competition) bullsh*t employers is with a government funded (but locally 
+administered) 
+[Job Guarantee policy](https://pavlina-tcherneva.net/job-guarantee-faq/).
+
+You won't find that in Marx because he did not understand the monetary system. 
+(Not entirely his fault, given the prejudices of his time.)
 
 
 ### Trader Bro platonifications
@@ -115,7 +128,7 @@ himself, in some measure.
 
 The thing is, as I wrote over on the 
 [physics blog](https://t4gu.gitlab.io/t4gu/blog/18_plates_and_socks/),
-platonism is essnetial!
+platonism is essential!
 (That's a joke, but also serious.)
 
 Some things should be essentialized. But if you essentialize concepts that have 
@@ -128,7 +141,7 @@ physical world.  We have to use platonic thinking in mathematics, if not we lose
 lot of expressive power and textbooks can multiply in tedious length in vain efforts to 
 avoid mathematical platonism. 
 
-Things like nations, race, intelligence (IQ) are non-essential concepts, and should never be considered platonic, and we get horrors when people try to platonify these notions.
+Things like nations, race, intelligence tests (IQ) are non-essential concepts, and should never be considered platonic, and we get horrors when people try to platonify these notions.
 
 OK, but what about NNT and the Trader Bros?
 
@@ -138,16 +151,16 @@ has been sucked into the "tax payer funded" mythology, which is a form of
 platonification of the purpose of taxation.  it's a libertarian Austrian School 
 platonification. It is pretty darn evil.
 
-I've grown a bit weary, so might add more example slater. But will finish for now by referencing an excellent article on [James Robichaux\'s Substack](https://jamesarobichaux.substack.com/p/the-tax-to-spend-myth-fuels-hatred) 
+I've grown a bit weary, so might add more examples later. But will finish for now by referencing an excellent article on [James Robichaux\'s Substack](https://jamesarobichaux.substack.com/p/the-tax-to-spend-myth-fuels-hatred) 
 pages where he writes about the Tax Payer Funded mythology. It's good.
 
 
-## Guarding Against Platonification on MMT
+## Guarding Against Platonification in MMT
 
-Honestly, I do not come across to much platonification in MMT.  Warren Mosler often 
+Honestly, I do not come across too much platonification in MMT.  Warren Mosler often 
 uses the *MMT Base Case for Analysis* but that's admitting no country is using the base 
-case (Job guarantee, permanent zero interest rate, non-convertible fiat currency, 
-exchange rate float), so it's not a platonificaiton. It is just decent platonism. 
+case (job guarantee, permanent zero interest rate, non-convertible fiat currency, 
+exchange rate float), so it's not a platonification. It is just decent platonism. 
 A "what if" scenario.
 
 When people start talking about more specific policy measures, like forms the Job 
@@ -155,7 +168,7 @@ Guarantee can take, then ideology creeps in, which is always a platonification r
 how to avoid those risks?
 
 One way is to keep an open mind. Your conception of the Job Guarantee might not be 
-entirely compatible with someone else's. Say a libertarian's JG conception versus a 
+incompatible with someone else's. Say a libertarian's JG conception versus a 
 socialist's JG.  So allow for the gap between conceptions, and do not make a little 
 difference be an obstacle to a greater good.
 
@@ -163,4 +176,4 @@ difference be an obstacle to a greater good.
  
 [Next chapter (TBD)](./)    
 [Previous chapter (The Output Chasm)](../20_outputchasm)  
-[Back to Questions TOC](../)
+[Back to Posts TOC](../)

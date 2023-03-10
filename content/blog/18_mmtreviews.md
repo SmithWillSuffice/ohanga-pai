@@ -160,4 +160,4 @@ even more important than the software.
 
 [Next chapter (Euroland Is Ponzi)](../19_europonzi)  
 [Previous chapter (Machines Can\'t Think to Work)](../17_machinescandothework)  
-[Back to Questions TOC](../)
+[Back to Posts TOC](../)

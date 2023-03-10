@@ -250,4 +250,4 @@ Registered $0.1$ on the neoclassical tectonic plate seismograph.
 
 [Next chapter (The Output Chasm)](../20_outputchasm)  
 [Previous chapter (MMArt Critics)](../18_mmtreviews)  
-[Back to Questions TOC](../)
+[Back to Posts TOC](../)

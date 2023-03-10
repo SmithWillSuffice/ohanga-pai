@@ -124,4 +124,4 @@ non-bullsh*t job guarantee.
  
 [Next chapter (Macro Platonification)](../21_macro_platonification)    
 [Previous chapter (Euroland Is Ponzi)](../19_europonzi)  
-[Back to Questions TOC](../)
+[Back to Posts TOC](../)
