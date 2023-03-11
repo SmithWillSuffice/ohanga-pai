@@ -146,7 +146,7 @@ Things like nations, race, intelligence tests (IQ) are non-essential concepts, a
 OK, but what about NNT and the Trader Bros?
 
 Well, I think they platonify a lot of monetary concepts. NNT seems to be aware 
-government cannot be forced to default in obligation in their own currency. But he 
+governments cannot be forced to default on obligations in their own currency. But he 
 has been sucked into the "tax payer funded" mythology, which is a form of 
 platonification of the purpose of taxation.  it's a libertarian Austrian School 
 platonification. It is pretty darn evil.
