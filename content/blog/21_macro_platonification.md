@@ -174,6 +174,6 @@ difference be an obstacle to a greater good.
 
 
  
-[Next chapter (TBD)](./)    
+[Next chapter (When to Discard MMT)](../22_mmtfornow)    
 [Previous chapter (The Output Chasm)](../20_outputchasm)  
 [Back to Posts TOC](../)
