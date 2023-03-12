@@ -25,7 +25,7 @@ or logic, or a model.
 
 But that's not automatically *science*. Proper science comes with something extremely 
 important that I find the Twitterati often ignore, which is that 
-<font style="color: #ffff99;">a proper scientist is seeking to falsify their theory, not confirm it.</font>
+<font style="color: #dddd77;">a proper scientist is seeking to falsify their theory, not confirm it.</font>
 
 Theory falsification is not the only activity of a scientist of course, it's just one 
 of the main modes of operation. The healthy approach is to advance a theory, but then 
@@ -55,10 +55,11 @@ failed to find the Higgs boson.
 The discovery was super-hyped by the PR prostituted highly paid executive idiots, not 
 be the humble theorists.
 
-OK, *some*,... ok, *man* theorists did also play into the hype. They're almost forced 
-to because they need to attract research grant funding. It's pretty sad, but that's 
-the reality. SO the physicists is not always acting like a scientist. I don't have a 
-problem with that, provided they admit it. I like all the emotion and excitement too.
+OK, *some*,... ok, *many* theorists did also play into the hype. They're almost 
+forced to because they need to attract research grant funding. It's pretty sad, but 
+that's the reality. So the physicists is not always acting like a scientist. I don't 
+have a problem with that, provided they admit it. I like all the emotion and 
+excitement too.
 
 But it is not "theory confirmation".  It is falsification of classes of rival 
 theories (the crackpots). That's what should be celebrated. That is indeed what I 
