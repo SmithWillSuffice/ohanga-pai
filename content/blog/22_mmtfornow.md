@@ -78,24 +78,25 @@ approach to some limited set of questions in macroeconomic policy.
 MMT is thus more like a model. The science occurs when the model is applicable.
 
 
-### Macroeconomist are Not Willingly Unscientific?
+### Macroeconomists are Not Willingly Unscientific?
 
 I'll give people the benefit of the doubt. To engage in social discourse it's best to 
 be conciliatory, and open. A good way to do this is to assume other people are not 
-wilfully is leading or gaslighting.
+wilfully misleading or gaslighting.
 
 However, the libertarians and neoclassicals I run across are both scientific and 
 unscientific.
 
-* When they pont to data showing "MMT is Wrong" they are scientific (sometimes). I 
-appreciate this work. Noen of it has held up though, but it is worthwhile debunking 
-attempts. Any other MMT economist should welcome such discourse.
+* When they point to data showing "MMT is Wrong" they are scientific (sometimes). I 
+appreciate this work. None of it has held up though, but they are worthwhile 
+debunking attempts. Vital really. Any other MMT economist should welcome such 
+discourse.
 * When they "prove" their ideology is correct, this is when they become unscientific. 
-they enter into the dark realm of ideology confirmation. Every hyperinflation 
-confirms their theory.
+They enter into the dark realm of ideology confirmation. Every hyperinflation 
+confirms their theory (in their diseased minds).
 
 **Note:** an MMT system, run by retarded politicians, can result in inflation, maybe 
-even --- if they work hard enough --- hyperinflation. It would not "disprove MMT"".
+even --- if they work hard enough --- hyperinflation. It would not "disprove MMT".
 
 One claim of MMT is that the Mosler Base Case for Analysis, absent corruption or 
 fraud, will not result in hyperinflation, and will result in full employment with 
@@ -125,11 +126,14 @@ an advocate for NZ using an MMT system, "going back to MMT" as it were.))
 It's easy stuff. I seek falsification. If the tenets of MMT no longer apply to a 
 nation, then I discard MMT, for analysis of that nation.
 
-If Austrian School adn Neoclassical sought actively to falsify their models, they 
-would no longer be doing macroeconomics with their old models, they'd be doing 
-fantasy gaming. The fact none of them seek to falsify their models is evidence they 
-are not willingly good scientists i the Popperian tradition, nor in any reasonable 
-tradition. They're just mathematicians, that's all.
+If Austrian School and Neoclassical economists sought actively to falsify their 
+models, they would no longer be doing macroeconomics with their old models, they'd be 
+doing fantasy gaming. Why? Because long ago they would have discovered their 
+theories are false.
+
+The fact none of them seek to falsify their models is evidence 
+they are not willingly good scientists in the Popperian tradition, nor in any 
+reasonable tradition. They're just mathematicians, that's all.
 
 [Next chapter (TBD)](./)    
 [Previous chapter (Macro Platonification)](../21_macro_platonification)  
