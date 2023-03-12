@@ -17,14 +17,15 @@ about today.
  
 ## When Science is Unscientific
 
-No macroeconomics saim to be unscientific, at least I think not.
+No macroeconomists aim to be unscientific, at least I think not. They do not intend 
+to be hostile to science.
 
-Anyone can claim they are "being scientific" --- say by legitimately using data, 
+Yet anyone can claim they are "being scientific" --- say by legitimately using data, 
 or logic, or a model.
 
 But that's not automatically *science*. Proper science comes with something extremely 
-important that I find the Twitterati often ignore, which is that a proper scientist is 
-seeking to falsify their theory, not confirm it.
+important that I find the Twitterati often ignore, which is that 
+<font style="color: #ffff99;">a proper scientist is seeking to falsify their theory, not confirm it.</font>
 
 Theory falsification is not the only activity of a scientist of course, it's just one 
 of the main modes of operation. The healthy approach is to advance a theory, but then 
@@ -33,11 +34,36 @@ theory, because ,
 
 > no amount of confirming evidence will ever prove a false theory wrong.
 
-The scientific attitude is to regard all theories as false, and, as the saying goes, 
-"some more useful than others."
+The scientific attitude is to regard all theories as false, and, as the saying goes 
+for the benefit of the applied engineers, "some more useful than others."
 
 When is fake science being unscientific then? When all it does is seek confirming 
 evidence.
+
+### What's All this Activity at the LHC Then?
+
+You look at "The Hunt for the Higgs Boson" and can then be forgiven for thinking 
+particle theorists are unscientific --- because they're looking to confirm their 
+model, not falsify it.
+
+But while the guilty pleasure of theory confirmation is a natural human emotion, the 
+reason the billion euro LHC was constructed was to test the Standard Model, not 
+to confirm it. In their professional garb, I believe (trust?) every respectable 
+theoretical physicist would agree that the LHC would be even more glorious if it 
+failed to find the Higgs boson.
+
+The discovery was super-hyped by the PR prostituted highly paid executive idiots, not 
+be the humble theorists.
+
+OK, *some*,... ok, *man* theorists did also play into the hype. They're almost forced 
+to because they need to attract research grant funding. It's pretty sad, but that's 
+the reality. SO the physicists is not always acting like a scientist. I don't have a 
+problem with that, provided they admit it. I like all the emotion and excitement too.
+
+But it is not "theory confirmation".  It is falsification of classes of rival 
+theories (the crackpots). That's what should be celebrated. That is indeed what I 
+celebrate with the LHC discoveries. Got rid of a lot of crackpot theories there 
+(maybe later on one of my own, who knows).
 
 
 ## Is MMT Science, and the Other's Not?
@@ -54,13 +80,38 @@ MMT is thus more like a model. The science occurs when the model is applicable.
 
 ### Macroeconomist are Not Willingly Unscientific?
 
-I'll give people the benefit of the doubt. To engage in social discourse it's bets to be conciliatory, and open. A good way to do this is to assume other people are not wilfully is leading or gaslighting.
+I'll give people the benefit of the doubt. To engage in social discourse it's best to 
+be conciliatory, and open. A good way to do this is to assume other people are not 
+wilfully is leading or gaslighting.
+
+However, the libertarians and neoclassicals I run across are both scientific and 
+unscientific.
+
+* When they pont to data showing "MMT is Wrong" they are scientific (sometimes). I 
+appreciate this work. Noen of it has held up though, but it is worthwhile debunking 
+attempts. Any other MMT economist should welcome such discourse.
+* When they "prove" their ideology is correct, this is when they become unscientific. 
+they enter into the dark realm of ideology confirmation. Every hyperinflation 
+confirms their theory.
+
+**Note:** an MMT system, run by retarded politicians, can result in inflation, maybe 
+even --- if they work hard enough --- hyperinflation. It would not "disprove MMT"".
+
+One claim of MMT is that the Mosler Base Case for Analysis, absent corruption or 
+fraud, will not result in hyperinflation, and will result in full employment with 
+price stability. That is a model. It is only science when it is found to be 
+applicable for some nation or another. Let's hope that happens some time. 
+(I hasn't yet.)
+
+Note also that despite no nation running the Mosler Base Case, there are many nations 
+with MMT monetary systems. Their fiscal policies suck, almost laughably, but they are 
+still MMT systems. New Zealand for one. 
 
 
 ### MMT For Now
 
 New Zealand has an MMT system, it is easy to check if you adopt a falsification 
-stance --- look to see if the postulates of MMT fail to apply.  No such "luck." 
+stance --- look to see if the postulates of MMT fail to apply. No such "luck." 
 So I can get scientific about understanding macroeconomics in New Zealand using MMT. 
 For now.
 
@@ -68,7 +119,7 @@ Maybe tomorrow the Parliament will up-end things completely chaotically? In whic
 case, tomorrow I might not be "an MMT'er" in New Zealand context. I'd still 
 "be an MMT'er" for the USA, UK, Australia, Canada, or Japan, &c., analyses.
 
-((Depending on the ingenuity of the Parliamntary changes, I might possibly still be 
+((Depending on the ingenuity of the Parliamentary changes, I might possibly still be 
 an advocate for NZ using an MMT system, "going back to MMT" as it were.))
 
 It's easy stuff. I seek falsification. If the tenets of MMT no longer apply to a 
