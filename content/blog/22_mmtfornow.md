@@ -57,7 +57,7 @@ be the humble theorists.
 
 OK, *some*,... ok, *many* theorists did also play into the hype. They're almost 
 forced to because they need to attract research grant funding. It's pretty sad, but 
-that's the reality. So the physicists is not always acting like a scientist. I don't 
+that's the reality. So the physicist is not always acting like a scientist. I don't 
 have a problem with that, provided they admit it. I like all the emotion and 
 excitement too.
 
