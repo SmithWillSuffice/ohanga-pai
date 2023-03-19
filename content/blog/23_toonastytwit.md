@@ -87,6 +87,14 @@ will that prevents an MMT system being run by kind and compassionate folks who w
 then know how to eliminate dire poverty and bring about full employment with price 
 stability. (What everyone, not just women, at a minimum want.)
 
+But wait... if people really do not want to work, how is this a good thing? I say, 
+the more people working to produce output people want, and the more automation those 
+past workers can build, then the less time any *one* person needs to work. Emphasis 
+on "needs". 
+
+Insane politics risks causing people to work more 
+than everyone else needs (UBI shill idiots).
+
 The other point is that for there to be the political will there seems to be a need 
 for the knowledge of MMT.  This is a hard truth, bitter to swallow. In the USA, and 
 most other developed nations, you are not going to get leftist socialists in 
