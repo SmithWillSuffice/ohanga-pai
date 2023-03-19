@@ -145,8 +145,8 @@ effect.
 The cost of being a genuine expert is that you can no longer do full irony.
 
 The cost (to others) of being a credentialed expert is that some might take you 
-seriously.  (The jury is out on whether it is also a cost to the expert, it is if they 
-have a moral conscience.)
+seriously.  (The jury is out on whether it is also a cost to the expert, it is if 
+they have a moral conscience.)
 
 The cost of not being a credentialed expert is being out of a job you might be 
 fully competent at fulfilling.
@@ -162,8 +162,8 @@ the case in an MMT analysis.
 Welfare recipients are paying the price (lost wages) for "fighting inflation." 
 However, it's worse. Consider the case of a parent who retires from work to care for 
 a disabled child, giving the child a decent life. In this case the parent is (in cool 
-terms) a service provider, supporting the rest of society by spending all their 
-income.
+terms) a service provider, **_and_** supporting the rest of society by spending all 
+their income.
 
 The welfare recipients are (one of) the *providers* of currency to the other tax 
 payers.
