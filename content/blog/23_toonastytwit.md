@@ -62,9 +62,9 @@ MMT is too useful to be used... (by idiots).${}^\ddagger$
 ${}^\ddagger$See the recent 
 [cringe-worthy interview Jon Stewart televised](https://www.youtube.com/watch?v=ruMj0u6kSD8) 
 with Larry ’the dollar pervert’ Summers. Quotable: "Corporations don't just suddenly 
-become greedy, *Jon*." --- That was Summers' brain melting when Stewart pointed most of the 
-recent CPI rise is from price gouging. (Not actually inflation, Mr Stewart, until 
-wages get back up.)
+become greedy, *Jon*." --- That was Summers' brain melting when Stewart pointed 
+output most of the recent CPI rise is from price gouging. (Not actually inflation, Mr 
+Stewart, until wages get back up.)
 
 MMT is in fact being used (by idiots). (This one is for the Austrians, just so they 
 know what we know.)
@@ -111,6 +111,29 @@ maintain mere ignorance. ))
 ## From the "Could Not Be" $\rightarrow$ "Should Not Be" Department
 
 MMT gives you the "why it could not be" reason.
+
+Sustainable (and justly distributed) real resource limits. That's it.
+
+You (anti-moralist) say, "Whose justice?" I say, "F off." We get the justice we are 
+prepared to fight for --- it's never been any other way.
+
+The most effective way to fight for more justice is through the power of the spiritual and moral compass. People can be shamed into being more kind faster than 
+at the point of a gun. Pointy weapons work far too locally.
+
+
+## Expertisisms
+
+The cost of being a genuine expert is that you can no longer do full irony.
+
+The cost (to others) of being a credentialed expert is that some might take you 
+seriously.  (The jury s out on whether it is also a cost to the expert, it is if they 
+have a moral conscience.)
+
+The cost of not being a credentialed expert is being out of a job you might be 
+fully competent at fulfilling.
+
+
+
 
 
 ## Moochers and Smoochers
