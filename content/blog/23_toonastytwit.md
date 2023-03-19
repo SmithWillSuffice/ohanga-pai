@@ -63,7 +63,7 @@ ${}^\ddagger$See the recent
 [cringe-worthy interview Jon Stewart televised](https://www.youtube.com/watch?v=ruMj0u6kSD8) 
 with Larry ’the dollar pervert’ Summers. Quotable: "Corporations don't just suddenly 
 become greedy, *Jon*." --- That was Summers' brain melting when Stewart pointed 
-output most of the recent CPI rise is from price gouging. (Not actually inflation, Mr 
+out most of the recent CPI rise is from price gouging. (Not actually inflation, Mr 
 Stewart, until wages get back up.)
 
 MMT is in fact being used (by idiots). (This one is for the Austrians, just so they 
