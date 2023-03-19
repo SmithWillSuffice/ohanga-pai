@@ -134,8 +134,6 @@ fully competent at fulfilling.
 
 
 
-
-
 ## Moochers and Smoochers
 
 The most regressive thing you hear in macroeconomics is the idea social welfare 
@@ -152,7 +150,7 @@ The welfare recipients are (one of) the *providers* of currency to the other tax
 payers.
 
 You simply cannot say the tax-payer is funding the welfare recipients. I know some 
-MMT aware types claim the government uses the budget to make it *seem as so* the 
+MMT aware types claim the government uses the budget to make it *seem as though* the 
 tax-payer is funding the welfare payments. After-all, that's the social discourse 
 even on *soi dissant* "progressive" shows like The Majority Report. But this is not 
 the fault of those living on social welfare. You blame the government in this case 
@@ -179,8 +177,8 @@ What is economics but behaviour seeking to minimize some generalized "cost" func
 
 OK, but life is much more than this, because out-of-equilibrium events happen all 
 over the place, fluctuations where a system (especially a subjectively conscious 
-system) will seek to actively increase it's cost function to reduce others. Altruism. 
-Cooperation. Kindness.
+system) will seek to actively increase it's cost function to reduce that of others. 
+Altruism. Cooperation. Kindness. Forgiveness.
 
 The latter fluctuations, which can occur all over the show, are what orthodox 
 economics ignores. This is why orthodox economics is not only stupid, it's a 
