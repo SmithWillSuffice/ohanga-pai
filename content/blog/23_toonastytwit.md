@@ -144,7 +144,7 @@ investors who invest in anything that moves without regard to the ecological
 consequences (so purely for a financial return)?
 
 
-## All Economics Reduces to Physics
+## All Economics Reduces to Physics?
 
 (I am only joking. But seriously.)
 
