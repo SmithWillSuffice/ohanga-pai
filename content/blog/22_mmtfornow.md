@@ -136,6 +136,6 @@ The fact none of them seek to falsify their models is evidence
 they are not willingly good scientists in the Popperian tradition, nor in any 
 reasonable tradition. They're just mathematicians, that's all.
 
-[Next chapter (TBD)](./)    
+[Next chapter (Stuff Too Nasty for Twitter)](../23_toonastytwit)    
 [Previous chapter (Macro Platonification)](../21_macro_platonification)  
 [Back to Posts TOC](../)
