@@ -17,11 +17,11 @@ updating their
 
 With this in mind, I'm going to post a few things here that I feel would just make 
 enemies on social media, more than friends. Also, it's light-hearted, and just to 
-let off steam. Putting these posts on the github is a minimal act of shring for those 
+let off steam. Putting these posts on the github is a minimal act of sharing for those 
 who care for a laugh.
 
 ${}^\ast$For the AI nerds, it is not the case our brains are Bayesian machines. 
-Rather, a Bayesian update model captures some input--output behavioural aspect of our 
+Rather, a Bayesian update model captures some input--output behavioural aspects of 
 animal brain cognition. Think of it being like how a Least Action Principle (so 
 knowing future boundary conditions) is an effective description of physics, whereas 
 the actual physics is Hamiltonian (infinitesimal local transformations). ((Or the 
@@ -43,10 +43,14 @@ what's in their current privatized thought.
 
 A leftiepol is someone who recognizes unity is critical, and who denies it for 
 themselves with other lefties in order to keep the actually unified right-wingers 
-alive as the enemy.
+alive as the enemy.${}^\dagger$
 
-A right-wingnut is someone who utterly hates the idea of solidarity and unity but is 
-effective in being unified and 100% in solidarity with other wingnuts.
+${}^\dagger$This is also called the Reverse Robin Principle. See 
+[The Reactionary Mind](https://coreyrobin.com/the-reactionary-mind/) 
+by Cory Robin. (Conservatives *always* need something to complain about, and will invent it if lefties don't give it to them.)
+
+A right-wingnut is someone who utterly hates the idea of solidarity and unity but 
+is utterly effective in being unified and 100% in solidarity with other wingnuts.
 
 
 
