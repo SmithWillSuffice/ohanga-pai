@@ -203,6 +203,11 @@ The latter fluctuations, which can occur all over the show, are what orthodox
 economics ignores. This is why orthodox economics is not only stupid, it's a 
 hazard to human life. Most economists need to be locked up in cages in zoo's.
 
+There are also local minima where economic agents minimise their costs at the 
+expense of others, resulting in global minimum cost being inaccessible --- because 
+the local minima are not the least cost. For example, greed, avarice, vice, 
+exploitation, all lower costs for some, but massively increase costs for many others, 
+and are not necessarily global optimums even for the local greedy agents.
 
 ${}^\sharp$The physical noumena obey laws we might be fortunate to discover, but no 
 scientist has any idea how or why physical matter obeys the laws we observe. 
