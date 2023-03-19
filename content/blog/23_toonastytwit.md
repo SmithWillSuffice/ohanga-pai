@@ -72,14 +72,14 @@ know what we know.)
 Put the above together and we have MMT is too useful to be used by ‘X’, yet is used 
 by ‘X’, and the result is endless wars, pointless state surveillance, mass 
 involuntary unemployment, and a continual rise in the price level. All these things 
-MMT gives you!
+"MMT" gives you!
 
 I realise this is terrible political framing. The reality is the MMT system currently 
 in existence and used unwittingly by the idiots (neocons and neoliberals) to 
 disproportionately enrich people who are already wealthy, is at least providing the 
 poor with state welfare safety nets with little inflation pressure. The problem is, 
 things could be so much better if the idiots understood the MMT system. I do believe 
-not all the idiots *want* to be cruel. But that's just my optimism shinning through. 
+not all the idiots *want* to be cruel. But that's just my optimism shining through. 
 Glass half full stuff.
 
 The main point all the MMT activists are making is that it is only lack of political 
