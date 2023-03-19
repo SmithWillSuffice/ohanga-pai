@@ -105,14 +105,21 @@ A well-educated neoliberal is no longer a neoliberal.
 A well-credentialed neoliberal is a dangerous beast to be confined to Zoom room 
 cages.
 
-For this, it is worth recognizing most neoliberals do not want to be neoliberals They 
-are neoliberals (austerity and privatization whores) because they are stupid and do 
-not understand the monetary system is a simple public monopoly.
+For this, it is worth recognizing most neoliberals do not want to be neoliberals. 
+They are neoliberals (austerity and privatization whores) because they are stupid and 
+do not understand the monetary system is a simple public monopoly.
 
 ((At least that's my working thesis. Innocent until proven frauds. But like twitter 
 buddy CarlitosMMT, I think there is a non-relativistic time clock running down on 
 this: the longer MMT awareness invades public thought, the less tenable it is to 
-maintain mere ignorance. ))
+maintain mere ignorance.))
+
+(((Why are the neoliberals stupid? Probably because they were educated at the 
+Harvard-Yale-Oxford-Cambridge circuit of jellyfish hive minds. This might apply 
+only for economics courses, for other courses I can't say for sure. In other words, 
+if their degree was related to economics, their parents paid for a certificate, 
+rather than them earning one. And even if they earned one, it was by following a 
+fraudulent textbook.)))
 
 
 
