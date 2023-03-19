@@ -2,7 +2,7 @@
 title: "Stuff Too Nasty for Twitter"
 description: ""
 date: 2023-03-09
-lastmod: 2023-03-09
+lastmod: 2023-03-19
 cover: ""
 coverAlt: ""
 toc: true
