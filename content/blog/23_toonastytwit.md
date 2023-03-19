@@ -126,7 +126,7 @@ at the point of a gun. Pointy weapons work far too locally.
 The cost of being a genuine expert is that you can no longer do full irony.
 
 The cost (to others) of being a credentialed expert is that some might take you 
-seriously.  (The jury s out on whether it is also a cost to the expert, it is if they 
+seriously.  (The jury is out on whether it is also a cost to the expert, it is if they 
 have a moral conscience.)
 
 The cost of not being a credentialed expert is being out of a job you might be 
