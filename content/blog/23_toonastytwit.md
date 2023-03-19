@@ -132,8 +132,12 @@ Sustainable (and justly distributed) real resource limits. That's it.
 You (anti-moralist) say, "Whose justice?" I say, "F off." We get the justice we are 
 prepared to fight for --- it's never been any other way.
 
-The most effective way to fight for more justice is through the power of the spiritual and moral compass. People can be shamed into being more kind faster than 
-at the point of a gun. Pointy weapons work far too locally.
+The most effective way to fight for more justice is through the power of the 
+spiritual and moral compass. People can be shamed into being more kind faster than 
+at the point of a gun. And afterwards there is no bitter taste in such shame, in fact 
+there is an enlightenment of the soul. Pointy weapons work far too locally, and when 
+pointed in another direction cease having an effect, maybe even having the opposite 
+effect.
 
 
 ## Expertisisms
