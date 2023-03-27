@@ -23,6 +23,20 @@ So be patient.
 These web pages are only for discussions, they are not software documentation. 
 For software documentation each project will have it's own Sphinx RTD docs.
 
+At some time I will stop writing the blog, it's a 
+short-run thing to let off steam. I plan to retire properly (only be doing mathematics) 
+at some stage in life, and that'll be when the blog becomes unimportant. I should still 
+work on the empirical.
 
-[Next post (First OHP content)](../1_first_content)  
-[Back to Blog TOC](./)
+<table style="border-collapse: collapse; border=0; table-layout: fixed; width: 100%; margin-left:-0%; margin-right: 0%;">
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../"> </a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../1_first_content">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../"></a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../1_first_content">First OHP content</a></td>
+</tr>
+</table>

@@ -184,6 +184,14 @@ investors who invest in anything that moves without regard to the ecological
 consequences (so purely for a financial return)?
 
 
+### There are no tax-payer dollars
+
+Money does not come from tax-payers, it passes through them. Like hot curry. 
+
+Like Thai chilli paste when inflation is high. But that's only in nominal terms. It's 
+what you get *with* the chilli that matters.
+
+
 ## All Economics Reduces to Physics?
 
 (I am only joking. But seriously.)
@@ -214,6 +222,20 @@ scientist has any idea how or why physical matter obeys the laws we observe.
 
 
 
-[Next chapter (TBD)](./)    
-[Previous chapter (MMT for Now)](../22_mmtfornow)  
-[Back to Posts TOC](../)
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 30%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 35%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../22_mmtfornow">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../24_conservatives">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../22_mmtfornow">MMT for Now</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../24_conservatives">Stuff Conservatives Want</a></td>
+</tr>
+</table>
