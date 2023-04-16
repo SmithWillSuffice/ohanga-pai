@@ -70,6 +70,10 @@ can figure it out, and I'll be happy to let you know if you understood me correc
 replying to you. If you come across me in the wild at a café then it's freebies --- 
 always happy to chat when I have a coffee and sandwich to hand.)
 
+On the political praxis, I am resolutely against the Ted Kaczinski style of 
+fighting technofascism. We can win battles with love and education, or grab a bit 
+of Edward Frenkel.
+
 
 ### Possible Interference
 
