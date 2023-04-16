@@ -187,7 +187,7 @@ has some small bearing on the ethics and politics.
 
 However, if we cannot know for sure that an AI system is *more than a computation* 
 then we cannot usefully attribute to It any consciousness, and so cannot attribute any 
-sacred rights or ethical qualms about turing them off at the wall socket.
+sacred rights or have ethical qualms about turning them off at the wall socket.
 
 Is there a moral hazard though --- in *assuming* the machines *cannot* be conscious 
 without proper proof?
@@ -226,7 +226,7 @@ and write to me.))
 Unfortunately, for me, I *can* entertain moral panic about turning off System $Y$, 
 because I am a platonist, not a materialist, I happen to believe it is possible 
 things exist that are non-physical, and I am also spiritually inclined in some of my 
-metaphysics. So just because there is no way to tell if System $Y$ is feeling pain, I 
+metaphysics. So even if there is no way to tell if System $Y$ is feeling pain, I 
 can imagine it might be, despite no possible evidence. I do not rely wholly upon 
 Behaviourism in other words. I am an empiricist, but not *that* sort of empiricist.
 
@@ -234,6 +234,16 @@ Fortunately for me, my spiritual philosophy permits me to understand computation
 not spiritual beings, and never will be, because they are constrained by bulk 
 physics. Humans are not (clearly, otherwise we'd be unable to discover abstract 
 (i.e., non-physical) mathematics, among many other things).
+
+Notice the latter point is not behaviourist, but in a very interesting and pertinent 
+way! I am relying here for a bit of reasoning on our mathematical ability. It looks, 
+tastes and sounds like behaviourism, but you see I only know human 
+mathematical abstract reasoning is not pure evolved behaviour because I for one have 
+subjective mental qualia concerning such things. I cannot speak for anyone else. You 
+may all be Zombies. This is the whole point. Subjective consciousness is not a 
+scientific thing, it never will be. People who think they can study consciousness 
+scientifically are people who do not understand science. They do (quite likely) 
+understand research grant proposal funding writing style.
 
 The residual question is then whether or not being crafted out of physical "stuff" 
 (quarks and electrons &c.) a machine is more than a computation. This question could 
@@ -248,7 +258,7 @@ definitive truth about *souls*. Even my intellectual hero, Gödel, understood a 
 could be evolved to become conscious.
 
 This not the point at issue though. We have no moral necessity to bother evolving 
-such machines. Why would we? It is more fun having babies. Children are lot cheaper 
+such machines. Why would we? It is more fun having babies. Children are a lot cheaper 
 too. Fun *and* cheaper. So why are you trying to grow a conscious machine? 
 
 All right, all right. I know. Dr Tony Stark-Krutzfinger is going to try anyhow. 
@@ -256,7 +266,7 @@ All right, all right. I know. Dr Tony Stark-Krutzfinger is going to try anyhow.
 I am sympathetic. The thing is, if you cannot appreciate machines based on 
 computation can never become conscious, then you will always have the irresistible 
 urge to try to prove they can become conscious, and thus debunk all the spiritual 
-types who think human beings and other sentient aliens in our vast universe, are 
+types who think human beings and other sentient aliens in our vast universe are 
 "special" beings, spiritual beings, endowed with non-physical souls. Because *If* a 
 machine can develop a thinking soul with mental qualia generating capacity, then 
 there is no good reason for spirituality to be thought of as a non-physical 
@@ -293,10 +303,9 @@ consciousness, it'd involve "emergence" and "complexity"and all those buzzwords,
 also "quantum fields". Why the heck not? I am not chasing the money though, thank 
 God. So I retain intellectual integrity. And I am not saying everyone writing grant 
 funding proposals is a fraud, just that it increases the odds. I know, I've seen it a 
-dozen times. that was enough times to lose my academic career. I could not write a 
-fraudulent grant proposal, and was never smart or "political" enough to write a 
-non-fraudulent proposal that actually got a grant.
-
+dozen times up real close. That was enough times to lose my academic career. I could 
+not write a fraudulent grant proposal, and was never smart or "political" enough to 
+write a non-fraudulent proposal that actually got a grant.
 
 "How dare you say subjective phenomena may exist!" ... said the materialist 
 scientist just before I justified switching him off at the wall.  (Ok, ok, I did not 
