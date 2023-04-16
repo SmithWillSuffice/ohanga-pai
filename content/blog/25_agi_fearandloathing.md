@@ -70,7 +70,7 @@ can figure it out, and I'll be happy to let you know if you understood me correc
 replying to you. If you come across me in the wild at a café then it's freebies --- 
 always happy to chat when I have a coffee and sandwich to hand.)
 
-On the political praxis, I am resolutely against the Ted Kaczinski style of 
+On the political praxis, I am resolutely against the Ted Kaczynski style of 
 fighting technofascism. We can win battles with love and education, or grab a bit 
 of Edward Frenkel.
 
@@ -93,13 +93,13 @@ danger is people.
 I am not however a human supremacist. I am an empiricist on matters that I have no 
 theory for, and I have no theory for how human beings are spiritual and how we can 
 have non-physical souls as the source of our causal power. I mean, I'd like to have a 
-theory for it, but I don't. I look to other traditions and valid religion${}\dagger$ 
+theory for it, but I don't. I look to other traditions and valid religion${}^\dagger$ 
 (where I think I  can find it), and people I trust. I just don't think it is useful 
 to regard a 
 computation as consciousness is all, so I have no moral qualms about turning them off. 
 Make as many kill switches as you please. 
 
-${}\dagger$Valid religion is easy. It is whatever is a source of good, a source of 
+${}^\dagger$Valid religion is easy. It is whatever is a source of good, a source of 
 peace and harmony. The trouble is finding it. Most so-called "religions" are not 
 religions. (Sound a bit like an echo of Minsky MMT? Probably that's not an accident.)
 
@@ -256,7 +256,7 @@ apply to even an old 1970's hand calculator.
 On this I am a bit dumbfounded. Why would you even bother to ask?
 
 Humans are crafted out of physical stuff, and clearly we are subjectively conscious 
-and posses a soul. Or our soul posses us, or however you like to fame it, I am 
+and posses a soul. Or our soul possesses us, or however you like to frame it, I am 
 pretty agnostic on this linguistic gymnastics, since no one has any access to the 
 definitive truth about *souls*. Even my intellectual hero, Gödel, understood a machine 
 could be evolved to become conscious.
