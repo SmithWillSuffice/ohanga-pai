@@ -159,6 +159,72 @@ to trigger and fool myself, since I'm a bit autistic. But a bit of trolling of
 ideologies and materialistic shibboleths makes a more fun writing experience, 
 hopefully reading too.)
 
+### Why ML is Getting close to AGI, and Should Be!
+
+I fully expect AI and machine learning to get close as you like to AGI. There is a 
+curious moment in the MLST episode where David Chalmers seems puzzled about recent 
+ANN/ML progress. Why are the machines getting close to AGI with just dumb statistical 
+look-ups and petabytes of data? 
+
+I could hardly believe my ears.
+
+I agree with Chalmers that computation cannot give us subjective consciousness (or 
+perhaps I am more didactic about this than Chalmers is, since I take qualia more 
+seriously then he does (he was the original 1990's "taking qualia seriously" guy.))
+
+The trouble was, his whole break-through book was about how to get subjective qualia 
+out of physics. That was his problem. It's an impossible project, and he never 
+admitted it was. He just keeps trying to push panpsychism or his "bridging laws" 
+stuff. It's all nonsense and made-up metaphysics.
+
+((To be clear, most metaphysics is made-up. It's not science, so it has to be mostly 
+poetry. So I am not really faulty Chalmers here, it is his profession to write 
+poetry. He just doesn't seem to know it is poetry.))
+
+I dropped this comment:
+
+> @9:00 David seems worried about something not to be worried about. If there is a "so 
+far but no further" (which I agree there is --- the subjectivity$\Rightarrow$qualia 
+divide which separates mind from computation) then it is natural that throwing 
+compute resources at problems will get you there. Why would he expect ML to pull up 
+shorter? That'd make no sense.
+
+What I am saying here is that we should damn well expect Machine Learning to get to 
+the very horizon of AGI. Why would you think brute force computation incapable 
+of getting there? You don't go saying massive particles will only get to 75% of the 
+speed of light in an accelerator just because you think 88% is too freaky. If humans 
+can output certain strings, so can machines. It is just physics.
+
+The issue for the nuanced philosophers and humble sifters of wheat is that no amount 
+of shuffling physical atoms around can generate subjective qualia. I used to think 
+Chalmers understood this, but now I'm not so sure he has remained faithful to his 
+original insights.
+
+It is fine, imho, to look for bridging laws and ways to develop either a modernized 
+non-naïve Cartesian dualism, or platonism, or panpsychism. But don't go around like 
+John Searle claiming physics can do it for you. That's just silly. It shows you do 
+not understand physics.
+
+It might even be worse than that. They, like Max Tegmark, probably comprehend 
+physics ok, so what they are really doing is imputing mystical elements to physics 
+that no one has ever observed. Basically New Ageism. But dressed up as black tie 
+respectable science. It's gross.
+
+That's a spiritual argument against that crowd. Do not ask me to debunk them using 
+facts and logic. It cannot be done. The whole point of all this is that subjectivity 
+is private, it is not communicable. What we communicate to each other about our inner 
+feelings and qualia is done via physical processes. But the language is not the 
+noumena.
+
+Wittgenstein kind of half-understood this, it was what he was trying to get at with 
+the "private language" idea. He was using bad language framing. It's not a language. 
+Thought is not mere syntax with semantic overlay. Jerry Fodor makes the same 
+confusions, and it's infuriating. There is no language of thought. Thought is above 
+language. 
+
+*Language of Thought* is a nice metaphor though, so is Ned Blocks' *Mental Paint*, a 
+nice metaphor, that much can be granted.
+
 
 ## The Science of AI... is not the Philosophy
 
