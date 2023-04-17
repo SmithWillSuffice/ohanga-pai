@@ -205,13 +205,13 @@ non-naïve Cartesian dualism, or platonism, or panpsychism. But don't go around 
 John Searle claiming physics can do it for you. That's just silly. It shows you do 
 not understand physics.
 
-It might even be worse than that. They, like Max Tegmark, probably comprehend 
-physics ok, so what they are really doing is imputing mystical elements to physics 
-that no one has ever observed. Basically New Ageism. But dressed up as black tie 
-respectable science. It's gross.
+It might even be worse than that. They, like Max Tegmark and Guilio Tononi, probably 
+comprehend physics ok, so what they are really doing is imputing mystical elements to 
+physics that no one has ever observed. Basically New Ageism. But dressed up as black 
+tie respectable science. It's gross.
 
 It is gross because physics is a special science --- because it is a science. 
-Do not corrupt it you nerds. Physics concerns bjective components of reality. 
+Do not corrupt it you nerds. Physics concerns objective components of reality. 
 It does not touch the subjective. I am only *defining* "Physics" here. You must 
 appreciate. I'm not saying the idiots can't have their own definitions. I am instead 
 claiming what I define as physics makes a science of physics possible, and theirs 
@@ -222,6 +222,17 @@ facts and logic. It cannot be done. The whole point of all this is that subjecti
 is private, it is not communicable. What we communicate to each other about our inner 
 feelings and qualia is done via physical processes. But the language is not the 
 noumena.
+
+Anyone recall Shannon? Communication over a noisy channel? You cannot reconstruct 
+more than the input.
+
+Human thought and consciousness is generative, it routinely constructs more than 
+it's input. But only in qualitative terms. The entropy constraints mean our physical 
+senses get way more information than our mind perceives. But the qualitative aspects 
+of what our minds conceive are more than are contained in the sensory input. When I 
+see a beautiful sexy woman, and she sees me, I know she likes me. Yeah, right... for 
+a split second ok, then that thought gets trashed and replaced by quivering 
+insecurity, doubt and uncertainty, also generated with insufficient validating data.
 
 Wittgenstein kind of half-understood this, it was what he was trying to get at with 
 the "private language" idea. He was using bad language framing. It's not a language. 
