@@ -210,6 +210,13 @@ physics ok, so what they are really doing is imputing mystical elements to physi
 that no one has ever observed. Basically New Ageism. But dressed up as black tie 
 respectable science. It's gross.
 
+It is gross because physics is a special science --- because it is a science. 
+Do not corrupt it you nerds. Physics concerns bjective components of reality. 
+It does not touch the subjective. I am only *defining* "Physics" here. You must 
+appreciate. I'm not saying the idiots can't have their own definitions. I am instead 
+claiming what I define as physics makes a science of physics possible, and theirs 
+does not.
+
 That's a spiritual argument against that crowd. Do not ask me to debunk them using 
 facts and logic. It cannot be done. The whole point of all this is that subjectivity 
 is private, it is not communicable. What we communicate to each other about our inner 
@@ -222,7 +229,7 @@ Thought is not mere syntax with semantic overlay. Jerry Fodor makes the same
 confusions, and it's infuriating. There is no language of thought. Thought is above 
 language. 
 
-*Language of Thought* is a nice metaphor though, so is Ned Blocks' *Mental Paint*, a 
+*Language of Thought* is a nice metaphor though, so is Ned Block's *Mental Paint*, a 
 nice metaphor, that much can be granted.
 
 
