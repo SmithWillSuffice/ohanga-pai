@@ -1,5 +1,5 @@
 ---
-title: "AGI Fear & Loathing"
+title: "Fear & Loathing in Los Vital"
 description: ""
 date: 2023-04-16
 lastmod: 2023-04-16
