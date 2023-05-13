@@ -117,7 +117,7 @@ I have to say though, that these political maps tend to ignore a critical aspect
 just economic system, which is distribution.
 
 Economic distribution in a monetary economy is facilitated by the currency. If 
-private markets dominant they have a long run tendency towards winner-take-all 
+private markets dominate they have a long run tendency towards winner-take-all 
 effects, or "the rich get richer, the poor get poorer" or a statistician might 
 obscure by saying it is a Pareto distribution which is "natural."
 
