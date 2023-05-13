@@ -41,21 +41,26 @@ floating exchange rate policy for a non-convertible currency (aka. the tax credi
 The other argument is that private banks that are not heavily regulated need market 
 discipline. 
 
-**MMT lens correction:** The market cannot discipline bank credit, no one, not even 
-the new AI systems, knows what the true risk of depositing at any particular bank 
-might be. The government should just remove all such risk. The discipline on banks 
-should then be strict credit assessment and prudential requirements, these can be 
-made very simple: tell bankers only what they *can* do. They are not allowed to do 
-anything else. If banking is *narrow* in this sense, with the list of activities 
-banks "can do" made very narrow (basically clear payments and assess credit worthiness) 
-then the regulatory bureaucratic burden is minimised, and fits with the public purpose.
+**MMT lens correction:** The market cannot adequately discipline bank credit, no one, 
+not even the new AI systems, knows what the true risk of depositing at any particular 
+bank might be. The government should just remove all such risk. The discipline on 
+banks should then be strict credit assessment and prudential requirements, these can 
+be made very simple: tell bankers only what they *can* do. They are not allowed to 
+do anything else. If banking is *narrow* in this sense, with the list of activities 
+banks "can do" made very narrow (basically clear payments and assess credit 
+worthiness) then the regulatory bureaucratic burden is minimised, and fits with the 
+public purpose.
 
 The last point answers critics of MMT who claim MMT is a sort of hyper-government 
 approach. It is not. MMT allows us to have as small a government as we desire. The 
 point of regulation should be as simple as needed, but no simpler. Banks can be 
 easily well-regulated with simple regulations telling banks the "can" and forget 
 about listing the "cannots". Needless to say, all such regulations should be 
-enforceable, and can be drafted to require minimal bureaucracy. 
+enforceable, and can be drafted to require minimal bureaucracy.
+
+If you are a critic of private commercial banking and have not yet read 
+Warren Mosler, this is all you need to know for starters. This goes the same if 
+you are a critic of public banking too, or a critic of *any* banking system.
 
 There is little point to going through parliamentary motions to pass regulatory 
 legislation that cannot be enforced. It is a waste of time of policy makers. Only 
@@ -67,6 +72,7 @@ might be practical if, for instance, such crime rates were non-existent.
 
 A lot of banking regulations could be automatically enforced by licenced 
 open source software.
+
 
 ### VCP for Bank Capital Requirements
 
