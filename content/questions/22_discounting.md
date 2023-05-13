@@ -57,6 +57,14 @@ Bloody "job creators" they are, right? LOL.
 ## The Interest Rate Crash Discourse
 
 
+```
+TODO:
+I got side-tracked by more pressing concerns.
+Will come back to this article later, or if 
+a donor helps fund the write-up. $100 for a 
+day or so of groceries and rent and electric ought 
+to do it.
+```
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>

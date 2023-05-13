@@ -10,13 +10,121 @@ tags: []
 katex: true
 ---
 
-Short article for this chapter, and mainly some links.  Shadow banking arises when 
-people find a need for credit and cannot get it form a licenced bank. At leats that's the basic story.  So,
+Short article for this chapter, and mainly some links. Shadow banking arises when 
+people find a need for credit and cannot get it form a licenced bank. At least that's 
+the basic story. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(a) There is no essential need for shadow banks.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(b) Shadow banks nevertheless pop up because government lincencers fail to adequately provision the private banks.    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(c) The basic provision needed is not cahs, but full 100% deposit insurance.
+## Overview
 
+Synopsis:
+: **(a)** There is no essential need for shadow  banks.
+: **(b)** Shadow banks nevertheless pop up because government licencers fail to adequately provision the private banks.
+: **(c)** The basic provision needed is not cash, but full 100% deposit insurance. The proper place for discipline on private banks is on their asset side, not their liabilities.
+
+The last policy is critical. On a floating exchange rate the monopoly currency issuer 
+(aka. government) is not financially constrained, so (i) can always provide full 
+deposit insurance, and(ii) does not risk a currency depreciation nor hyperinflation 
+when doing so. On a fixed exchange rate there would be such risk, but thy are 
+entirely inapplicable to the USA economy today, and to most nations operating a fiat 
+currency monopoly.
+
+### Excess Credit Risk
+
+The argument from free market and neoclassical ideologues is that if the government 
+insures deposits the "tax payer" is stiffed with holding the bill. 
+
+**MMT lens correction:** This is completely inapplicable for a governmetns running a 
+floating exchange rate policy.
+
+The other argument is that private banks that are not heavily regulated need market 
+discipline. 
+
+**MMT lens correction:** The market cannot discipline bank credit, no one, not even 
+the new AI systems, knows what the true risk of depositing at any particular bank 
+might be. The government should just remove all such risk. The discipline on banks 
+should then be strict credit assessment and prudential requirements, these can be 
+made very simple: tell bankers only what they *can* do. They are not allowed to do 
+anything else. If banking is *narrow* in this sense, with the list of activities 
+banks "can do" made very narrow (basically clear payments and assess credit worthiness) 
+then the regulatory bureaucratic burden is minimised, and fits with the public purpose.
+
+The last point answers critics of MMT who claim MMT is a sort of hyper-government 
+approach. It is not. MMT allows us to have as small a government as we desire. The 
+point of regulation should be as simple as needed, but no simpler. Banks can be 
+easily well-regulated with simple regulations telling banks the "can" and forget 
+about listing the "cannots". Needless to say, all such regulations should be 
+enforceable, and can be drafted to require minimal bureaucracy. 
+
+There is little point to going through parliamentary motions to pass regulatory 
+legislation that cannot be enforced. It is a waste of time of policy makers. Only 
+in some rare exceptions are regulations useful in serving a symbolic purpose.
+
+For example, a nation might wish to retain a "death penalty" for certain heinous 
+crimes, but choose to never enforce it, as a symbolic gesture. Such symbolic policy 
+might be practical if, for instance, such crime rates were non-existent.
+
+A lot of banking regulations could be automatically enforced by licenced 
+open source software.
+
+### VCP for Bank Capital Requirements
+
+One of the issues for small banks is the regulatory need to have capital, to 
+satisfy capital adequacy requirements, which do tend to be well enforced. 
+(See the list of Mosler proposals below.)
+
+Mosler suggests a work-around for banks which find themselves capital constrained 
+and yet also have trustworthy credit-worthy customers they should be lending to --- 
+emphasis on *should*, since public purpose is not well served by artificially 
+constraining credit. Non-fraudulent credit is Its own regulator through the need to 
+repay the loan.
+
+((Constraining fiat currency issue and bank credit issue artificially is like putting 
+a plastic bag over the head of an elite athlete, the athlete is our real productive 
+economy, not the predatory financial sector.))
+
+The method Mosler recommends is the bank can issue VCP = variable convertible 
+preferred stock.
+
+**What is VCP?** Convertible preferred stock is a type of preferred share that pays 
+a dividend and can be converted into common stock at a fixed conversion ratio after 
+a specified time. The initial stock can be stocks in the bank. The customer then has 
+an option to later sell this bank stock for common stock.
+
+The method is that the bank should be permitted to offer their customer say 10% of 
+the amount they desire to borrow as VCP. The customer can buy this stock. This adds 
+to the bank balance sheet, and thus will automatically make the bank capitalised 
+sufficient to make the loan, and then some, since most banks have about an 8% target 
+capital ratio. Everyone is happy, the customer, the bank, the regulators.
+
+Only the *mainstream economists* are unhappy, since their hair catches on fire with 
+hyperinflation fear and panic, "Oh me oh my! Whatever can we do to impose austerity in 
+bank credit now?" But they are not people. 
+
+Mosler elaborates:
+> The VCP functions as a ‘first loss piece’ for the bank as well. Terms of the VCP might include an interest rate equal to the loan rate, and a variable conversion ratio designed to give the borrower all her funds back if she doesn't default.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The VCP is non-dilutive to the holders of common shares. This VCP proposal can free up and create new balance sheet and raise capital as it services borrowing desires.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to forward this to everyone you know in banking.
+
+
+## Some Links
+
+* Nathan Tankus on the Blockworks podcast --- [on The “Pozsar Moment” In Shadow Banking](https://blockworks.co/podcast/forwardguidance/c77efbd2-e3a4-11ed-90b1-dbc31b92ee93)
+* Zoltan Pozsar and others --- [Federal Reserve Bank of New York Staff Reports, “Shadow Banking”](https://www.econstor.eu/bitstream/10419/60904/1/635902451.pdf)
+* Warren Mosler --- [Proposals for the Treasury, the Federal Reserve, the FDIC, and the Banking System](https://moslereconomics.com/wp-content/uploads/2009/09/Proposals-for-the-Treasury.pdf)
+* Warren Mosler on small banks --- [Fixing the Small Banks](https://moslereconomics.com/2009/12/26/fixing-the-small-banks/)
+* Warren Mosler again --- [Financial Architecture Fundamentals](https://moslereconomics.com/wp-content/pdfs/Financial%20Architecture%20Fundamentals.pdf)
+
+## Caveats
+
+I am still learning banking system nuances. So do not quote any of my writing on 
+these issues. I write most of my Ōhanga Pai articles for general public education, 
+but with no veridical guarantee, just honesty that I write what I know. It is up to 
+readers to fact check matters for themselves, which I regard as a good thing. I am 
+really just a scribe, not an expert, at least not yet. There are probably hundreds 
+of MMT economists superior to myself in their expertise. I would consider myself an expert if I were in the top dozen, which I am nowhere near.
+
+If you trust me too much you might fail to follow-through with your own research, 
+which would be bad, or potentially bad for your quality of learning let's say.
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
