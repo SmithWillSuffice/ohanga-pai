@@ -27,7 +27,7 @@ The last policy is critical. On a floating exchange rate the monopoly currency i
 (aka. government) is not financially constrained, so **(i)** can always provide full 
 deposit insurance, and **(ii)** does not risk a currency depreciation nor 
 hyperinflation when doing so. On a fixed exchange rate there would be such risk, but 
-thy are entirely inapplicable to the USA economy today, and to most nations operating 
+they are entirely inapplicable to the USA economy today, and to most nations operating 
 a fiat currency monopoly.
 
 ### Excess Credit Risk
