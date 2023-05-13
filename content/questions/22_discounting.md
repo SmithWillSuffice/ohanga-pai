@@ -67,11 +67,11 @@ Bloody "job creators" they are, right? LOL.
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../21_powerplays">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Questions</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../23_shadow_banking">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../21_powerplays">Power Plays</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../100_why_does_it_matter">Why Does it All Matter?</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../23_shadow_banking">Shadow Banking</a></td>
 </tr>
 </table>
