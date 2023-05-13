@@ -66,6 +66,15 @@ There is little point to going through parliamentary motions to pass regulatory
 legislation that cannot be enforced. It is a waste of time of policy makers. Only 
 in some rare exceptions are regulations useful in serving a symbolic purpose.
 
+I am all for making politicians lives easier so that can become as lazy as possible. 
+The more time they spend on the golf course the better, in a lot of cases. Especially 
+the narcissistic politicians. The sincere socially motivated politicians probably 
+cannot be drawn out onto the golf course, but if we minimize their workload that 
+cannot hurt the poor. Lifting up the poor and oppressed benefits everyone in society 
+in the long run, and fits with the public purpose, provided this is accomplished let 
+those socialistic politicians enjoy their lunch hours, make them 3 hour long lunches 
+in an 6 hour work day.
+
 For example, a nation might wish to retain a "death penalty" for certain heinous 
 crimes, but choose to never enforce it, as a symbolic gesture. Such symbolic policy 
 might be practical if, for instance, such crime rates were non-existent.
