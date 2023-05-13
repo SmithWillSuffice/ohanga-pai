@@ -107,8 +107,27 @@ regulatory control over taxation and legal contracts. It is akin to a form of
 totalitarianism, but highly *non-invasive* in peoples lives otherwise. Tall and 
 narrow fits the picture I think. 
 
-Notice this Up--Down axis has nothing to do with cultural morés. It is purely about how big we desire our government to be to fit the democratic consensus on "what is the public purpose." Which is mostly a currency monopoly set of operating parameters. 
+Notice this Up--Down axis has nothing to do with cultural morés. It is purely about 
+how big we desire our government to be to fit the democratic consensus on "what is 
+the public purpose." Which is mostly a currency monopoly set of operating 
+parameters. 
 The MMT axis, you might day.
+
+I have to say though, that these political maps tend to ignore a critical aspect of a 
+just economic system, which is distribution.
+
+Economic distribution in a monetary economy is facilitated by the currency. If 
+private markets dominant they have a long run tendency towards winner-take-all 
+effects, or "the rich get richer, the poor get poorer" or a statistician might 
+obscure by saying it is a Pareto distribution which is "natural."
+
+Well,... there is nothing natural about a Pareto distribution for economic output 
+share, because under our present day MMT system the distribution of output is a 
+government policy choice, since they are the currency monopolist.
+
+No other macroeconomics school of thought recognizes this, not even the post-
+Keynesians or Marxists, and so there is no proper economic school of thought for 
+facilitating macroeconomic justice (fair distribution of real output) than MMT.
 
 
 ### VCP for Bank Capital Requirements
