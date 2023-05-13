@@ -92,9 +92,23 @@ Douglas adds a third dimension, which is the policy space of government is compl
 recognized, and government is always "big" enough to issue enough currency for full 
 employment, but the space is:
 
-* Up = (government is short and very wide) big as in spending on fully public programs, as few as possible private markets. So private markets only for leisure goods and services, non-essentials.
-* Middle = (robust government physique, neither tall and skinny, nor short and fat) big as in fully spending on all desired public services that hire all the unemployed the tax liability plus savings desires create, but no more. So this coudl be a system where the public sector might provide some public arts programs and the like, in addition to the social essentials.
-* Down = (tall and skinny) big as in minimal tax liabilities only sufficient to drive the currency, no more. The culture desires otherwise no government services except tax system and legal system.
+* Down = (government is short and very wide) big as in spending on fully public 
+programs, as few as possible private markets. So private markets only for leisure 
+goods and services, non-essentials.
+* Middle = (robust government physique, neither tall and skinny, nor short and fat) 
+big as in fully spending on all desired public services that hire all the unemployed 
+the tax liability plus savings desires create, but no more. So this could be a system 
+where the public sector might provide some public arts programs and the like, in 
+addition to the social essentials.
+* Up = (tall and skinny) big as in minimal tax liabilities only sufficient to drive 
+the currency, no more. The culture desires otherwise no government services except 
+tax system and legal system. The tall size of government here is in the tight 
+regulatory control over taxation and legal contracts. It is akin to a form of 
+totalitarianism, but highly *non-invasive* in peoples lives otherwise. Tall and 
+narrow fits the picture I think. 
+
+Notice this Up--Down axis has nothing to do with cultural morés. It is purely about how big we desire our government to be to fit the democratic consensus on "what is the public purpose." Which is mostly a currency monopoly set of operating parameters. 
+The MMT axis, you might day.
 
 
 ### VCP for Bank Capital Requirements
