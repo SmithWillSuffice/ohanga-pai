@@ -73,6 +73,29 @@ might be practical if, for instance, such crime rates were non-existent.
 A lot of banking regulations could be automatically enforced by licenced 
 open source software.
 
+### "As small or as big a government as we desire""
+
+My colleague [Douglas the MMT Macro Trader](https://www.patreon.com/mmtmacrotrader) gave us a (I think original) metaphor.
+
+We can have super big government that is also non-invasive in the private market, 
+and as liberal as the culture desires. He proposed the wide and flat versus tall 
+and skinny axis concept.
+
+You can incorporate this into the old 2D political landscape map, where,
+
+* Forward = total anarchist
+* Backwards = totalitarian government
+* Left = so liberal you can walk around naked
+* Right = so conservative you cannot bare your knuckles.
+
+Douglas adds a third dimension, which is the policy space of government is completely 
+recognized, and government is always "big" enough to issue enough currency for full 
+employment, but the space is:
+
+* Up = (government is short and very wide) big as in spending on fully public programs, as few as possible private markets. So private markets only for leisure goods and services, non-essentials.
+* Middle = (robust government physique, neither tall and skinny, nor short and fat) big as in fully spending on all desired public services that hire all the unemployed the tax liability plus savings desires create, but no more. So this coudl be a system where the public sector might provide some public arts programs and the like, in addition to the social essentials.
+* Down = (tall and skinny) big as in minimal tax liabilities only sufficient to drive the currency, no more. The culture desires otherwise no government services except tax system and legal system.
+
 
 ### VCP for Bank Capital Requirements
 
