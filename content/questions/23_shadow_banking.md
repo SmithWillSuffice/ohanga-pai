@@ -30,6 +30,24 @@ hyperinflation when doing so. On a fixed exchange rate there would be such risk,
 they are entirely inapplicable to the USA economy today, and to most nations operating 
 a fiat currency monopoly.
 
+Below I will reference a recent insightful interview Nathan Tankus gave, from it 
+we have a new technical term in chartered banking lexicon in USA context: the 
+"ComeOn2Big2FailBank". 
+
+It's a good term to use. Most people might think that even though FDIC insurance only 
+covers you up to $\$250$K in the USA if you deposit at one of the 
+ComeOnIts2Big2FailBanks  or one of the NoReallyComeOnIts2Big2FailBanks then you are 
+effectively fully insured to any deposit amount. Tankus points out the harsh reality 
+that this cannot be used in a court of law, it is not a legal term you can literally 
+"take to the bank."
+
+The recent failure of SVB Bank is an interesting example. It was not too big to fail, 
+but the FDIC made depositors whole anyway. However, this was a bit arbitrary and 
+extra-legal. There was never any legal guarantee for depositors, and *that* is why 
+they withdrew their deposits causing the run on SVB. They knew taking the term 
+ComeOnITs2Big2Fail to court would not cut the mustard.
+
+
 ### Excess Credit Risk
 
 The argument from free market and neoclassical ideologues is that if the government 
