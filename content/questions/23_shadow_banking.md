@@ -11,7 +11,7 @@ katex: true
 ---
 
 Short article for this chapter, and mainly some links. Shadow banking arises when 
-people find a need for credit and cannot get it form a licenced bank. At least that's 
+people find a need for credit and cannot get it from a licenced bank. At least that's 
 the basic story. 
 
 ## Overview
