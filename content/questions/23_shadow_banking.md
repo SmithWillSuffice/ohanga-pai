@@ -19,22 +19,24 @@ the basic story.
 Synopsis:
 : **(a)** There is no essential need for shadow  banks.
 : **(b)** Shadow banks nevertheless pop up because government licencers fail to adequately provision the private banks.
-: **(c)** The basic provision needed is not cash, but full 100% deposit insurance. The proper place for discipline on private banks is on their asset side, not their liabilities.
+: **(c)** The basic provision needed is not cash, but full 100% deposit insurance. 
+The proper place for discipline on private banks is on their asset side, not their 
+liabilities.
 
 The last policy is critical. On a floating exchange rate the monopoly currency issuer 
-(aka. government) is not financially constrained, so (i) can always provide full 
-deposit insurance, and(ii) does not risk a currency depreciation nor hyperinflation 
-when doing so. On a fixed exchange rate there would be such risk, but thy are 
-entirely inapplicable to the USA economy today, and to most nations operating a fiat 
-currency monopoly.
+(aka. government) is not financially constrained, so **(i)** can always provide full 
+deposit insurance, and **(ii)** does not risk a currency depreciation nor 
+hyperinflation when doing so. On a fixed exchange rate there would be such risk, but 
+thy are entirely inapplicable to the USA economy today, and to most nations operating 
+a fiat currency monopoly.
 
 ### Excess Credit Risk
 
 The argument from free market and neoclassical ideologues is that if the government 
 insures deposits the "tax payer" is stiffed with holding the bill. 
 
-**MMT lens correction:** This is completely inapplicable for a governmetns running a 
-floating exchange rate policy.
+**MMT lens correction:** This is completely inapplicable for a government running a 
+floating exchange rate policy for a non-convertible currency (aka. the tax credits).
 
 The other argument is that private banks that are not heavily regulated need market 
 discipline. 
