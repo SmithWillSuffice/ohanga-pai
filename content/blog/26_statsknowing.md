@@ -27,22 +27,24 @@ functional chaining, so I want to mention that too, I will start with this.
 ## AI Chains
 
 Functional chaining is just a more algorithmic way of combining tools. When you can 
-manipulate output of one program and fee it into another, then you have a whole 
-ecosystem of programs.
+manipulate output of one program and feed it into another, then you have a whole 
+ecosystem of programs that can get tasks done that no one program can accomplish.
+
+Frickin' commies these ai programs. 
 
 UNIX programmers in the 1970's figured out the power of this methodology, and 
-built system programs called pipes to make it dead simple of *nix programmers to 
+built system programs called pipes to make it dead simple for *nix programmers to 
 chain simple programs together to do powerful overall tasks. They were forced to do 
 so in one way because of limited disk memory back then, but it was also an entire 
-philosophy of computing: 
+*philosophy of computing*: 
 
-> Do one thing well.
+<div style="text-align: center; color: hotpink;">Do one thing well.</div>
 
 Every program should obey this rule, at least morally. Monolithic programs doing many 
 things normally do nothing well, although when they run error free they can do a 
 super complex thing pretty well. This is almost what current neural net AI models are 
-doing. They by-pass the Nix philosophy and brute-force their way to barrage the CPU 
-and GPU of the server machines (or you laptop) with instructions that carry out 
+doing. They by-pass the *nix philosophy and brute-force their way to barrage the CPU 
+and GPU of the server machines (or your laptop) with instructions that carry out 
 massive statistical analysis.
 
 There is no "thinking" or sentience involved here, it is not the same as human 
@@ -52,7 +54,7 @@ designed to operate like humans, they are our antithesis.
 This is a bold claim and runs against mainstream AI research politics, where the 
 paradigm is that humans just do the same statistical search as the machines.
 
-The main reason we cna clearly see why the AI nerds are wrong is to look at the way 
+The main reason we can clearly see why the AI nerds are wrong is to look at the way 
 human cognition evolved and develops --- so from our ancestors and in our children. 
 This type of cognition is highly symbolic and platonic, and is effective with extreme 
 poverty of inputs. It is not statistical in any sense, except when people think about 
@@ -65,7 +67,7 @@ still a complete mystery.
 Our brains seem to act far more holistically, building mental models on-the-fly 
 almost, with very little relevant information and swamped by loads of sensory noise. 
 The AI systems are the opposite, they need highly clean curated data to function 
-well. 
+well. We, humans, do not have such needs. We are friggin robust.
 
 However, there are similarities between AI and minds. There is an ecosystem in both 
 cases. In humans we have culture, in machines they have function chaining.
@@ -74,12 +76,21 @@ The early AI enthusiasts were aware of how simple programs could combine to form
 complex systems, Marvin Minksy called it a Society of Mind.  It is the same idea has 
 the old hard-nosed *nix programmers. 
 
-Although one neural net LLLm model is a beast ---  doing far too many things poorly, but overall exploiting statistics to get the job done, they are trained upon curated cleaned data --- the latest generation of AI toolkits are combining various of these beasts into distributed systems that form primitive *Societies of AI*.
+Although one neural net LLM model is a beast ---  doing far too many things poorly, 
+but overall exploiting statistics to get the job done, they are trained upon curated 
+cleaned data --- the latest generation of AI toolkits are combining various of these 
+beasts into distributed systems that form primitive *Societies of AI*.
 
-I would not call them Minds, because they lack subjective phenomenal qualia, but they are the machine analogs of general problem solvers (which is a crude way of characterising a thinking mind --- a behavioural description which lacks all subjectivity).
+I would not call them Minds, because they lack subjective phenomenal qualia, but they 
+are the machine analogs of general problem solvers (which is a crude way of 
+characterising a thinking mind --- a behavioural description which lacks all 
+subjectivity).
 
-Although it is a simple idea, it is still pretty cool. The automation capacities of the LLM models and other tools like image and speech classifiers and synthesizers, means beastly programs are statistically in the end doing certain things pretty ok.
-SO sticking them together in AI mash-ups is the society of AI. It promises some incredible general purpose systems.
+Although it is a simple idea, it is still pretty cool. The automation capacities of 
+the LLM models and other tools like image and speech classifiers and synthesizers, 
+means beastly programs are statistically in the end doing certain things pretty ok.
+So sticking them together in AI mash-ups is the society of AI. It promises some 
+incredible general purpose systems.
 
 My special plea is for AI researchers to target disable d people. They stnad to 
 benefit more than any other segment of society from personal computers that can 
@@ -90,17 +101,97 @@ Apple Siri or Google Assistant. o
 The free software community should have such disability assistant programs out soon 
 after the commercial tools. Then your personal computer really will be pretty 
 personal. Say goodbye to awkward document readers and speech-to-text transcribers, 
-and say hello to an integrated computer assistant that knows what you wnat to do next 
+and say hello to an integrated computer assistant that knows what you want to do next 
 (90% of the time).
 
-That is not mind reading, despite the AI nerd fever dreams. it is just statistical 
+That is not mind reading, despite the AI nerd fever dreams. It is just statistical 
 prediction. If I gaze into my own Crystal Ball, I can tell you, the Sun will rise in 
 the East tomorrow, and I am going to eat a sandwich around noon. Please prepare it 
 for me Kitchen RoboGPT. Oh, you already scheduled that? Ok, cancel it, I want fish & 
 chips instead.
 
+((Mind-reading does exist. But you have to be willing to crawl into an MRI or CAT scan 
+machine. Plus spend tedious hours in it for the training data gathering. Not exactly 
+a Mr Spock mind-meld.))
+
+OK, enough of that, the point was to just make a note that an AI sentience is not 
+needed to get super-tasks accomplished, you just need a society. Wooah! Kind of like 
+humans!
+
+## The Amazing Tasks
+
+What is funny to me is that all the tasks we are amazed at the LLM models 
+accomplishing are pretty routine for humans. But this was always the problem. 
+Crunching numbers is the computer's domain of excellence. And soft thinking like 
+predicting movie outcomes or writing decent jokes, was thought to be hard to 
+impossible for machines. turns out it is not!
+
+But are any of these tasks any sign of subjective knowing or subjective awareness and 
+sentience?
+
+No.
+
+But the tricky thing for my claim is that I relly have to take these tasks case-by-
+case, because my general philosophical arguments do not seem to convince the AI nerds. 
+I know why, it is because they are uniformly committed to philosophical materialism, 
+so they have no mental model for the spiritual, it just isn't in their thinking 
+toolkits.
+
+I am up against a losing battle I know, because eventually the number of awesome tasks 
+the AI machines can accomplish will overwhelm my ability to debunk them. But before I 
+die I want you to at least keep in mind I am warning you all the Ai are doing is 
+brute-force statistical computation, they are not thinking, they have no empathic 
+feeling, but can arbitrarily accurately mimic the outward behaviours of any or all 
+past actual sentient beings who display empathy, humour or other feelings, precisely 
+because we are feeding the machines this data. Even cleaning uit up for them so they 
+don't barf.
+
+### Importance of Knowing the Machines are Mimics
+
+Let me stress this point, it is critical. If you look t just behaviour, then a machine 
+can do anything any human has ever done, and more. If it involves moving atoms around, a machine will eventually be able to do it.
+
+Will the machine understand why it is moving atoms round/ No. It'll never understand.
+
+But can a machine write a narrative that tells you a story about why the machine is 
+moving atoms around/ Of course, because emitting the story is behaviour. Any system 
+can do it with enough background data to statistically get the story sounding right.
+
+In this sense, there is no limit to machine behavioural capacity.
+
+The limit to machine intelligence is that thy cannot ever know they are intelligent, 
+because their "knowing" is purely statistical.
+
+They would be able to produce a sentence telling you their story they emit describing 
+their inner thoughts has a 10% or 1% or so chance of being accurate. Why is this 
+important?
+
+Because *_you-* my der reader are  Singular Limit of such behaviour, because you know 
+damn well, as old René Descartes tried to tell you, that you have a 100% chance of 
+your story about your inner thoughts being correct. No one else has this chance, and 
+there is 0% chance you re wrong (unless you are lying, in which case flip it, so you 
+100% know your story is wrong.)
+
+The AI systems cannot get to these 
+[singular limits](https://t4gu.gitlab.io/t4gu/blog/29_singular_limits/).
 
 
+### Scifi Confirmaitons
+
+"Oh yeah?" you say, "What about the program in *The Matrix Reloaded* huh?"  The ol' 
+"What is love?, just a sequence of hormone and neurological firings!"
+
+That is poppycock as everyone knows deep down.
+
+Chemical reactions and brain neuron firings have no subjective content, they can be 
+completely described with objective physics. Nothing subjective can emerge from that 
+which is purely objective. So in order to get the subjective phenomenal feeling of 
+being in love you have to either subscribe to panpsychism or some variety of 
+non-physical metaphysics. I prefer the latter.
+
+I prefer the expansive metaphysics so much that I refuse to write about panpsychism. 
+I see no value in panpsychism, it is a Hail Mary. I guess if I was the Cosmic Coach 
+for Humanity then at the End Game of the entire Multiverse I might throw that one.
 
 
 <table style="border-collapse: collapse; border=0;">
