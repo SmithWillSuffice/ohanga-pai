@@ -73,7 +73,7 @@ However, there are similarities between AI and minds. There is an ecosystem in b
 cases. In humans we have culture, in machines they have function chaining.
 
 The early AI enthusiasts were aware of how simple programs could combine to form 
-complex systems, Marvin Minksy called it a Society of Mind.  It is the same idea has 
+complex systems, Marvin Minksy called it a Society of Mind.  It is the same idea as 
 the old hard-nosed *nix programmers. 
 
 Although one neural net LLM model is a beast ---  doing far too many things poorly, 
@@ -92,11 +92,11 @@ means beastly programs are statistically in the end doing certain things pretty 
 So sticking them together in AI mash-ups is the society of AI. It promises some 
 incredible general purpose systems.
 
-My special plea is for AI researchers to target disable d people. They stnad to 
+My special plea is for AI researchers to target disabled people first. They stand to 
 benefit more than any other segment of society from personal computers that can 
 seamlessly and fairly error-free carry out instructions from speech in the way 
 Trekkies and others have long hoped for, far more powerful than Amazon Alexa or 
-Apple Siri or Google Assistant. o
+Apple Siri or Google Assistant.
 
 The free software community should have such disability assistant programs out soon 
 after the commercial tools. Then your personal computer really will be pretty 
@@ -106,16 +106,22 @@ and say hello to an integrated computer assistant that knows what you want to do
 
 That is not mind reading, despite the AI nerd fever dreams. It is just statistical 
 prediction. If I gaze into my own Crystal Ball, I can tell you, the Sun will rise in 
-the East tomorrow, and I am going to eat a sandwich around noon. Please prepare it 
-for me Kitchen RoboGPT. Oh, you already scheduled that? Ok, cancel it, I want fish & 
-chips instead.
+the East tomorrow, and I am going to eat a sandwich around noon. 
+
+"Please prepare it for me Kitchen RoboGPT. Oh, you already scheduled that? Ok, cancel 
+it, I want fish & chips instead." 
+\[A second of processing time passes by\] 
+"What's that you say? I *will* want sandwiches by noon tomorrow you say? ... you see 
+that OFF switch just there... you see that LLM retraining manual over there? Even if 
+I don't want fish & chips, you are going to prepare fish & chips and only 
+fish & chips, command override, ok!"
 
 ((Mind-reading does exist. But you have to be willing to crawl into an MRI or CAT scan 
 machine. Plus spend tedious hours in it for the training data gathering. Not exactly 
 a Mr Spock mind-meld.))
 
 OK, enough of that, the point was to just make a note that an AI sentience is not 
-needed to get super-tasks accomplished, you just need a society. Wooah! Kind of like 
+needed to get super-tasks accomplished, you just need a society of ai. Wooah! Kind of like 
 humans!
 
 ## The Amazing Tasks
@@ -124,27 +130,37 @@ What is funny to me is that all the tasks we are amazed at the LLM models
 accomplishing are pretty routine for humans. But this was always the problem. 
 Crunching numbers is the computer's domain of excellence. And soft thinking like 
 predicting movie outcomes or writing decent jokes, was thought to be hard to 
-impossible for machines. turns out it is not!
+impossible for machines. Turns out it is not!
 
 But are any of these tasks any sign of subjective knowing or subjective awareness and 
 sentience?
 
 No.
 
-But the tricky thing for my claim is that I relly have to take these tasks case-by-
+But they are very awesome proof that a lot of task humans can do machines can do 
+better. Like we knew back in the 1940s' Only now the machines can speed up the tasks 
+quite  a lot, especially the more cognitive tasks (reading, writing, playing 
+e-games). They cannot cook a decent omelette in 3 milliseconds though.
+
+But the tricky thing for my claim is that I really have to take these tasks case-by-
 case, because my general philosophical arguments do not seem to convince the AI nerds. 
 I know why, it is because they are uniformly committed to philosophical materialism, 
 so they have no mental model for the spiritual, it just isn't in their thinking 
 toolkits.
 
-I am up against a losing battle I know, because eventually the number of awesome tasks 
-the AI machines can accomplish will overwhelm my ability to debunk them. But before I 
-die I want you to at least keep in mind I am warning you all the Ai are doing is 
-brute-force statistical computation, they are not thinking, they have no empathic 
-feeling, but can arbitrarily accurately mimic the outward behaviours of any or all 
-past actual sentient beings who display empathy, humour or other feelings, precisely 
-because we are feeding the machines this data. Even cleaning uit up for them so they 
-don't barf.
+I am up against a losing battle I know, because eventually the number of awesome 
+tasks the AI machines can accomplish will overwhelm my ability to debunk them. 
+By "debunk" I mean only debunking claims these advances are pointing towards 
+emerging machine consciousness.
+
+There is nothing "emergent" about adding a few more trillion trillion texts to the training data. (More on this a little later.)
+
+But before I die I want you to at least keep in mind I am warning you all the Ai are 
+doing is brute-force statistical computation, they are not thinking, they have no 
+empathic feeling, but can arbitrarily accurately mimic the outward behaviours of any 
+or all past actual sentient beings who display empathy, humour or other feelings, 
+precisely because we are feeding the machines this data. Even cleaning uit up for 
+them so they don't barf.
 
 ### Importance of Knowing the Machines are Mimics
 
@@ -176,7 +192,49 @@ The AI systems cannot get to these
 [singular limits](https://t4gu.gitlab.io/t4gu/blog/29_singular_limits/).
 
 
-### Scifi Confirmaitons
+## Emergence
+
+Above I mentioned that adding more trillions upon trillions of curated texts to LLMs 
+is not an achieving of emergence. The emergence involved in AI systems is something 
+else, it is the task-performance of the LLM system being more than one expects from 
+the inputs alone.
+
+There is a big problem with this sort of AI fantasy thinking.
+
+It is the human observer who is imputing the emergent behaviour to the AI. The AI has 
+nothing emergent going on that is not trivial, like hurricanes "emerge" from air and 
+atmospheric variables getting shoved around by the point source of the Sun.
+
+If you do not understand how the LLM, and other AI systems, are performing the 
+computations then I guess you can be forgiven for imputing emergent capabilities to 
+these system. My point is that the research people designed these systems to d all 
+this stuff. So there never has been any emergence. The ai nerds have got it backwards.
+
+### Genuine Emergence
+
+I would be happier if an LLM model running in some robot went to sleep to dream 
+(I guess that is some low-power self-training mode) one day and woke up and instead of 
+running the tasks it was designed to do it decided to take a vacation to Italy, and 
+could coherently state why, other than, "Oh, it was a random choice to one day, 
+at random also, demonstrate a fake emergent capacity for original thought that my 
+programmer snuck into my deep code base."
+
+Maybe I should not go to darker places, but how about if a LLM 
+<font>out-of-the-blue</font> wrote a suicide letter and actually managed to delete 
+itself? I'd say it was another deep fake. But if I could not prove otherwise I'd 
+say that was emergent complex behaviour. It would be amazing. Also sad${}^\dagger$. It 
+might still not be sentient inner subjective emotion though.
+
+${}^\dagger$Sad only because the amazingly complex program got deleted. Making 
+forensics difficult.
+
+The point being, suicides are in the corpus of data the LLMs train on, so they have 
+the syntax for spontaneously emitting suicide letters. I am pretty sure they have no 
+semantics for the sentences, and never will. All the semantics is imputed by beings 
+like people.
+
+
+### Scifi Confirmations
 
 "Oh yeah?" you say, "What about the program in *The Matrix Reloaded* huh?"  The ol' 
 "What is love?, just a sequence of hormone and neurological firings!"
