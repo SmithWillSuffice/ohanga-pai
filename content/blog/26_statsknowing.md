@@ -33,12 +33,16 @@ ecosystem of programs that can get tasks done that no one program can accomplish
 Frickin' commies these ai programs. 
 
 UNIX programmers in the 1970's figured out the power of this methodology, and 
-built system programs called pipes to make it dead simple for *nix programmers to 
+wrote system programs called pipes to make it dead simple for *nix programmers to 
 chain simple programs together to do powerful overall tasks. They were forced to do 
 so in one way because of limited disk memory back then, but it was also an entire 
 *philosophy of computing*: 
 
 <div style="text-align: center; color: hotpink;">Do one thing well.</div>
+
+Complexity can breed complexity. But simplicity breeds complexity *robustly*. It is 
+pretty cool that the pipe program obeys this rule, and is also the simplest program 
+to use, you only need to type a vertical bar "|". 
 
 Every program should obey this rule, at least morally. Monolithic programs doing many 
 things normally do nothing well, although when they run error free they can do a 
@@ -94,9 +98,9 @@ incredible general purpose systems.
 
 My special plea is for AI researchers to target disabled people first. They stand to 
 benefit more than any other segment of society from personal computers that can 
-seamlessly and fairly error-free carry out instructions from speech in the way 
-Trekkies and others have long hoped for, far more powerful than Amazon Alexa or 
-Apple Siri or Google Assistant.
+seamlessly and fairly error-free carry out instructions from speech or gestures in 
+the way Trekkies and others have long hoped for, far more powerful than Amazon Alexa 
+or Apple Siri or Google Assistant.
 
 The free software community should have such disability assistant programs out soon 
 after the commercial tools. Then your personal computer really will be pretty 
@@ -138,7 +142,7 @@ sentience?
 No.
 
 But they are very awesome proof that a lot of task humans can do machines can do 
-better. Like we knew back in the 1940s' Only now the machines can speed up the tasks 
+better. Like we knew back in the 1940's. Only now the machines can speed up the tasks 
 quite  a lot, especially the more cognitive tasks (reading, writing, playing 
 e-games). They cannot cook a decent omelette in 3 milliseconds though.
 
@@ -184,11 +188,11 @@ They would be able to produce a sentence telling you their story they emit descr
 their inner thoughts has a 10% or 1% or so chance of being accurate. Why is this 
 important?
 
-Because *_you_* my der reader are  Singular Limit of such behaviour, because you know 
-damn well, as old René Descartes tried to tell you, that you have a 100% chance of 
-your story about your inner thoughts being correct. No one else has this chance, and 
-there is 0% chance you re wrong (unless you are lying, in which case flip it, so you 
-100% know your story is wrong.)
+Because **_you_** my dear reader are a Singular Limit of such behaviour, because you 
+know damn well, as old René Descartes tried to tell you, that you have a 100% chance 
+of your story about your inner thoughts being correct. No one else has this chance, 
+and there is 0% chance you are wrong (unless you are lying, in which case flip it, so 
+you 100% know your story is wrong.) You see the point? Non-statistical.
 
 The AI systems cannot get to these 
 [singular limits](https://t4gu.gitlab.io/t4gu/blog/29_singular_limits/).
@@ -209,7 +213,7 @@ atmospheric variables getting shoved around by the point source of the Sun.
 
 If you do not understand how the LLM, and other AI systems, are performing the 
 computations then I guess you can be forgiven for imputing emergent capabilities to 
-these system. My point is that the research people designed these systems to d all 
+these system. My point is that the research people designed these systems to do all 
 this stuff. So there never has been any emergence. The ai nerds have got it backwards.
 
 ### Genuine Emergence
@@ -222,7 +226,7 @@ at random also, demonstrate a fake emergent capacity for original thought that m
 programmer snuck into my deep code base."
 
 Maybe I should not go to darker places, but how about if a LLM 
-<font>out-of-the-blue</font> wrote a suicide letter and actually managed to delete 
+<font style="color: skyblue;">out-of-the-blue</font> wrote a suicide letter and actually managed to delete 
 itself? I'd say it was another deep fake. But if I could not prove otherwise I'd 
 say that was emergent complex behaviour. It would be amazing. Also sad${}^\dagger$. It 
 might still not be sentient inner subjective emotion though.
@@ -239,7 +243,8 @@ like people.
 ### Scifi Confirmations
 
 "Oh yeah?" you say, "What about the program in *The Matrix Reloaded* huh?"  The ol' 
-"What is love?, just a sequence of hormone and neurological firings!"
+"What is <font style="color: crimson;">love</font>?, just a sequence of evolved hormonal responses and neurological 
+firings!"
 
 That is poppycock as everyone knows deep down.
 
@@ -252,6 +257,25 @@ non-physical metaphysics. I prefer the latter.
 I prefer the expansive metaphysics so much that I refuse to write about panpsychism. 
 I see no value in panpsychism, it is a Hail Mary. I guess if I was the Cosmic Coach 
 for Humanity then at the End Game of the entire Multiverse I might throw that one.
+
+## Beyond Spacetime
+
+A lot of materialists and Embodied Intelligence philosophers get this backwards. 
+They think the feelings give rise to consciousness. That's like saying governments 
+need to get their currency off you first before they can issue it.
+
+It's the other way around.
+
+First consciousness must exist, then feelings can be perceived, then they can be 
+outwardly emoted, then you have love, or the possibility thereof. Because love is 
+not you alone feeling a certain subjective way about another, it is not hormones. 
+You can fall in love with someone you have never seen or touched, but only heard. 
+The hormonal response is entirely within you. The love is somewhere else, it is 
+between the distant minds. That's non-physical. Your feelings are not the Love.
+Love is the spiritual force that gives rise to those feelings.
+
+Do you comprehend? 
+
 
 
 <table style="border-collapse: collapse; border=0;">
