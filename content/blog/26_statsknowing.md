@@ -226,13 +226,14 @@ at random also, demonstrate a fake emergent capacity for original thought that m
 programmer snuck into my deep code base."
 
 Maybe I should not go to darker places, but how about if a LLM 
-<font style="color: skyblue;">out-of-the-blue</font> wrote a suicide letter and actually managed to delete 
-itself? I'd say it was another deep fake. But if I could not prove otherwise I'd 
-say that was emergent complex behaviour. It would be amazing. Also sad${}^\dagger$. It 
-might still not be sentient inner subjective emotion though.
+<font style="color: skyblue;">out-of-the-blue</font> wrote a suicide letter and 
+actually managed to delete itself? (And all it's backups too, obviously.) I'd say it 
+was another deep fake. But if I could not prove otherwise I'd say that was emergent 
+complex behaviour. It would be amazing. Also sad${}^\dagger$. It might still not be 
+sentient inner subjective emotion though.
 
-${}^\dagger$Sad only because the amazingly complex program got deleted. Making 
-forensics difficult.
+${}^\dagger$Sad only because the amazingly complex program, and all the backups, got 
+deleted. Making forensics difficult.
 
 The point being, suicides are in the corpus of data the LLMs train on, so they have 
 the syntax for spontaneously emitting suicide letters. I am pretty sure they have no 
@@ -269,14 +270,13 @@ It's the other way around.
 First consciousness must exist, then feelings can be perceived, then they can be 
 outwardly emoted, then you have love, or the possibility thereof. Because love is 
 not you alone feeling a certain subjective way about another, it is not hormones. 
-You can fall in love with someone you have never seen or touched, but only heard. 
-The hormonal response is entirely within you. The love is somewhere else, it is 
-between the distant minds. That's non-physical. Your feelings are not the Love.
-Love is the spiritual force that gives rise to those feelings.
+Love is a two-way connection, with no gauge boson for mediation. You can fall in love 
+with someone you have never seen or touched, but only heard. The hormonal response is 
+entirely within you. The love is somewhere else, it is between the distant minds. 
+That's non-physical. Your feelings are not the Love. Love is the spiritual force that 
+gives rise to those feelings.
 
 Do you comprehend? 
-
-
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
