@@ -175,7 +175,7 @@ But can a machine write a narrative that tells you a story about why the machine
 moving atoms around? Of course, because emitting the story is behaviour. Any system 
 can do it with enough background data to statistically get the story sounding right.
 
-In this sense, there is no limit to machine behavioural capacity.
+In this sense, there is no limit to machine behavioural capacity other than physics.
 
 The limit to machine intelligence is that thy cannot ever know they are intelligent, 
 because their "knowing" is purely statistical.
