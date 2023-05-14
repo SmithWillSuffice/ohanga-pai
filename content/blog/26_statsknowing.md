@@ -177,14 +177,14 @@ can do it with enough background data to statistically get the story sounding ri
 
 In this sense, there is no limit to machine behavioural capacity other than physics.
 
-The limit to machine intelligence is that thy cannot ever know they are intelligent, 
+The limit to machine intelligence is that they cannot ever know they are intelligent, 
 because their "knowing" is purely statistical.
 
 They would be able to produce a sentence telling you their story they emit describing 
 their inner thoughts has a 10% or 1% or so chance of being accurate. Why is this 
 important?
 
-Because *_you-* my der reader are  Singular Limit of such behaviour, because you know 
+Because *_you_* my der reader are  Singular Limit of such behaviour, because you know 
 damn well, as old René Descartes tried to tell you, that you have a 100% chance of 
 your story about your inner thoughts being correct. No one else has this chance, and 
 there is 0% chance you re wrong (unless you are lying, in which case flip it, so you 
