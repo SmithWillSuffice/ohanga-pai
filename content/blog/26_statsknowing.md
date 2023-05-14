@@ -142,35 +142,37 @@ better. Like we knew back in the 1940s' Only now the machines can speed up the t
 quite  a lot, especially the more cognitive tasks (reading, writing, playing 
 e-games). They cannot cook a decent omelette in 3 milliseconds though.
 
-But the tricky thing for my claim is that I really have to take these tasks case-by-
-case, because my general philosophical arguments do not seem to convince the AI nerds. 
-I know why, it is because they are uniformly committed to philosophical materialism, 
-so they have no mental model for the spiritual, it just isn't in their thinking 
-toolkits.
+But the tricky thing for my claim is that I really have to take these tasks 
+case-by-case, because my general philosophical arguments do not seem to convince the 
+AI nerds. I know why, it is because they are uniformly committed to philosophical 
+materialism, so they have no mental model for the spiritual, it just isn't in their 
+thinking toolkits.
 
 I am up against a losing battle I know, because eventually the number of awesome 
 tasks the AI machines can accomplish will overwhelm my ability to debunk them. 
 By "debunk" I mean only debunking claims these advances are pointing towards 
 emerging machine consciousness.
 
-There is nothing "emergent" about adding a few more trillion trillion texts to the training data. (More on this a little later.)
+There is nothing "emergent" about adding a few more trillion trillion texts to the 
+training data. (More on this a little later.)
 
-But before I die I want you to at least keep in mind I am warning you all the Ai are 
-doing is brute-force statistical computation, they are not thinking, they have no 
-empathic feeling, but can arbitrarily accurately mimic the outward behaviours of any 
-or all past actual sentient beings who display empathy, humour or other feelings, 
-precisely because we are feeding the machines this data. Even cleaning uit up for 
-them so they don't barf.
+But before I die I want you to at least keep in mind I am warning you that all 
+the Ai are doing is brute-force statistical computation, they are not thinking, they 
+have no empathic feeling, but can arbitrarily accurately mimic the outward behaviours 
+of any or all past actual sentient beings who display empathy, humour or other 
+feelings, precisely because we are feeding the machines this data. Even cleaning it 
+up for them so they don't barf.
 
 ### Importance of Knowing the Machines are Mimics
 
-Let me stress this point, it is critical. If you look t just behaviour, then a machine 
-can do anything any human has ever done, and more. If it involves moving atoms around, a machine will eventually be able to do it.
+Let me stress this point, it is critical. If you look at just behaviour, then a 
+machine can do anything any human has ever done, and more. If it involves moving 
+atoms around, a machine will eventually be able to do it.
 
-Will the machine understand why it is moving atoms round/ No. It'll never understand.
+Will the machine understand why it is moving atoms round? No. It'll never understand.
 
 But can a machine write a narrative that tells you a story about why the machine is 
-moving atoms around/ Of course, because emitting the story is behaviour. Any system 
+moving atoms around? Of course, because emitting the story is behaviour. Any system 
 can do it with enough background data to statistically get the story sounding right.
 
 In this sense, there is no limit to machine behavioural capacity.
