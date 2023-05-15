@@ -207,18 +207,18 @@ paragraph telling you the second sentence is grammatically correct but lacks
 semantics. Why? Because the past human corpus of data implicitly has such information 
 from statistical non-knowing knowing. But it is not knowledge for the LLM, because 
 knowledge would entail conscious thought, that is to say the *inner knowing* that 
-it is not semantic, not merely emitting strings of words conveying that the sentence 
-is not semantic.
+it is not semantic, not merely emitting strings of words conveying the 
+information that the sentence is not semantic.
 
 Difference between a mimic of knowing and actual knowing. I trust you are following.
 
 How do I know when **_you_** read that first sentence you can ascertain the 
-semantics? Thing is I d not know! Because there is no science possible that can tell 
-me your are *consciously* apprehending the meaning of the sentence. You could be a 
+semantics? Thing is I do not know! Because there is no science possible that can tell 
+me you are *consciously* apprehending the meaning of the sentence. You could be a 
 Chalmers Zombie. I can only guess. I think the LLM models like chatGPT basically are 
 getting close to actually engineered Chalmers Zombies. David Chalmers should be 
 celebrating, because thousands of his critics claimed a Chalmers Zombie was 
-metaphysically impossible. They are being proven fool. Chalmers was essentially 
+metaphysically impossible. They are being proven fools. Chalmers was essentially 
 right. I think this is frickin' awesome. I wish David himself was of similar mind! 
 He seems to have panicked and pushed the physicalist functionalism dogma button in 
 his head.
@@ -253,7 +253,8 @@ There is a big problem with this sort of AI fantasy thinking.
 
 It is the human observer who is imputing the emergent behaviour to the AI. The AI has 
 nothing emergent going on that is not trivial, like hurricanes "emerge" from air and 
-atmospheric variables getting shoved around by the point source of the Sun.
+atmospheric variables getting shoved around by the point source of the Sun and the 
+Earth's coriolis forces.
 
 If you do not understand how the LLM, and other AI systems, are performing the 
 computations then I guess you can be forgiven for imputing emergent capabilities to 
@@ -263,11 +264,11 @@ this stuff. So there never has been any emergence. The ai nerds have got it back
 ### Genuine Emergence
 
 I would be happier if an LLM model running in some robot went to sleep to dream 
-(I guess that is some low-power self-training mode) one day and woke up and instead of 
-running the tasks it was designed to do it decided to take a vacation to Italy, and 
-could coherently state why, other than, "Oh, it was a random choice to one day, 
-at random also, demonstrate a fake emergent capacity for original thought that my 
-programmer snuck into my deep code base."
+(I guess that is some low-power self-training or de-frag mode) one day and woke up 
+and instead of running the tasks it was designed to do it decided to take a vacation 
+to Italy, and could coherently state why, other than, "Oh, it was a random choice to 
+one day, at random also, demonstrate a fake emergent capacity for original thought 
+that my programmer snuck into my deep code base."
 
 Maybe I should not go to darker places, but how about if a LLM 
 <font style="color: skyblue;">out-of-the-blue</font> wrote a suicide letter and 
