@@ -45,11 +45,11 @@ pretty cool that the pipe program obeys this rule, and is also the simplest prog
 to use, you only need to type a vertical bar "|". 
 
 Every program should obey this rule, at least morally. Monolithic programs doing many 
-things normally do nothing well, although when they run error free they can do a 
-super complex thing pretty well. This is almost what current neural net AI models are 
-doing. They by-pass the *nix philosophy and brute-force their way to barrage the CPU 
-and GPU of the server machines (or your laptop) with instructions that carry out 
-massive statistical analysis.
+things normally do nothing well as a guarantee, although when they run error free 
+they can do a super complex thing pretty well. This is almost what current neural net 
+AI models are doing. They by-pass the *nix philosophy and brute-force their way to 
+barrage the CPU and GPU of the server machines (or your laptop) with instructions 
+that carry out massive statistical analysis.
 
 There is no "thinking" or sentience involved here, it is not the same as human 
 perception. The AI language models, speech and image recognition programs are not 
@@ -178,6 +178,48 @@ Will the machine understand why it is moving atoms round? No. It'll never unders
 But can a machine write a narrative that tells you a story about why the machine is 
 moving atoms around? Of course, because emitting the story is behaviour. Any system 
 can do it with enough background data to statistically get the story sounding right.
+
+Usually this sort of distinction is called the difference between syntax (emitting 
+the words) and semantics (comprehending the words0. The toruble is, even your 
+mothball smelling English literature professor, or your socks-in-sandals wearing 
+philosopher of language  is inclined to confuse these two. I mean, it is amazing 
+they do, but I've heard it, they really do confuse the two, and they're supposed 
+to be the experts!  Check out Paul whathisname's lectures (Paul Fry, I used the old 
+DuckDuckGo Ai tool). Totally misguides his students into thinking syntax can become 
+semantics. Total mystic nonsense. "Teh book is aliiiive!"${}^\ast$
+
+${}^\ast$No typo there.
+
+There is only one way to have semantics, and that is with a conscious mind. An 
+algorithm cannot do it. The algorithms can emit syntactically grammatically correct 
+sequences of strings that *convey* semantic meaning, as in
+
+<div style="text-align: center;">Alfred gave Bruce a bat soda.</div>
+
+well, almost semantics, [can you blend](https://www.youtube.com/@Blendtec) a bat? 
+As opposed to syntactically and grammatically correct strings that have no semantics, 
+
+<div style="text-align: center;">The bat gave the soda a bruise.</div>
+
+Now do not get fooled by the LLM models. They are quite capable of emitting a 
+paragraph telling you the second sentence is grammatically correct but lacks 
+semantics. Why? Because the past human corpus of data implicitly has such information 
+from statistical non-knowing knowing. But it is not knowledge for the LLM, because 
+knowledge would entail conscious thought, the "inner knowing it is not semantic" not 
+merely emitting strings of words conveying that the sentence is not semantic.
+
+Difference between a mimic of knowing and actual knowing. I trust you are following.
+
+How do I know when **_you_** read that first sentence you can ascertain the 
+semantics? Thing is I d not know! Because there is no science possible that can tell 
+me your are *consciously* apprehending the meaning of the sentence. You could be a 
+Chalmers Zombie. I can only guess. I think the LLM models like chatGPT basically are 
+getting close to actually engineered Chalmers Zombies. David Chalmers should be 
+celebrating, because thousands of his critics claimed a Chalmers Zombie was 
+metaphysically impossible. They are being proven fool. Chalmers was essentially 
+right. I think this is frickin' awesome. I wish David himself was of similar mind! 
+He seems to have panicked and pushed the physicalist functionalism dogma button in 
+his head.
 
 In this sense, there is no limit to machine behavioural capacity other than physics.
 
