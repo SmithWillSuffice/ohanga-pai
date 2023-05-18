@@ -24,6 +24,11 @@ channel
 know there are plenty more amazing uses which chatGPT is being put to, especially 
 functional chaining, so I want to mention that too, I will start with this.
 
+I have started expanding on this topic over at 
+[T4GU here](t4gu | https://t4gu.gitlab.io/t4gu/blog/30_antituring) --- where I begin 
+a blog series with ways to test for subjective consciousness.
+
+
 ## AI Chains
 
 Functional chaining is just a more algorithmic way of combining tools. When you can 
