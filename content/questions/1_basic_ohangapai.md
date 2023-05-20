@@ -331,6 +331,21 @@ The labour market is not a fair game (employers do not always forego income when
 The analogy would be like playing Football in a system that is governed by Rugby, or even worse, it could be in the USA a lot like trying to play NFL with the rules of baseball, completely messed up government policy results, for no good reason other than ignorance of the monetary system. 
 Under such political conditions one cannot blame MMT for any economic crises, the blame has to fall upon the decision makers who utterly fail to understand their own nation's monetary operations.
 
-[Next chapter (TBC)](../2_what_is_money)  
-[Previous chapter (Introduction)](../0_introduction)  
-[Back to Questions TOC](../)
+
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 38%;">
+       <col span="1" style="width: 38%;">
+       <col span="1" style="width: 38%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../0_introduction">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../2_what_is_money">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../0_introduction">Introduction </a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../2_what_is_money">What is Money?</a></td>
+</tr>
+</table>

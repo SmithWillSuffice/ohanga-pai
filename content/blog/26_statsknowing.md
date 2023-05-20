@@ -25,7 +25,7 @@ know there are plenty more amazing uses which chatGPT is being put to, especiall
 functional chaining, so I want to mention that too, I will start with this.
 
 I have started expanding on this topic over at 
-[T4GU here](t4gu | https://t4gu.gitlab.io/t4gu/blog/30_antituring) --- where I begin 
+[T4GU here](https://t4gu.gitlab.io/t4gu/blog/30_antituring) --- where I begin 
 a blog series with ways to test for subjective consciousness.
 
 
@@ -337,11 +337,11 @@ Do you comprehend?
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../25_agi_fearandloathing">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../27_justiceandknowing">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../25_agi_fearandloathing">Fear and Loathing of AI</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">(TBD)</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../27_justiceandknowing">Justice and Knowing</a></td>
 </tr>
 </table>
