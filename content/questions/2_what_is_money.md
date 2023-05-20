@@ -67,11 +67,11 @@ Because the state always makes good on its promise to redeem a tax payment, it n
 
 There are generally only three ways to *earn* state currency (so we're not considering welfare payments):
 
-1. Take out bank credit by handing the bank a promissory note that you will repay (that's what a  credit card agreement does),
+1. Take out bank credit by handing the bank a promissory note that you will repay (that's what a credit card agreement does, also a mortgage agreement),
 2. or work for the state or contract your services to the state.
 3. Sell your goods or labour to someone who already has earned the state currency (or received state welfare).
 
-In such cases 1., and 2., the state tells you what their currency is worth, e.g, 20 units for one hour of work as a park ranger.
+In such cases 1., and 2., the state tells you what their currency is worth, e.g, 35 units for one hour of work as a park ranger.
 The monopoly issuer of an IOU tells you what their IOU is worth. 
 They are price setter, not price taker. 
 There is no market force at work saying what the currency is worth.
@@ -79,38 +79,48 @@ There is no market force at work saying what the currency is worth.
 ## What about private market goods for sale?
 
 The State tells you what their currency is worth. 
-But since land owners and rentiers need to pay taxes, they need to get the state currency units on their scoreboard (their bank account). 
+But since land owners and rentiers need to pay taxes, they need to get the state 
+currency units on their scoreboard (their bank account). 
 To do so they will either sell goods or charge you and me rents.
 
 How do they know what prices to charge or rents to charge?
 
-This is determined by the proverbial market forces. But the secondary markets cannot set the price level, because they are competing for the state currency which they cannot issue. 
-They (as a whole) can only get credit from a bank, or sell to the public sector, there is no other legal way they can get the currency to pay their taxes. 
-(They may try dodging taxes, but that's risky, and in any case requires paying a tax accountant a lot of currency units!)
+This is determined by the proverbial market forces. But the secondary markets cannot 
+set the price level, because they are competing for the state currency which they 
+cannot issue. They (as a whole) can only get credit from a bank, or sell to the public 
+sector, there is no other legal way they can get the currency to pay their taxes. 
+(They may try dodging taxes, but that's risky, and in any case requires paying a tax 
+accountant a lot of currency units!)
 
-So private markets can only set relative prices.  All goods for sale are priced relatively, relative to what the State says their currency is worth.
+So private markets can only set relative prices.  All goods for sale are priced 
+relatively, relative to what the State says their currency is worth.
 
-### Example: police versus farmer
+### Example: police versus farmer {#what-is-the-qtm-myth}
 
-The state says it will pay anyone 10 units (of their tax credits) an hour to work in the police force. 
-A farmer who needs to pay taxes and electric bills (because electricity companies need to pay taxes) says, "F that, I can grow on average 10 apples an hour, so I'll instead sell apples for one unit." 
-All are happy. The police officer hates digging dirt and likes to police, the farmer likes to farm.
+The state says it will pay anyone 10 units (of their tax credits) an hour to work in 
+the police force. A farmer who needs to pay taxes and electric bills (because 
+electricity companies need to pay taxes) says, "F that, I can grow on average 10 
+apples an hour, so I'll instead sell apples for one unit." All are happy. The police 
+officer hates digging dirt and likes to police, the farmer likes to farm.
 
-Tomorrow the state comes out and by fiat announces: "We are now paying police officers 20 tax credits an hour." 
-(And they just type the new numbers into all the police officer's bank accounts, it costs next to nothing to do so, except one single government accountant clerks time.)
+Tomorrow the state comes out and by fiat announces: "We like our police, they're 
+doing a good job, we are now paying police officers 20 tax credits an hour."  (And 
+they just type the new numbers into all the police officer's bank accounts, it costs 
+next to nothing to do so, except one single government accountant clerks time.)
 
 The farmer responds, "OK, man, my apples now sell for 20 units each."
 
-The farmer takes out a marker pen and crosses out "10" and writes "20" on their price tags. 
-You could call that "printing money."
+The farmer takes out a marker pen and crosses out "10" and writes "20" on their price 
+tags. You could call that "printing money."
 
 The state has just caused 100% inflation. 
 They devalued the currency by 100% with a simple announcement. 
-(Technically a currency re-gauging, not inflation, since inflation is a *continual increase* in the price level. 
-This is a one-off adjustment.)
+(Technically a currency re-gauging, not inflation, since inflation is a 
+*continual increase* in the price level. This is a one-off adjustment.)
 
 Such is a good illustration of how secondary market prices get determined. 
-In the real world it's messier because monopolists for supply of apples and whatnot stuff up the fair relative prices.
+In the real world it's messier because monopolists for supply of apples and whatnot 
+stuff up the fair relative prices.
 
 
 ## Caveats
@@ -122,7 +132,20 @@ It is better *not to trust me* until you've verified a few of my sources.
 Then you can thank yourself instead of thanking me, for doing the checking.
 
 
-
-[Next chapter (Tax Myths and Reality)](../3_tax_myths)  
-[Previous chapter (Basic MMT)](../1_basic_ohangapai)  
-[Back to Questions TOC](../)
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 38%;">
+       <col span="1" style="width: 40%;">
+       <col span="1" style="width: 40%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../1_basic_ohangapai">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../3_tax_myths">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../1_basic_ohangapai">Basic Ōhanga Pai </a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../3_tax_myths">Tax Myths</a></td>
+</tr>
+</table>
