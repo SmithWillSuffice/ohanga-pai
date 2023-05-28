@@ -227,11 +227,11 @@ which would be bad, or potentially bad for your quality of learning let's say.
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../22_discounting">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Questions</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="..24_irsmoothie/">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../22_discounting">Interest Rate Discount</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../100_why_does_it_matter">Why Does it All Matter?</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../24_irsmoothie">Big Smoothies</a></td>
 </tr>
 </table>
