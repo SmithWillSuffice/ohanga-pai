@@ -84,11 +84,11 @@ For more on AI from scientific and philosophy angles (not the same angles) see
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../26_statsknowing">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../28_mushrooms">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../26_statsknowing">Statistical Knowing</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">(TBD)</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../28_mushrooms">Mushrooms and University</a></td>
 </tr>
 </table>
