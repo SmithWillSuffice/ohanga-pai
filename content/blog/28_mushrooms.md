@@ -97,6 +97,14 @@ university courses and diligently complete the assignment to become a better "MM
 Nurse." I'm never going to be the best *MMT Nurse*. But if no others arise in large 
 numbers, I'll do what I can.
 
+As for use of psychedelics in medical practise? I am neither for nor against. I do 
+not think people need to use psychedelics to gain spiritual experiences, clearly. 
+The psycho-active side-effects of medicines are tolerable in many cases, and are 
+certainly no good reason to not use them as medicines, if they produce superior 
+healing effects. If we banned medicines and foods because they have unwanted 
+side-effects we'd have very few legally available medicines and almost nothing 
+legally available to eat.
+
 
 ## University Research
 
@@ -104,7 +112,7 @@ On the points just made: *more research not less* is what I call for, especially
 when the placebo effect is confounded by obvious psychoactive effects. 
 especially when the "tax payer" is frikin' **_not funding it_**. No one's 
 wallet shrinks when our NZ government employs university researchers. It's the 
-exact opposite, someone' wallet gets thicker, with no inflationary bias --- until 
+exact opposite, someones wallet gets thicker, with no inflationary bias --- until 
 tax is paid.
 
 Well that means employing more people in university research, not less. That means 
@@ -126,8 +134,46 @@ They're not only ignorant now, but since MMT has become headlines they are disgu
 frauds and willfully ignorant, and that becomes a crime against humanity, and over 
 time only more of a crime, less of an innocent ignorance.
 
+### Poer of the Pen ctivism
 
+I know it feels pathetic, but the word *is* powerful. It's juts you have to use it, 
+not stay silent.  So I wrote an email to the journalist who published the "Crisis in 
+Our Universities" headline in the Wellington Dominion Post.  It is up to him to 
+desire to read and enquire into the truth, I've given him the chance.  I re-publish my 
+email here so other activists can do some Copy & Paste and re-use. Edit for your 
+purposes, and write to me if you think you can improve such letters to journalists. 
+I especially like shorter letters that get to the point without being impolite.
 
+((Journalists, ironically, suffer from attention and reading deficit disorders. 
+They have very small mental capacity to absorb new knowledge. The gossip 
+columnists and click-bait writers focus on the spectacle, not enough on the truth.
+And let's be honest, 90% of political opinion columns degenerate into gossip, and 
+are not informing the public of the available policy space options available to 
+governments.))
+
+Journalists are supposed to be our mirrors to the world and speakers of truth to 
+power, but too many journalists remain among the ignorant on matters of 
+macroeconomics, and that, like the lack of trained psychiatric nurses, is a big 
+f-ing problem.
+
+I'd say the lack of honest and courageous journalists is the bigger f-ing problem. 
+Too many of them have libertarian tendencies or have drunk the neoliberal austerity 
+koolaid. Sometimes this derives from a protestant work ethic, but they've then got 
+it all horribly backwards.
+
+The protestant work ethic, for what good it is, tells you to employ people, not 
+unemploy them. You do not therefore "tighten the belt of government"! That's a false 
+metaphor. The government is the provider of currency "bread and water" 
+metaphorically, so needs to issue for public purpose, unconstrained, not withdraw the 
+sustenance because "they will run out of this bread".  They cannot run out of NZ 
+dollars, and are not beholden to bond markets for finance.
+
+If a useful resource (think willing labour, first and foremost) is not being 
+employed, government can always employ it, without question, and without driving up 
+prices, because the unemployed resource bid from the private sector is by definition 
+zero. The horrific social and lost real output costs of not employing all willing 
+labour is enormous, exceeding, in the matter of about a decade, the costs of all wars 
+in all human history.
 
 
 <table style="border-collapse: collapse; border=0;">
