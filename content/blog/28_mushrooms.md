@@ -139,7 +139,7 @@ and over time only more of a crime, less of an innocent ignorance.
 
 ### Power of the Pen Activism
 
-I know it feels pathetic, but the word *is* powerful. It's juts you have to use it, 
+I know it feels pathetic, but the word *is* powerful. It's just you have to use it, 
 not stay silent.  So I wrote an email to the journalist who published the "Crisis in 
 Our Universities" headline in the Wellington Dominion Post.  It is up to him to 
 desire to read and enquire into the truth, I've given him the chance.  I re-publish my 
@@ -159,14 +159,14 @@ power, but too many journalists remain among the ignorant on matters of
 macroeconomics, and that, like the lack of trained psychiatric nurses, is a big 
 f-ing problem.
 
-I'd say the lack of honest and courageous journalists is the bigger f-ing problem. 
+I'd say the lack of honest and courageous journalists is the bigger problem. 
 Too many of them have libertarian tendencies or have drunk the neoliberal austerity 
 koolaid. Sometimes this derives from a protestant work ethic, but they've then got 
 it all horribly backwards.
 
 The protestant work ethic, for what good it is, tells you to employ people, not 
 unemploy them. You do not therefore "tighten the belt of government"! That's a false 
-metaphor. The government is the provider of currency "bread and water" 
+metaphor in any case. The government is the provider of currency "bread and water" 
 metaphorically, so needs to issue for public purpose, unconstrained, not withdraw the 
 sustenance because "they will run out of this bread".  They cannot run out of NZ 
 dollars, and are not beholden to bond markets for finance.
