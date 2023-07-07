@@ -9,26 +9,251 @@ toc: true
 katex: true
 ---
 
-Recent "friendlies" were hosting UBI shills, stabbing us in the back and twisting 
+Recently "friendlies" were hosting UBI shills, stabbing us in the back and twisting 
 the knife, so I had to write to defend MMT.
 
 I am so bitter about this I cannot name names, because that would imply 
-friendly banter. I have to attack the ideas.
+friendly banter. I have to attack the ideas. There is *nothing* friendly about 
+UBI, the UBI is a direct frontal attack on the working class. I have to fight 
+back for workers.
 
-When I name names, like Jason Hickel, or Michael Hudson, or Paul Krugman, or 
-Richard Wolff, and have something against their ideas to say, I'm always doing it 
-in a good faith friendly way. That's because I trust (some of) these people. 
-That is, I trust they are writing or speaking in good faith. Sometimes I see their 
-ideas are born out of ignorance, and so results in straw-manning MMT, but I can 
-usually see where the fault lies, and so will not shy from calling hem out. I know 
-full well I could be misinterpreting them, or might even have things wrong myself on 
-the facts.
+When I name names, like Jason Hickel, Steve Keen, or Michael Hudson, or 
+Paul Krugman, or Richard Wolff, and have something against their ideas to say, 
+I'm always doing it in a good faith friendly way. That's because I trust (some of) 
+these people. That is, I trust they are writing or speaking in good faith. Sometimes 
+I see their ideas are born out of ignorance (that's you Kruggers), and so results in 
+straw-manning MMT, but I can usually see where the fault lies, and so will not 
+shy from calling them out. I know full well I could be misinterpreting them, or 
+might even have things wrong myself on the facts.
 
-However, UBI and crypto-noncurrency are different stories. These are things that 
+However, <font style="color: #B87333;">UBI</font> and 
+<font style="color: #FFF380;">crypto-noncurrency</font> are different stories. These are things that 
 act directly against working class interests, and in the most insidious ways --- 
 since it is not hard to "sell" a good decent honest working class pleb on these 
-ideas.  Who doesn't want the get rich quick (crypto) or have free money (UBI)?
+ideas.  Who doesn't want to get-rich-quick (crypto) or have free money without 
+earning it (UBI)?  (Apart from me that is.)
 
+Crypto is worse than gold, it is gold mentality without the gold, without a real 
+resource. What is the resource crypto relies upon? It is not "Trust" as the crypto 
+shills claim, since as Cory Doctorow has repeatedly warned, all electronic ledger 
+schemes and the like ultimately depend upon a legal framework and trust of people, 
+not encrypted software. People who think crypto has digitalised trust are delusional, 
+and have not fully thought it all through.
+
+If you want "proof-of-work" how about showing me some muffins you made for lunch, 
+or some high energy electrons you produced to help fuel my GPU. 
+Phucckin' crypto-phuckers.
+
+Try waving your distributed ledger at an Afghan warlord whose land your ledger says 
+you own. (OK, that's not a real example, but it makes the point.)
+
+Your crypto does not give you a claim on anything because no one promises to redeem. 
+If you can however find a bigger fool than you, you can take their *state currency* 
+(or drugs, or whatever) off them and give them your bitcoin. But that was not a 
+promise of redemption. The trust in the security of a digital ledger is not real 
+trust in humanity.
+
+But this article is not the anti-crypto one, that'll come later.
+
+
+## Big f-ing Problem Up-Front
+
+Hell yes people need money. We need state currency to pay tax liabilities and meet 
+reasonable savings desires (short of gross hoarding, i.e., sales for making profit 
+for the sake of profit and nothing else, no public interest just money fetish).
+
+This is however not a case for UBI.
+
+Only an idiot or neoliberal would consider UBI a necessity. Only a rentier would 
+consider UBI both necessary and good. Neoliberals practically make UBI seem like a 
+necessity. So I can understand in a neoliberal era people think UBI might be a good 
+idea. The point is we should work to destroy neoliberalism, not to patch it up with a 
+UBI. We should work to euthanise the rentiers, not feed them from the poisoned 
+wellspring of UBI.
+
+## The Real Brainworms
+
+However, this "patched-up neoliberalism" idea is still brainworms. Even under 
+neoliberalism a UBI is a policy of lunatics. Why issue currency to people who 
+already have enough to pay taxes and keep some savings? It makes no sense. 
+
+If I am straw-manning the UBI shills forgive me, but pray-tell what is a UBI if 
+it is not universal? If it is not universal then stop calling it a UBI for godssake.
+
+At worst 
+governments who are neoliberal could issue a *Basic Income Guarantee* so people do 
+not starve or suffer long term bank debt. From an MMT perspective (an anti-neoliberal 
+political economy if ever there was one) a Basic Income Guarantee is practical, fits 
+public purpose, and is wise and just. A UBI is all the opposite.
+
+However, it is *how* a Basic Income Guarantee is implemented that matters, a BIG 
+itself can be done poorly to similarly undermine real wealth as a UBI would. So 
+even a BIG needs some considerate policy thought, not a welfare hand-out mindset.
+
+> The correct mindset for a Job Guarantee and Basic Income Guarantee is reciprocity, 
+not welfare. All social welfare is produced and generated by the working class, not 
+by government hand-outs.
+
+UBI, in other words, is a giant "fuck you!" to workers. I am bitterly opposed to UBI.
+
+Governments can always issue enough currency to meet our capacity to pay their 
+imposed tax liabilities plus our reasonable savings desires. No UBI is necessary 
+for this. Consider,
+
+1. Anyone able to contribute for public local community purpose can be recompensed 
+with a decent full living wage plus benefits. This is called reciprocity. It is 
+righteous. 
+2. Any social good anyone does living off a UBI hand-out or wage subsidy should be 
+recognized as a contribution to society meriting a decent living wage, not a social 
+welfare pittance.
+3. UBI is a claim on someone else's labour --- usually some poor worker in the global 
+south --- and for nothing in return. UBI is disgusting.
+4. Pensions and social welfare payments are called "civilisation" and are not a 
+UBI. They establish a type of BIG. But with full employment the BIG would be more 
+substantial, because real resources would be backing the claims the welfare 
+beneficiaries have rights, as member of society, to claim.
+
+UBI is anti-civilisation and pro-individualism and greed. UBI is the sick mentality 
+of, "I exist, therefore I have a right to claim the fruits of someone else's labour 
+while providing them nothing real in return."
+
+I am sure leftists who advocate a UBI simply *know not what they do.*
+
+
+### What About Taxing the Rich?
+
+There is no need to use a UBI as an excuse to tax the rich. If we do not want people 
+hoarding obscene amounts of state currency we should tax them because we do not want 
+people hoarding obscene amounts of state currency.
+
+Currency hoarding of the obscene variety distorts democracy, and we would not need 
+any other excuse to tax obscene hoarders to the high hilt. They are not the job creators.
+
+If you do run a UBI, the tax on the rich goes back to them as UBI + rents. There is 
+no public purpose served by such policy, it is profoundly regressive and does nothing 
+to generate real output people need today. If governments need to stimulate demand, 
+they can always choose to raise the minimum wage, and preferably by implementing a Job 
+Guarantee at a living wage floor.
+
+It makes no sense to use a UBI for this purpose. 
+
+Any self-interested pursuit to u=skill or start a business, or other private 
+enterprise justifies bank credit. But if it also fits with a public purpose then such 
+skill training needs can be incorporated into a Job Guarantee scheme. A proper wage for proper work. If it fits public purpose it can be admitted into a Job Guarantee schedule, no further questions asked. No enterprising individual with greta ideas should have to fund their endeavour using a pittanc eof a UBI.
+
+### What About Human Freedom and Liberty?
+
+A Job Guarantee gives workers the power to tell exploitative employers to piss off. In 
+a monetary economy of any type (capitalist or socialist or a mix) there is hardly any 
+greater proletarian power short of a dictatorship of the proletariat (who are not 
+going to be running a UBI). But the Job Guarantee wage has to be a decent living 
+inclusive wage. UBI undermines the capacity to afford workers a decent living wage, 
+since a UBI adds all demand for zero supply.
+ 
+UBI is pro-inflationary in a bad way.
+ 
+A Job Guarantee is a counter-cyclical stabiliser, so is pro-inflationary only in a 
+credit crunch end of a cycle, so is deflationary on the way up, inflationary on the 
+way down, which is exactly what any wise person would recommend. A UBI on the other 
+hand, to act counter-cyclically, needs policy decision adjustment, which is not 
+automatic, so is not what we should want, since it'll keep us hostage to the policy 
+makers, who clearly do not always have public interest to heart.
+
+UBI empowers fascism (I claim). Why? Because the hand-out is all up to the 
+government to dispense, like a Cesar. UBI firstly props up neoliberalism, and we 
+all know neoliberalism is the precursor to support for fascism. Yes, fascism always 
+ends, and never ends well, but we do not have to go through fascism to get to 
+socialism and/or liberal democracy without the austerity.
+
+A Job Guarantee enshrined in Law is more freedom, since it is a claim the worker has 
+on the state. The UBI is a claim a non-worker has on someone else's labour. F-ing 
+disgusting.
+
+### Isn't a Job Guarantee Fetishising "Work"?
+
+F-off with that bullsh1t. Honest work for public service is righteous. There is no 
+implied fetish. 
+
+Slave labour for a boss who is producing crap and can sell it using clever 
+marketing or crony government subsidies, is the bullsh1t here. That's also 
+bullsh1t work. Yes, you should not fetishise bullsh1t work.
+
+Work performed in the spirit of service to humanity is the opposite of this, it 
+is good, righteous and should only be encouraged and rewarded. In a monetary 
+economy claiming the work itself should be "its own reward" is bullsh1t. 
+
+I am thoroughly against "volunteerism". If someone volunteers for public purpose 
+work, pay them. If the charity cannot pay them the government Job Guarantee can. 
+If they do not need the currency you can accept it back off them if they want to 
+donate and be considered a volunteer proper.  The rightful "Volunteer" is the one 
+who volunteers to return their wages. But we have to pay them first, which is to 
+definitely *not* fetishise the labour, it's the opposite, it is recognition, not 
+fetishisation.
+
+UBI shills are the fetishists here. The fetish of the false promise of 
+"freedom from work."
+
+If we get a boatload of machine automation there will still be work do to, the 
+good thing about automation is this new work could be almost 100% pleasant and 
+desirable, like solving difficult unsolved math problems, or producing amazing 
+art work that cannot be automated. We can redefine the meaning of work, it can 
+be service to humanity. That is a spiritual outlook, the opposite of a fetish.
+
+
+### Isn't Social Welfare Already a UBI of Sorts?
+
+"... so why not ramp up social welfare and run a UBI policy, huuh?"
+
+That would be retarded.
+
+Social welfare payments and pensions are *not UBI*. Pensions and social welfare 
+are simply good policy if you want a civilised society where we take care of all.
+Especially we take care of those who lack the capacity to take care of themselves.
+
+How do we do that best? Not with currency. We do it with work, to produce socially 
+necessary output people first of all *need* to live a decent life, and second of all 
+desire to consume sustainably. Paying people living wages, not slave wages, to do the 
+sometimes sh1t but not bullsh1t work is how we do this.
+
+The currency is on the back-end to ensure fair distribution, not to generate the 
+output.
+
+I know UBI is strong in Scandanavia, Alaska, Canada and South Africa. Please stay 
+away from New Zealand, we don't want you phuckers around here destroying our 
+politics (TOP Party get lost you bastard over-educated liberal elite wankers).
+
+
+## Not a good argument - but who supports UBI?
+
+Apart from insane libertarians, the major supporters of UBI are dorks like 
+Elon Musk, Bill Gates, and Jeff Bezos. (Also dorks like the late David Graeber 
+whose other work I respect and admire. Good people can say stupid sh1t.) Actually I 
+do not know they do support UBI, but people like them do. They know they need workers 
+to buy their crap. They do not want to fairly pay their workers. So... UBI man! 
+(Cock-suuuuckeeers.)
+
+Good enough argument for me against UBI.
+
+
+## Future Prospects
+
+If you are one of those who currently support UBI and are ignorant of MMT, fair 
+enough, but please go educate yourself. If you still support UBI do not thank me 
+later for warning you about the ills of UBI. Just your thinking 
+alone makes me ill and I want nothing to do with you, let alone your actual policy 
+implementation. I do not want or need your thanks. I'd rather you think for 
+yourself and work it out, without a bitter person like me to tell you not to sh1t 
+all over the working class.
+
+If humanity sorts itself out more peacefully and in unity then we will see a small 
+Job guarantee program in every country and expanded public sector employment for 
+skilled workers. I do have some optimism about this, because not everyone on this 
+planet is batshit stupid. And even UBI shills are not necessarily greedy selfish 
+people, they're just ignorant and lazy in their thinking. I can tolerate a bit of 
+laziness. Especially the mathematical, engineering, and programming kind, which 
+work their butts off today to a ridiculous degree just to avoid harder work tomorrow, 
+thus tomorrow freeing up time to do more engineering they'd otherwise not have time 
+to do. And why? Not for a pay check, but because it is cool *and* has a pay check.
 
 
 <table style="border-collapse: collapse; border=0;">
@@ -43,7 +268,7 @@ ideas.  Who doesn't want the get rich quick (crypto) or have free money (UBI)?
 <td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../28_mushrooms">Justice and Knowing</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../28_mushrooms">Mushrooms and University</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">(TBD)</a></td>
 </tr>

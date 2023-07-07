@@ -81,7 +81,7 @@ responsibility?  Here was my comment:
 experience, is "not skilled" how tf do we resource the workers needed to safely 
 administer psychedelics? Seems to me ketamine is a better way to go at least for 
 depression, known to act directly on the glutamate receptor damage in people with 
-chronic depression. (You can fact-check me, I'm not an expert.) also, get those 
+chronic depression. (You can fact-check me, I'm not an expert.) Also, get those 
 neoliberal and fash bastards out of political office, and institute full employment 
 and green sustainable working class prosperity, euthanise the rentiers, and you 
 remove most of the need for "cures" for depression and anxiety, you reduce the 
@@ -184,9 +184,8 @@ Here is the letter I wrote, feel free to copy, edit, re-use:
 I greatly appreciate your journalism, and congratulations on getting the headline 
 in the Dominion Post.  Could I humbly suggest a few ways to massively improve your 
 public education concerning university funding?   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, and I think most important, is journalists 
-need to inform the public that government cannot run out of their own currency, they 
-issue it by fiat. Taxes are not a funding operation for currency sovereign 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, and I think most important, journalists 
+need to inform the public that the government cannot run out of their own currency, they issue it by fiat. Taxes are not a funding operation for currency sovereign 
 governments, they are a demand mechanism (we need the governments currency to pay tax 
 liabilities, fees and fines). Imposed tax liabilities (not tax return) creates demand 
 for an *otherwise worthless* currency token, it does not create supply of these 
@@ -195,7 +194,7 @@ dollars here in Aotearoa).
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Same with Treasury bond issue: they do not fund 
 the government, they are interest rate maintenance operations. No one can possibly 
 pay a dime in tax or buy a bond until the NZ government first issues the NZ dollar. 
-Banks can only legally issue creidt, they cannot create net NZD financial assets.
+Banks can only legally issue credit, they cannot create net NZD financial assets.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondly, there is no public purpose served by 
 unemploying available sustainable resources, and the NZ government can always employ 
 any available resource without causing inflationary pressure. If the real resources 
@@ -203,33 +202,32 @@ are available and not employed by the private sector, by employing them the
 government cannot cause any price pressure, since by definition the private sector bid 
 for those resources is zero.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thirdly, the quantity theory of money is an 
- myth. It is empiray false, plenty of data shows when currency supply increases firms 
-will prefer to bring on idle capacity rather than increase prices, if there is 
+ myth. It is empirically false, plenty of data shows when currency supply increases firms will prefer to bring on idle capacity rather than increase prices, if there is 
 sufficient market competition. Most firms have a lot of idle capacity.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The government is a currency monopolist, and can 
-thus always chose to set the price and let supply float, like any monopolist. As a 
+thus always choose to set the price and let supply float, like any monopolist. As a 
 simple point of logic they are price-setter, not price taker. Our politicians and 
 officials do not understand this, because they are operating under the myths of 
 neoliberal and neoclassical economics (fallacies due to not appreciating the 
 government has a simple public monopoly on the currency and legal system).  The 
-result is policy advice and implementation that is needless austerity.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Foruth, there is no public purpose served by 
-artificially constrinaing university staff and research budgets if the real resources 
+result is policy advice and implementation that is needless austerity.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fourth, there is no public purpose served by 
+artificially constraining university staff and research budgets if the real resources 
 are already available ((including labour). By staying clear of university concerns 
 the government is not in fact being "hands-off" they are wilfully imposing needless 
 austerity, such depoliticisation attempts are a gross abnegation of public 
 responsibility. The NZ government has already interfered in public education by 
 simply being the issuer of the currency, if they fail to issue enough to meet the 
 needs to pay taxes and the desires to save, they've generated needless unemployment 
-(people needing to earn the tax credit who cannot get the tax credit). this is a 
-tragic policy mistake to fix it governments needs to either lower the tax liabilties 
+(people needing to earn the tax credit who cannot get the tax credit). This is a 
+tragic policy mistake, to fix it government needs to either lower the tax liabilities 
 or hire all the people who they unemployed by issuing too many tax liabilities to 
-meet the desire to save.  
+meet the aggregate desires to save.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Savings in NZD are a demand withdrawal out of 
 circulation, they are anti-inflationary, so if people still have unmet savings 
 desires the government has not issued enough currency, and have generated needless 
 unemployment. The governments fiscal deficit is our (private sector) collective 
-savings, to the dollar.  
+savings, to the dollar.  Why do people keep saying they want the government deficit to be reduced? It can only be out of gross ignorance. This would reduce net savings of the private sector.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lastly, if you desire to learn about the reality 
 of monetary operations and fiscal policy space available to a government like NZ, 
 which operates a fiat currency on a floating exchange rate (which is critical) then 
@@ -239,6 +237,19 @@ questions I would be happy to answer.
 Regards,  
 Dr B. M. Smith.
 
+I think I attached Warren Mosler's books. Depending on who you correspond with you 
+might attach Stephanie Kelton's or Randall Wray's books. I also send them 
+Pavlina Tcherneva's *A Case for the Job Guarantee*.  If my correspondent is someone 
+who might by chance be read by people in power, I can justify paying the fee for 
+the ebook licence key.
+
+I know not all MMT activists have the cash to send, frankly I often don't either, 
+and I'd like to write more letters. Under such conditions a pirated ebook is not 
+a crime on my books. Sure, I could get arrested for failing to pay a fine for 
+sharing, but I've already paid Kelton, Wray and Tcherneva enough in royalties to 
+last a lifetime, and I paid my dues by cleaning up Mosler's two books in nice 
+$\LaTeX$. Plus none of what you are reading now is behind a pay-wall. If you want 
+a copy of any of the books for education fair re-use just let me know.
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
