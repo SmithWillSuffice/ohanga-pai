@@ -218,9 +218,14 @@ sometimes sh1t but not bullsh1t work is how we do this.
 The currency is on the back-end to ensure fair distribution, not to generate the 
 output.
 
-I know UBI is strong in Scandanavia, Alaska, Canada and South Africa. Please stay 
+I know UBI is strong in Scandinavia, Alaska, Canada and South Africa. Please stay 
 away from New Zealand, we don't want you phuckers around here destroying our 
 politics (TOP Party get lost you bastard over-educated liberal elite wankers).
+
+Back to present day: we already have "adequate" social welfare programs for people 
+who cannot or should not be working. The problem is not that the programs do not 
+exist, the problem is *they are not fairly provisioned*. A UBI directly undermines 
+the real economy capacity to provision these basic social services.
 
 
 ## Not a good argument - but who supports UBI?
@@ -319,6 +324,13 @@ What would Liz Warren truly be saying? Something to the effect:
 retarded and useless we simply have nothing good for them to do, so we'll give 
 them their UBI. Then they can afford to buy our crap."</font>
 
+Think about who gains power if a BI is introduced?  The ordinary person gains 
+nominal purchasing power, but that can rapidly get deflated away if capital has monopoly pricing power, which is the case in many sectors, either through 
+outright monopoly or oligopoly.
+> **Worker:** "Now I have my UBI, goody. But I also want some healthcare, at 
+a reasonable price, so's I can afford it, yo!"   
+**Capitalist:** "piss off you blood sucker, we gave you the UBI from our taxes. So 
+doubly piss off yo leech! Get another job."
 
 ### How Does it Work Then in Alaska and Norway?
 
