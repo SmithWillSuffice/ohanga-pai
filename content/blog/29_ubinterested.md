@@ -235,6 +235,92 @@ to buy their crap. They do not want to fairly pay their workers. So... UBI man!
 Good enough argument for me against UBI.
 
 
+### How is UBI Not a Trojan Horse for Capital?
+
+I am not a social scientist, so can only speculate here, but it seems to me 
+people who support UBI are people who are one or more of: (a) completely blind 
+to class warfare, (b) ignorant of macroeconomics, (c) are well-to-do and have a 
+legitimate concern for the poor, but who also lack a proper class analysis, 
+(d) out-right neoliberals, or maybe non-authoritarian authoritarians.
+
+Point (d)** concerns people who do not even realise it is a form of lauding it over 
+the poor to offer them a UBI hand-out. I call it welfarism. It is gross. The 
+spiritual principle is to give to people *before they are in need of welfare or 
+charity*.  UBI is, no mistake about it, charity form the state. But it is worse, 
+since it goes to everyone, so is not charity. It looks like charity, but it is not 
+charity.
+
+There is no dignity in receiving charity. Charity is good. But the point is we should 
+work so that it is not needed. The point of charitable organizations is to put 
+themselves out of business. 
+
+A UBI cheque can only get you what workers are willing to be subjugated to 
+produce. No one really wants to work. Everyone would rather play. But someone has 
+to work.
+
+When the State uses welfare policy as the anti-poverty lever, it is creating 
+dependency. Social welfare needs to be a safety net, for correction of government 
+policy mistakes, and the goal should be to eliminate those mistakes. When we 
+eliminate the policy mistakes that create a need for welfare then we have greater 
+human dignity and greater freedom from oppression. Having to depend upon charity s a 
+form of oppression. That doesn't mean giving out of charity or state welfare is a bad 
+thing, it is not, it is a good thing when it is needed. The superior idea is to build 
+a society where it is not needed. UBI does next to nothing to help with this.
+
+What? Do you think people relying on a UBI are just going to rise up, self-organize,  
+and provide private social services themselves out of the goodness of their hearts? 
+
+The way we eliminate need for charity is to provide people with the goods and 
+services they need to live a decent life. This is why on the progressive left side of 
+politics we always favour the superior "universality" abstraction of Universal Basic 
+Services. A nation should be able to democratically decide what they want as UBS, and 
+if they can be resourced the state can always make the payments.
+
+No UBI is needed.
+
+If the state uses a UBI policy then all that happens without public Universal Basic 
+Services is the private for-profit corporations offer the services instead, along 
+with wasteful advertising and marketing crud, and concomitant real cots that are 
+needless, and all for soaking up the government UBI handout.
+
+This is what we mean by UBI being a Trojan Horse for the rentier class.  They will 
+gobble up your UBI by providing services the government is not providing, at much 
+higher social and environmental real costs.  Pretty darn crazy. It is not progressive 
+politics.
+
+Do not think for one minute the tax "pay for" the UBI will help lower inequality. It 
+will not. All taxes on the upper class and owners of capital get passed through to 
+consumers. The UBI leaves the working class no better off *in relative terms* than 
+before when they were in debt to banksters.
+
+
+### How Does it Work Then in Alaska and Norway?
+
+Where UBI seems to work (to reduce extreme poverty) it is always the case someone 
+else is paying for it, and in real terms. Norway and Alaska sell oil. Someone else 
+is paying for that, and those costs are passed on to workers somewhere else. There is 
+also the environmental cost incurred, currently unaccounted for, and it is a 
+significant real cost. That's the sort of cost that truly is going to be a burden for 
+our grandchildren.
+
+If I were a decently paid worker in Alaska or Norway I would refuse to accept 
+the UBI on principle. I imagine you would think that to be pretty extreme. So also 
+imagine the spiritual violence of the psychological hypocrisy burden were I living 
+in a UBI nation without a decent wage?
+
+We also know the Andrew Yang version of UBI is a "tax on the rich pay-for" which 
+is an utter chimera. Rich people already have abundant savings. They do not like 
+getting taxed, so will seek all means necessary to reduce their tax burden, which 
+means the real cost is always passed off onto the poor, ultimately. Even if the tax 
+pay-for reduced private wealth, that does not limit the power of the rich. They 
+still will have savings, so will still have leverage power. 
+
+This whole meme of the "good rich" saying, "Please tax me! Please!" is sad and 
+hilarious at the same time.
+
+If they were serious they'd just give away all their spare cash. Why wait for the 
+tax man to do it?
+
 ## Future Prospects
 
 If you are one of those who currently support UBI and are ignorant of MMT, fair 
