@@ -314,6 +314,7 @@ I will give credit to anyone who admits this and loves UBI because they are a
 capitalist to their bones. Don't be surprised if soi dissant "progressive" 
 Elizabeth Warren starts supporting calls for a UBI welfarist policy.
 
+What would Liz Warren truly be saying? Something to the effect:   
 <font style="color: #B87333;">"These poor workers who we unemployed are so 
 retarded and useless we simply have nothing good for them to do, so we'll give 
 them their UBI. Then they can afford to buy our crap."</font>
