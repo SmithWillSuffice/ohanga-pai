@@ -294,6 +294,31 @@ consumers. The UBI leaves the working class no better off *in relative terms* th
 before when they were in debt to banksters.
 
 
+### The Subsidy for Capital
+
+In a nice peaceful friendly society, a UBI might be considered "not a bad thing". 
+But it would still be unnecessary! for contrast, I would encourage people to look 
+into the idea of *Le Salaire a Vie*.  If you sort-of like UBI, I think the concept 
+of a *Le Salaire a Vie* will completely cure you of your unconscious reactionary 
+anti-worker tendencies.
+
+But a *Le Salaire a Vie*c can probably only take hold in an already peaceful 
+socialist style of political economy.
+
+While we live under a state sponsored capitalist system, the UBI becomes a subsidy 
+for capital. It gives people the means to purchase the output of the capitalists. 
+
+> UBI is extreme pro-capitalism.
+
+I will give credit to anyone who admits this and loves UBI because they are a 
+capitalist to their bones. Don't be surprised if soi dissant "progressive" 
+Elizabeth Warren starts supporting calls for a UBI welfarist policy.
+
+<font style="color: #B87333;">"These poor workers who we unemployed are so 
+retarded and useless we simply have nothing good for them to do, so we'll give 
+them their UBI. Then they can afford to buy our crap."</font>
+
+
 ### How Does it Work Then in Alaska and Norway?
 
 Where UBI seems to work (to reduce extreme poverty) it is always the case someone 
