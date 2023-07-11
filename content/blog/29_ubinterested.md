@@ -169,6 +169,54 @@ A Job Guarantee enshrined in Law is more freedom, since it is a claim the worker
 on the state. The UBI is a claim a non-worker has on someone else's labour. F-ing 
 disgusting.
 
+### What About Justification for "tax the rich"?
+
+Bullsh1t.  Why would you want to condition taxing the rich on the payment of a UBI?
+
+Tucco: *"If you want to speak, speak, don't talk."*
+
+If you want to tax the rich, tax the rich, don't posture.
+
+This must go hand-in-hand with the point the JG buffer would be maybe 5% of the 
+workforce tops, worst case, in a recession --- and even then the JG makes sure a 
+"recession" is typically pretty much only a mild business downturn. This has 
+practically zero inflationary impact, mild inflation bias on the way down which is 
+exactly what you'd want. 
+
+Imagine if UBI was indexed so it actually "worked" as intended -- this would have 
+true hyperinflationary potential, not that this would matter on a float, but it 
+defeats the purpose and is politically unsustainable. The disingenuous douchebag 
+argument "but ubi has worked in Alaska and Norway... etc" is crap --- it is financed 
+to be non-inflationary in those cases thanks to oil revenues. A ubi is always "paid 
+for" on the back of workers or the environment, one way or another.
+
+
+### What About "No Data Supporting JG Efficacy"?
+
+Another disingenuous argument is that "a ubi has worked in places, whereas we have no 
+data a JG works."  I find this despicable. Firstly, UBI has not worked anywhere if 
+you look at the macro picture. All gains be those in poverty thanks to a UBI have 
+been born as costs to low paid workers elsewhere, usually in other countries.
+
+Secondly, the Argentina *Jefes y Jefas* program, and the Indian Rural JG, were/are 
+not full JG implementations. So is the UBI shill's argument the JG would work worse 
+if fully implements... in a non-corrupt country?  Don't make me laugh.
+
+Youth activists in India during COVID wanted the government to expand the 
+Rural JG program, they did not want a hand-out. Go ahead, fact-check me, please.
+
+The survey information collected from the Jefas program was amazing support for 
+JG over UBI. It benefited mostly rural women, and after the neoliberal chauvinists 
+cancelled the program the women still wanted to work, they did not value the 
+replacement welfare hand-out, it was almost an insult, and they preferred the work to 
+the welfare. Again, fact-check me, please. (I could be wrong, write me if I am.)
+
+from what I can tell a careful unbiased non-cherry picked examination of available 
+data and survey opinion, favours a JG over a ubi both economically and politically. 
+By "favours politically" I mean in the demographic that really matters, not the white 
+liberal privileged condescending PMC, but the based working class.
+
+
 ### Isn't a Job Guarantee Fetishising "Work"?
 
 F-off with that bullsh1t. Honest work for public service is righteous. There is no 
