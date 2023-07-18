@@ -169,6 +169,15 @@ A Job Guarantee enshrined in Law is more freedom, since it is a claim the worker
 on the state. The UBI is a claim a non-worker has on someone else's labour. F-ing 
 disgusting.
 
+Besides all this, does a ubi support higher wages? No. It gives employers licence 
+to lower wages. I fail to see anything progressive about a ubi at all, and the 
+more I dig into the implications, the worse it gets. "Poverty" elimination, true, 
+is about an absolute floor wage and social safety net, not a relative value story, 
+but that's not full democracy. That is because the reality of everyday life is one 
+of relative poverty. How one stands in relation to the ownership class matters in 
+a democracy, not just that you have enough bread to put on the table.
+
+
 ### What About Justification for "tax the rich"?
 
 Bullsh1t.  Why would you want to condition taxing the rich on the payment of a UBI?
@@ -437,11 +446,11 @@ to do. And why? Not for a pay check, but because it is cool *and* has a pay chec
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../28_mushrooms">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../30_cyberpunked">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../28_mushrooms">Mushrooms and University</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">(TBD)</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../30_cyberpunked">Cyberpunked</a></td>
 </tr>
 </table>
