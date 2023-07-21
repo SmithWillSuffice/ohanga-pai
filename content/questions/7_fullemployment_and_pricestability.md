@@ -52,6 +52,11 @@ and hence potentially very regressive.
 > The economy is an elite athlete and the economists want to put a plastic bag over 
 her head and whip her to make her run faster.
 
+## References
+
+There is another copy of the article by Mosler that was a conference talk, I tidied 
+up a $\LaTeX$ render for it, you can [download it here](/pdf/file.pdf).
+
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
