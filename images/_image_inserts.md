@@ -12,6 +12,13 @@ where "Foo" is the basename of the shortcode file, it'd be "foo.html".
 
 ## Links to PDF
 
-You can stick them under the post folder, or ../static/pdf/
+You can stick them under the post folder, or ../static/pdf/ but I couldn't get it working.
 
-[here is my file](/pdf/file.pdf)
+So instead, put the PDF in the pages folder,
+```
+cp ~/LaTeX/Economics/Mosler_1998_fullemployment.pdf content/questions/pdf/
+```
+The in the post `foo.md`:
+```
+[Mosler 1998](../pdf/Mosler_1998_fullemployment.pdf)
+```
