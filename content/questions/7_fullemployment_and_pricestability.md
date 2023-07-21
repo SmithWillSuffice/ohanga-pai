@@ -55,8 +55,10 @@ her head and whip her to make her run faster.
 ## References
 
 There is another copy of the article by Mosler that was a conference talk, I tidied 
-up a $\LaTeX$ render for it, you can [download it here](/pdf/file.pdf).
+up a $\LaTeX$ render for it, you can
+download it here Mosler_1998_Exchange.rate.policy.and.full.employment.pdf
 
+[Mosler 1998](../pdf/Mosler_1998_Exchange.rate.policy.and.full.employment.pdf)
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
