@@ -155,6 +155,21 @@ Another way to put this is that government net spending provides the collateral 
 
 Or, **_a growing economy needs a growing net money supply._**
 
-[Next chapter (Interest Rate Myths)](../6_interest_rate_myths)  
-[Previous chapter (Inflation Myths)](../4_inflation_myths)  
-[Back to Questions TOC](../)
+
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 35%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../4_inflation_myths">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../6_interest_rate_myths">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../4_inflation_myths">Inflation Myths</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../6_interest_rate_myths">6_interest_rate_myths</a></td>
+</tr>
+</table>

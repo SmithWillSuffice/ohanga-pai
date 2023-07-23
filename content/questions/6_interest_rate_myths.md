@@ -346,7 +346,20 @@ Or back off entirely from fiscal and monetary policy and simply run the payments
 clearing system, and do proper regulation to shut down fraudulent banks.
 
 
-
-[Next chapter (Pension Funds)](../12_pension_funds)  
-[Previous chapter (Deficit Myths)](../5_deficit_myths)  
-[Back to Questions TOC](../)
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 35%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../5_deficit_myths">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../7_fullemployment_and_pricestability">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../5_deficit_myths">Deficit Myths</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../7_fullemployment_and_pricestability">Full Employment</a></td>
+</tr>
+</table>
