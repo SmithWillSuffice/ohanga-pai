@@ -205,9 +205,25 @@ Let's score Roche on his rant against MMT.
 
 That's Roche's headline. What does it mean, is it counter to MMT?
 
-**MMT Response:** 
+**MMT Response:** Saving flow is $S$, investment flows are $I$. So indeed, 
+savings $S$ is not "savings net of investment"$=(S-I)$. So MMT agrees with 
+Roche.  What's the beef then?
 
-Score: $\Delta = -1$.
+I can only think that Roche comes across troll MMT'ers, or even sincere MMT 
+activists, who for legitimate sound bite purposes claim government 
+deficits $(G-T)$ equate to non-government sector net savings. This is valid. 
+We're not all writing academic treatise. It is not misleading to use such 
+sound-bites.
+
+Post-Keynesians use a similar and related sound-bite: 
+"Investment creates savings."  Is Roche going to also nit-pick that? 
+For me, this is also a legitimate sound-bite. 
+
+"Net Saving" is shorthand for $(S-I)$ in the event of trade current account 
+balance $M=X$. Do we have to use the jargon "savings net of investment" all 
+the damn time? No. So Roche is being a prick.
+
+Score: $\Delta = -1$. Roche is being a dork.
 
 
 **Roche:** "*...David Graeber had a popular video and op-ed in The Guardian the 
