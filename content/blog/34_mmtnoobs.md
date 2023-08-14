@@ -16,9 +16,13 @@ across your arms.
 ## Caveats
 
 In polite discourse I do not recommend using my language of "Welfare Dorks" 
-and UBI Dorks" so please substitute appropiate terminology. Ōhanga Pai has 
+and UBI Dorks" so please substitute appropriate terminology. Ōhanga Pai has 
 elements of an MMT activist manifesto, so I allow myself such playful and 
 provocative language.
+
+The Roche article was from 2015. But he still attacks MMT today (c.2023) so 
+little evidence he has found enlightenment since.
+
 
 ## Background
 
@@ -197,6 +201,38 @@ savings.
 
 Let's score Roche on his rant against MMT.
 
+**Roche:** "*Private Sector Saving is Not Saving Net of Investment.*"
+
+That's Roche's headline. What does it mean, is it counter to MMT?
+
+**MMT Response:** 
+
+Score: $\Delta = -1$.
+
+
+**Roche:** "*...David Graeber had a popular video and op-ed in The Guardian the 
+other day in which he appears to be using a line of thinking that is often 
+commingled with Post-Keynesian Economics --- Modern Monetary Theory (MMT).  
+Unfortunately, David made several errors in his video because he was using these 
+MMT based misunderstandings (MMT responded to this, but made the same errors they 
+always do).*"
+
+No doubt Graeber (not an MMT expert, in fact a dork of a UBI shiller) cocked 
+things up. But was the MMT correction making the "same errors"?
+
+**MMT Response:** First, irrespective of whether the MMT response cited by 
+Roche was correct or not (they might have been simpleton MMT activists), we 
+should judge the merit of Roche's critique on merit.
+
+Well, well, the [MMT response](https://billmitchell.org/blog/?p=32225) 
+"making the same error" was 
+[Bill Mitchell](https://billmitchell.org/blog/?p=32225), a Doyen 
+of MMT if ever there was one, so this is going to be interesting.
+
+
+No scoring yet, since no point of contention. 
+
+
 **Roche:** "*.*"
 
 **MMT Response:** 
@@ -204,11 +240,140 @@ Let's score Roche on his rant against MMT.
 Score: $\Delta = -1$.
 
 
+
+
+**Roche:** He quotes David Graeber:
+> "If the government balances its books it makes it almost impossible for you to 
+balance your books"--- Graeber [The Guardian op-Ed](https://www.theguardian.com/commentisfree/video/2015/oct/28/david-graeber-what-government-doesnt-want-you-to-know-about-debt-video).
+
+Roche comments: "*This statement is wrong and misleading.  And David’s error stems 
+from something we see in MMT on a consistent basis where they depict the economy 
+through a 2 or 3 sector lens.  The cause of this error is the result of MMT’s 
+alternative definition of “net saving”.*"
+
+Roche goes on to assert the OECD definition of *Net Saving*:
+>“Net saving is net disposable income less final consumption expenditure.”
+
+He claims, "MMT consistently uses the term in a different manner..."
+
+He then claims: *"This is precisely what Graeber does in his video. And the 
+conclusion is simple --- private sector net saving (S-I) is a function of the 
+size of the government’s deficit which leads one to think that the private 
+sector cannot save unless the government is in deficit. Except that (S-I) is not 
+“net saving” in any traditional economic perspective. (S-I) is saving net of 
+investment. It’s extremely misleading to define private sector “net saving” as 
+(S-I) because Saving cannot identically equal (S-I) unless I is equal to zero.  
+Given that investment is the most important piece of Keynesian economics and the 
+economy, it’s preposterous to present the economy in this manner because investment 
+adds to private sector saving."*
+
+
+**MMT Response:** the term $(S-I)$ is a flow not a stock. At the end of the 
+year whatever it amounts to becomes the stock of saving in the domestic private 
+sector in nominal terms for that year. Why? Because we've multiplied by a time 
+period, one year, to convert flow to stock. 
+
+This is a common parlance idea of nominal "Savings" and so MMT is correct, not 
+misleading.  Real savings is a different story, and I am not aware of any MMT 
+proponents ever confusing the two (maybe a few activists do in sound bites, but 
+that's totally forgivable, Roche aught not be nit-picking the activist 
+simplifications I feel, it'd be douchebag level finbro-ism).
+
+Because one person's spending is another's income the net of investment $(S-I)$ 
+here is a flow residual into domestic private sector pockets. Remember, Graeber 
+and Roche are both assuming, for simplicity, the net exports are zero. So the MMT 
+statement is a tautology, true by definition. So what on Earth is Roche getting at 
+by being a pedantic nerd nerd here?
+
+To the ordinary average person in the street, the number in their bank account 
+plus wallet is what viscerally matters. And this results from that 
+"net of investment" $(S-I)$. So there is nothing terribly wrong or misleading 
+when MMT describes the $(S-I)$ terms as net savings. It *is* et savings.  You can 
+say "savings net of investment" too, but that's jargon for the person in the 
+street. 
+
+After investments are made, the pool of funds, so-to-speak, from which I have 
+have to realise a bigger number in my bank account from is $(S-I)$, you might 
+say, but that's inaccurate, since $(S-I)$ is an accounting residual. There is 
+no "pool of funds" here. Banks can create deposits regardless of $(G-T)$, 
+remember. 
+
+So all that $(S-I)$ represents is some demand for bank loans for investment, 
+or draw-down from past savings or retained profits for this year's investments, 
+and how much of that ends up staying in the domestic private sector. 
+
+It's an aggregate, so I cannot say my personal savings are achieved this way. I 
+might have been one of the thousands who sold real goods to the foreign sector, who 
+in aggregate were balanced by thousands who bought gods form the foreign sector.
+
+Roche finishes by agreeing with MMT and Keynes that savings are the accounting 
+records of past investment. In the dominant endogenous money circuit this is true. 
+But still, government net spending adds to this, and adds quite a considerable 
+amount.
+
+Rche writes: *" Given that investment is the most important piece of Keynesian 
+economics and the economy, it’s preposterous to present the economy in this 
+\[David Graber manner\] manner because investment adds to private sector saving."* 
+--- but who is preposterous here? MMT arose out of post-Keynesian analysis as a superset, so we'd agree with Roche. 
+
+What is preposterous is Roche thinks he is attacking MMT.
+
+Yeah, like one attacks the All Blacks by punting the ball into mid-field 
+every chance you get.
+
+BTW, I could not find where Bill Mitchell says anything different to Roche 
+in the blog he wrote on the Graeber piece in The Guardian.
+
+Score: $\Delta = -1$.  Roche was being a prick (privileged reactionary 
+investment capitalist Keynesian).
+
+
+
+
+**Roche:** "*To be clear about this, the private sector’s saving (and savings) does not come primarily from the size of the government’s deficit. In fact, there is absolutely no need for the government to be in deficit if the private sector desires to net save.*"
+
+**MMT Response:** MMT agrees.
+
+The government deficit is an ex post accounting residual, and cannot be 
+targetted. It is not being used in any nation anywhere to boost private savings. 
+Yet a positive government deficits will boost someone's savings somewhere. 
+regardless of the fact most household savings derive from private investments 
+(firms often borrow form banks to short run finance the wage bill, before they can make sales for instance).
+
+Graeber is naïve it should be said. "Government Austerity" is not to be found 
+be peering at the government deficit. You need to look at the unemployment 
+queue and poverty rates, and wages share of profit, not the deficit.
+
+If there is involuntary unemployment the deficit was too low. But government 
+cannot know this ahead of the budget. Their role is to 
+*use the budget as a moral document* to ensure full employment, by in advance 
+approving discretionary extra spending, not to worry about the deficit. With a 
+full employment policy and firms and households thereby *(perhaps) selling a 
+lot more to the foreign sector the governemtn deficit might even reverse and 
+be a surplus for that year. All the while domestic bank balances in aggregate 
+go up (net nominal savings were made).
+
+Score: $\Delta = -1$. We subtract a point from Roche since he is 
+straw-manning MMT here.
+
+
+
+
 **Roche:** "*.*"
 
 **MMT Response:** 
 
 Score: $\Delta = -1$.
+
+
+
+
+**Roche:** "*.*"
+
+**MMT Response:** 
+
+Score: $\Delta = -1$.
+
 
 
 **Roche:** "*In addition to assuming that a small budget deficit or surplus is 
@@ -252,6 +417,20 @@ significant financial assets to care about the re-valuations of them.
 Re-value $\\$0$ to $\\$0\times 0.9$. Oh no, how terrible.
 
 Score: $\Delta = -2$. Roche is acting here like a privileged prick.
+
+
+## Summary
+
+It always irks me that post-Keynesians harp on about how private investment 
+is so important.
+
+Sure, but try to stop it!
+
+What's far more important, and Keynes would agree, is full employment, 
+regardless of other investment. Unlike conventional investments you *can* stop 
+full employment. Neoliberals have mastered this. Full employment policy is 
+investment in people. There is no substitute for that.
+
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
