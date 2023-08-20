@@ -1,6 +1,6 @@
 ---
 title: "MMT N00bs"
-date: 2023-08-12
+date: 2023-08-16
 toc_depth: 3
 draft: false
 katex: true
@@ -16,12 +16,12 @@ across your arms.
 ## Caveats
 
 In polite discourse I do not recommend using my language of "Welfare Dorks" 
-and UBI Dorks" so please substitute appropriate terminology. Ōhanga Pai has 
+and "UBI Dorks" so please substitute appropriate terminology. Ōhanga Pai has 
 elements of an MMT activist manifesto, so I allow myself such playful and 
 provocative language.
 
-The Roche article was from 2015. But he still attacks MMT today (c.2023) so 
-little evidence he has found enlightenment since.
+The Roche article I am referencing was from 2015. But he still attacks MMT 
+today (c.2023) so little evidence he has found enlightenment since.
 
 
 ## Background
@@ -30,12 +30,61 @@ In MMT discussion groups often topics of critiques of MMT are brought up. One
 recently was investment advisor dude Cullen Roche. He is a particularly 
 annoying type who thinks (or seems to think) Keynes is the be-all and end-all 
 of macroeconomics. Post-Keynesians of course are highly prone to mischaracterising 
-and gaslighting MMT, straw-manning MT, and the like, because MMT grew out of K 
+and gaslighting MMT, straw-manning MT, and the like, because MMT grew out of PK 
 economics forums, and went beyond PK. The father has some Freudian death-wish 
 complex for the Son --- sort of thing (I have no idea really, just seems that way 
-sometimes, maybe it's more a Vader--Luke thing?).
+sometimes, maybe it's more a Vader--Luke complex thing?).
 
 ## Job Guarantee
+
+### Cause of Unemployment
+
+This is something Cullen Roche did not comprehend, he claimed Mosler was wrong. 
+But Mosler is not wrong, in fact Mosler's point follows logically from definitions.
+
+**Unemployment** is *defined* as people seeking work in exchange for the state 
+currency.
+
+It follows logically that if the government does not issue the means to pay the 
+tax liability then the evidence is unemployment. MMT point is government can 
+always supply the means to pay the tax, if they do not the whole system is in 
+default, which is a tragic policy mistake. 
+
+Not *only* is it a drag on the economy to put people in precarity, but there are 
+massive social costs to unemployment. In the space of a decade or so these social 
+costs and pathologies of unemployment are thought to dwarf the real costs of all 
+wars in all human history. Moreover, unlike rebuilding a war-torn city, the 
+lost output from unemployment *can never be recovered* --- it is lost for good.
+
+What is the source of the desire to work in exchange for the state currency? It 
+is the imposition by the state of all liabilities *that may only be settled by 
+payment in the state currency*. Mostly this is tax liability.
+
+Private firms are not a source of unemployment. How can they be? "Oh, sorry, 
+I can only employ one baker in my shop, should I have employed three because 
+two other people also want the state currency??"
+
+Bankers are not a source of unemployment. How can they be? "Oh, sorry, 
+I should have issued more loans in exchange for promissory notes, but credit 
+risk assessment meant I can only legally make a lone to Charlene, not Charlie. 
+Should I loan to Charlie anyhow because he is seeking the state currency??"
+
+Foreigners are not a source of unemployment. How can they be? "Oh, sorry, I did 
+not buy a lot of your domestic surplus this year, I'll try to do better next 
+time by depreciating my own country's exchange rate."
+
+The (wise, non-stupid) government only accepts their currency as tax redemption.
+
+All bank credit extension is government spending. Why? Because banks are chartered 
+by the state. Bank credit is state licenced state currency issuance. The state is 
+(through the agent bank) purchasing the promissory note to repay. That is state 
+spending.  OK, this is a little subtle for monetarist goldbug heads to grok, but it 
+is a simple fact-of-the-matter.
+ 
+It is clear then that the means to pay the tax can only come from the government.
+Point of logic, not up for debate. (Unless the government is insanely stupid, 
+granted that could be the case).
+
 
 ### Basic JG
 
@@ -154,8 +203,8 @@ only at the base.  Who other than a sociopath would not want and vote for that? 
 I think surveys also back this up, a JG polls well there is no democratic 
 opposition to it (small "d").
 10. Limited BI to pump up demand could be ok for a while. But you always need to 
-think about real output, which a JG does. (as does expanding skilled wage public 
-service employment proper.)
+think about real output, which a JG does. (As does expanding skilled wage public 
+service employment proper, which should be paid a fair wage, not a JG minimum.)
 11. There's already a channel for increasing BI - the existing welfare benefits and 
 pensions. Easier to get votes to raise them than vote for "money for all".
 12. It is incredibly dystopian (imho) and grossly unfair to expect people to 
@@ -242,8 +291,8 @@ should judge the merit of Roche's critique on merit.
 
 Well, well, the [MMT response](https://billmitchell.org/blog/?p=32225) 
 "making the same error" was 
-[Bill Mitchell](https://billmitchell.org/blog/?p=32225), a Doyen 
-of MMT if ever there was one, so this is going to be interesting.
+[Bill Mitchell](https://billmitchell.org/blog/?p=32225), a doyen 
+of MMT if ever there was one, no simpleton, so this is going to be interesting.
 
 
 No scoring yet, since no point of contention. 
@@ -457,12 +506,12 @@ investment in people. There is no substitute for that.
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../33_blockchainredundacle">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../35_taxhygiene">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../33_blockchainredundacle">Blockchain Redundacle</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">(TBD)</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../35_taxhygiene">MMT N00bs</a></td>
 </tr>
 </table>
 
