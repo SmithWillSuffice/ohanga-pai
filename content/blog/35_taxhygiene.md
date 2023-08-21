@@ -1,5 +1,5 @@
 ---
-title: "Is Tax Hygeine?"
+title: "Is Tax Hygiene?"
 date: 2023-08-18
 toc_depth: 3
 draft: false
