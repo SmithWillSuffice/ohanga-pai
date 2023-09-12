@@ -546,6 +546,21 @@ If your stupid democracy forces your government onto a gold standard, well...
 you've just created a huge needless government footprint, you retards!
 
 
+## Big Picture
+
+I sometimes have these moments of profound "staring into the abyss" feelings.
+
+I really do at those times think the MMT activist project is going to have to 
+last a long time, and that something like climate *global boiling* will be the 
+impact needed to force governments en masse to wake-up. Part of that waking up 
+will be recognizing MMT reality, whether they admit it explicitly or not. 
+
+> Future politician: "We've changed our thinking about government debt, it is no 
+longer the important thing, it's an account record, and we actually need full 
+useful employment, to share the burden of the real work to be done.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"And , urrr, what is MMT? Is that a new video 
+game?"
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 25%;">
@@ -555,12 +570,24 @@ you've just created a huge needless government footprint, you retards!
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../35_taxhygiene">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../37_usa_holdingback">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../35_taxhygiene">MMT N00bs</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">(TBD)</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./37_usa_holdingback">USA Holds Back</a></td>
 </tr>
 </table>
+
+
+<br>   
+<br>   
+
+
+<div style="margin-left: -50%; background-color: #101010; width: 200%;">
+<br>   
+<p style="font-size: large; font-weight: bold; color: white; text-align: center;">Unable to execute NeoliberalScript some features were disabled.</p>
+<br>   
+<br>   </div>
+
 

@@ -20,3 +20,17 @@ This section of articles gives you just a little taste of some projects I might 
 
 [Next chapter (Projects Overview)](../1_ohangapai_projects)   
 [Back to Empirical Pages](../)
+
+
+<table style="border-collapse: collapse; border=0; table-layout: fixed; width: 100%; margin-left:-0%; margin-right: 0%;">
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../00_empirical_intro">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../1_ohangapai_projects">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../00_empirical_intro">Overview</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../1_ohangapai_projects">OHP Projects/a></td>
+</tr>
+</table>

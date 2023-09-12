@@ -339,12 +339,12 @@ Under such political conditions one cannot blame MMT for any economic crises, th
        <col span="1" style="width: 38%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../0_introduction">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../00_questions_intro">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../2_what_is_money">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../0_introduction">Introduction </a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../00_questions_intro">Introduction </a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../2_what_is_money">What is Money?</a></td>
 </tr>

@@ -115,5 +115,20 @@ For more of this sort of theory of micro versus macro in economics see the [phil
 
 
 [Next chapter (Minsky Model Batch Jobs)](../2_minskybatches)  
-[Previous chapter (Projects Introduction)](../0_introduction_to_projects)  
+[Previous chapter (Projects Introduction)](../00_empirical_intro)  
 [Back to Empirical Pages](../)
+
+
+
+<table style="border-collapse: collapse; border=0; table-layout: fixed; width: 100%; margin-left:-0%; margin-right: 0%;">
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../00_empirical_intro">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../2_minskybatches">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="../00_empirical_intro">Overview</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../2_minskybatches">Minsky Batches</a></td>
+</tr>
+</table>

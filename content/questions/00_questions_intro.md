@@ -45,3 +45,18 @@ which are my opinions, so there are no further caveats needed for this one.
 
 [Next chapter (Basics of MMT)](../1_basic_ohangapai)  
 [Back to Questions TOC](../)
+
+
+
+<table style="border-collapse: collapse; border=0; table-layout: fixed; width: 100%; margin-left:-0%; margin-right: 0%;">
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="./">Questions</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../1_basic_ohangapai">Nex chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;"><a href="./">overview</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../1_basic_ohangapai">Basic MMT</a></td>
+</tr>
+</table>

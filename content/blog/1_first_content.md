@@ -27,12 +27,12 @@ If you have a contribution then post it, or clone the repo if you have a rationa
 
 <table style="border-collapse: collapse; border=0; table-layout: fixed; width: 100%; margin-left:-0%; margin-right: 0%;">
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../0_intro_to_ohangapai">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../00_blog_intro">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../2_neural_nets_pt1">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../0_intro_to_ohangapai">Overview</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../00_blog_intro">Overview</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../2_neural_nets_pt1">Neural Nets  part-1</a></td>
 </tr>
