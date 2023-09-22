@@ -179,12 +179,12 @@ to zero exchange value. Causal analysis anyone?
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../24_irsmoothie">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Questions</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../100_why_does_it_matter">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../26_tradebackwards">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../24_irsmoothie">Big Price Smoothies</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../100_why_does_it_matter">Why Does it All Matter?</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../26_tradebackwards">External Trade</a></td>
 </tr>
 </table>
 
