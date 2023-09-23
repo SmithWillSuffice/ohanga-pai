@@ -177,6 +177,23 @@ particular search for any straw-man arguments.  If the MMT position is being
 straw-manned, then it might be possible to clear that air and note MMT is 
 agreed correct.
 
+In the case of heterodox economists like ProfKeen there is a straw-maning 
+of MMT.
+
+1. Firstly, ProfKeen often miss-states the MMT position, he says, "exports are 
+a cost, imports are a benefit."  But this is **_not_** the MMT statement, in 
+fact it is exactly the *opposite* of MMT.   
+The MMT position is:
+> Exports area *real cost* and imports ar ea *real benefit*.
+
+Clearly, by the exchange of goods for currency, the exports are a nominal benefit and imports are a nominal cost, which is how ProfKeen states it, but dropping the word "nominal".
+
+> You cannot drop the qualifiers "nominal" or "real" because then you are 
+risking getting things utterly backwards. Certainly, it is  meaningless 
+statement to say "exports are a cost, imports a benefit" this means nothing, 
+because it lacks the units or type of that which is going offshore and that 
+which comes onshore.
+
 
 
 
