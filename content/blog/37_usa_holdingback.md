@@ -139,12 +139,12 @@ long-term hope for humanity. And at the same time massive short-run despair.
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../36_socmedreviews">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../38_kant_v_hegel_v_mmm">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../36_socmedreviews">SocMed Reviews</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">(TBD)</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../38_kant_v_hegel_v_mmm">Kant Hegel MMM?</a></td>
 </tr>
 </table>
 
