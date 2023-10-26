@@ -9,11 +9,12 @@ disableTitleSeparator : true
 ---
  
 Comments on a recent Macro'n'Cheese podcast :
-[“Degrowth and MMT” with Christopher Olk and Colleen Schneider](https://www.youtube.com/watch?v=jqiFX3MVtGo)
+[“Degrowth and MMT” with Christopher Olk and Colleen Schneider](https://www.youtube.com/watch?v=jqiFX3MVtGo). This is from a big Macro'n'Cheese fan. 
+They've got a great library of podcasts.
 
 ## Regrowth is Based
 
-Whiel I absolutely unconditionally love my RealProgressives colleagues, the Degrowth meme and language framing is incrediubly duymb. I say this even 
+While I absolutely unconditionally love my RealProgressives colleagues, the Degrowth meme and language framing is incrediubly dumb. I say this even 
 though Bill Mitchell uses it (ok, he's not a genius).
 
 Here were my comments on the youtube copy of the podcast (I refuse Facebook, 
@@ -60,6 +61,25 @@ department and understand MMT, is a foreign coup or soft power actor like
 the USA.  That is not an MMT problem. It is a UN problem, and the UN must 
 address it with proper global collective security, not provincial NATO 
 collective insecurity.
+
+### Regrowthism is not an -ism
+
+Last comment for today, I commented on myself over on substack, the remark 
+was thus:
+
+I had a recent comment or two to make on Degrowthism, I think it is time, 
+for the sake of better appeal to normies (who realistically we are going to 
+have to carry, it cannot be avoided) to drop the inflammatory “degrowth” meme 
+and rhetoric, and adopt the more realistic and pragmatic Regrowth narrative. 
+Is there even such a  narrative? Well, it’d be super easy to make one, just 
+get Hickel and Raworth and everyone to rewrite all their books and 
+papers replacing “degrowth” with “regrowth”. That’s even a recipe for 
+easily doubling-up your publications yo’.
+
+Because the natural world, to a realist, is rich with processes of life 
+and death, growth and decay, form and chaos, it is entirely natural (in 
+the deepest sense) to have social discourse about regrowth. It is thus no 
+"-ism". It's the real deal.
 
 
 <table style="border-collapse: collapse; border=0;">
