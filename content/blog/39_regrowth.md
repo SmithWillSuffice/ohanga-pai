@@ -23,7 +23,9 @@ so cannto comment on the original websites).
 
 ### On Degrowthism
 
-Their research paper has a great opening sentence: _"Degrowth lacks a theory of how the state can finance ambitious social-ecological policies and public provisioning systems while maintaining macroeconomic stability during a reduction of economic activity."_ --- however, for us pure MMT activist scholars even this 
+Their 
+[research paper](https://doi.org/10.1016/j.ecolecon.2023.107968) 
+has a good-to-fair opening sentence: _"Degrowth lacks a theory of how the state can finance ambitious social-ecological policies and public provisioning systems while maintaining macroeconomic stability during a reduction of economic activity."_ --- however, for us pure MMT activist scholars even this 
 is weird language. You do not need a "theory" of how to finance when you 
 have real resources you can employ to work on any problem. You just need to 
 understand the currency is not a finite physical resource. But even degrowth 
@@ -31,7 +33,16 @@ MMT'ers get things wrong --- they still think nominal inflation is a real constr
 constraint, and part of the MMT activist effort needs to be overcoming 
 this *_final prejudice._* Which means understanding what a currency gauge is, 
 and how to use a gauge as a tool for promoting economic justice.   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${}^\dagger$ (Unless the CIA hitmen knock on your door with a silly letter from the IMF, that while silly can nevertheless seriously endanger your people, but no worse so than economic injustice.)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our focus should always be in the real 
+resources and full meaningful employment, not on how this can be accomplioshed 
+using a monetary system. MMT has the katter completely handled for you, it is 
+not rocket science, it is about distribbnution --- who ends up holding the 
+net government currency issue that has paid workers to get done what can 
+be done.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${}^\dagger$ (Unless the CIA hitmen knock 
+on your door with a silly letter from the IMF, that while silly can 
+nevertheless seriously endanger your people, but no worse so than economic 
+injustice.)
 
 I added:
 
@@ -45,7 +56,8 @@ need to move.
 ## On "The Periphery"
 
 Referring to Olk and Schenider's 
-[recent paper with Jason Hickel](https://doi.org/10.1016/j.ecolecon.2023.107968):
+[recent paper with Jason Hickel](https://doi.org/10.1016/j.ecolecon.2023.107968) 
+I added this comment:
 
 > Note also in their paper they use Kaboub for "addressing" the "sovereignty" 
 challenges facing peripheral nations. This is bone-headed and wrong. Their 
@@ -58,9 +70,20 @@ rises faster or no slower than the highest real wage, because then the
 trajectory is for justice and greater equality.  Third, the only true 
 constraint facing a peripheral nation government that has an army and tax 
 department and understand MMT, is a foreign coup or soft power actor like 
-the USA.  That is not an MMT problem. It is a UN problem, and the UN must 
+the USA. That is not an MMT problem. It is a UN problem, and the UN must 
 address it with proper global collective security, not provincial NATO 
 collective insecurity.
+
+I invite any readers of Ōhanga Pai to tell me how I'm missing something 
+vital. Just bear in mind I do read Bill Mitchell's blog and have nothing 
+much to disagree with billyblog about, just let's transition to regrowth 
+instead of degrowth narratives. Tell people a more hopeful story because 
+there is still a glimmmer of hope. Neoliberalims has not won. The 
+neoliberals might fool normies for a long, long time, but they're not going 
+to be able to do so forever. How long might be measured in climate global 
+boiling deaths. Which is a regrowth story in the end, because we're not 
+knowingly fated to become extinct.
+
 
 ### Regrowthism is not an -ism
 
@@ -89,14 +112,14 @@ the deepest sense) to have social discourse about regrowth. It is thus no
        <col span="1" style="width: 25%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../36_socmedreviews">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../38_kant_v_hegel_v_mmm">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../38_kant_v_hegel_v_mmm">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../36_socmedreviews">SocMed Reviews</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../38_kant_v_hegel_v_mmm">Kant v Hegel v MMT</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../38_kant_v_hegel_v_mmm">Kant Hegel MMM?</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">(TBD)</a></td>
 </tr>
 </table>
 
