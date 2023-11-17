@@ -4,12 +4,6 @@ disableTitleSeparator : false
 katex: true
 ---
 
-KaTeX test:
-$$
-\sigma_k = \gamma_k \gamma_0
-$$
-
-
 Ōhanga Pai means "good economics" or "economic well-being" in [Te Reo Māori](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=ohanga) and yes, that means my 
 focus is on the New Zealand economy. However, most of the software and educational 
 material on this site is generally applicable to any country that has a currency 
