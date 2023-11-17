@@ -1,4 +1,5 @@
-baseURL = 'https://smithwillsuffice.github.io/ohanga-pai/'
+#baseURL = 'https://smithwillsuffice.github.io/ohanga-pai/'
+baseURL = 'https://smithwillsuffice.github.io/'
 languageCode = 'en-us'
 title = 'Ōhanga Pai'
 theme = "color-your-world"
