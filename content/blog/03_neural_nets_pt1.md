@@ -93,6 +93,31 @@ we will give back.
 To join with [Douglas the MMT Macro Trader](https://www.patreon.com/mmtmacrotrader) (who knows a lot more about for-profit trading) you can find him on [Patreon.](https://www.patreon.com/mmtmacrotrader)
 
 
-[Next post (Money Veils)](../04_money_veils.md)  
+[Next post (Money Veils)](../)  
 [Previous post (First OHP content)](../01_first_content.md)  
 [Back to Blog TOC](../)
+
+
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../01_first_content">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../04_money_veils">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../01_first_content">Dithering No More</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../04_money_veils">Money Veils</a></td>
+</tr>
+</table>
+

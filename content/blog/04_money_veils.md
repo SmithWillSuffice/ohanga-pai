@@ -501,6 +501,27 @@ this veil over the rightful role of democratic government.
 I think there are other veils of money, but I'll stop at these for now.
 I think they are the most important veils to understand.
 
-[Next post (Money and Banking in Euroland)](../05_mab_2_2_euroland)  
-[Previous post (Neural Nets and MMT)](../03_neural_nets_pt1)  
-[Back to Blog TOC](../)
+
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../03_neural_nets_pt1">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../05_mab_2_2_euroland">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../03_neural_nets_pt1">Neural Nets and MMT</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../05_mab_2_2_euroland">Money and Banking in Euroland</a></td>
+</tr>
+</table>
+

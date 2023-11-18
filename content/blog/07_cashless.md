@@ -320,6 +320,26 @@ intellectual guns.
 Force me to re-write or delete this post by coming up with an unassailable objection to either (i) retiaign cash, but also(ii) making cahs better, using secured digital wallets, free from the banking system, but accepted as "tax credit" anywhere. The same function as existing cash.
 
 
-[Next post (Accelerators and Repellers)](../08_accelerators_repellers)  
-[Previous post (Capitalist Realism)](../06_capitalrealism)  
-[Back to Blog TOC](../)
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../06_capitalrealism">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../08_accelerators_repellers">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../06_capitalrealism">Capitalist Realism</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../08_accelerators_repellers">Accelerators and Repellers</a></td>
+</tr>
+</table>
+

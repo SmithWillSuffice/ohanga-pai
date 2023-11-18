@@ -1,5 +1,5 @@
 ---
-title: "First content live"
+title: "Dithering No More"
 description: ""
 date: 2022-10-15
 lastmod: 2022-10-15

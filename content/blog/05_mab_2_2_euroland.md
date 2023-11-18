@@ -251,6 +251,26 @@ the thinking behind the Positive Money movement, which unfortunately also suffer
 from insanity, so I should write about that some time.
 
 
-[Next post (Capitalism and Reality)](../06_capitalrealism)  
-[Previous post (The Veils of Money)](../04_money_veils)  
-[Back to Blog TOC](../)
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../04_money_veils">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../06_capitalrealism">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../04_money_veils">The Veils of Money</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../06_capitalrealism">Capitalism and Reality</a></td>
+</tr>
+</table>
+

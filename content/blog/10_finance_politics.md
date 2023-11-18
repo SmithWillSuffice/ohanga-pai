@@ -196,7 +196,25 @@ is trying to do, and we need soldiers in this army to help. Which is why I am he
 Douglas to explore MMT implications at the mesoeconomic level. Any intellectual fuel I 
 can provide to mind-bomb the neoliberals is fuel worth the effort of producing.
 
-
-[Next post (Proof of X)](../11_proof_of_x)  
-[Previous post (Semantics of MMT)](../09_mmt_semantics)  
-[Back to Blog TOC](../)
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../09_mmt_semantics">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../11_proof_of_x">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../09_mmt_semantics">Semantics of MMT</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../11_proof_of_x">Proof of X</a></td>
+</tr>
+</table>

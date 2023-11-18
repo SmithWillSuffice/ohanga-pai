@@ -112,4 +112,3 @@ ignorance. (Yes, I must acknowledge Neil Postman here, thanks dude).
 <td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="./">(TBD)</a></td>
 </tr>
 </table>
-
