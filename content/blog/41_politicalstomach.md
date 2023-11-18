@@ -1,6 +1,6 @@
 ---
 title: "Political Will"
-date: 2023-11-18
+date: 2023-11-18 09:30:00
 toc_depth: 3
 draft: false
 katex: true
