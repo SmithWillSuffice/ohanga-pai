@@ -1,6 +1,6 @@
 ---
 title: "Political Will"
-date: 2023-11-18 09:30:00
+date: "2023-11-18T09:45:00+12:00"
 toc_depth: 3
 draft: false
 katex: true
@@ -18,19 +18,25 @@ My comments?  I'll be brief.
 ## When "Politics" Sickens Us
 
 When the word "socialism" gets associated with so-called "Christian socialism" 
-*disguising fascism, they're neither Christian nor socialists) you get that sick 
+(disguising fascism, they're neither Christian nor socialists) you get that sick 
 feeling in your gut about "all politics".
 it's hard to avoid. But you have to avoid it.
 
 Yes, by nature, economics and politics are sickening in both academic profession 
 sphere and practical sphere. Everyone gets corrupted. Economics because it is 
-where the policy power mostly resided.
+where the policy power mostly resides.  Politics because the politicians are 
+inevitably typically feeble and followers, less iconoclasts and more egotistical 
+people, attracted to power. Very few politicians are genuine leaders, they 
+follow the egg-head economists advice and the lobbyists, which is "where the 
+money comes from" (MMT/MMM${}^\ast$ folks can laugh, and I do, followed by a 
+grimace, because it's not a laughing matter).
 
 Idiots who should know better by simple moral and ethical thinking succumb to 
 gross mainstream economics paradigms of n(needless) austerity (the, "We've run 
 out of scorepoints..." stuff, disguised disgustingly as, "We've run out of 
 money...".)
 
+${}^\ast$MMM = Modern Money Mechanics (the framework formerly known as MMT).
 
 ## Yet Politics Should Not Sicken Us
 

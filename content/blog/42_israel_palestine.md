@@ -1,6 +1,6 @@
 ---
-title: ""
-date: 2023-11-18 16:51:00
+title: "Israel/Palestine"
+date: "2023-11-18T13:25:00+12:00"
 toc_depth: 3
 draft: false
 katex: true
@@ -8,9 +8,9 @@ toc: true
 disableTitleSeparator : true
 ---
 
-Saturday fun --- listening to Jeffry Sachs go counter-paradigm on Israel/Palestine.
+Saturday fun ... for some --- listening to Jeffry Sachs go counter-paradigm on Israel/Palestine.
 I'm enjoying this channel 
-[“Dialogue Works”](https://www.youtube.com/watch?v=jWRF7QiWq_8)
+[“Dialogue Works”](https://www.youtube.com/watch?v=jWRF7QiWq_8).
 
 ## Caveats
 
@@ -18,7 +18,7 @@ I am not professionally into foreign affair politics, but my late father, Murray
 Smith, was deeply concerned with politics his whole life, and I received a lot 
 of wisdom. However, all the flaws in thinking here in writing are my own.
 
-## Two States is POssible?
+## Two States is Possible?
 
 I'd say politically calling for a Two State solution is achievable --- at the political level.
 
@@ -40,7 +40,7 @@ State is just not there yet. The Likudniks can talk both solutions, whenever it
 suits, to either attack or procrastinate, just to avoid doing anything for 
 justice for the dispossessed.
 
-Jeffry then gave his justification for Two States. It is based on pragmatism,. 
+Jeffrey then gave his justification for Two States. It is based on pragmatism,. 
 He says One State is logical and has merit, but is not pragmatic, because no one 
 in power wants a One State solution.  I say, too bad for those in power, we need 
 to get rid of them.
