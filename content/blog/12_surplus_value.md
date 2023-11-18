@@ -201,7 +201,25 @@ neoliberalism is evil and cannot be tolerated, and we have no need to wait for n
 to tell us this is so. We all have agency. We only lack solidarity.
 
 
-
-[Next post (The Debt Pyrami)](../13_debt_pyramid)  
-[Previous post (Proof of X)](../11_proof_of_x)  
-[Back to Blog TOC](../)
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../11_proof_of_x">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../13_debt_pyramid">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../11_proof_of_x">Proof of X</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../13_debt_pyramid">The Debt Pyramid</a></td>
+</tr>
+</table>

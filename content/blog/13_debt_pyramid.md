@@ -326,3 +326,27 @@ sure they'd dunk on any fallacies I've made.
 [Next post (Money and Banking L2-5)](../14_mab_2_5_gold)  
 [Previous post (Surplus Value)](../12_surplus_value)  
 [Back to Blog TOC](../)
+
+
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../12_surplus_value">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../14_mab_2_5_gold">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../12_surplus_value">Surplus Value</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../14_mab_2_5_gold">Money and Banking L2-5</a></td>
+</tr>
+</table>

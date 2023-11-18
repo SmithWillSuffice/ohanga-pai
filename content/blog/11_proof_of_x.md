@@ -352,7 +352,25 @@ Read [Bill Mitchell's accounts of the COVID inflation era](http://bilbo.economic
 if you are in doubt.
 
 
-
-[Next post (Surplus Value)](../12_surplus_value)  
-[Previous post (Finance Politics)](../10_finance_politics)  
-[Back to Blog TOC](../)
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../10_finance_politics">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../12_surplus_value">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../10_finance_politics">Finance Politics</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../12_surplus_value">Surplus Value</a></td>
+</tr>
+</table>
