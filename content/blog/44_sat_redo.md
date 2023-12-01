@@ -119,7 +119,10 @@ Hence the total number of rotations of the small coin is $3+1 = 4$.
 ### Generalizations
 
 The cool thing in the Veritasium episode is the generalization to rolling a 
-circle around any shape. Triangle, square, pentagon, or even a line.
+circle around any shape. Triangle, square, pentagon, or even a line. 
+[Scientific American](https://www.scientificamerican.com/article/the-sat-problem-that-everybody-got-wrong/) 
+had an article going into the issue for celestial mechanics and why 
+astronomers need to use sidereal time, not solar time.
 
 For only one of these will the small circle rotate around it's center the 
 naive expected perimeter divided by small circle circumference number of 
@@ -133,8 +136,39 @@ In this case the inner "orbit" is subtractive, you have to subtract one
 circumference. So the result is the ratio of the shape's perimeter to the 
 small coin circumference minus $1$.
 
+A simple proof was offered by a mathematician who was one of those students 
+from 1982.
 
+### Proof using uniform speed
 
+Parameterize the path smoothly in time, so a constant speed around. Say it 
+takes $T=2\pi R$ seconds.
+
+The center of the small coin moves around the perimeter $p_c = 2\pi(R+R/n)$ 
+at a uniform speed for it's circular orbit, which is,
+$$
+v_c = \frac{p_c}{T} = \frac{2\pi (n+1)R/n}{2\pi R} = \frac{n+1}{n}.
+$$
+
+Count the number of revolutions of this small coin by counting how fast 
+the contact point must be moving. Call this speed $v_p$ for point-of-contact.
+The number of revolutions will be the angular velocity $v_p/(R/n)$ divided 
+by $2\pi$ times the time taken, $T$.
+N_\text{revs} = \frac{\omega 2\pi R}{2\pi} = v_p n
+$$
+However, we know what $v_p$ must be if there is no slipping of the coin as 
+it rolls around the perimeter, it must be exactly the same as the speed of 
+the coin center.  Why is that so? It is simply because the coin is rigid. 
+Imagine shrinking the coin radius to $0$, the centre would then be the
+contact point. It has to be moving at the same speed.
+
+Thus $v_p = v_c$, hence,
+$$ 
+N_\text{revs} = \frac{n+1}{n} n = n+1.
+$$
+
+To prove the result for the case of rolling the coin around the inside of a 
+shape, just start with the centre perimeter being $p_c = R - R/n$.
 
 
 
