@@ -82,7 +82,8 @@ technocrat solutions for this submitted via whitepapers and FA briefings.
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
 <a href="../42_israel_palestine">Previous chapter</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Blog</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
 <a href="../43_demystify_debt">Next chapter</a></td>
 </tr>

@@ -145,17 +145,18 @@ He's only half right. It is about willingness to pay, not capacity to pay.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../41_politicalstomach">Previous chapter</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
+<a href="../42_israel_palestine">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Blog</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next chapter</a></td>
+<a href="./44_sat_redo">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../41_politicalstomach">Political Will</a></td>
+<a href="../42_israel_palestine">Israel Palestine</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../44_sat_redo">SAT Redo</a></td>
 </tr>
 </table>
