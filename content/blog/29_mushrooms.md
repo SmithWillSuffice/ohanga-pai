@@ -1,5 +1,6 @@
 ---
 title: "Mushrooms and University"
+weight: 30
 description: ""
 date: 2023-06-23
 lastmod: 2023-06-23

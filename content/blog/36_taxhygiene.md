@@ -1,5 +1,6 @@
 ---
 title: "Is Tax Hygiene?"
+weight: 37
 date: 2023-08-18
 toc_depth: 3
 draft: false

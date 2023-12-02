@@ -1,5 +1,6 @@
 ---
 title: "Full Employment and Stability"
+weight: 8
 description: ""
 date: 2016-07-21
 lastmod: 2016-07-21
@@ -75,14 +76,14 @@ it up and $\LaTeX$ rendered for it, you can get it
        <col span="1" style="width: 25%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../6_interest_rate_myths">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../007_interest_rate_myths">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../12_pension_funds">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../012_pension_funds">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../6_interest_rate_myths">Interest Rate Myths</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../007_interest_rate_myths">Interest Rate Myths</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../12_pension_funds">Pension Funds</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../012_pension_funds">Pension Funds</a></td>
 </tr>
 </table>
 

@@ -1,5 +1,6 @@
 ---
 title: "What is Money?"
+weight: 3
 description: ""
 date: 2014-10-18
 lastmod: 2014-10-18
@@ -14,7 +15,7 @@ This post is foundational. I know it is not what leftie activists like to read s
 
 Wrong. 
 We can point out several things both lefties and conservatives get horribly wrong for their own causes, even when their hearts are in the right place. 
-Foremost among these is the [tax payer funding myth.](../3_tax_myths)
+Foremost among these is the [tax payer funding myth.](../004_tax_myths)
 
 The trouble is, the requisite background to understanding why "tax payer funding" is a myth, involves an understanding of *what money is*, in essence, and in practice. 
 That's what this article is about.
@@ -139,13 +140,13 @@ Then you can thank yourself instead of thanking me, for doing the checking.
        <col span="1" style="width: 40%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../1_basic_ohangapai">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../001_basic_ohangapai">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../3_tax_myths">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../004_tax_myths">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../1_basic_ohangapai">Basic Ōhanga Pai </a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../001_basic_ohangapai">Basic Ōhanga Pai </a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../3_tax_myths">Tax Myths</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../004_tax_myths">Tax Myths</a></td>
 </tr>
 </table>

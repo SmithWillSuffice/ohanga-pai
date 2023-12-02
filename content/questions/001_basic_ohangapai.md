@@ -1,5 +1,6 @@
 ---
 title: "Basic MMT and Economic Justice"
+weight: 2
 description: ""
 date: 2014-10-15
 lastmod: 2014-10-15
@@ -24,7 +25,7 @@ If you have a very sharp mind and keen intelligence you can almost derive answer
 MMT is based on one axiom, one legal reality, and one identity:
 
 1. All economies face real resource constraints.
-2. Currency issuers (usually these are governments or their licenced agents) face no purely financial constraints. To learn why this is a legal reality see [What is Money.](../2_what_is_money/)
+2. Currency issuers (usually these are governments or their licenced agents) face no purely financial constraints. To learn why this is a legal reality see [What is Money.](../003_what_is_money/)
 3. Sectoral balances sum to zero.
 
 A few supporting definitions and operational realities:
@@ -339,13 +340,13 @@ Under such political conditions one cannot blame MMT for any economic crises, th
        <col span="1" style="width: 38%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../00_questions_intro">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../000_questions_intro">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../2_what_is_money">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../003_what_is_money">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../00_questions_intro">Introduction </a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../000_questions_intro">Introduction </a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../2_what_is_money">What is Money?</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../003_what_is_money">What is Money?</a></td>
 </tr>
 </table>

@@ -1,5 +1,6 @@
 ---
 title: "Stuff Conservatives Want"
+weight: 26
 description: ""
 date: 2023-03-27
 lastmod: 2023-03-27

@@ -1,5 +1,6 @@
 ---
 title: "Is a Cashless Society Good?"
+weight: 7
 description: ""
 date: 2022-12-30
 lastmod: 2022-12-30

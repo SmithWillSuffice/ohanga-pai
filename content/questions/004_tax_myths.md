@@ -1,5 +1,6 @@
 ---
 title: "Tax Myths"
+weight: 4
 description: ""
 date: 2014-10-20
 lastmod: 2014-10-20
@@ -263,7 +264,7 @@ communal resources.))
 But doesn't issuing currency cause inflation? 
 How can governments desiring price stability therefore have no budget constraint? 
 Short answer is no: Issuing currency does not cause inflation. 
-Long answer is for [another chapter.](../4_inflation_myths)
+Long answer is for [another chapter.](../005_inflation_myths)
 
 
 <table style="border-collapse: collapse; border=0;">
@@ -273,13 +274,13 @@ Long answer is for [another chapter.](../4_inflation_myths)
        <col span="1" style="width: 40%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../2_what_is_money">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../003_what_is_money">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../4_inflation_myths">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../005_inflation_myths">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../2_what_is_money">What is Money?</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../003_what_is_money">What is Money?</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../4_inflation_myths">Inflation Myths</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../005_inflation_myths">Inflation Myths</a></td>
 </tr>
 </table>

@@ -1,5 +1,6 @@
 ---
 title: "Cyberpunked"
+weight: 32
 date: 2023-07-16
 toc_depth: 3
 draft: false

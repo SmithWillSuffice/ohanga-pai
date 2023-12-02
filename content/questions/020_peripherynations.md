@@ -1,5 +1,6 @@
 ---
 title: "Problems with 'Sovereignty' in the Periphery Nations"
+weight: 10
 description: ""
 date: 2023-01-01
 lastmod: 2023-01-01
@@ -520,6 +521,6 @@ while he was warding off an intruder.
 
 
 
-[Next chapter (Punked Plutocrat Power Plays)](../21_powerplays)  
-[Previous chapter (Pension Funds)](../12_pension_funds)  
+[Next chapter (Punked Plutocrat Power Plays)](../021_powerplays)  
+[Previous chapter (Pension Funds)](../012_pension_funds)  
 [Back to Questions TOC](../)

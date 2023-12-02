@@ -1,5 +1,6 @@
 ---
 title: "Macro Platonification"
+weight: 23
 description: ""
 date: 2023-03-01
 lastmod: 2023-03-01

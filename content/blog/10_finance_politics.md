@@ -1,5 +1,6 @@
 ---
 title: "Finance Politics"
+weight: 10
 description: ""
 date: 2023-01-02
 lastmod: 2023-01-02

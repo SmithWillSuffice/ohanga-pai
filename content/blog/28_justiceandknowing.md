@@ -1,5 +1,6 @@
 ---
 title: "Justice and Knowing"
+weight: 29
 description: ""
 date: 2023-05-18
 lastmod: 2023-05-18

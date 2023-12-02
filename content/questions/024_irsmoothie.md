@@ -1,5 +1,6 @@
 ---
 title: "Big Price Smoothies"
+weight: 14
 description: ""
 date: 2023-05-26
 lastmod: 2023-05-26
@@ -221,14 +222,14 @@ available.
        <col span="1" style="width: 35%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../23_shadow_banking">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../023_shadow_banking">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Questions</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../25_discipline">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../025_discipline">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../23_shadow_banking">Shadow Banking</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../023_shadow_banking">Shadow Banking</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../25_discipline">Bondage & Discipline</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../025_discipline">Bondage & Discipline</a></td>
 </tr>
 </table>
 

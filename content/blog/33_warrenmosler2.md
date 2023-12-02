@@ -1,5 +1,6 @@
 ---
 title: "Talk with Warren Mosler - II"
+weight: 34
 date: 2023-07-21
 toc_depth: 3
 draft: false

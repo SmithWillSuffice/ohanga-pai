@@ -1,5 +1,6 @@
 ---
 title: "Israel/Palestine"
+weight: 43
 date: "2023-11-18T13:25:00+12:00"
 toc_depth: 3
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Machines Can't Think to Work"
+weight: 19
 description: ""
 date: 2023-01-12
 lastmod: 2023-01-12

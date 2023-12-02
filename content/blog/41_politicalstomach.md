@@ -1,5 +1,6 @@
 ---
 title: "Political Will"
+weight: 42
 date: "2023-11-18T09:45:00+12:00"
 toc_depth: 3
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Dithering No More"
+weight: 2
 description: ""
 date: 2022-10-15
 lastmod: 2022-10-15

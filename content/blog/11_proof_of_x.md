@@ -1,5 +1,6 @@
 ---
 title: "Proof of X"
+weight: 11
 description: ""
 date: 2023-01-03
 lastmod: 2023-01-03

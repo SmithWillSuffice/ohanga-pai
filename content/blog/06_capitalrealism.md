@@ -1,5 +1,6 @@
 ---
 title: "Capitalism as It Exists"
+weight: 6
 description: ""
 date: 2022-12-29
 lastmod: 2022-12-29

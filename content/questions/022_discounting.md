@@ -1,5 +1,6 @@
 ---
 title: "Interest Rate Discount"
+weight: 12
 description: ""
 date: 2023-04-01
 lastmod: 2023-04-01
@@ -73,13 +74,13 @@ to do it.
        <col span="1" style="width: 35%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../21_powerplays">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../021_powerplays">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Questions</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../23_shadow_banking">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../023_shadow_banking">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../21_powerplays">Power Plays</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../021_powerplays">Power Plays</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../23_shadow_banking">Shadow Banking</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../023_shadow_banking">Shadow Banking</a></td>
 </tr>
 </table>

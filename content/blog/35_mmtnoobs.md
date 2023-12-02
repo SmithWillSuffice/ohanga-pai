@@ -1,5 +1,6 @@
 ---
 title: "MMT N00bs"
+weight: 36
 date: 2023-08-16
 toc_depth: 3
 draft: false

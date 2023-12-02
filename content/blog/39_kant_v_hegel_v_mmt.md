@@ -1,5 +1,6 @@
 ---
 title: "Kant Hegel MMM?"
+weight: 40
 date: 2023-10-17
 toc_depth: 3
 draft: false

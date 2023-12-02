@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Ōhanga Pai"
+weight: 1
 date: 2019-10-14
 draft: false
 katex: true

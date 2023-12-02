@@ -1,5 +1,6 @@
 ---
 title: "Pension Fund Myths"
+weight: 9
 description: ""
 date: 2014-12-17
 lastmod: 2014-12-17
@@ -385,7 +386,7 @@ left-wing or right-wing, up-wing or down-wing, MMT is based on a spiritual quali
 the truth and honesty regardless of consequences. That can be brutal. 
 Maybe even the body rejects it, psycho-somatically?
 
-The [MMT Money Story](../1_basic_ohangapai/#money_story) starts with the coercion of imposed legal liabilities (tax 
+The [MMT Money Story](../001_basic_ohangapai/#money_story) starts with the coercion of imposed legal liabilities (tax 
 liabilities as well as the potential of fees and fines). That's brutal medicine for 
 any anarchist or libertarian to swallow, and *they* find their mind rejecting MMT. 
 But they're rejecting truth.
@@ -539,6 +540,6 @@ To help me complete these chapters and write the software, please donating
 via [Achronomaster \@ Ko-fi.](https://ko-fi.com/achrononmaster/)
 
 
-[Next chapter (Periphery Countries)](../20_peripherynations)  
-[Previous chapter (Interest Rate Myths)](../6_interest_rate_myths)  
+[Next chapter (Periphery Countries)](../020_peripherynations)  
+[Previous chapter (Interest Rate Myths)](../007_interest_rate_myths)  
 [Back to Questions TOC](../)

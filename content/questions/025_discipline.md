@@ -1,8 +1,8 @@
 ---
 title: "Bondage and Discipline"
+weight: 16
 description: ""
 date: 2023-08-29
-lastmod: 2023-08-29
 cover: ""
 coverAlt: ""
 toc: true
@@ -177,14 +177,14 @@ to zero exchange value. Causal analysis anyone?
        <col span="1" style="width: 35%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../24_irsmoothie">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../024_irsmoothie">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Questions</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../26_tradebackwards">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../026_tradebackwards">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../24_irsmoothie">Big Price Smoothies</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../024_irsmoothie">Big Price Smoothies</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../26_tradebackwards">External Trade</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../026_tradebackwards">External Trade</a></td>
 </tr>
 </table>
 

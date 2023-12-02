@@ -1,5 +1,6 @@
 ---
 title: "Media Whores"
+weight: 17
 description: ""
 date: 2023-01-10
 lastmod: 2023-01-10

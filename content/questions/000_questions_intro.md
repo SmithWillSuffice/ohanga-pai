@@ -1,5 +1,6 @@
 ---
 title: "Introduction to Ōhanga Pai Q&A"
+weight: 1
 description: ""
 date: 2014-01-03
 lastmod: 2014-01-03
@@ -43,7 +44,7 @@ These will mostly be of the nature "I'm not an expert here."
 But for this introductory post you can easily tell which statements are factual and 
 which are my opinions, so there are no further caveats needed for this one.
 
-[Next chapter (Basics of MMT)](../1_basic_ohangapai)  
+[Next chapter (Basics of MMT)](../001_basic_ohangapai)  
 [Back to Questions TOC](../)
 
 
@@ -52,11 +53,11 @@ which are my opinions, so there are no further caveats needed for this one.
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="./">Questions</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../1_basic_ohangapai">Nex chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../001_basic_ohangapai">Nex chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="./">overview</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../1_basic_ohangapai">Basic MMT</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../001_basic_ohangapai">Basic MMT</a></td>
 </tr>
 </table>

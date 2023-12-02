@@ -1,5 +1,6 @@
 ---
 title: "SAT Redo"
+weight: 45
 date: "2023-11-30"
 toc_depth: 3
 draft: false
@@ -160,7 +161,8 @@ However, we know what $v_p$ must be if there is no slipping of the coin as
 it rolls around the perimeter, it must be exactly the same as the speed of 
 the coin center.  Why is that so? It is simply because the coin is rigid. 
 Imagine shrinking the coin radius to $0$, the centre would then be the
-contact point. It has to be moving at the same speed.
+contact point. It has to be moving at the same speed.  Another way to see 
+the same result is to calculate it directly.
 
 Thus $v_p = v_c$, hence,
 $$ 
@@ -188,7 +190,7 @@ shape, just start with the centre perimeter being $p_c = R - R/n$.
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../43_demystify_deb">Israle/Palestine</a></td>
+<a href="../43_demystify_deb">Demystify Debt</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">

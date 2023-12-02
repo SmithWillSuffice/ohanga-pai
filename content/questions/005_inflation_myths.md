@@ -1,5 +1,6 @@
 ---
 title: "Inflation Myths"
+weight: 5
 description: ""
 date: 2014-10-22
 lastmod: 2014-10-22
@@ -155,7 +156,7 @@ No government ever decides to just issue more currency to bid up prices for no r
 (except maybe for boondoggles, pork barrels, and military spending corruption, 
 which I guess counts as unnecessary and yet does happen).
 
-Previously under [“What is Money?”](../2_what_is_money/#what-is-the-qtm-myth) I used 
+Previously under [“What is Money?”](../003_what_is_money/#what-is-the-qtm-myth) I used 
 the farmer and police officer story, that's another one to keep in mind, it's all 
 about relative value. 
 
@@ -325,6 +326,6 @@ the population size, and that is completely natural.
 --- Warren Mosler.
 
 
-[Next chapter (Deficit Myths)](../5_deficit_myths)  
-[Previous chapter (Tax Myths)](../3_tax_myths)  
+[Next chapter (Deficit Myths)](../006_deficit_myths)  
+[Previous chapter (Tax Myths)](../004_tax_myths)  
 [Back to Questions TOC](../)

@@ -1,5 +1,6 @@
 ---
 title: "Why does all this matter?"
+weight: 18
 description: ""
 date: 2023-02-19
 lastmod: 2023-02-19
@@ -339,5 +340,5 @@ We do not *need* to tax super rich people, we need to not have super rich people
 
 
 [Next chapter (None, this is the End)](./)  
-[Previous chapter (Periphery Nations)](../20_peripherynations)  
+[Previous chapter (Periphery Nations)](../020_peripherynations)  
 [Back to Questions TOC](../)

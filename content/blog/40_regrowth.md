@@ -1,5 +1,6 @@
 ---
 title: "Regrowth Not Degrowth"
+weight: 41
 date: 2023-10-24
 toc_depth: 3
 draft: false

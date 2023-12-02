@@ -1,5 +1,6 @@
 ---
 title: "MMArt Critics"
+weight: 20
 description: ""
 date: 2023-01-15
 lastmod: 2023-01-15

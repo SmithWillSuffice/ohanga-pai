@@ -1,5 +1,6 @@
 ---
 title: "Deficit Myths"
+weight: 6
 description: ""
 date: 2014-10-24
 lastmod: 2014-10-24
@@ -23,7 +24,7 @@ But there is a second sub-myth associated with this one, which is about the tax 
 
 **Myth 2** is the Ricardian Equivalence fallacy. 
 It is a false myth because it implicitly uses the QTM myth, that increasing money supply causes price inflation. 
-We already debunked this in the [chapter on inflation,](../4_inflation_myths#what-is-the-qtm-myth) but below we can add a few more nuances.
+We already debunked this in the [chapter on inflation,](../005_inflation_myths#what-is-the-qtm-myth) but below we can add a few more nuances.
 
 Let's look at these in more detail.
 
@@ -163,13 +164,13 @@ Or, **_a growing economy needs a growing net money supply._**
        <col span="1" style="width: 25%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../4_inflation_myths">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../005_inflation_myths">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../6_interest_rate_myths">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../007_interest_rate_myths">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../4_inflation_myths">Inflation Myths</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../005_inflation_myths">Inflation Myths</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../6_interest_rate_myths">6_interest_rate_myths</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../007_interest_rate_myths">007_interest_rate_myths</a></td>
 </tr>
 </table>

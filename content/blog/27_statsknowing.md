@@ -1,5 +1,6 @@
 ---
 title: "Statistical Knowing"
+weight: 28
 description: ""
 date: 2023-05-10
 lastmod: 2023-05-10

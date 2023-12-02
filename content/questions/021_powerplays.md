@@ -1,5 +1,6 @@
 ---
 title: "Punked Plutocrat Power Plays"
+weight: 11
 description: ""
 date: 2023-02-16
 lastmod: 2023-02-16
@@ -249,7 +250,7 @@ The next article will continue on these themes, expanding the [rough notes](#rou
 
 
 [Next chapter (Why Does It All Matter?)](../100_why_does_it_matter)  
-[Previous chapter (Periphery Countries)](../20_peripherynations)  
+[Previous chapter (Periphery Countries)](../020_peripherynations)  
 [Back to Questions TOC](../)
 
 
@@ -260,14 +261,14 @@ The next article will continue on these themes, expanding the [rough notes](#rou
        <col span="1" style="width: 35%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../20_peripherynations">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../020_peripherynations">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Questions</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="..022_discounting/">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="..0022_discounting/">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../20_peripherynations">Power Plays</a></td>
+<td style="border: 1px solid color:#0f0f0f;"><a href="../020_peripherynations">Power Plays</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../22_discounting">Interest Rate Effects</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../022_discounting">Interest Rate Effects</a></td>
 </tr>
 </table>
 

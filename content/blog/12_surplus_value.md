@@ -1,5 +1,6 @@
 ---
 title: "Source of Surplus Value"
+weight: 12
 description: ""
 date: 2023-01-04
 lastmod: 2023-01-04

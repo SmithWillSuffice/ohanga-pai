@@ -1,5 +1,6 @@
 ---
 title: "Blockchain Redundacle"
+weight: 35
 date: 2023-08-09
 toc_depth: 3
 draft: false

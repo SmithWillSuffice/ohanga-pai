@@ -1,5 +1,6 @@
 ---
 title: "Fear & Loathing in Los Vital"
+weight: 27
 description: ""
 date: 2023-04-16
 lastmod: 2023-04-16
