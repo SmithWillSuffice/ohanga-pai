@@ -335,13 +335,13 @@ Under such political conditions one cannot blame MMT for any economic crises, th
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
-       <col span="1" style="width: 38%;">
-       <col span="1" style="width: 38%;">
-       <col span="1" style="width: 38%;">
+       <col span="1" style="width: 35%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 35%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../000_questions_intro">Previous chapter</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Q</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../003_what_is_money">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">

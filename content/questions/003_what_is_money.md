@@ -135,13 +135,13 @@ Then you can thank yourself instead of thanking me, for doing the checking.
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
-       <col span="1" style="width: 38%;">
-       <col span="1" style="width: 40%;">
-       <col span="1" style="width: 40%;">
+       <col span="1" style="width: 35%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 35%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../001_basic_ohangapai">Previous chapter</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Blog</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Q</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../004_tax_myths">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">

@@ -41,23 +41,31 @@ the [GNU General Public Licence.](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 At the end of most articles on this website I will try to list essential caveats. 
 These will mostly be of the nature "I'm not an expert here." 
-But for this introductory post you can easily tell which statements are factual and 
-which are my opinions, so there are no further caveats needed for this one.
-
-[Next chapter (Basics of MMT)](../001_basic_ohangapai)  
-[Back to Questions TOC](../)
+But for this introductory post you can easily tell which statements are 
+factual and which are my opinions, so there are no further caveats needed for 
+this one.
 
 
-
-<table style="border-collapse: collapse; border=0; table-layout: fixed; width: 100%; margin-left:-0%; margin-right: 0%;">
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 35%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 35%;">
+    </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="./">Questions</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../001_basic_ohangapai">Nex chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../001_basic_ohangapai">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Q</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../001_basic_ohangapai">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="./">overview</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../001_basic_ohangapai">Basic MMT</a></td>
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="./">overview</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../001_basic_ohangapai">Basic MMT</a></td>
 </tr>
 </table>

@@ -14,42 +14,47 @@ katex: true
 Some fresh MMT education material starts today. I've been posting to the Blog 
 recently more regularly, since starting the 
 [DougBot Project](https://www.patreon.com/mmtmacrotrader), and as part of that 
-research effort the opportunity to pose some questions to the founder of MMT (in the 
-modern 20th century form, as opposed to the Sumerian form) arose.
+research effort the opportunity to pose some questions to the founder of MMT (in 
+the modern 20th century form, as opposed to the Sumerian form) arose.
 
-To prepare for a chat with Sir Warren Mosler (you guys have Knighthoods yet in the 
-USA?... well, c'mon, keep up you laggards). 
-I first wanted to dip into a topic dear to my heart, which is how MMT applies to 
-poorer nations, so-called "on the periphery" of international relations.  Could it be 
-MMT does less to help these nations than advertised? Or is the New Keynesian or 
-bastardized Keynesian orthodoxy equally as deluded about the insights of MMT for 
-weaker nations as they are about decent small nations like New Zealand?
+To prepare for a chat with Sir Warren Mosler (you guys have Knighthoods yet in 
+the USA?... well, c'mon, keep up you laggards). I first wanted to dip into a 
+topic dear to my heart, which is how MMT applies to poorer nations, so-called 
+"on the periphery" of international relations.  Could it be MMT does less to 
+help these nations than advertised? Or is the New Keynesian or bastardized 
+Keynesian orthodoxy equally as deluded about the insights of MMT for weaker 
+nations as they are about decent small nations like New Zealand?
 
-The paper this discussion is based upon is by Vergnhanini and De&nbsp;Conti (2017), 
+The paper this discussion is based upon is by Vergnhanini and 
+De&nbsp;Conti (2017), 
 [Modern Money Theory: a criticism from the periphery](https://www.braziliankeynesianreview.org/BKR/article/download/115/90).
 
-If you want to skip the preliminary defences of MMT, which reply to standard criticism, and go staright to the trade issues, then [click here to the Trade Issues](#FairTradeIssues) section.
+If you want to skip the preliminary defences of MMT, which reply to 
+standard criticism, and go staright to the trade issues, then 
+[click here to the Trade Issues](#FairTradeIssues) section.
 
 ## They Still Aren't Stating MMT Correctly
 
-Before they get around to their supposed critique of "MMT", Vergnhanini & De&nbsp;Conti 
-give a pretty good summary of MMT ideas, however, they fail at the last hurdle, and it is 
-not a trivial failure. The trouble being it is central to their (false) arguments 
-"against MMT".
+Before they get around to their supposed critique of "MMT", Vergnhanini & 
+De&nbsp;Conti give a pretty good summary of MMT ideas, however, they fail at 
+the last hurdle, and it is not a trivial failure. The trouble being it is 
+central to their (false) arguments "against MMT".
 
-The weak chink they point to is Randall Wray's admission that sometimes international 
-markets might force a nation to purchase goods for sale in a foreign currency. This 
-would be *only* when the weaker nation *needs* critical imports that it cannot source 
-domestically or purchase in their own currency. 
+The weak chink they point to is Randall Wray's admission that sometimes 
+international markets might force a nation to purchase goods for sale in a 
+foreign currency. This would be *only* when the weaker nation *needs* critical 
+imports that it cannot source domestically or purchase in their own currency. 
 
-However, to argue *on common ground* we have to accept the MMT Base Case, otherwise 
-the authors are being disingenuous. The base case is:
+However, to argue *on common ground* we have to accept the MMT Base Case, 
+otherwise the authors are being disingenuous. The base case is:
 
-1. The (supposedly "weaker") nation is running a fiat currency on a floating exchange rate, no peg, no fixed rate policy.
-2. They are maintaining ZIRP --- so any central bank bond issue is zero interest, for 
-purposes of running the payments layer only, interbank clearing. (Or not, the MMT 
-base case is really that currency issuers never need to offer bonds for sale, private 
-banks can be permitted to operate term deposits for customers).
+1. The (supposedly "weaker") nation is running a fiat currency on a 
+floating exchange rate, no peg, no fixed rate policy.
+2. They are maintaining ZIRP --- so any central bank bond issue is zero 
+interest, for purposes of running the payments layer only, interbank clearing. 
+(Or not, the MMT base case is really that currency issuers never need to offer 
+bonds for sale, private banks can be permitted to operate term deposits for 
+customers).
 3. The nation runs a Job Guarantee, which supports a base wage floor, 
 permanent full employment for anyone wishing to work for the tax credits.
 4. Non-convertible currency.
@@ -507,20 +512,40 @@ The way to remove the damaging neoliberal psychological effect of inflation is t
 raise domestic production over time. You cannot do this any better than with full 
 domestic employment, so you will *need* MMT in both theory and practice.
 
-It is possible benign rich nations could gift you imports. Or they might lend at zero 
-interest rate. That'd obviate the need for an exchange rate float, but who is ever going 
-to rely on such a commonwealth? Nice if you can get it.  
+It is possible benign rich nations could gift you imports. Or they might lend 
+at zero interest rate. That'd obviate the need for an exchange rate float, but 
+who is ever going to rely on such a commonwealth? Nice if you can get it.
 
 What about trade embargoes, like those imposed upon Cuba? 
 
-Even here, Cuba is best advised to run an MMT system. There is no benefit to doing 
-otherwise. Why unemploy your workers just because some other nation is not trading 
-with you? It'd be like punishing your dog for stepping in your neighbours doodoo 
-while he was warding off an intruder.
+Even here, Cuba is best advised to run an MMT system. There is no benefit to 
+doing otherwise. Why unemploy your workers just because some other nation is 
+not trading with you? It'd be like punishing your dog for stepping in your 
+neighbours doodoo while he was warding off an intruder.
 
 
 
 
-[Next chapter (Punked Plutocrat Power Plays)](../021_powerplays)  
-[Previous chapter (Pension Funds)](../012_pension_funds)  
-[Back to Questions TOC](../)
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../012_pension_funds">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Q</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../021_powerplays">Next chapter</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../012_pension_funds">Interest Rate Myths</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../021_powerplays">Punked Plutocrat Power Plays</a></td>
+</tr>
+</table>

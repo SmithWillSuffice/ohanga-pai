@@ -11,12 +11,12 @@ katex: true
 ---
 
 I've written a few basic books on MMT questions and nuances, for the average 
-reader, they're not technical. But in this article I wanted to mention some things 
-outside my area of expertise.
+reader, they're not technical. But in this article I wanted to mention some 
+things outside my area of expertise.
 
-These can be important in some MMT activist activities, mainly when you run across 
-some experts who know more than you. The trouble occurs when they do not know much 
-about MMT, and have formed half-baked ideas about MMT.
+These can be important in some MMT activist activities, mainly when you run 
+across some experts who know more than you. The trouble occurs when they do 
+not know much about MMT, and have formed half-baked ideas about MMT.
 
 This is a dangerous brew, so one option is to not engage. You might of course be 
 wrong in the expert area of this other character, so even if you are right about 
@@ -26,9 +26,9 @@ articles comments section).
 
 The other possibility is this other character, let's give her a name, say 
 Kathleen Pinetos, or just Kathy for short, seems like a decent person not out to 
-cause you pain. Then a nice thing for your own edification might be to engage, and 
-suffer any bondage and discipline that results. Should make you a stronger MMT 
-activist.
+cause you pain. Then a nice thing for your own edification might be to engage, 
+and suffer any bondage and discipline that results. Should make you a stronger 
+MMT activist.
 
 I cannot cover all such eventualities, but I've a got a short list for you. If 
 you'd like to add a section let me know, and even better, tell me about your war 
@@ -173,18 +173,24 @@ to zero exchange value. Causal analysis anyone?
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 35%;">
-       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 10%;">
        <col span="1" style="width: 35%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../024_irsmoothie">Previous chapter</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Questions</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../026_tradebackwards">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../024_irsmoothie">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Q</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../026_tradebackwards">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../024_irsmoothie">Big Price Smoothies</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../026_tradebackwards">External Trade</a></td>
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../024_irsmoothie">Big Price Smoothies</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../026_tradebackwards">External Trade</a></td>
 </tr>
 </table>
 

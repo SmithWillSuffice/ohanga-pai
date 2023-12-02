@@ -160,7 +160,7 @@ Or, **_a growing economy needs a growing net money supply._**
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 25%;">
-       <col span="1" style="width: 35%;">
+       <col span="1" style="width: 10%;">
        <col span="1" style="width: 25%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
@@ -171,6 +171,6 @@ Or, **_a growing economy needs a growing net money supply._**
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../005_inflation_myths">Inflation Myths</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../007_interest_rate_myths">007_interest_rate_myths</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../007_interest_rate_myths">Interest Rate Myths</a></td>
 </tr>
 </table>
