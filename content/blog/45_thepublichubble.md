@@ -12,6 +12,8 @@ disableTitleSeparator : true
 Lunchtime listening this week, Brian Greene chatting with Adam Reiss on 
 cosmology. 
 
+## Hubble Telescope is in the Public Commons
+
 At one point Riess mentions he decided to not rest on his laurels, and went 
 back into research "using the Hubble telescope."
 
@@ -36,6 +38,9 @@ austerity policy.  Read more
 [here: ](https://smithwillsuffice.github.io/ohanga-pai/questions/1_basic_ohangapai/) 
 for some MMM/MMT basics, you'll understand more about public finance than 
 an econ PhD.   
+
+
+## Take Any Opportunity to Boost MMT
 
 With such humility being displayed, I continued,...
 

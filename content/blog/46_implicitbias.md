@@ -11,7 +11,10 @@ disableTitleSeparator : true
 
 To celebrate getting off Twitter yesterday, I posted 
 [this link](https://aeon.co/essays/the-implicit-bias-problem-wont-be-solved-by-training-alone) 
-to post.news and Substack.
+to 
+[post.news](https://post.news/@/MathWillSuffice/2Z0yZWTyzSSVZWikDiueIP5YM8D) 
+and 
+[Substack](https://open.substack.com/pub/bijou/p/the-very-fast-migration-out-of-twitter?r=3hsqj&utm_campaign=post&utm_medium=web).
 
 
 ## The Article
@@ -40,8 +43,8 @@ opt-out from is not taking away people's moral choice.
 
 Behavioural economists like 
 [Samuel Bowles](https://www.goodreads.com/book/show/27220688-the-moral-economy)
-and psychologist like Daniel Kahneman, and many others, are showing 
-that ist is harmful to remove the freedom of people to make a moral decision. 
+and psychologists like Daniel Kahneman, and many others, are showing 
+that it is harmful to remove the freedom of people to make a moral decision. 
 It has perverse anti-ethical effects.
 
 So when there is an option, give people the chance to choose the moral 
@@ -64,7 +67,7 @@ forms, but should be in consultation among people too. The grave role of
 a committee convenor or chair is thus held to a higher standard, it is not
 a placeholder or puppet role.
 
-In line with Edwards Deming's work on workplace management, the managers 
+In line with W. Edwards Deming's work on workplace management, the managers 
 need to earn their place, and take full responsibility for workplace 
 mismanagement.  Too many managers in our times are in bullsh$\ast$ job 
 positions.
