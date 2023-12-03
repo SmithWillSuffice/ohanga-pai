@@ -1,5 +1,6 @@
 ---
 title: "Ōhanga Pai Projects Introduction"
+weight: 1
 description: ""
 date: 2016-02-14
 lastmod: 2016-02-14
@@ -18,19 +19,27 @@ The [philosophy and questions section](/questions/) of this website goes through
 
 This section of articles gives you just a little taste of some projects I might be working on, time and *willing* collaborators permitting.
 
-[Next chapter (Projects Overview)](../1_ohangapai_projects)   
-[Back to Empirical Pages](../)
 
-
-<table style="border-collapse: collapse; border=0; table-layout: fixed; width: 100%; margin-left:-0%; margin-right: 0%;">
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 25%;">
+    </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../00_empirical_intro">Previous chapter</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Posts</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../1_ohangapai_projects">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="./">Empirical</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="./">Back to</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../001_ohangapai_projects">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../00_empirical_intro">Overview</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../1_ohangapai_projects">OHP Projects/a></td>
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="./">Intro</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="./">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../001_ohangapai_projects">OHP Projects</a></td>
 </tr>
 </table>

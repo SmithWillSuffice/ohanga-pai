@@ -33,9 +33,8 @@ started with simulation dynamics software.
 Contributors are welcome, but will need to submit through the 
 [Contact](/contact/) form. 
 
-Just keep in mind Ōhanga Pai is more a developers repository, not an activists forum. 
-Activists are welcome to use any of our software, it is all free-libre software under 
-the [GNU General Public Licence.](https://www.gnu.org/licenses/gpl-3.0.en.html)
+Just keep in mind Ōhanga Pai is more a developers repository, not an activists forum. Activists are welcome to use any of our software, it is all free-libre software under the 
+[GNU General Public Licence.](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 ### Caveats
 
@@ -56,7 +55,7 @@ this one.
 <td style="border: 1px solid color:#0f0f0f;">
 <a href="../001_basic_ohangapai">Next chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
-<a href="../">Back to Q</a></td>
+<a href="../">Back to E</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
 <a href="../001_basic_ohangapai">Next chapter</a></td>
 </tr>
