@@ -1,0 +1,94 @@
+<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>Minsky Model Batch Jobs | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/002_minskybasics/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="Minsky Model Batch Jobs"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/002_minskybasics/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>Minsky Model Batch Jobs</h1><p>Last updated on <time datetime=2023-12-01>2023-12-01</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#setting-up-minsky>Setting Up Minsky™</a><ul><li><a href=#basic-endogenous-money-model>Basic Endogenous Money Model</a></li><li><a href=#model-building-outline>Model building outline</a></li></ul></li><li><a href=#the-rest-api>The REST API</a><ul><li></li></ul></li><li><a href=#batch-processing>Batch processing</a><ul><li><a href=#summary>Summary</a></li></ul></li></ul></nav></details><pre aria-label="Box containing code sample." tabindex=0><code>TODO: incomplete.
+Could not actually get minsky running on the cmdl.
+REST API was not working.
+</code></pre><p>We are working on artificial neural net models for S&P500 time series
+forecasting, but before all that research is released I wanted to give the
+community some tips and tricks for using the system dynamics software Minksy™,
+which is Steve Keen and hpcoder&rsquo;s project, you can get open source releases on
+sourceforge here.</p><p>Sine this is the first post on Minksy-SD, I will begin with a minimal set-up
+introduction. But will not explain the model. To build a model you currently
+have to open the GUI, which is a bit gross. But if you are familiar with other
+system dynamics tools like Simulink or VisSim you should have no problem.</p><p>A huge advantage of Minksy is it is open source, so you will soon hopefully
+find a growing community of users and support. VisSim and Simulink obviously
+have an enormous head-start, but in macroeconomics I think Minksy is poised to
+take a lead. If not, it is still the best tool for macroeconomics simulations
+in my humble opinion.</p><p>The aim of this article is to learn to use the bash command-line interface to
+create and simulate a simple endogenous money model with banks but no
+government sector.</p><h2 id=setting-up-minsky><a class=anchor href=#setting-up-minsky title='Anchor for: Setting Up Minsky™.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Setting Up Minsky™</h2><p>Install Minsky: First, you need to install Minsky on your system. The
+installation process varies depending on your operating system. For instance,
+on Debian/Xubuntu based distros, you can use the following commands to install
+Minsky (for xubuntu-22.04):</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>$ <span class=nb>echo</span> <span class=s1>&#39;deb http://download.opensuse.org/repositories/home:/hpcoder1/xUbuntu_22.04/ /&#39;</span> <span class=p>|</span> sudo tee /etc/apt/sources.list.d/home:hpcoder1.list
+</span></span><span class=line><span class=cl>$ curl -fsSL https://download.opensuse.org/repositories/home:hpcoder1/xUbuntu_22.04/Release.key <span class=p>|</span> gpg --dearmor <span class=p>|</span> sudo tee /etc/apt/trusted.gpg.d/home_hpcoder1.gpg &gt; /dev/null
+</span></span><span class=line><span class=cl>$ sudo apt update
+</span></span><span class=line><span class=cl>$ sudo apt install minsky-beta
+</span></span></code></pre></div><p>If you are using a different or older release, please be advised to grab the install
+sequence commands from
+<a href="https://software.opensuse.org/download.html?project=home%3Ahpcoder1&package=minsky-beta" target=_blank>sourceforge here</a>
+(don&rsquo;t just copy & paste the above).</p><h3 id=basic-endogenous-money-model><a class=anchor href=#basic-endogenous-money-model title='Anchor for: Basic Endogenous Money Model.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Basic Endogenous Money Model</h3><p>I&rsquo;ve found the minimally useful macroeconomics models for testing your set-up,
+are the banking models using Godley tables. You can find canned models on
+Steve Keen&rsquo;s website. These are a good way to learn how to use Minsky without
+tedious learning from basics. Why would you not learn the basics? Perhaps you
+already know some MMT and just want to get on with modelling, and perhaps you
+find it all intuitive and just need a model to start hacking.</p><p>I&rsquo;ve always thought the basic Minsky models are just for teaching the tools,
+not for macroeconomics.</p><p>For decent macroeconomics you need a proper MMT model, so at least a government
+sector and a non-government sector, and Steve Keen always recommends sticking
+in the banking sector too, separate to both government and non-government.
+Why? Because then you get to tweak the credit creation dynamics.</p><p>Of course, a Mosler model (just two-sectors) can be just as good, but will
+aggregate households, firms, foreign sectors, and will aggregate the banking
+sector into the government sector. Which is sort-of fine.</p><p>What you do <strong><em>not</em></strong> want to do with a Mosler model is put the banks into the
+non-government sector, that would be incredibly stupid. Because what you want
+to see is the effect of monetary and fiscal policy on firms and households.
+Banks are agents of the state, so they have to go into the government.</p><p>This is true, even if you think banks in the real world be private sector
+entities. they are not. Not for purposes of MMT analysis. They are run by
+private individuals and have shareholders, but they act as agents of the
+state, issuing tax credits in the form of promises to repay (bank credit, or
+what people refer to as a &ldquo;bank loan&rdquo;). These, for all intents and purposes,
+are just one other way the government issues it&rsquo;s tax credits, with private
+individuals running the banks on behalf of the government, loosely regulated.</p><h3 id=model-building-outline><a class=anchor href=#model-building-outline title='Anchor for: Model building outline.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Model building outline</h3><p>I will not show you screenshots of the GUI, this is better done in video
+format, which I might get around to posting on youtube later. But if you are
+in a rush then go see
+<a href="https://www.youtube.com/watch?v=xzy5iYsf0fA&list=PLUewi-IqLtRRqcVni88dqg73O_9zOGLiX" target=_blank>Ty Keyne's tutorials</a>
+on how to use Minksy™ <a href="https://www.youtube.com/watch?v=xzy5iYsf0fA&list=PLUewi-IqLtRRqcVni88dqg73O_9zOGLiX" target=_blank>here</a>
+.</p><p>Once you are done, save the model as a <code>.mky</code> file in a convenient location.
+For this example, let&rsquo;s assume the file is called <code>endogenous.mky</code>.</p><p>For this tutorial I will use the example from hpcoder&rsquo;s github here:
+<a href=https://github.com/highperformancecoder/minsky/tree/master/examples target=_blank>Examples</a>
+.
+I grabbed the
+<a href=https://github.com/highperformancecoder/minsky/blob/master/examples/EndogenousMoney.mky target=_blank>EndogenousMoney.mky</a>
+model, saved it to my practice folder.</p><h2 id=the-rest-api><a class=anchor href=#the-rest-api title='Anchor for: The REST API.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The REST API</h2><p>Minsky now comes with a REST (representational state transfer) API, so you can
+control a minsky simulation without the GUI.</p><p>First start the Minsky REST server by running the following command in
+the terminal:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>minsky --rest-server
+</span></span></code></pre></div><p>Open a browser and navigate to the Minsky REST server endpoint. By default,
+the REST server endpoint is http://localhost:8080. You should see a welcome
+message if the server is running.</p><p>Create a new simulation or load an existing one in Minsky. To create a new
+simulation, click on &ldquo;File&rdquo; -> &ldquo;New&rdquo; and choose the appropriate model type. To
+load an existing simulation, click on &ldquo;File&rdquo; -> &ldquo;Open&rdquo; and select the
+simulation file.</p><p>Define the simulation parameters using the REST API. You can use the REST API
+to set the simulation parameters, such as the time horizon and the initial
+values of variables. The REST API documentation can be found at
+<code>http://localhost:8080/docs</code>.</p><p>Run the simulation using the REST API. You can use the REST API to run the
+simulation and retrieve the results. The REST API documentation provides
+details on how to run simulations and retrieve results.</p><p>Analyze the simulation results. Once the simulation is complete, you can
+analyze the results using various tools, such as Python, Excel, or R.</p><p>To control the simulation from the command line, you can use tools such as
+curl or http to send requests to the Minsky REST server. For example, to
+set the simulation time horizon to 100 and the initial value of a variable
+to 10, you can use the following command:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>curl -X POST http://localhost:8080/simulation/parameters -d <span class=s1>&#39;{&#34;duration&#34;: 100, &#34;variables&#34;: {&#34;variable_name&#34;: 10}}&#39;</span>
+</span></span></code></pre></div><p>To control the simulation from a browser, you can use the REST API
+documentation at <code>http://localhost:8080/docs</code> to send requests and retrieve results.</p><h4 id=simulate-the-model><a class=anchor href=#simulate-the-model title='Anchor for: Simulate the model.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Simulate the model</h4><p>You can now use the Minsky command-line interface to simulate the model and
+generate time-series data for the relevant variables. Open a terminal window
+and navigate to the directory where you saved the <code>.mky</code> file. Then, run the
+following command:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>$ minsky run endogenous.mky
+</span></span></code></pre></div><p>This will start the simulation and generate a <code>.csv</code> file with the time-series
+data for the relevant variables. By default, the output file is called
+<code>output.csv</code> and is saved in the same directory as the <code>.mky</code> file.</p><p>If you want to specify the name and location of the output file, you can use the
+<code>-o</code> option, as follows:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>$ minsky run -o foo_output.csv endogenous.mky
+</span></span></code></pre></div><p>This will generate the output file <code>foo_output.csv</code> in the current directory.</p><p>Note that there are many other options and parameters that you can use with
+the minsky command-line interface. For more information, see the Minsky
+documentation.</p><h2 id=batch-processing><a class=anchor href=#batch-processing title='Anchor for: Batch processing.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Batch processing</h2><p>Once you&rsquo;ve checked the base model runs ok, you can now feed it changes
+of parameters and run in a batch, as you&rsquo;d do for any bash scripting.</p><h3 id=summary><a class=anchor href=#summary title='Anchor for: Summary.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Summary</h3><p>Hopefully this can get you started with using Minsky. I know I&rsquo;ve left this article sort on specifics, but if you wish to
+<a href=https://ko-fi.com/achrononmaster/ target=_blank>donate</a>
+and ask for help, please do, I
+will not promise you anything except some words, but you can be the judge
+of whether I might have anything useful to tell you.</p><table style="border-collapse:collapse;border=0"><col span=1 style=width:25%><col span=1 style=width:10%><col span=1 style=width:25%><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../001_ohangapai_projects>Previous chapter</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>Back to</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../099_1_macro_trader>Next chapter</a></td></tr><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../001_ohangapai_projects>OHP Projects</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>TOC</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../099_1_macro_trader>Macrotrader I</a></td></tr></table></article></main></div><footer><div class=req-js><button class=outline-dashed title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#adjust"/></svg></button><input class=outline-dashed type=color list=presets value=#1585d5 title="Change accent color." aria-label="Change accent color."><datalist id=presets><option value=#1f676b><option value=#1585d5><option value=#225670><option value=#dd587c><option value=#902b37><option value=#f3a530><option value=#754e85><option value=#7fc121><option value=#a8314a><option value=#ff7433><option value=#3e6728><option value=#c063bd><option value=#805080><option value=#9d629d><option value=#a064a0><option value=#7daa50><option value=#284531><option value=#285790><option value=#F5A83D><option value=#88aa33><option value=#015660><option value=#bf274e><option value=#bf4242><option value=#51b37c></datalist></div><noscript><p class=noscript>Unable to execute JavaScript. Some features were disabled.</p></noscript></footer><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.6950e59dbd8dfddd111390d85888bb5f9dc2e9c334da7ac1c3bacc92a695610d.css integrity="sha256-aVDlnb2N/d0RE5DYWIi7X53C6cM02nrBw7rMkqaVYQ0=" crossorigin=anonymous><script defer src=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.4268ce940bc6faa510d7b638acc3f08a63501d9504dd3155bfc48d6838ade320.js integrity="sha256-QmjOlAvG+qUQ17Y4rMPwimNQHZUE3TFVv8SNaDit4yA=" crossorigin=anonymous></script>
+<script defer src=https://smithwillsuffice.github.io/ohanga-pai/js/katex-custom-render.min.cdeaf561a454e015b169c385f95c72d57d41f906a9bc4100636b18e1e4c15da3.js integrity="sha256-zer1YaRU4BWxacOF+Vxy1X1B+QapvEEAY2sY4eTBXaM=" crossorigin=anonymous></script></body></html>
