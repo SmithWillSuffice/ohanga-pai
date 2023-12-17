@@ -34,7 +34,7 @@ That's all. Wittgenstein koan mode today.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Blog</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../07_cashless">Next chapter</a></td>
+<a href="../07_cashless">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">

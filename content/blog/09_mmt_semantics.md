@@ -567,7 +567,7 @@ too beneath your poncy *ass*ets?
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Blog</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../10_finance_politics">Next chapter</a></td>
+<a href="../10_finance_politics">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">

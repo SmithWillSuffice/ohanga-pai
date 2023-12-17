@@ -214,7 +214,7 @@ to tell us this is so. We all have agency. We only lack solidarity.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Blog</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../13_debt_pyramid">Next chapter</a></td>
+<a href="../13_debt_pyramid">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">

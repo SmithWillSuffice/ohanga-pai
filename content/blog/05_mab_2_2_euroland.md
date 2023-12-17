@@ -264,7 +264,7 @@ from insanity, so I should write about that some time.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Blog</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../06_capitalrealism">Next chapter</a></td>
+<a href="../06_capitalrealism">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">

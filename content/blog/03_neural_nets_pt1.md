@@ -111,7 +111,7 @@ To join with [Douglas the MMT Macro Trader](https://www.patreon.com/mmtmacrotrad
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Blog</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../04_money_veils">Next chapter</a></td>
+<a href="../04_money_veils">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
