@@ -9,7 +9,7 @@ toc: true
 disableTitleSeparator : true
 ---
 
-I'm at it again with Michael Hudson.
+I'm at it again [with Michael Hudson (here)](https://www.youtube.com/watch?v=4cQbyYBUvzY).
 
 I guess he is doing a good job opening people's eyes and ears. But I wish 
 he'd not continue being so coarse. It's ok to talk in nuanced terms, and 
@@ -18,9 +18,12 @@ ears.
 
 ## Exponential Growth
 
-This is one annoying thing, it always irritates. Whenever anyone outside of mathematics class starts talkkign about exponentials. There are no such 
-functions in nature except for abstract fall off in  
-quantum and/or gravitational field amplitudes.
+He got me started about 10 minutes in to the [interview](https://youtu.be/4cQbyYBUvzY?t=608)
+
+This is one annoying thing, it always irritates. Whenever anyone outside 
+of mathematics class starts talking about exponentials. There are no such 
+functions in nature except for abstract fall off in quantum and/or 
+gravitational field amplitudes.
 
 So monetary debt never grows exponentially. If the payments are not made, and 
 interest is charged, then your debt (or net households debt) will grow roughly 
@@ -31,7 +34,7 @@ and unemployed (one might vainly hope).
 
 So what is the actual debt growth curve?
 
-### Groth Curve Balls
+### Growth Curve Balls
 
 Firstly, **(a)** it is not always growing, and **(b)** it is irregular.
 One can only say the household debt will grow when the government debt 
@@ -56,6 +59,7 @@ becomes overnight insignificant compared to tomorrows income.  That's
 damn, right, inflation is not necessarily a bad thing, if it is purely 
 in nominal terms, and purely effected just by increasing the minimum wage 
 **_only_** or the public sector workers wage rate.
+
 
 ## The economic justice issue
 
