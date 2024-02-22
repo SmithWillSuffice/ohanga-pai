@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Loony Hoons"
 weight: 51
 date: 2024-02-22
 toc_depth: 3
@@ -29,7 +29,6 @@ And it is not that the previous Labour government was much better, their
 leader Chris Hipkins was saying the same as Willis in different words. But 
 class warfare is class warfare no matter whose mouth sounds the sweetest 
 austerity.
-
 
 
 
