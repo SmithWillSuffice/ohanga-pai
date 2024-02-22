@@ -41,23 +41,26 @@ The hard honest answer is we have to educate others. Education is
 inoculation against ignorance.  But I have some tips, you should write to 
 me if you find they work:
 
-1. Focus on the basics: there is no need for our government to tax in order 
-to ne able to spend. They impose tax liabilities to drive demand for the 
-currency --- willing takers --- not to ""get the money".
-2. Neither do Treasury bonds "finance the government. No one can buy a bond 
-until the government issues the tax credits.
+1. Focus on the basics: there is no need for our government to tax *in order 
+to be able to spend*. They impose tax liabilities to drive demand for the 
+currency --- willing takers --- not to "get the money".
+2. Neither do Treasury bonds "finance the government". No one can buy a bond 
+until the government issues the tax credits (either by direct payments or via 
+state licensed banks permitted to issue credit).
 3. Nor do Treasury bonds "balance the budget". The books are always in 
-balance. The issuance of bonds is (on a floating exchange rate) nothing but 
-*basic income for people who already have money in proportion to how much money they already have*.
+balance (unless some Treasury or RBNZ accountant made a mistake). The issuance 
+of bonds is (on a floating exchange rate) nothing but 
+<font style="color: #ffffc3;">
+*basic income but only for people who already have money in proportion to how much money they already have*.</font>
 
 So why are we even talking about bonds? Why are we talking about 
 "balancing the budget"? It is all irrelevant talk.
 
 The purpose of public macroeconomic policy should be full meaningful 
-employment of all resources. If the private sector is not employing existing 
-resources (people, for the most part) the government always can hire them, 
-without causing any price pressure --- because by definition to private sector 
-bid for unemployed labour is zero.
+employment of all sustainable resources. If the private sector is not 
+employing existing resources (people, for the most part) the government 
+always can hire them, without causing any price pressure --- because by 
+definition to private sector bid for unemployed labour is zero.
 
 **Remark 1:** Can a full employment policy cause one-off upwards price adjustments?
 
