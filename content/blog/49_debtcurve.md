@@ -113,7 +113,7 @@ deflation, while savings of the rich grow nominally compared to their costs.))
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Blog</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next post</a></td>
+<a href="../50_loonytoons">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -121,6 +121,6 @@ deflation, while savings of the rich grow nominally compared to their costs.))
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../50_loonytoons">Loony Hoons</a></td>
 </tr>
 </table>
