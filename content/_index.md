@@ -1,6 +1,7 @@
 ---
 title                 : "Welcome to the Ōhanga Pai Community"
 disableTitleSeparator : false
+katex: true
 ---
 
 Ōhanga Pai means "good economics" or "economic well-being" in [Te Reo Māori](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=ohanga) and yes, that means my 

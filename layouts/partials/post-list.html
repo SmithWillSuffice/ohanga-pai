@@ -1,7 +1,7 @@
 {{ $pag := .Paginate (where .RegularPages "Type" "in" .Site.Params.mainSections ) }}
 
 <ul class="posts">
-  {{ range $pag.Pages.Reverse }}
+  {{ range (.Paginate ( first 99 .Pages.ByWeight )).Pages }}
   
     {{ $pageDate := "" }}
     
