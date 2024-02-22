@@ -32,13 +32,13 @@ austerity.
 
 ## The neoliberal narrative
 
-THe "household budget".  Completely moronic when you are the monopoly 
+The "household budget".  Completely moronic when you are the monopoly 
 currency issuer."
 
 ### How to counter the narrative
 
 The hard honest answer is we have to educate others. Education is 
-innoculation against ignorance.  But I have some tips, you should write to 
+inoculation against ignorance.  But I have some tips, you should write to 
 me if you find they work:
 
 1. Focus on the basics: there is no need for our government to tax in order 
