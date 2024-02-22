@@ -90,11 +90,13 @@ out of office pretty smart.
 
 If you also worry about the *balance of payments*, that's just another 
 sickness akin to invoking the disgusting "household budget" dis-analogy.
-Any holdings of NZD that foreigners have cannot purchase them things that 
+Any holdings of NZD that foreigners have, cannot purchase them things that 
 are not for sale. If you worry our politicians are for sale, that's not a 
 problem because of foreign holdings of NZD, it is a problem due to any 
 hoards of any currency, since anyone can swap USD, euro, Yen, or Ruble, 
-for NZD at a Forex desk.
+for NZD at a Forex desk. Our corrupt politicians will accept any 
+currency, maybe even bitcoin. (Seems like a really good case against 
+crypto.)
 
 
 ## The Proper Hammer
@@ -104,7 +106,7 @@ world a person's character counts for something, not just their analytical
 concepts. If someone has a poor character you trust less their ideals. 
 Sorry theorypleeb and you other Lacanians. That's just reality.) 
 
-I also do not like Vladimir Lenin. You can cry to me as loud as you like 
+I also do not overly like Vladimir Lenin. You can cry to me as loud as you like 
 about how masterful he was as an organizer, but without a mass of ordinary 
 peasant people and bourgeoisie supporters, who believed in a decent vision for 
 Russia, he was nothing. If you truly think Lenin was a great man, you are 
@@ -165,8 +167,17 @@ stupidity and die an ignoble death.
 I can be such a nerd if I wanted and worry and fret like an old granny 
 about inflation and "dollar devaluation" --- but why? It serves no useful 
 purpose.  We will not win the psychological battle to overcome 
-"fear of inflation" and "fer of the national debt" is we sink to such 
+"fear of inflation" and "fear of the national debt" if we sink to such 
 nerdery. 
+
+Although that's an insult to real nerds. Anyone valuing their intelligence 
+ought to know our grandchildren are not going to invent time machines so 
+they can make payments to us to pay off our debts. Or maybe even the good 
+nerds have completely lost their minds to neoliberalism by now? At the end 
+of the universe in their Marvel CMU scenario when our "national debts" amount 
+to infinity dollars (de&nbsp;Sitter spacetime ok), those grandkids are going 
+to be really seriously stressed deleting those digits from the bank accounts 
+to pay-off the debt. So we'd better not leave them too many scorepoints huh?
 
 We just need to be bold and tell the true story about the monetary system. 
 People are not so dumb, they just haven't lifted the veil over their eyes 
@@ -176,8 +187,29 @@ Sock cucking around fretting about the purely psychological constraints is
 a mugs game. (Even Kelton and Kaboub are guilty of playing that game.) 
 We can admit those psychological political barriers are real, but the way to 
 overcome them is the Emperor's New Clothes story. Just say they are needless 
-self-imposed constraints. Hence best to overcome the false psyschology.
+self-imposed constraints. Best to overcome the false psychology 
+by not crediting it in the first place.
 
+A Global South nation faces real resource constraints limiting their prosperity 
+and happiness, but are the Global North nation peoples any happier? The source 
+of happiness is not in excess material possessions. But it is a darn good and 
+happy thing to not deprive the poor of a decent standard of living. I truly 
+believe every nation can afford, in real terms, a decent standard of living. 
+They are not import constrained. Container ships can literally dock anywhere 
+there is a harbour. They are constrained by the goodwill of other nations who 
+do not see all people on the planet as their brothers and sisters. 
+
+Please do not heterodox-nerdball me that I am being naïve. I know what 
+humanity is capable of, not in full totality, but the humble stuff. We are 
+thoroughly capable of goodwill to each other. These are political will 
+obstacles, not "sovereignty" obstacles.
+
+If your brother is starving you do not say, "Oh,m too bad, he could not 
+grow enough bananas to feed his family and himself, he needed to be more 
+self-sufficient."
+
+Or, I guess, you might say that if you are a sociopathic economist... I 
+mean, if you are an economist.
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
