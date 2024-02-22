@@ -41,6 +41,11 @@ The hard honest answer is we have to educate others. Education is
 inoculation against ignorance.  But I have some tips, you should write to 
 me if you find they work:
 
+0. The NZD currency is a score-keeping system. The score-keepers are the 
+government plus central bank. It is a simple public monopoly. They tell you 
+how much the currency exchanges for, and how you can get it. Politicians do 
+not understand this, neither do many at the central bank, which is a cause of 
+great needless suffering for our people.
 1. Focus on the basics: there is no need for our government to tax *in order 
 to be able to spend*. They impose tax liabilities to drive demand for the 
 currency --- willing takers --- not to "get the money".
@@ -60,7 +65,7 @@ The purpose of public macroeconomic policy should be full meaningful
 employment of all sustainable resources. If the private sector is not 
 employing existing resources (people, for the most part) the government 
 always can hire them, without causing any price pressure --- because by 
-definition to private sector bid for unemployed labour is zero.
+definition the private sector bid for unemployed labour is zero.
 
 **Remark 1:** Can a full employment policy cause one-off upwards price adjustments?
 
@@ -123,12 +128,15 @@ That is an argument.
 But the reality is no number of rich people will win the class war. The 
 class war is won when the majority rise up united against neoliberalism and 
 neo-fascism. For the leftiepol nerds, let me define "neoliberalism" for you 
-so you do not misunderstand: it is the entire liberal elite who do little 
-real work and yet claim the majority of currency scorepoints, all the 
-while screaming at us we others need to be more unemployed to fight inflation.
+so you do not misunderstand: it is the entire liberal + oligarch elite who 
+do little real work and yet claim the majority of currency scorepoints, all 
+the while screaming at us we others need to be more unemployed to 
+"fight inflation" (meaning maintaining their elite level purchasing power).
+You see, they cannot even get their own argument right! (Causing unemployment 
+reduces purchasing power in real terms.)
 
 You won't find that definition elsewhere, it is parochial for here at 
-Ohanga Pai.
+Ōhanga Pai.
 
 Note that a democratic majority *power of the people* cannot be exclusionary 
 and ideological, it must embrace all people, even a few libertarian retards.
@@ -140,13 +148,35 @@ does not imply one is not wealthy.
 
 Ah, crap. I guess I'm going to go longer than Bill Mitchell today.
 
+Maybe not... haven't I written enough? 
 
-Maybe not... haven't I written enough? The Household Budget analogy 
-Nicola Willis is officially proclaiming is domestic terrorism.
-It is *needless* austerity. Austerity kills poor people who might otherwise 
-have lived a little longer and contributed meaningful to a decent society. 
-The Tories are always paying lip service to a "decent society" but they 
-have no clue how to promote one in their policy analysis.
+The Household Budget analogy Nicola Willis is officially proclaiming is 
+domestic terrorism. It is *needless* austerity. Austerity kills poor people 
+who might otherwise have lived a little longer and contributed meaningful to 
+a decent society. The Tories are always paying lip service to a 
+"decent society" but they have no clue how to promote one in their policy 
+analysis.
+
+I was going to blab on about the dickhead post-Keynesians who worry and fret, 
+like the old grannies they are, about "balance of payments constraints" and 
+inflation. But I am sick of their kind. Let them wallow in their own 
+stupidity and die an ignoble death. 
+
+I can be such a nerd if I wanted and worry and fret like an old granny 
+about inflation and "dollar devaluation" --- but why? It serves no useful 
+purpose.  We will not win the psychological battle to overcome 
+"fear of inflation" and "fer of the national debt" is we sink to such 
+nerdery. 
+
+We just need to be bold and tell the true story about the monetary system. 
+People are not so dumb, they just haven't lifted the veil over their eyes 
+drawn by neoliberalism.
+
+Sock cucking around fretting about the purely psychological constraints is 
+a mugs game. (Even Kelton and Kaboub are guilty of playing that game.) 
+We can admit those psychological political barriers are real, but the way to 
+overcome them is the Emperor's New Clothes story. Just say they are needless 
+self-imposed constraints. Hence best to overcome the false psyschology.
 
 
 <table style="border-collapse: collapse; border=0;">
