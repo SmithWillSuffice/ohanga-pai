@@ -127,8 +127,8 @@ else.
 
 However, if we regard it as borrowing, the IOU is owed back to the person we 
 borrowed it from, so we have not altered the net money supply of IOUs.
-Now, given that we can write as many IOUs as we like, we are not revenue constrained 
-in our own IOUs, so we have no need for the borrowing. 
+Now, given that we can write as many IOUs as we like, we are not revenue 
+constrained in our own IOUs, so we have no need for the borrowing. 
 Why would we offer to borrow our own IOUs then?
 The answer, Mosler explained, was that we might do so to generate a positive
 interest rate for our IOUs, by offering some interest on those IOUs that we have
@@ -142,16 +142,28 @@ serves a controlled pro-inflationary purpose, a stable form of economic stimulus
 but which MMT recognizes as highly regressive, because it amounts to little more 
 than welfare for those who already have money.
 
+However it is far worse than this, far more regressive, because this issuance 
+of bonds is not only basic income, it is basic income but *only* for people 
+who already have money and in *proportion to how much money they already have.* 
+It is an obscene policy. There is simply no good reason for our government to 
+be issuing bonds. If we had a fixed exchange rate policy (so similar to a gold 
+standard, our government would be promising to redeem the tax credits (NZD) for 
+either gold or for a foreign currency) then it would be necessary to issue bonds, 
+in order to prevent mild inflationary pressures. But why? There is no need for 
+enriching people who are already rich with such policy, our governemtn should 
+instead float the NZD, and offer zero interest.
+
 The greater body of work on MMT recognizes that a far more effective way
 to stimulate an economy is to supply new money at the bottom, in the form of
-either a Basic Income Guarantee or even better a Job Guarantee, or combination of both. 
+either a Basic Income Guarantee or even better a Job Guarantee, or combination 
+of both. 
 But an even more effective way to fuel an economy is for the state to
 directly hire workers who are willing to take jobs in the public sector proper, 
 because such jobs (teachers, nurses, public attorneys, public banking, road works,
-police, fire-fighters, parks wardens, sanitation workers, electricity utility supply
-workers, conservation workers, government R&D scientists, &c.) all help provide 
-free non-profit public services which lower the nominal costs to the private
-sector of conducting business.
+police, fire-fighters, parks wardens, sanitation workers, electricity utility 
+supply workers, conservation workers, government R&D scientists, &c.) all help 
+provide free non-profit public services which lower the nominal costs to the 
+private sector of conducting business.
 
 The cost to the private sector of all this state sector hiring is a real cost, not
 a monetary cost. 
@@ -165,9 +177,9 @@ lowering costs to private sector businesses.
 Well, they're all wrong. 
 MMT is correct. 
 Money can only come from government net spending (or unstably from
-bank credit extension) and so when the state provides public services not only
-are they lowering private business costs, they actually fund the private sector with
-capacity to pay their tax liabilities. 
+bank credit extension) and so when the state provides public services not 
+only are they lowering private business costs, they actually fund the private 
+sector withcapacity to pay their tax liabilities. 
 Everyone else has the money story backwards,
 including most post-Keynesians and Marxists.
 

@@ -15,7 +15,7 @@ can afford to be short and sweet.
 The New Zealand Tory government (National + ACT party) have macroeconomics 
 completely backwards. Not just roughly. Completely. The "finance" Minister 
 Nicola Willis went on official record the other day in proclaiming the NZ 
-Government is like a household. Or, the Government Budget is Like a 
+Government is like a household. Or, the Government Budget is "Like a 
 Household Budget". 
 
 Every MMT'er around knows this is utterly insane, and even a few post-Keynesian 
@@ -61,6 +61,8 @@ of bonds is (on a floating exchange rate) nothing but
 So why are we even talking about bonds? Why are we talking about 
 "balancing the budget"? It is all irrelevant talk.
 
+(I mentioned Romanchuk. A bond trader. Why does his kind even exist?)
+
 The purpose of public macroeconomic policy should be full meaningful 
 employment of all sustainable resources. If the private sector is not 
 employing existing resources (people, for the most part) the government 
@@ -75,9 +77,9 @@ inflation. So stop talking as if it was!
 
 **Remark 2:** can wasteful spending by a government cause a real rate of 
 inflation (devaluation of wages relative to goods, or an increase in the 
-real inflation rate (how much stuff your entire income can buy))?  Yes, sure 
-it can. But that is again a policy choice. Unleashing MMT awareness upon 
-feckless politicians is highly unlikely to cause such wastefulness. They 
+real inflation rate (how much stuff your entire income can buy goes down))? 
+Yes, sure it can. But that is again a policy choice. Unleashing MMT awareness 
+upon feckless politicians is highly unlikely to cause such wastefulness. They 
 are austerity hawks. It is hard enough to get government to spend already.
 
 If you think MMT awareness infused into their brains will make them suddenly 
@@ -94,9 +96,9 @@ Any holdings of NZD that foreigners have, cannot purchase them things that
 are not for sale. If you worry our politicians are for sale, that's not a 
 problem because of foreign holdings of NZD, it is a problem due to any 
 hoards of any currency, since anyone can swap USD, euro, Yen, or Ruble, 
-for NZD at a Forex desk. Our corrupt politicians will accept any 
-currency, maybe even bitcoin. (Seems like a really good case against 
-crypto.)
+for NZD at a Forex desk. Our corrupt politicians will also accept *any* 
+currency, maybe even bitcoin under the table. (Seems like a really good 
+case against crypto.)
 
 
 ## The Proper Hammer
@@ -204,7 +206,7 @@ humanity is capable of, not in full totality, but the humble stuff. We are
 thoroughly capable of goodwill to each other. These are political will 
 obstacles, not "sovereignty" obstacles.
 
-If your brother is starving you do not say, "Oh,m too bad, he could not 
+If your brother is starving you do not say, "Awww, too bad, he could not 
 grow enough bananas to feed his family and himself, he needed to be more 
 self-sufficient."
 
