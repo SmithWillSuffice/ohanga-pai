@@ -238,41 +238,117 @@ We begin with one more axiom:
 **Monopoly actions:** A monopolist always has two options: (a) set the price
 and let quantity float, or (b) fix the quantity they supply and let the price float.
 
-Most monopolists find it convenient (for their customers) to use option (a): to
-fix the price, and only later adjust the price to control quantity emitted as needed.
+Most monopolists find it convenient (for their customers) to use option (a): 
+to fix the price, and only later adjust the price to control quantity emitted 
+as needed.
+
 A good example is electricity supply. Why would a hydro-power station
 choose to fix the quantity of electrons they emit each day, forcing customers to
 bid for these electricity units? 
-It'd be a hyper-darwinian raw competition nightmare --- only the wealthy would get all the electricity they need, unless the power
-station knew what the demand was. 
-It would be far more efficient and socially
+It'd probably result in a hyper-darwinian raw competition nightmare --- only 
+the wealthy would get all the electricity they need, unless the power station 
+knew what the demand was.  It would be far more efficient and socially
 equitable to fix the price of electric power and allow the supply to vary, by 
-controlling the dam gates. 
-This is what all our electric power utility companies do.
-If they are at full dam release and there is still more demand the electric utility
-will raise the price to suppress demand.
+controlling the dam gates. This is what all our electric power utility companies 
+do. If they are at full dam release and there is still more demand the electric 
+utility will raise the price to suppress demand. 
+
+This sounds liek at the demand limit we will get the squeeze on poor people. 
+But this is only if the electric utility company is entirely dependent upon 
+sales and is greedy. A clear alternative is to treat electric power as a 
+public good, so the government can =always regulate the price level. There is 
+no need for a competitive market for something like education, housing, energy 
+or food. 
+
+The idea of markets is to allow consumers with adequate purchasing power to 
+determine relative prices. But when we are talking about basic human 
+necessities like water, air, energy, food, housing, the need for a free 
+market needs to be seriously questioned. MMT proper might be agnostic on 
+such political preferences, but at least MMT reveals what is possible and 
+distinguishing what is necessary. Markets are not always necessary for price 
+stability.
 
 1. The currency-issuing government (like NZ) is a currency monopolist.
 2. The government can fix prices through:
-   - wages it pays to public sector employees --- which establish a wage standard for the rest of the economy through competition for hiring,
-   - transfer payments made to social welfare recipients and pensioners --- which is effectively adding to the non-government sector wage rate via addition to aggregate demand, 
-   - collateral demanded for bank credit (aka. bank loans) --- this includes not only RBNZ credit, but also private bank credit, since private banks permitted to issue NZD credit have to obtain their licence and regulations from the State. This effectively fixes the interest rate ceiling provided there is no commercial banking monopolist, via competitive pressure on banks competing for customer debtors. 
-   - Regulating reserve balances, or IRMA, through Treasury bond operations to fix the interest rate floor.
-3. In New Zealand the practice is typically for the NZ government to fix prices and let quantity of NZD float.
-4. The state-currency is unique in that the 'own-price' (the amount the commodity trades for units of itself) has a meaningful consequence, which is realized as the bank interest rate spread.
-5. The government sets the currency 'own price' (aka. the interest rate) through central bank reserve policy (by paying interest on bank reserves and/or by issuing Treasury securities). The RBNZ rates so determined (by political decisions) set the corridors for all private bank credit lending rates. It cannot be otherwise because private banks are in competition for funds, and so cannot for long offer savers an interest-income rate too much lower than the RBNZ rate, and cannot demand for long a rate of interest repayment too much higher than the RBNZ ceiling rate because then competing banks will undercut them.
-6. Private markets offer goods for sale in NZD because they need NZ dollars to pay their taxes.
-7. The amount of NZ dollars available to make purchases in the private market, for goods priced in NZD, is determined by the prices paid by government and the regulations on bank credit, also determined by government.
-8. NZ dollars cannot come from anywhere else, they either come from government spending at prices the government sets, or from bank credit which government regulates. We do not get NZD from China: before Chinese consumers can get NZD to buy goods from us, or purchase NZ Treasury securities, we must first supply them, either with NZ bank credit or NZ government spending.
-9. No other agency has the legal authority to issue NZ dollars. Therefore, the NZ government, and only the NZ government, can and does determine the general level for prices for all goods for sale in NZ dollars --- whether the government politicians know it or not.
-10. The NZ government sets the price level in NZ dollars, and thus sets the inflation rate of the NZ dollar --- again, this is true whether government representatives know it or not! If tomorrow the NZ government chose to increase public sector wages and social welfare benefits to ten times the current amounts, general prices for all goods in the whole economy would the next week or so adjust upwards by about ten times. The government chooses the price level.
-11. If the government refuses to pay higher prices there will be no inflation (other than for certain single commodities through import prices, which are not under our government’s control). This may or may not be good policy depending upon circumstances, such as import needs.
-12. The result of government refusing to pay higher prices will be no contracts for the non-government sector if higher prices are demanded, and so no government spending, and this collapses aggregate demand in NZD. If the government is still issuing tax liabilities, and collecting on them, then prices will rapidly lower until the government is now willing to spend again. (This is just monopoly pricing effect, not good policy. No government should want to deflate the currency this way! (Because it only benefits the wealthy.))
-13. In all cases then, the government chooses the price level, and thus chooses the inflation rate. Inflation is a policy variable, not a market determined quantity. (This does *not* mean inflation rate is an easy policy variable to manage.)
-14. It might be very good policy for government to use fiscal policy (through a job guarantee wage + benefit floor) to deliberately raise the price level periodically, perhaps every five years. This is not technically inflation, but has the same effect: it lowers the purchasing power of hoarded wealth, and lowers the burden on the poor of their past debt (since now their wage rate floor is higher than their past debt servicing rate).
-15. In a recession, in particular, designed controlled one-off inflation (a deliberate re-gauging  of the currency unit) can be highly progressive egalitarian fiscal policy, but it depends upon how the currency is re-gauged, if it is done by providing currency injections at the base of the economy then it's egalitarian. (The poorest should never be the ones carrying the burden of a recession that was not their fault.)
-16. In an economic boom when natural resources might be under threat of being depleted, a designed deliberate currency re-gauging policy might be desirable though either taxes, or fines, on goods for sale that are depleting natural resources, or through rationing and various other fiscal policies. 
-17. The NZ government is not beholden (in principle) to any private market forces for implementing any of these policies, it is beholden (in principle) only to the market for election votes, aka. democracy.
+   - wages it pays to public sector employees --- which establish a wage standard 
+   for the rest of the economy through competition for hiring,
+   - transfer payments made to social welfare recipients and pensioners --- which 
+   is effectively adding to the non-government sector wage rate via addition to 
+   aggregate demand, 
+   - collateral demanded for bank credit (aka. bank loans) --- this includes not 
+   only RBNZ credit, but also private bank credit, since private banks permitted to 
+   issue NZD credit have to obtain their licence and regulations from the State. 
+   This effectively fixes the interest rate ceiling provided there is no commercial 
+   banking monopolist, via competitive pressure on banks competing for customer 
+   debtors. 
+   - Regulating reserve balances, or IRMA, through Treasury bond operations to fix 
+   the interest rate floor.
+3. In New Zealand the practice is typically for the NZ government to fix prices and 
+let quantity of NZD float.
+4. The state-currency is unique in that the 'own-price' (the amount the commodity 
+trades for units of itself) has a meaningful consequence, which is realized as the 
+bank interest rate spread.
+5. The government sets the currency 'own price' (aka. the interest rate) through 
+central bank reserve policy (by paying interest on bank reserves and/or by issuing 
+Treasury securities). The RBNZ rates so determined (by political decisions) set the 
+corridors for all private bank credit lending rates. It cannot be otherwise because 
+private banks are in competition for funds, and so cannot for long offer savers an 
+interest-income rate too much lower than the RBNZ rate, and cannot demand for long 
+a rate of interest repayment too much higher than the RBNZ ceiling rate because 
+then competing banks will undercut them.
+6. Private markets offer goods for sale in NZD because they need NZ dollars to pay 
+their taxes.
+7. The amount of NZ dollars available to make purchases in the private market, for 
+goods priced in NZD, is determined by the prices paid by government and the 
+regulations on bank credit, also determined by government.
+8. NZ dollars cannot come from anywhere else, they either come from government 
+spending at prices the government sets, or from bank credit which government 
+regulates. We do not get NZD from China: before Chinese consumers can get NZD to 
+buy goods from us, or purchase NZ Treasury securities, we must first supply them, 
+either with NZ bank credit or NZ government spending.
+9. No other agency has the legal authority to issue NZ dollars. Therefore, the NZ 
+government, and only the NZ government, can and does determine the general level 
+for prices for all goods for sale in NZ dollars --- whether the government 
+politicians know it or not.
+10. The NZ government sets the price level in NZ dollars, and thus sets the 
+inflation rate of the NZ dollar --- again, this is true whether government 
+representatives know it or not! If tomorrow the NZ government chose to increase 
+public sector wages and social welfare benefits to ten times the current amounts, 
+general prices for all goods in the whole economy would the next week or so adjust 
+upwards by about ten times. The government chooses the price level.
+11. If the government refuses to pay higher prices there will be no inflation 
+(other than for certain single commodities through import prices, which are not 
+under our government’s control). This may or may not be good policy depending upon 
+circumstances, such as import needs.
+12. The result of government refusing to pay higher prices will be no contracts for 
+the non-government sector if higher prices are demanded, and so no government 
+spending, and this collapses aggregate demand in NZD. If the government is still 
+issuing tax liabilities, and collecting on them, then prices will rapidly lower 
+until the government is now willing to spend again. (This is just monopoly pricing 
+effect, not good policy. No government should want to deflate the currency this 
+way! (Because it only benefits the wealthy.))
+13. In all cases then, the government chooses the price level, and thus chooses the 
+inflation rate. Inflation is a policy variable, not a market determined quantity. 
+(This does *not* mean inflation rate is an easy policy variable to manage.)
+14. It might be very good policy for government to use fiscal policy (through a job 
+guarantee wage + benefit floor) to deliberately raise the price level periodically, 
+perhaps every five years. This is not technically inflation, but has the same 
+effect: it lowers the purchasing power of hoarded wealth, and lowers the burden on 
+the poor of their past debt (since now their wage rate floor is higher than their 
+past debt servicing rate).
+15. In a recession, in particular, designed controlled one-off inflation (a 
+deliberate re-gauging  of the currency unit) can be highly progressive egalitarian 
+fiscal policy, but it depends upon how the currency is re-gauged, if it is done by 
+providing currency injections at the base of the economy then it's egalitarian. 
+(The poorest should never be the ones carrying the burden of a recession that was 
+not their fault.)
+16. In an economic boom when natural resources might be under threat of being 
+depleted, a designed deliberate currency re-gauging policy might be desirable 
+though either taxes, or fines, on goods for sale that are depleting natural 
+resources, or through rationing and various other fiscal policies. 
+17. The NZ government is not beholden (in principle) to any private market forces 
+for implementing any of these policies, it is beholden (in principle) only to the 
+market for election votes, aka. democracy.
 
 **Comment on 10.** Another way the government can be seen to be the monopoly *price setter* would be through the "own price" of the currency, otherwise known as *the interest rate*. 
 If the government sets a very high interest rate, high enough that the debt servicing pretty much became an operating cost for all economic sectors, *then the interest rate would **be** the inflation rate* --- this is by academic definition, both would then become the "price" for holding on to cash.
