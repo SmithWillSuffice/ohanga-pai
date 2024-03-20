@@ -223,9 +223,9 @@ mean, if you are an economist.
 <td style="border: 1px solid color:#0f0f0f;">
 <a href="../49_debtcurve">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
-<a href="../">Back to Blog</a></td>
+<a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next post</a></td>
+<a href="../51_boyz_and_grilz">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -233,6 +233,6 @@ mean, if you are an economist.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../51_boyz_and_grilz">Boyz and Gr1lz</a></td>
 </tr>
 </table>
