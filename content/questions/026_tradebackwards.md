@@ -1,6 +1,6 @@
 ---
 title: "Trade Backwards"
-weight: 17
+weight: 16
 description: ""
 date: 2023-08-30
 cover: ""
@@ -38,7 +38,7 @@ raison d'être for wanting to trade even when you do not need to trade.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Q</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../100_why_does_it_matter">Next chapter</a></td>
+<a href="../027_without_government_no_unemployment">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -46,7 +46,7 @@ raison d'être for wanting to trade even when you do not need to trade.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../100_why_does_it_matter">Why MMT Matters</a></td>
+<a href="../027_without_government_no_unemployment">Without Unemployment</a></td>
 </tr>
 </table>
 

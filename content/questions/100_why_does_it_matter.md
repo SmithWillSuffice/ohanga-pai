@@ -339,6 +339,28 @@ We do not *need* to tax super rich people, we need to not have super rich people
 
 
 
-[Next chapter (None, this is the End)](./)  
-[Previous chapter (Periphery Nations)](../020_peripherynations)  
-[Back to Questions TOC](../)
+
+<table style="border-collapse: collapse; border=0;">
+    <colgroup>
+       <col span="1" style="width: 35%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 35%;">
+    </colgroup>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../027_without_government_no_unemployment">Previous Question</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Q</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="./">Next Question</a></td>
+</tr>
+<tr style="border: 1px solid color:#0f0f0f;">
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../027_without_government_no_unemployment">Without Unemployment</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="./">(TBD)</a></td>
+</tr>
+</table>
+
