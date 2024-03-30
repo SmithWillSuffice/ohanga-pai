@@ -66,7 +66,7 @@ means. The MMT generalization is,
 > **Government** is the, or one of several, monopoly powers that are using 
 tax liabilities to drive an otherwise worthless currency.
 
-Let's abstract and call this governing power simple $\mathfrak{G}$.
+Let's abstract and call this governing power simply $\mathfrak{G}$.
 
 This applies even if the $\mathfrak{G}$ promises to redeem their scorepoints 
 for gold or silver or pizza. This does not make the currency a real commodity, 
@@ -85,7 +85,7 @@ is still a $\mathfrak{G}$.
 
 ### How is the answer "no"?
 
-If you do not have a $\mathfrak{G}$ --- of some foprm, any form, --- then you 
+If you do not have a $\mathfrak{G}$ --- of some form, any form, --- then you 
 have no currency. Maybe you have some weird hybrid currency system, but 
 whoever controls the scoprepoints is your $\mathfrak{G}$, or one of many. If 
 they are not using a tax system --- or something like it --- to drive demand 
@@ -93,18 +93,45 @@ for the otherwise worthless scorepoints, then you have no currency, as MMT
 defines the currency unit.
 
 If you have no currency then no one is seeking to exchange their labour for 
-getting those scorepoints. So there is no unemployment.
+getting those scorepoints. So there is no unemployment *in that currency* but 
+there could be unemployment in some other currency (namely whoever is 
+imposing the obligations to earn that currency) but then they are some sort 
+of $\mathfrak{G}$.
+
+You now see the mental problem with those who think "unemployment" is a 
+natural phenomenon? 
 
 Thus, no matter how you slice things, unemployment is created by 
 $\mathfrak{G}$. Of one form or another. Steve Keen was wrong. 
 
-But of course, to be generous, Keen is using hios own *different* definition 
+But of course, to be generous, Keen is using his own *different* definition 
 of unemployment, which presumably has the idle rich being "unemployed" (not 
-wage earning). MMT sees things differently,. the existence of those people is 
+wage earning). MMT sees things differently. The existence of those people is 
 a loss of real output, and an effective rent on the labour of everyone else 
 who is producing real goods for society. But still, those idle slackers are 
 not unemployed. They are just *not working*.  If they are not *seeking* to 
 exchange their labour time for the currency then they are fully employed.
+
+Definitions matter for civilized discourse. But the point of this article 
+goes beyond the word games and political linguistic gymnastics. The real 
+point is to see how we can obtain a better society. It is clearly by producing 
+real output everyone needs for a decent sort of life, not in excess, just 
+decent. And by the Twentieth century we had the collective means to achieve 
+this goal. It was political choice that prevented humanity from realizing 
+this goal.  Neoliberalism (of both left-wing and right-wing varieties) 
+succumbed to the neo-darwinist disease of thinking competition is good, and 
+if the evil hand of government was just relaxed more we'd find a decent 
+society.
+
+I am afraid that is not how political economy based on a monetary system 
+ever works. I mean literally *afraid* because this ideology is a cause of 
+so much unnecessary suffering. Base case suffering is involuntary 
+unemployment $\Rightarrow$ people seeking unsuccessfully to exchange their 
+labour for the 
+currency. There is little indication this baleful ideology will be dying off 
+any time soon. We are infested with neoliberals, and we have friends and 
+neighbours who are neoliberals without even knowing it, it is soaked and dyed 
+into the popular culture.
 
 
 ## What Do We Really Want?

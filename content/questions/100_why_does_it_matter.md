@@ -107,8 +107,10 @@ Those are solid principles. Only dorky pedants have criticized them, and they're
 never in good faith.
 
 I call this vision "the freakin' opposite of fetishizing work." 
-The more workers we can employ, the less each individual worker needs to work each week. 
-I call this core MMT from the working class (and both 'left' and 'right' working class).
+The more workers we can employ, the less each individual worker needs to work 
+each week. 
+I call this core MMT from the working class (and both 'left' and 'right' 
+working class).
 
 But it's still less than spiritual economics can give you. 
 It is still pretty cold grey MMT. 
