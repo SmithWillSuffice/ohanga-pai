@@ -1,6 +1,6 @@
 ---
 title: "Cold Wars, New Wars"
-weight: 52
+weight: 53
 date: 2024-04-08
 draft: false
 katex: true
@@ -15,9 +15,10 @@ of Pascal's recent episodes over at
 
 Katrina mentioned how today the world's security against nuclear weapon 
 deployment seems more precarious than during the Cold War. Although I have not 
-dug deep into any statistics to validate the proposiiton, I tend to agree. But i had to post a comment:
+dug deep into any statistics to validate the proposition, I tend to agree. 
+But I had to post a comment:
 
-> [@15:30]https://youtu.be/DTBo3AAud-c?t=935) while it is probably true our 
+> [@15:30](https://youtu.be/DTBo3AAud-c?t=935) while it is probably true our 
 times are more unstable than the Cold War era, this is good${}^\ddagger$. When 
 things are 
 stable there is little change. What actually changed during the Cold War? 
@@ -46,7 +47,7 @@ That means **_not_** Bill Mitchell. See Bill's recent comments here:
 
 One thing should be said however, in defence of neutral MMT. Anyone who goes 
 from not knowing MMT to knowing MMT is about 90% likely to be radicalized, to 
-transform from a normie to a powerful progressive Not a milquetoast progressive 
+transform from a normie to a powerful progressive, not a milquetoast progressive 
 (fake progressive).
 
 
@@ -59,7 +60,7 @@ transform from a normie to a powerful progressive Not a milquetoast progressive
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../50_loonytoons">Previous chapter</a></td>
+<a href="../51_boyz_and_grilz">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
@@ -67,7 +68,7 @@ transform from a normie to a powerful progressive Not a milquetoast progressive
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../50_loonytoons">Debt Curve</a></td>
+<a href="../51_boyz_and_grilz">Boyz and Gr1lz</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
