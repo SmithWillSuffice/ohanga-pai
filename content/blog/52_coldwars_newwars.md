@@ -48,7 +48,9 @@ That means **_not_** Bill Mitchell. See Bill's recent comments here:
 One thing should be said however, in defence of neutral MMT. Anyone who goes 
 from not knowing MMT to knowing MMT is about 90% likely to be radicalized, to 
 transform from a normie to a powerful progressive, not a milquetoast progressive 
-(fake progressive).
+(fake progressive). Knowledge *is* power. It's just not the only form of power.
+A moral compass is needed too, otherwise power gets channelled in the wrong 
+directions.
 
 
 
