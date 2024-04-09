@@ -24,7 +24,7 @@ In an undergroudn unker silo with probably a hundred thousand citizens, why on
 Earth, or under Earth, would they use a physical gold token as currency?
 
 * Why not a ledger book?
-* Why not their computers (which look like old Macintosh's_ LOL)?
+* Why not their computers (which look like old Macintosh's. LOL)?
 * Why not a stamped labour certificate?
 
 ... all of which would be cheaper and more efficient and less theft prone than 
