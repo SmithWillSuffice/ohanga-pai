@@ -1,11 +1,11 @@
 ---
 title: "Cold Wars, New Wars"
 weight: 53
-date: 2024-04-08
+date: 2024-04-07
 draft: false
 katex: true
 disableTitleSeparator : true
-toc: true
+toc: false
 ---
 
 I was listening to 
@@ -66,7 +66,7 @@ directions.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next post</a></td>
+<a href="../">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -74,6 +74,6 @@ directions.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../53_silo_tokens">Silo Tokens</a></td>
 </tr>
 </table>
