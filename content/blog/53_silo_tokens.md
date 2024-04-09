@@ -23,11 +23,11 @@ Why? I mean... just... why?
 In an undergroudn unker silo with probably a hundred thousand citizens, why on 
 Earth, or under Earth, would they use a physical gold token as currency?
 
-* Why not a ldeger book?
+* Why not a ledger book?
 * Why not their computers (which look like old Macintosh's_ LOL)?
 * Why not a stamped labour certificate?
 
-... all of whihc would be cheaper and more effiecnt and less theft prone than 
+... all of which would be cheaper and more efficient and less theft prone than 
 gold frickin' tokens.
 
 The goldbug mind virus runs deep.
@@ -35,11 +35,11 @@ The goldbug mind virus runs deep.
 ## Why Hollywood? Why?
 
 Hollywood script writers are not to blame. They only reflect popular culture.
-When Netflix and film scriptwriters start uing accounting ledgers for 
+When Netflix and film scriptwriters start using accounting ledgers for 
 "the money" then MMT will have been victorious.  I do not see any signs of 
 victory near.
 
-It is laughabel though in the context of [Silo](https://en.wikipedia.org/wiki/Silo_(TV_series)).
+It is laughable though in the context of [Silo](https://en.wikipedia.org/wiki/Silo_(TV_series)).
 because unlike the Star Wars series Andor, the incentive in the Silo would be 
 to make the currency as cheap to move around as possible, and that would be via 
 ledger book entries on computers.
