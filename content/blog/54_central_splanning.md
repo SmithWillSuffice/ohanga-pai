@@ -10,7 +10,7 @@ toc: false
 
 How one thing leads to another, huh? After a long gap between Ōhanga Pai 
 posts I have two in short succession. This one could turn out juicier, since 
-it is a complex topic. The occasion is coming across a Sante Fe Institute 
+it is a complex topic. The occasion is coming across a Santa Fe Institute 
 public talk on central planning:
 [“Comrades, Let's Optimize! The Surprising Rebirth of the Planned Economy”](https://www.youtube.com/watch?v=q0Hghul4oEI) at SFI, March 10. The guest speaker was Francis Spufford 
 who wrote a book called [“Red Plenty”](https://www.goodreads.com/book/show/18634818-red-plenty)
@@ -164,7 +164,7 @@ Perhaps it is worth repeating --- but in a different style --- for emphasis:
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next post</a></td>
+<a href="../">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -172,6 +172,6 @@ Perhaps it is worth repeating --- but in a different style --- for emphasis:
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../55_total_value.md">Total Value Recall</a></td>
 </tr>
 </table>

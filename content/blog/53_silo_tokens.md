@@ -20,7 +20,7 @@ Same stupidity depicted in the Star Wars spin-off series
 
 Why? I mean... just... why?
 
-In an undergroudn unker silo with probably a hundred thousand citizens, why on 
+In an underground bunker silo with probably a hundred thousand citizens, why on 
 Earth, or under Earth, would they use a physical gold token as currency?
 
 * Why not a ledger book?
