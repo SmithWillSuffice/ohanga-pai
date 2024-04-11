@@ -163,9 +163,18 @@ times we should be looking at "oil theory of value"". In a mechanized future
 perhaps a "robot theory of value". That all sounds nice and good, but what 
 does it really mean?
 
-If the robots and self-reproducing, then who really needs a theory of robot 
-value? What we would require is a theory of robot control. Then this must 
-be implemented!
+Wray correctly answers that if we are serious about realistic economic 
+analysis --- fair distribution of total output --- then we have to have a 
+theory of how real output gets produced. This implies both Labour and Energy 
+theories. If we ignore the factors going into production, we have an 
+incomplete analysis. A theory of the inputs is also necessary because none of 
+the inputs to production are self-replicating and self-sustaining. Energy 
+systems need maintenance, and also periodic modernization. Labour needs a 
+caring social fabric and healthcare.
+
+If the robots are self-reproducing, then who really needs a theory of robot 
+value? What we would require is a theory of robot control. Then this theory 
+must be implemented! Or at least the best theory we can come up with.
 
 It is no good having self-replicating robots if they only serve the Top Ten 
 Percent, leaving us plebs "free" to fight over the scraps, over the robot 
@@ -187,11 +196,112 @@ and grant ourselves lordship and domain over Nature. Nature Bats Last, so is
 always ready (so-to-speak) to humble the arrogant.
 
 
+### Setting the Quantity, Not the Price
+
+Wray makes a good point about 42 minutes in: in many cases governments are 
+setting quantity, not price. "We want 50 new armoured tanks this year for the 
+local kindergarten bosses."  (I will use a school or kindergarten as an 
+example of a public sector organization, but the discussion is supposed to 
+be generic.))
+
+This can be ok if quantity is indeed the appropriate target. The issue MMT has 
+with policies of setting quantity targets for everything is that is is plainly 
+bone-headed. Why set a quantity of employed labour when in fact you can always 
+employ all idle wiling labour, and set a floor price? There is no reason not 
+to, unless you fail to understand the monetary system.
+
+Private industry cannot provide such a labour guarantee, only a monopoly 
+issuer of the currency can provide that guarantee, and by all moral accounts, 
+it should implement the guarantee.
+
+But even in the case of the kindergarten teachers, the government should not 
+be fixing quantity, because they cannot control these things. The government 
+(mostly) does not use birth control methods, and cannot control how many new 
+children there will be going to kindergarten next year. The best policy is to 
+allow quantity to float, and fix price. Then supply the currency needed. This 
+way kindergarten bosses can purchase all the play equipment they need keep 
+the children happy.
+
+This however leaves a problem. If the kindergarten managers are given currency 
+to meet their purchasing demands, the supply of materials is still finite. 
+So there must be some rationing system, in place. If that is a market then 
+there is price bidding, which risks inflationary distortions, and power 
+dynamics. But if every kindergarten has the same purchasing power per head of 
+children then this solves the problem. Hence the need for budgets.
+
+If the schools are bidding in a reasonably fair market, so there is some 
+competition between suppliers, then the government need not worry too much 
+about fixing price, and can permit the schools to purchase what they need at 
+market rates. The inflationary risk of such markets is pretty minimal. 
+Although government is providing all the currency without explicit constraint, 
+their allocations to the school are per capita of student, so there is 
+always an implicit currency constraint.
+
+When the funding agency is the monopoly currency issuer the budget 
+is *not* supposed to be in nominal currency units, it has to be, or *should be* 
+in real units. 
+The fair share of each kindergarten is per head of children, in real terms. 
+Government merely provides whatever amount of scorepoints are needed to 
+purchase the resources at a fixed price.  For governments, budgets are moral 
+and resource constrained documents. They are not monetary constraint documents. 
+All the monetary constraint in a budget is implicit, and known only after 
+the fact.
+
+There is still room for corruption. The supplier of toy equipment might become 
+a monopolist, so might demand a higher price than is fair, but the government 
+can always pay the price, so affordability for the school is never a problem.
+
+The problem is political, since that higher price could, sometimes, lead to 
+one-off upwards price adjustment. Some people mistakenly call this 
+"inflation". Be that as it may, it cannot cause hyperinflation. However, it 
+is still a potential political corruption problem. Government have the means 
+to deal with this, by properly and fairly regulating private monopolies. 
+Those private firms are, after all, using state services, in particular they 
+use the state's currency. Something fair should be demanded in return 
+concerning conforming to reasonable corruption-free business practices.
+
+Or is "rule of law" only for those who can afford it?
 
 
+## Monetization
+
+This was a very good portion of the discussion. Wray points out that MMT 
+activists are going to have a hard time insisting government determine the 
+price level. That's because, even if government policy determines the price 
+level it is never clear to most ordinary people this is what is happening.
+
+People look around themselves and think they want money to buy a car, or 
+groceries, or get their Netflix. They do not ordinarily consider the real 
+reason they need currency is because the government has imposed tax 
+liabilities.
+
+MMT is in the difficult position of stating a fact about the monetary system 
+that most people cannot easily see. Like scientists before Atomic Theory become 
+recognized and widely accepted (that was, remarkably, really only after 
+Einstein's work on Brownian motion --- well after John Dalton).
+
+Doubly frustrating is that once you learn MMT the concept is not difficult 
+to understand. The monopolist always dictates price. They cannot help it, one 
+way or another. They can allow a market to set a price by fixing quantity, but 
+it is still the monopolists choice of pricing policy. People generally fail to 
+see this in the case of government currency systems. But it is plainly true: 
+the government is the price setter, in one way or another, meaning that it 
+must follow from government policy.
+
+What governments tend not to get involved with is then relative price of goods 
+the government is not supplying. This permits a secondary market to form, 
+exchanging goods in the states unit of account, but at prices determined by 
+relative market value. (Like "voting with your wallet"".)  It is not a fair 
+system, because some buyers have more purchasing power that is *unearned*, the 
+privileged rich. So it is never a truly fair market.
+
+If the richer people earned their currency, then it'd be a different story. If 
+one is contributing a mighty amount into the economy, one might expect a 
+greater share of purchasing power, as a simple matter of justice. But no one 
+can possibly, physically, command thirty times the purchasing power of some 
+other worker. No one can possibly work *that* hard.
 
 
-> [@6:00](https://youtu.be/-QTARhp5qS8?t=1566)
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
