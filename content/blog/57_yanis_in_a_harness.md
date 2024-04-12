@@ -13,7 +13,8 @@ caved-in today. Man was I pissed. I mean, the basic thesis is ok, even
 interesting, probably mostly true, but when Yanis starts talking about 
 government debt as a bad thing I loose my sh$\ast$t.
 
-I'll spare the details and link the the talk here.
+I'll spare the details and just link to the 
+[talk here](https://www.youtube.com/watch?v=1xfFgFqEyfk).
 
 My comments:
 

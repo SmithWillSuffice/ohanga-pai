@@ -11,9 +11,9 @@ toc: false
 [Here](https://www.youtube.com/watch?v=JzpsVO45d5Y) is an interesting 
 discussion with Pascal Lottaz from Neutrality Studies 
 with a sociologist, Dr. Harald Welzer, and a data scientist, Leo Keller, who 
-collaborated to study the difference between official published 
-accounts and public opinion. No surprises official accounts diverge from 
-public opinion. this could be good and bad. Public opinion can be false, or 
+collaborated to study the difference between (A) official published 
+accounts, and (B) public opinion. No surprises official accounts diverge from 
+public opinion. This could be good and bad. Public opinion can be false, or 
 public opinion gained through informal social communication unfiltered by 
 mainstream media can in some cases be more accurate.
 
