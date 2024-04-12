@@ -63,6 +63,21 @@ It emboldens the wealthy "tax payer" --- who is not the entity funding the
 government. As Yanis just said before, it's the other way around (9 out or 
 10 Musk/Bezos/Gates scorepoints cam from the government).
 
+A follow-up:
+> What he really means is the dynamic of superimperialism. Michael Hudson 
+explains this much better. The USA has learned, even though they do not 
+comprehend why, that government deficits do not matter. What matters is the 
+**_real terms of trade_** --- exports are your *_real_* cost, imports a real 
+benefit. If you can get a foreigner to send you Mercedes cars in return for 
+scorepoints at a FED bank, you are the winner. The USA just learned this before 
+most others, and yet their politicians, including Kissinger, still do not 
+understand why it works, and think it is this thing called "global reserve 
+currency" --- which is a meaningless concept. With a state currency on a 
+floating exchange rate bank reserves are for payments clearing, they do not 
+fund anything. And Treasury bonds are an interest rate maintenance operation, 
+not a funding operation, or in other words 
+**_basic income but only for people who already have money in proportion to how much money they already have._**
+
 
 On the technofeudalism thesis I only had one comment:
 > @16:00 at this point I do not know if Yanis will get around to it, but I'd 
