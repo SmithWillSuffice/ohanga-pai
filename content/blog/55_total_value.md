@@ -270,6 +270,12 @@ activists are going to have a hard time insisting government determine the
 price level. That's because, even if government policy determines the price 
 level it is never clear to most ordinary people this is what is happening.
 
+With bank credit systems governments also cannot control the quantity of 
+money, which makes market price control very difficult for a government. 
+To truly use MMT to control prices within reasonable inflation bounds 
+governments will find they need to better regulate bank credit. You cannot 
+let the bankers loose, they are "dangerous beasts"" as Mosler likes to say.
+
 People look around themselves and think they want money to buy a car, or 
 groceries, or get their Netflix. They do not ordinarily consider the real 
 reason they need currency is because the government has imposed tax 
@@ -301,6 +307,47 @@ greater share of purchasing power, as a simple matter of justice. But no one
 can possibly, physically, command thirty times the purchasing power of some 
 other worker. No one can possibly work *that* hard.
 
+### Inflation Bogeyman
+
+Wray brings up the tired old stupid-mmt line about "inflation" being the 
+"problem." I had to comment:
+
+> [@46:00](https://youtu.be/-QTARhp5qS8?t=2770) the problem is **_not_** 
+inflation. Inflation is a continuous increase in the price level. Government 
+would have to be paying continuing higher prices. that's not realistic. The 
+source of inflation is elsewhere, mainly in interest rates (basic income for 
+people who already have money) and in corruption, supply constraints, monopoly 
+power, &c.  Inflation is a political psychology problems  --- tends to get 
+you voted out of office --- but it's not that bad of a problem, most economics 
+and voters tolerate  bit of inflation. What people care far more about is work 
+and income to support themselves with rising prices.  The problem is always 
+unnecessary unemployment. If we had decent non-bs jobs and full employment 
+eventually no one care about inflation. They might worry for a little bit, 
+but eventually they'd get the idea: what matters is how much your entire 
+earned scorepoints can purchase, not what one dollar can purchase."
+
+
+### Capitalism is Worse than Marx Thought
+
+wray did his usual speil about how Keynes, Veblen and Marx were not too 
+dissimilar. Marx wanted to end capitalism, Keyens wanted to save capitalism, 
+but both were reasonably sincere enough to reach the same conclusions about 
+macroeconomics, only with Marx being more of an idiot about "money", Keynes 
+being more of an idiot with his eugenics.
+
+My comment:
+> @50:00 capitalism is not M-C-M'.  No capitalist I know wants only more 
+money. They want other goodies for "peer prestige" as much as they need more 
+money. So it is M→C→(M' + C'). It makes it more disgusting than Marx's model. 
+Not only are capitalists sucking up rents to get more scorepoints, they also 
+hoard the real goods: real estate, electricity, transport, all the rest. They 
+also produce more of the waste per head. So the correct symbolism is: 
+M→C→(M'+C'+W') where W' is for "surplus waste" --- more waste generated than 
+anyone else who is not a capitalist.
+
+
+
+
 
 
 <table style="border-collapse: collapse; border=0;">
@@ -315,7 +362,7 @@ other worker. No one can possibly work *that* hard.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next post</a></td>
+<a href="../56_media_mirrors">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -323,6 +370,6 @@ other worker. No one can possibly work *that* hard.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../56_media_mirrors">Media Mirrors</a></td>
 </tr>
 </table>
