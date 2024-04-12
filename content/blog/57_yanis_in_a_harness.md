@@ -42,7 +42,7 @@ something crippling supply like a famine, drought or war reparations imposed.
 It is surprising Yanis is using monetarist understanding, he has friendly 
 MMT colleagues, but seems to not have learned much from them.
 
-Then he talked about the trade imablance:
+Then he talked about the trade imbalance:
 > @38:00 that is such bs. Australia has a sovereign currency and can run 
 deficits too. You send away uranium and import smartphones and Teslas... if 
 you are smart. The government deficit is irrelevant (except in political 
@@ -80,6 +80,16 @@ floating exchange rate bank reserves are for payments clearing, they do not
 fund anything. And Treasury bonds are an interest rate maintenance operation, 
 not a funding operation, or in other words 
 **_basic income but only for people who already have money in proportion to how much money they already have._**
+
+
+When posting the the t00bs I am always aware some nerd will quibble, but 
+while I don't have the time to post a whole essay, I tend to get sucked into 
+covering some lose ends or vacant bases:
+> And I do realize if I was a real dick and you gave me a trillion AUD, then 
+I probably would not care about your durable goods prices, I'd buy up a whole 
+lot of them, hoard it all, and wait for the price to sky-rocket, then sell it 
+all. Yet this still does not collapse the AU economy, and your government can 
+still purchase anything for sale in AUD, including all idle Aussie labour. 
 
 
 On the technofeudalism thesis I only had one comment:
