@@ -42,7 +42,10 @@ something crippling supply like a famine, drought or war reparations imposed.
 It is surprising Yanis is using monetarist understanding, he has friendly 
 MMT colleagues, but seems to not have learned much from them.
 
-Then he talked about the trade imbalance:
+Then he talked about the trade imbalance, crying about how the USA has been 
+the only nation able to run a massive current account deficit (gets more 
+imports than it exports) because it has "global reserve currency status".
+
 > @38:00 that is such bs. Australia has a sovereign currency and can run 
 deficits too. You send away uranium and import smartphones and Teslas... if 
 you are smart. The government deficit is irrelevant (except in political 
@@ -85,12 +88,32 @@ not a funding operation, or in other words
 When posting the the t00bs I am always aware some nerd will quibble, but 
 while I don't have the time to post a whole essay, I tend to get sucked into 
 covering some lose ends or vacant bases:
+
 > And I do realize if I was a real dick and you gave me a trillion AUD, then 
 I probably would not care about your durable goods prices, I'd buy up a whole 
 lot of them, hoard it all, and wait for the price to sky-rocket, then sell it 
 all. Yet this still does not collapse the AU economy, and your government can 
 still purchase anything for sale in AUD, including all idle Aussie labour. 
 
+
+I had forgotten to mention Yanis used the old lie about the USD being a 
+"global reserve currency".
+
+> Also, the USA only had "global reserve currency status" under the gold 
+standard/Bretton Woods agreement (a quasi gold standard --- USA promised to 
+redeem for gold, but only to foreigners, I believe US citizens were not 
+allowed to buy bullion after 1935). But even under Bretton Woods the currency 
+was not the gold (it was merely redeemable for gold, like tax liabilities).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bretton Woods ended in 1971/72, ever 
+since then the USD is the same as any 
+other State currency, like the UKP, Yen, Renminbi, AUD or NZD. Those who 
+float can allow the government deficit to float, it is a mere accounting 
+residual, of no economic consequence. Sadly it has negative political 
+psychology repercussions, which is simply false consciousness.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The "Deficit Myth". The "deficit myth" 
+and the "tax payer dollars myth" are two of the most diabolical popular memes 
+that kill the hopes for the working class to be free forever from bullsh*t 
+jobs and mass unemployment.
 
 On the technofeudalism thesis I only had one comment:
 > @16:00 at this point I do not know if Yanis will get around to it, but I'd 
