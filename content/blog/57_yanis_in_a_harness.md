@@ -61,7 +61,7 @@ guys keeping your prices low.
 harms the working class to perpetuate the Deficit Myth, it kills the poor. 
 It emboldens the wealthy "tax payer" --- who is not the entity funding the 
 government. As Yanis just said before, it's the other way around (9 out or 
-10 Musk/Bezos/Gates scorepoints cam from the government).  What he neglected 
+10 Musk/Bezos/Gates scorepoints came from the government).  What he neglected 
 to say is the other 1 in 10 also came from the government, via bank credit: 
 all banks issuing credit are chartered and licensed by the State. The 
 government is the source of all state currency, anything else is counterfeit.
