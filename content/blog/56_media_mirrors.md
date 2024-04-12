@@ -38,6 +38,36 @@ out as "the facts". Even if government statements are statistically more
 factual than public opinion, an ethical journalist does not ever assume that 
 is so for any particular official statement.
 
+
+## Social Sphere Bubbles
+
+Around 26 minutes into the episode Leo Keller gives his opinion that social 
+bubbles are no worse today than in the pre-Internet past.
+
+This is reminiscent of other phenomena in healthcare and medicine, where 
+apparent rises in certain mental illnesses or other afflictions can be seen 
+in data, and yet these can often be a mirage introduced by simply more 
+accurate diagnostics and greater understanding of mental health conditions.
+
+But there also appears to be a conservative or establishment reaction.
+
+Because the Internet freed up a lot of opinion to wider circulation, the mass 
+media corporations have sought to try to re-assert their dominance. I think 
+this should back-fire in the long run, and more or less prove that a corporate 
+media model is undesirable, and even unsustainable. A for-profit motive will 
+always attract specific partisan interest groups, and so cannot long term 
+function as a trusted source of news, at least in a generic example.
+
+If a for-profit news outlet can function with an entirely humanitarian motive, 
+then good for them. But this is going to be rare, I suspect. More often I 
+suspect the tendency of private for-profit media will be towards 
+[enshittification](https://en.wikipedia.org/wiki/Enshittification) or 
+*platform decay*. (A good 
+future topic for anyone desiring to appear in 
+the [Annals of Improbable Research](https://en.wikipedia.org/wiki/Annals_of_Improbable_Research). Although I would hope it would be taken 
+seriously.)
+
+
 ## Failure of Commercial Media
 
 > The model of commercial media is failing us. If the motive to report is to 
