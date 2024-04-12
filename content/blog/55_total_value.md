@@ -329,7 +329,7 @@ earned scorepoints can purchase, not what one dollar can purchase."
 
 ### Capitalism is Worse than Marx Thought
 
-wray did his usual speil about how Keynes, Veblen and Marx were not too 
+Wray did his usual spiel about how Keynes, Veblen and Marx were not too 
 dissimilar. Marx wanted to end capitalism, Keyens wanted to save capitalism, 
 but both were reasonably sincere enough to reach the same conclusions about 
 macroeconomics, only with Marx being more of an idiot about "money", Keynes 
