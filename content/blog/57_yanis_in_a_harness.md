@@ -42,7 +42,29 @@ something crippling supply like a famine, drought or war reparations imposed.
 It is surprising Yanis is using monetarist understanding, he has friendly 
 MMT colleagues, but seems to not have learned much from them.
 
-In the technofeudalism thesis I only had one comment:
+Then he talked about the trade imablance:
+> @38:00 that is such bs. Australia has a sovereign currency and can run 
+deficits too. You send away uranium and import smartphones and Teslas... if 
+you are smart. The government deficit is irrelevant (except in political 
+psychology), it is an _ex post_ accounting identity, and the bigger it is 
+the wealthier your people, or if foreigners are holding more AUD then the 
+more customers Aussie firms will have to sell to without the customer doing 
+a forex swap. Yanis seems to be an imbecile when it comes to state currency 
+operations.  The reason the USA gets away with a huge current account deficit 
+is because foreigners are stupid and have an insatiable desire for holding USD. 
+But is the desire for the amount of AUD held also insatiable? Sure it is, you 
+cannot give me enough of your AUD. If I hold your AUD I am not causing any 
+price inflation of AUD goods either. Give me a trillion AUD, I can still use 
+more. If I rashly spend it all in a blitz I'm only harming my interest in you 
+guys keeping your prices low.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Yanis, but he can be such an idiot. It 
+harms the working class to perpetuate the Deficit Myth, it kills the poor. 
+It emboldens the wealthy "tax payer" --- who is not the entity funding the 
+government. As Yanis just said before, it's the other way around (9 out or 
+10 Musk/Bezos/Gates scorepoints cam from the government).
+
+
+On the technofeudalism thesis I only had one comment:
 > @16:00 at this point I do not know if Yanis will get around to it, but I'd 
 also hypothesize techno-feudalism eats itself. You cannot stop tinkerers and 
 hackers from removing those chips from the Tesla, or subverting Amazon, or 
