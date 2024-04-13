@@ -1,136 +1,170 @@
 ---
-title: "Yanis in a Harness"
-weight: 58
-date: 2024-04-12
+title: "Gizza Gov'"
+weight: 59
+date: 2024-04-13
 draft: false
 katex: true
 disableTitleSeparator : true
-toc: false
+toc: true
 ---
 
-I've avoided clicking on Varoufakis' technofeudalism talks, but finally 
-caved-in today. Man was I pissed. I mean, the basic thesis is ok, even 
-interesting, probably mostly true, but when Yanis starts talking about 
-government debt as a bad thing I loose my sh$\ast$t.
+This post will probably date well, even if you are a world peace optimist.
 
-I'll spare the details and just link to the 
-[talk here](https://www.youtube.com/watch?v=1xfFgFqEyfk).
+Over at Neutrality Studies, Pascal Lottaz replayed a 
+[commentary by a retired UK Ambassador, Craig Murray here](https://www.youtube.com/watch?v=2juV794znnI). 
+The usual good stuff was said from a 
+peace activist perspective, but tainted with all the usual pessimism and doom.
+I always find Pascal to be a good counterbalance to the nihilists, but he tends 
+to say things straight-up, so is not wildly optimistic nor idealistic either.
+You could say Lottaz is a bit of a soul mate. (Goodness knows I need a few.)
 
-My comments:
+## Inspirations for world governance principles
 
-> @35:00 someone did not read much history. State debt has never caused a 
-collapse of empire. A State's deficit is it's citizens surplus by accounting 
-identity, it is a good thing (all else equal). What happens in empire collapse 
-is either massive corruption or with monetary systems something like massive 
-private debt, which means if the State is in deficit some oligarchs are 
-holding an enormous amount of currency (equal to the private household debt 
-plus the government deficit). These are only scorepoints though as far as the 
-State is concerned, but the banking systems tend to be pretty rigid (by law), 
-and if private debts of the poor, especially farmers, are not forgiven then 
-you get revolt, you also get economic collapse. But it is not because of the 
-debt of the sate (which is private surplus) it is because too much of that 
-currency outstanding, not yet used to pay taxes, is held by too few who are 
-hoarding and not spending.   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is gross inequality which is the instability, 
-not the debt of the State. A state that issues it's own scorepoints is never 
-broke and can always pay its debts --- in its own currency. (Cesar could have 
-stamped the trillion aureus coin --- the metal value of the coin is not the 
-face value. State currency has always been a scorekeeping system.) There is 
-then inflation risk, but that never causes the collapse of a state, since you 
-only get nominal currency inflation if you have a booming economy, or have 
-something crippling supply like a famine, drought or war reparations imposed. 
-It is surprising Yanis is using monetarist understanding, he has friendly 
-MMT colleagues, but seems to not have learned much from them.
+Today I want to put down in writing for posterity here on this tiny corner of 
+the Internet, a few thoughts about world government. While these are my own 
+opinions, they did not spring from the vacuum. I can credit Shoghi Effendi and 
+the Baháʼí 's for most of the inspiration. They are tragically little known, but 
+if you want some serious spiritual political economy then you'd be doing 
+yourself a favour reading some of Shoghi Effendi's writings. They are probably 
+a bit heavy going for materialists, since the entire basis of Baháʼí philosophy 
+is to show spiritual virtues through action, not just in words. And the basis 
+for most Baháʼí thought is the harmonic duality between our physical life 
+and our spiritual life. In short, everything exists for a spiritual purpose, 
+and the physical world is a testing ground, a place for spiritual growth.
 
-Then he talked about the trade imbalance, crying about how the USA has been 
-the only nation able to run a massive current account deficit (gets more 
-imports than it exports) because it has "global reserve currency status".
+What is *spiritual purpose* though? The simple but not too simple answer is 
+that the purpose is for the soul to grow in spiritual capacity, and all that 
+means is to become more honest, more kind, more compassionate, more just, 
+more loving, more forgiving, more trustworthy, more humble in the face of 
+one's fallibility, and all the rest. More knowledgeable is good too, but more 
+wise is even better.
 
-> @38:00 that is such bs. Australia has a sovereign currency and can run 
-deficits too. You send away uranium and import smartphones and Teslas... if 
-you are smart. The government deficit is irrelevant (except in political 
-psychology), it is an _ex post_ accounting identity, and the bigger it is 
-the wealthier your people, or if foreigners are holding more AUD then the 
-more customers Aussie firms will have to sell to without the customer doing 
-a forex swap. Yanis seems to be an imbecile when it comes to state currency 
-operations.  The reason the USA gets away with a huge current account deficit 
-is because foreigners are stupid and have an insatiable desire for holding USD. 
-But is the desire for the amount of AUD held also insatiable? Sure it is, you 
-cannot give me enough of your AUD. If I hold your AUD I am not causing any 
-price inflation of AUD goods either. Give me a trillion AUD, I can still use 
-more. If I rashly spend it all in a blitz I'm only harming my interest in you 
-guys keeping your prices low.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like Yanis, but he can be such an idiot. It 
-harms the working class to perpetuate the Deficit Myth, it kills the poor. 
-It emboldens the wealthy "tax payer" --- who is not the entity funding the 
-government. As Yanis just said before, it's the other way around (9 out or 
-10 Musk/Bezos/Gates scorepoints came from the government).  What he neglected 
-to say is the other 1 in 10 also came from the government, via bank credit: 
-all banks issuing credit are chartered and licensed by the State. The 
-government is the source of all state currency, anything else is counterfeit.
+You could also call this *the meaning of life*. It is not a bad definition.
+If purpose is meaning, and meaning is purpose, I think it is a good definition.
 
-A follow-up:
-> What he really means is the dynamic of superimperialism. Michael Hudson 
-explains this much better. The USA has learned, even though they do not 
-comprehend why, that government deficits do not matter. What matters is the 
-**_real terms of trade_** --- exports are your *_real_* cost, imports a real 
-benefit. If you can get a foreigner to send you Mercedes cars in return for 
-scorepoints at a FED bank, you are the winner. The USA just learned this before 
-most others, and yet their politicians, including Kissinger, still do not 
-understand why it works, and think it is this thing called "global reserve 
-currency" --- which is a meaningless concept. With a state currency on a 
-floating exchange rate bank reserves are for payments clearing, they do not 
-fund anything. And Treasury bonds are an interest rate maintenance operation, 
-not a funding operation, or in other words 
-**_basic income but only for people who already have money in proportion to how much money they already have._**
+And yes, social construction is a thing: how you go about the meaning and 
+purpose of life will depend upon your context, your culture, your family, 
+your learning. The Baháʼí concept celebrates such sociology, while 
+acknowledging there are still spiritual universals that are platonic in 
+some sense. Trustworthiness is a foundation for a civil society in any 
+civilization. Even non-sentient to the extent "trust" can be so defined.
+
+((I can define "trust" in a non-sentient system: it means obeying the laws 
+of physics. All of non-sentient nature we know is trustworthy with respect 
+to quantum mechanics, but not with respect to classical mechanics --- context!))
+
+Those who do not believe in the platonic type of reality of spiritual 
+verities, or who think these concepts are merely socially constructed, are 
+going to find it hard to get through even a few pages of 
+Shoghi Effendi, but I think the vast majority of people on Earth would find 
+his work illuminating. 
+
+Having noted all that, I would say the writings of Shoghi Effendi are not 
+really meant for public consumption. They presume a familiarity with the 
+Baháʼí Faith, and if you lack that understanding then I think you'd be missing 
+too much.  As something of a bridge, I hope to build a little bit of a 
+scaffold from popular progressive and liberal-social democracy ideals to 
+these principles of world government articulated by Shoghi Effendi.
+
+If you don't like the look of the bridge feel free not to cross it.
 
 
-When posting the the t00bs I am always aware some nerd will quibble, but 
-while I don't have the time to post a whole essay, I tend to get sucked into 
-covering some lose ends or vacant bases:
+## A Brief Comment agreeing with Lottaz
 
-> And I do realize if I was a real dick and you gave me a trillion AUD, then 
-I probably would not care about your durable goods prices, I'd buy up a whole 
-lot of them, hoard it all, and wait for the price to sky-rocket, then sell it 
-all. Yet this still does not collapse the AU economy, and your government can 
-still purchase anything for sale in AUD, including all idle Aussie labour. 
+In an old school *nice twitter* style i posted a comment below Pascal's 
+video clip, I tried to best summarize in as few words as possible, the bare 
+minimum basis for a world government.
+
+> This is such an important issue. An international governing body has to be 
+legitimized by the mass of ordinary people, and not become just another layer 
+of the wealthy elites control. In this context, *_beware_* of the right-wingers 
+and libertarians who scream about "the globalists" and incite fear of a world 
+government. They are the types who love an authoritarian control (namely 
+themselves) over their own land and resources, but cry like babies when a 
+large section of society desires a democracy. The point to having a world 
+government is precisely as Pascal describes, it would have a clear limited 
+demarcated purpose in enforcing *_agreed upon_* an evolving fit-for-purpose 
+set of international laws, and would not _(should not)_ in any reasonable 
+sense erode individual nation sovereignty. In other words, it can never be, 
+should never be _allowed_ to be,  a neoliberal/neocon institution, since that 
+would entirely defeat the purpose and give just cause to the right-wingers 
+and libertarians who fear a world government.
+
+This leaves a lot unsaid. Short of a long essay, what can I add to round off 
+the  commentary?
+
+## Prerequisites Exist
+
+One principle is that world leaders and the "body politic" in general might 
+sometimes be successful in pushing through policy before the groundwork has 
+been laid. Thus hard prerequisites for political implementation rarely exist. 
+But there are a lot of soft prerequisites.
+
+One of these occurs in the Palestinian--Israeli conflict. I will only mention 
+here the policy choice between a One State solution and a Two State solution. 
+My father was something of an expert on Middle East politics towards the end 
+of his life, having moved in top level circles in Israel as a diplomat for 
+an NGO (the Baháʼí  World Community). He changed his view over time to a One 
+State solution, citing the immense problems of settler colonialism and Zionism, 
+which cannot just be swept away by authoritarian dictate. He preferred to 
+see democracy. A homeland for the Jewish people in perpetuity for sure, but 
+shared with all other people of the land.
+
+We are not so unaccustomed to this in New Zealand. We are proud to be 
+multicultural, but we are also fiercely bicultural. The Māori people will 
+always have a special place in New Zealand politics. This is in part a 
+realization of irreversible changes in world civilization. Cultures will not 
+be lost anymore, you cannot destroy a significant culture these days no 
+matter how hard you try, there are two many archivists (to put it crudely!).
+
+However, what I prefer to say in current times is that for Palestine--Israel 
+there is no $n$-state solution for any $n$ until the people of the land are 
+prepared to live together in peace and harmony.
+
+If the people of the Middle East are prepared to live together in peace and 
+harmony then there is an $n$-state solution for any $n>0$. The decision on 
+what $n$ is suitable becomes a democratic choice, after sufficient debate 
+and deliberation.  If the Israeli's are prepared to clear real estate they 
+have settled in, say, the post-1967 map, then perhaps an $n=2$ state is 
+possible in harmony. If not, then an $n=1$ state would be the choice, imposed 
+by the Israelis precisely because they are unwilling to abandon the real estate.
+But then the entire world had better impose upon Israel a true democracy for 
+the people living in the land. 
+
+Here is another prerequisite: how can you possible think of the entire world 
+imposing democracy upon an Israel--Palestine One State? You cannot, the 
+United Nations has not earned that legitimacy, and will not be trusted while the 
+Security Council veto power is in place. The entire UN has to first become a 
+true international democracy of nations. One nation, one vote.
+
+For that same reason --- since per capita this would look like a skewed 
+democracy, which it would be --- the powers of the UN have to be strictly 
+limited. The UN can never be allowed to infringe on the domestic sovereignty 
+of any one nation.  This is the price the UN must pay for 
+*one country, one vote*.  The UN will never be able to resolve all conflict.
+
+However, the UN can always be granted wide ranging diplomatic power. The UN 
+diplomats would be protected, and violations of such protection would have to 
+have severe repercussions, such as the right of all the other nations to rise 
+up against any nation violating the UN charter.  This should not be 
+controversial. 
+
+In violating the (hypothetical future) UN charter a nation is choosing, 
+deliberately, knowingly, to cede their sovereignty in the manner prescribed 
+by the charter. (Since it is not yet written, I cannot say exactly to what 
+degree, but I would imagine the ordinary citizens of the nation would in no 
+way be oppressed by the UN.)
+
+Who is holding up peace in the Middle East? --- The United Nations is, and 
+many others, but the *immaturity* of the UN (not the existence of the UN) is, 
+in my estimation, the biggest obstacle. All M.E. peace efforts in the past 
+have been, as Lottaz put it, basically "anarchy" (not of the good kind). He 
+means disorganized and lacking cohesion as well as infested and corrupted by 
+powerful vested interests in militarism and unipolar hegemony and the like... 
+so yeah, basically anarchy of the right-wing anarcho-capitalism 
+variety --- who has the most power has all the say.
 
 
-I had forgotten to mention Yanis used the old lie about the USD being a 
-"global reserve currency".
-
-> Also, the USA only had "global reserve currency status" under the gold 
-standard/Bretton Woods agreement (a quasi gold standard --- USA promised to 
-redeem for gold, but only to foreigners, I believe US citizens were not 
-allowed to buy bullion after 1935). But even under Bretton Woods the currency 
-was not the gold (it was merely redeemable for gold, like tax liabilities).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bretton Woods ended in 1971/72, ever 
-since then the USD is the same as any 
-other State currency, like the UKP, Yen, Renminbi, AUD or NZD. Those who 
-float can allow the government deficit to float, it is a mere accounting 
-residual, of no economic consequence. Sadly it has negative political 
-psychology repercussions, which is simply false consciousness.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The "Deficit Myth". The "deficit myth" 
-and the "tax payer dollars myth" are two of the most diabolical popular memes 
-that kill the hopes for the working class to be free forever from bullsh*t 
-jobs and mass unemployment.
-
-On the technofeudalism thesis I only had one comment:
-> @16:00 at this point I do not know if Yanis will get around to it, but I'd 
-also hypothesize techno-feudalism eats itself. You cannot stop tinkerers and 
-hackers from removing those chips from the Tesla, or subverting Amazon, or 
-establishing pirate communications, &c. Hackers need some time to do this, 
-also freedom from prosecution, but eventually they will do it (whatever "it" 
-is) if it becomes legal and is "cool" or "based". (Ironically Apple Inc 
-through Wozniak demonstrated this a little, until Apple became greedy under 
-S.&nbsp;Jobs.)
-
-    
-## Write to Me!
-
-I do not enjoy writing critically of people like Varoufakis, Steve Keen or 
-Michael Hudson. So if any readers think I've got something very wrong, please 
-[write](/t4gu/ohanga-pai/contact/) to tell me so!
 
 
 
@@ -142,7 +176,7 @@ Michael Hudson. So if any readers think I've got something very wrong, please
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../56_media_mirrors">Previous chapter</a></td>
+<a href="../57_yanis_in_a_harness">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
@@ -150,7 +184,7 @@ Michael Hudson. So if any readers think I've got something very wrong, please
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../56_media_mirrors">Media Mirrors</a></td>
+<a href="../57_yanis_in_a_harness">Yanis in a Harness</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
