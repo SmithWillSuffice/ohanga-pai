@@ -42,15 +42,15 @@ gold out of the Earth is not a common enough process for a decent theory of
 monetary value. This renders most of Marx's analysis of the "money form" 
 ridiculous and obsolete.
 4. All real value is derived from a combination of free energy + labour.
-5. In a fair political economy the relative real values would be reflected in the nominal value, the latter is the currency unit of account.
+5. In a fair political economy the relative real values would be reflected 
+in the nominal value, the latter is the currency unit of account.
 6. In all current political economies there is no fairness, and the nominal 
 values do not correlate well with the relative real values. Prices are not 
 entirely random, but the relative ratios are heavily distorted by those who 
 wield undue political power over others.
 7. Nevertheless, the only one relative value that truly matters is the price 
-of labour. But 
-this is not saying the LTV is correct. What is morally true is that 
-*in a **fair** system* the workers would be fairly compensated, so their 
+of labour. But this is not saying the LTV is correct. What is morally true is 
+that *in a **fair** system* the workers would be fairly compensated, so their 
 labour would be accurately valued in nominal terms, by comparison with real 
 output *the entire system* can produce.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(If it is not possible to measure real 

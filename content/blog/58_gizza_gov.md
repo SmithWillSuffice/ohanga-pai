@@ -115,24 +115,26 @@ multicultural, but we are also fiercely bicultural. The Māori people will
 always have a special place in New Zealand politics. This is in part a 
 realization of irreversible changes in world civilization. Cultures will not 
 be lost anymore, you cannot destroy a significant culture these days no 
-matter how hard you try, there are two many archivists (to put it crudely!).
+matter how hard you try, there are too many archivists with a whole lot of 
+digital memory resource (to put it crudely!).
 
 However, what I prefer to say in current times is that for Palestine--Israel 
-there is no $n$-state solution for any $n$ until the people of the land are 
-prepared to live together in peace and harmony.
+**there is no $n$-state solution for any $n$ until the people of the land are 
+prepared to live together in peace and harmony**.
 
 If the people of the Middle East are prepared to live together in peace and 
 harmony then there is an $n$-state solution for any $n>0$. The decision on 
-what $n$ is suitable becomes a democratic choice, after sufficient debate 
-and deliberation.  If the Israeli's are prepared to clear real estate they 
+which $n$ is suitable then becomes a democratic choice, after sufficient debate 
+and deliberation. If the Israelis are prepared to clear real estate they 
 have settled in, say, the post-1967 map, then perhaps an $n=2$ state is 
 possible in harmony. If not, then an $n=1$ state would be the choice, imposed 
 by the Israelis precisely because they are unwilling to abandon the real estate.
 But then the entire world had better impose upon Israel a true democracy for 
-the people living in the land. 
+the people living in the land. That means equitably sharing the existing 
+housing, land, water and all such basic resources for life.
 
 Here is another prerequisite: how can you possible think of the entire world 
-imposing democracy upon an Israel--Palestine One State? You cannot, the 
+imposing democracy upon an Israel--Palestine One State? You cannot! The 
 United Nations has not earned that legitimacy, and will not be trusted while the 
 Security Council veto power is in place. The entire UN has to first become a 
 true international democracy of nations. One nation, one vote.
@@ -164,6 +166,19 @@ powerful vested interests in militarism and unipolar hegemony and the like...
 so yeah, basically anarchy of the right-wing anarcho-capitalism 
 variety --- who has the most power has all the say.
 
+We all need to realize this is an unstable state in international politics. 
+It cannot continue. But we do not know what the characteristic time scales 
+are, international politics is not a science (in case polsci nerds and 
+material deterministic marxist were wondering). Because the state of 
+international geopolitics is unstable there is always a chance for a 
+disruption of huge importance, for good or for bad. Ordinary citizens of the 
+world are however not powerless to tilt and bias changes for the good. 
+
+How? The critical thing is no one citizen of the world can do very much, but 
+together we can do amazing things. Sound too "commie" for you? 
+Grow up you child. There is more than one variety of collective action.
+The last one I heard about was from my daughter teaching at her school: 
+the kids in her classroom banded together to force their teacher (my daughter) 
 
 
 
