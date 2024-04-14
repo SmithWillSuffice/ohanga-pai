@@ -195,7 +195,7 @@ the kids in her classroom banded together to force their teacher (my daughter)
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next post</a></td>
+<a href="../59_rain_in_iran">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -203,6 +203,6 @@ the kids in her classroom banded together to force their teacher (my daughter)
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../59_rain_in_iran">Rain in Iran</a></td>
 </tr>
 </table>
