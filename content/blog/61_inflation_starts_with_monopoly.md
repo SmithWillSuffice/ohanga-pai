@@ -52,7 +52,7 @@ there is no denying almost all currencies since inception have had a monopoly
 issuer.
 
 Since the oil supply these days is not the currency monopolist, and energy is 
-the driver of all non-finacialized${}^\ast$ real economies, 
+the driver of all non-financialized${}^\ast$ real economies, 
 
 
 ${}^\ast$OK, nerds. Financialized economies do run on fast computers for 
