@@ -104,7 +104,7 @@ the general public. Not just fellow academics.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../61_inflation_start_with_monopoly">Next post</a></td>
+<a href="../61_inflation_starts_with_monopoly">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -112,6 +112,6 @@ the general public. Not just fellow academics.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../61_inflation_start_with_monopoly">Start with Duelling Monopolies</a></td>
+<a href="../61_inflation_starts_with_monopoly">Start with Duelling Monopolies</a></td>
 </tr>
 </table>
