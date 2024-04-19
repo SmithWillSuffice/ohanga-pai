@@ -90,7 +90,43 @@ the world, my daughters who have Smartphone addiction and extremely normal
 average "ADHD" (the type every kid has these days, total normality) watch a 
 lot of Korean sitcom and romcom drama.
 
+### The Premise
 
+I'll be writing as I read the novels. Thus without foreknowledge of the plot 
+twists.
+
+I have to say, I did read a little about Liu Cixin, and the opinions about 
+his politics.  To summarize, he's a little bit apolitical, but has this weird 
+view that authoritarianism is the natural end state of human civilization... 
+I think, if I read the reports correctly. I could be wrong. This has 
+[offended some scifi fans](https://www.youtube.com/watch?v=uGZW1xnkzkI). 
+It is propaganda?  Whoa!
+
+But like Vladimir Nabokov was a dick, I wouldn't put an author's political 
+opinions in the way of a good read. For me, I can easily filter out political 
+propaganda, and will often laugh at it, but the merits of the scifi story as 
+entertainment could still be considerable. Anyone remember *The Matrix*?
+
+I will confess then that I liked the premise of *Remembrance of Earth's Past*. 
+The one-liner "Physics does not exist, and never will exist" is pretty good.
+WHy? IUt is because you should have researched the author, and know he is a 
+computer engineer. Thus you know damn well he better have a very good plot for 
+how the heck physics cannot exist! 
+
+In addition, early in the English book translation the story notes what the 
+essence of physics is for us, which is the patterns of invariant structures, or symmetries to put it more elegantly. Physics is nothing if not the study of the most basic elementary symmetry principles that hold within our universe.
+
+Newtons' Laws, electromagnetism, Einstein's gravity, quantum mechanics --- 
+all can be written in terms of fundamental symmetry principles governing the 
+interaction of matter and spacetime.
+
+Hence, and Lui Cixin knows this, for physics not to exist would mean the symmetries physicists have discovered are illusory.
+
+This opens up a panoply of something like a Matrix universe, one that is 
+programmed and at the whim of the "universal programmer". (Wolfram physics 
+ya nerds! 🤣)  I cannot tell if that is where Lui Cixin takes the story, but 
+he has opened up a wide field for the plot. A nice master-stroke. Probably not 
+Chinese state propaganda. Just sayin'.'
  
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
