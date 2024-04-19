@@ -211,6 +211,73 @@ The hapless Tureky, the Foolish Disk Worlder.
 be motive to overcome the main problem.
 ```
 
+## An Excellent Dialogue
+
+About half way in to Three Body Probl;em the protagonist Wang Miao asks
+the venerable and gentle Dr Ye Wenjie about "physics does not exist". 
+She answers that it is not that physics does not exist, but that what we think 
+is physics is wrong.
+
+I'm not sure of the Netflix adaptation will have this, nor am I sure if this 
+remark will play out in the original novels, but it is a crux... for me at 
+least, worth writing about... and with my allegorical interpretation too.
+
+Ye Wenjie likens scientists now to the Church of old, who thought Copernicus 
+as guilty of heresy, Bruno and d'Ascoli worth the stake, and Galileo worth 
+the Spanish Inquisition. Or she says, "Maybe we are like the Church."
+
+It is a lot less dramatic for physics these days though, than it is for 
+political economy, since physics base marble is in pretty close contact with 
+us know though particle accelerators and cosmology, and quantum computing of 
+course (very base level, since it's exploiting entanglement). Entanglement is 
+the base marble of our universe, and perhaps it is no accident Schrödinger's Cat 
+gets a mention in the immediately preceding scene with the detective Shi Qiang.
+
+We are nowhere near the base marble of economics, but MMT is part of the base.
+A huge gap remains in political economy, and that is the spiritual realm, and 
+I've not encountered any professional economists who even dare acknowledge 
+this yet --- maybe there are a few like Kate Raworth or Jason Hickel, but I do 
+not really know for sure, are they merely acting ethically because they think 
+it good for themselves, or do they realize spiritual principles are at the 
+very heart of true economics? I suspect they do not acknowledge. They place 
+the ecology ahead as primary, but this is a grave mistake, because we cannot 
+have a sound ecosystem by just asserting ecology is important. Spiritual 
+prerequisites are needed, even if only at a bare minimum level of political
+recognition that the ecological economics importance is something worth caring 
+about.
+
+If your economists do not care about ecology then nothing wil be done 
+politically. The ecological economics academics can scream their heads off, 
+it will only be when people dying is a clear consequence of ignorance of 
+ecology that politicians will lift a finger to dial the ecologists and invite 
+them to the table.  Too late. But it doesn't have to play out that way, if 
+people can learn spiritual principles are more important even than ecology, 
+then there is hope of avoiding catastrophe. I know it is a hard ask for a 
+realist, even harder for a dumb-dumb materialist, but you've got to ask.
+
+Interestingly, although I am not close friends with Warren Mosler, I think he 
+has a moral component to his work over the decades on what became MMT. He has 
+always said he talks to anyone in power or schools or the general public who 
+is listening, out of a sense of public duty and moral obligation. Few other 
+economists teach from this motive. They teach from textbooks for a paycheck 
+and academic career. They have no idea at least 25% of what they teach is 
+nonsense, and in fact unethical. If you know you do not know the truth, what 
+are you teaching for?
+
+Never teach for a paycheck.
+
+Expect a paycheck, but don't let that be the reason you teach. OK, I do not 
+personally know a lot of economics teachers, I'm just guessing, but prove me 
+wrong!  What I do know is that Mosler does not do it for any income. He is 
+pure. But, of course, considered a crank and heretic by mainstream economists, 
+all all persuasions, post-keynesians, marxists, new Keynesians and 
+neoclassical alike.
+
+
+
+
+
+
 
  
 <table style="border-collapse: collapse; border=0;">
