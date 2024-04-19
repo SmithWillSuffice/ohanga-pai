@@ -109,24 +109,109 @@ entertainment could still be considerable. Anyone remember *The Matrix*?
 
 I will confess then that I liked the premise of *Remembrance of Earth's Past*. 
 The one-liner "Physics does not exist, and never will exist" is pretty good.
-WHy? IUt is because you should have researched the author, and know he is a 
+Why? It is because you should have researched the author, and know he is a 
 computer engineer. Thus you know damn well he better have a very good plot for 
 how the heck physics cannot exist! 
 
 In addition, early in the English book translation the story notes what the 
-essence of physics is for us, which is the patterns of invariant structures, or symmetries to put it more elegantly. Physics is nothing if not the study of the most basic elementary symmetry principles that hold within our universe.
+essence of physics is for us, which is the patterns of invariant structures, 
+or symmetries to put it more elegantly. Physics is nothing if not the study 
+of the most basic elementary symmetry principles that hold within our universe.
 
 Newtons' Laws, electromagnetism, Einstein's gravity, quantum mechanics --- 
 all can be written in terms of fundamental symmetry principles governing the 
 interaction of matter and spacetime.
 
-Hence, and Lui Cixin knows this, for physics not to exist would mean the symmetries physicists have discovered are illusory.
+Hence, and Lui Cixin knows this, for physics not to exist would mean the 
+symmetries physicists have discovered are illusory.
 
 This opens up a panoply of something like a Matrix universe, one that is 
 programmed and at the whim of the "universal programmer". (Wolfram physics 
 ya nerds! 🤣)  I cannot tell if that is where Lui Cixin takes the story, but 
 he has opened up a wide field for the plot. A nice master-stroke. Probably not 
-Chinese state propaganda. Just sayin'.'
+Chinese state propaganda. Just sayin'.
+
+Having not yet gotten to the crux of *Three Body Problem*, I have to insert my 
+own bit of politics.
+
+
+## Harder scifi
+
+I reckon you can take *Remembrance of Earth's Past* as poetic allegory. I am 
+damn sure this is not what Lui Cixin was thinking, but I'm telling you this 
+is one way I can absorb the whole idea looming in *Three Body Problem*.
+Which metaphors then? Well, you can say "Capitalism does not exist, and never 
+will exist". But that's almost too comical.
+
+Or is it?
+
+The way I think of the Marxist counter to capitalism is as a bit of a fantasy. 
+Neither the capitalists nor the marxists are living in reality as far as I 
+can tell. There economics does not exist.  So I'd get my proper poetic analogy 
+via "Economics does not exist".
+
+As allegory I'd take this to mean our economy surely exists (as does matter 
+and spacetime probably in *Remembrance of Earth's Past*? Not yet sure!) The 
+problem is that what *economists think* economics *is* is totally unreal. 
+That'd be my poetic take on the *Three Body Problem* story. 
+
+The only trouble is this is a good thing, whereas in the *Three Body Problem* 
+it is supposedly getting teed up as a bad thing? ("Physics does not exist" is 
+some sort of incipient war on science or intellectuals in the story?) 
+
+This is at least a nice way to enjoy the scifi story, because I am unable to 
+enjoy it much as a physicist myself. It is too fantastical, so not good 
+enough hard scifi. I cannot tolerate fantasy literature for long periods. 
+Short stories with some sort of allegorical moral fable are ok, but the 
+immersive fantasy literature stuff is to me like reading superhero comics. 
+A complete waste of my time when I was a kid, like Commodore 64 video games.
+
+I know adults indulge in these forms of entertainment, and a million people 
+watch reality TV shows. I just don't understand it --- who has that amount of 
+free time? Or... what the heck is wrong with me that I don't have such free 
+time?
+
+The reason *The Matrix* was cool was because you could read it as allegory for 
+a materialistic society. Even if the Wachowski's did not intend for this to be 
+the poetic reading. Who has you trapped in the real Matrix? You do. You 
+and your ego and insatiable desires for material wealth and comforts. To 
+extract yourself from the real Matrix you want to recognize what truly 
+matters in your life. And that'd be love and kindness. Waking up from the 
+real Matrix means becoming a more spiritual person.
+
+These leads to the extension of my allegory: humanity in our times is in fact 
+gripped by the tentacles of an insidious sort of vague ideology. I'd call it 
+neoliberalism, but it goes beyond the narrow meaning of that word. It extends 
+to the whole plethora of false doctrines in economics, macroeconomics, sociology 
+and politics that tells us human beings are mere animals and incapable of peace. 
+The idea is we have to be competitive, this is how we survive, we have to 
+dominate others, and moreover this is bred into us in our DNA... and so forth. 
+I will not belabour the whole blackpill nihilist thesis, there are too many 
+varieties, I'm just sketching the cartoon of the idea.  However, I do mean 
+to refer to the real world.
+
+It is a pervasive ideology, infecting popular culture and social discourse 
+everywhere, and it is ruinous for the chances of a decent civilization. 
+However, unlike nihilists, I believe humanity has the collective capacity to 
+overcome this narrow dystopian world view. Call me an optimist, a hopeless 
+romantic, but it is what I believe is possible. Just don't ask me to offer 
+any probabilities. I'd say 100%, but have no clue what the time-frame would 
+be. Asymptotics is easy, real-time dynamics is hard to impossible. But this 
+is also not the topic of this article today.
+
+
+## The Farmer and the Shooter Hypotheses
+
+```
+TODO:
+* The concept in 3BP.
+* How it appears in the allegory fo modern politicla economy.
+The hapless Tureky, the Foolish Disk Worlder.
+* The disanalogy of it, and why some allegories are made to 
+be motive to overcome the main problem.
+```
+
+
  
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
