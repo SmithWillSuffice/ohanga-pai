@@ -21,23 +21,24 @@ was recommended, but sadly it turned out to be very soft scifi. Still... it
 did the job.  However, it did a little more. Since the Netflix version of the 
 novels is now screening, it has entered mainstream pop culture, so that's an 
 opportunity for an MMT activist, physicist and philosopher to draw some 
-major fodder from for writing for popular consumption.
+major fodder from while writing for popular consumption.
 
 Geeky stuff out of the way first?
 
 ## Chaos Theory
 
 The relevance of the 3-body problem to macroeconomics is palpable. 
-Henri Poincare was one of the first to see classical dynamics is next to 
+Henri Poincaré was one of the first to see classical dynamics is next to 
 insoluble, when he showed that the solar system is unstable and the general 
 solution to even three gravitating bodies in motion is chaotic. Technically 
 that means any numerical attempt at a solution will very soon wildly diverge 
 in prediction from reality.
 
 In the 1960's the meteorologist Edward Lorenz showed the same for a very simple 
-model of "weather" (fluid convection). Eventually some heterodox economists 
-caught on to this, and realized economic systems were far from equilibrium, 
-and inherently chaotic. The folks at the Sante Fe Institute were leader in 
+model of "weather" (fLiud convection). Eventually some heterodox economists 
+caught on to this, and realized economic systems were far from equilibrium too
+(will wonders never cease), 
+and inherently chaotic. The folks at the Sante Fe Institute were leaders in 
 such thought, and later John Blatt and Steve Keen made their valuable 
 contributions. Amazingly, and sadly, mainstream economics never caught on and 
 has remained in the dark ages of equilibrium modelling.  This is due to the 
@@ -58,7 +59,7 @@ round-tables you crank.
 One thing which confuses weak minded economists, I suspect, is that they look 
 at empirical data (I suppose) and see cycles and periods of stability with no 
 hyperinflation. There is then a natural childish tendency I can sympathize${}^\ast$ 
-with in swishing to model the economic system in equilibrium terms, because 
+with in wishing to model the economic system in equilibrium terms, because 
 after all, things seem to swirl around some sort of stable relative price 
 vector, after accounting for nominal price adjustments (just looking at 
 relative prices).
@@ -70,24 +71,41 @@ like a grown-up child. The thing about being a child at heart is that although
 it can be a wonderful thing, you really aught to also know when that is not 
 appropriate.
 
-The periodic motions of the economy are not stable orbit about an ideal 
-equilibrium. They are quasi-periodic motions far-from-equilibrium. But this 
-does not mean the economy is unstable. It means it is unpredictable. There is 
-a big difference.
+In fact delusions of this nature are more akin to illusions. Like seeing Jesus 
+in the Turin Shroud. The periodic motions of the economy are not stable orbits 
+about an ideal equilibrium. They are quasi-periodic motions 
+far-from-equilibrium. But this does not mean the economy is unstable. It means 
+it is unpredictable. There is a big difference.
+
+Chaotic systems can of course also be unstable. Our Solar System is thought to 
+be unstable, though no one can prove it for sure, what a dynamicist can do is 
+point out our solar system is generically unstable, meaning it would be pretty 
+lucky if it were stable. They can also tell us the characteristic time scale for 
+instability (the time period up until which the motions of the Sun and our 
+neighbouring planets is constrained to more or less fixed orbits). I forget 
+the number, but the characteristic period is probably on the order of 
+billions of years. the Sun could die out before any of our planets go haywire 
+and shoot off to interstellar "infinity". (Don't quote me on this. If you want 
+to know then pull up a DuckDuckGo or 
+[Perplexity ai](https://www.perplexity.ai/search/What-is-the-.jbJwrp1QFyYXpb47IhKyg) tab.)
+About 17 billion years before any likely major planetary collision?
 
 
 ## Remembrance of Earth's Past
 
-Whoa! Cixin Liu is no Proust. Although, to be fair, Proust is a little 
-over-rated. I loved _À la recherche du temps perdu_ when I was a teenager, but 
-when I matured I better understood why the Monte Python skit is even funnier 
-than it first appears.  The Proustian romance and pathos is one thing, but 
-you really can't appreciate it until you've lived a good life and have 
-experienced true loss of love and loss of innocence. I sometimes wonder what 
-my life would be like if I had been sparred all the heartache and sorrow? 
+Whoa! Liu Cixin is no Proust. Although, to be fair, Proust is a little 
+over-rated. I loved reading _À la Recherche du Temps Perdu_ when I was a 
+teenager, but when I matured I better understood why the Monte Python skit is 
+even funnier than it first appears.  The Proustian romance and pathos is one 
+thing, but you really can't appreciate it until you've lived a good life and have 
+experienced true loss of love and loss of innocence. Same for 
+Mishima's _Sea of Fertility_  --- even in translation it was a heck of a 
+trilogy to read, and a masterpiece of Japanese literary art, all despite 
+Yukio Mishima's warped politics and odd-duck lifestyle. I sometimes wonder 
+what my life would be like if I had been spared all the heartache and sorrow? 
 Probably would have been superficially nicer, but probably not as meaningful.
 
-Anyhow, I guess I will have some thing to say about the politics of hard 
+Anyhow, I guess I will have something to say about the politics of hard 
 scifi, and will use the *Remembrance of Earth's Past* trilogy as a case 
 study, since... why not?  *Game of Thrones* is over-cooked by now.
 
@@ -99,20 +117,23 @@ lot of Korean sitcom and romcom drama.
 
 ### The Premise
 
-I'll be writing as I read the novels. Thus without foreknowledge of the plot 
-twists.
+I'll be writing in real-time as I read the novels. Thus without foreknowledge 
+of the plot twists.
 
 I have to say, I did read a little about Liu Cixin, and the opinions about 
 his politics.  To summarize, he's a little bit apolitical, but has this weird 
 view that authoritarianism is the natural end state of human civilization... 
 I think, if I read the reports correctly. I could be wrong. This has 
 [offended some scifi fans](https://www.youtube.com/watch?v=uGZW1xnkzkI). 
-It is propaganda?  Whoa!
+Is _Remembrance of Earth's Past_ really Chinese state propaganda?  Whoa!
 
 But like Vladimir Nabokov was a dick, I wouldn't put an author's political 
 opinions in the way of a good read. For me, I can easily filter out political 
 propaganda, and will often laugh at it, but the merits of the scifi story as 
 entertainment could still be considerable. Anyone remember *The Matrix*?
+
+At worst, dumb-dumb politics ruins the novel immersive experience, so it's 
+depressing. I rarely get angry and fumed up about it, no novelist is perfect.
 
 I will confess then that I liked the premise of *Remembrance of Earth's Past*. 
 The one-liner "Physics does not exist, and never will exist" is pretty good.
@@ -125,16 +146,16 @@ essence of physics is for us, which is the patterns of invariant structures,
 or symmetries to put it more elegantly. Physics is nothing if not the study 
 of the most basic elementary symmetry principles that hold within our universe.
 
-Newtons' Laws, electromagnetism, Einstein's gravity, quantum mechanics --- 
+Newton's Laws, electromagnetism, Einstein's gravity, quantum mechanics --- 
 all can be written in terms of fundamental symmetry principles governing the 
 interaction of matter and spacetime.
 
-Hence, and Lui Cixin knows this, for physics not to exist would mean the 
+Hence, and Liu Cixin knows this, for physics not to exist would mean the 
 symmetries physicists have discovered are illusory.
 
-This opens up a panoply of something like a Matrix universe, one that is 
+This opens up a panoply of something like a *Matrix* universe, one that is 
 programmed and at the whim of the "universal programmer". (Wolfram physics 
-ya nerds! 🤣)  I cannot tell if that is where Lui Cixin takes the story, but 
+ya nerds! 🤣)  I cannot tell if that is where Liu Cixin takes the story, but 
 he has opened up a wide field for the plot. A nice master-stroke. Probably not 
 Chinese state propaganda. Just sayin'.
 
@@ -145,7 +166,7 @@ own bit of politics.
 ## Harder scifi
 
 I reckon you can take *Remembrance of Earth's Past* as poetic allegory. I am 
-damn sure this is not what Lui Cixin was thinking, but I'm telling you this 
+damn sure this is not what Liu Cixin was thinking, but I'm telling you this 
 is one way I can absorb the whole idea looming in *Three Body Problem*.
 Which metaphors then? Well, you can say "Capitalism does not exist, and never 
 will exist". But that's almost too comical.
@@ -154,7 +175,7 @@ Or is it?
 
 The way I think of the Marxist counter to capitalism is as a bit of a fantasy. 
 Neither the capitalists nor the marxists are living in reality as far as I 
-can tell. There economics does not exist.  So I'd get my proper poetic analogy 
+can tell. Their economics does not exist.  So I'd get my proper poetic analogy 
 via "Economics does not exist".
 
 As allegory I'd take this to mean our economy surely exists (as does matter 
@@ -162,7 +183,7 @@ and spacetime probably in *Remembrance of Earth's Past*? Not yet sure!) The
 problem is that what *economists think* economics *is* is totally unreal. 
 That'd be my poetic take on the *Three Body Problem* story. 
 
-The only trouble is this is a good thing, whereas in the *Three Body Problem* 
+The only trouble is this is a *good* thing, whereas in the *Three Body Problem* 
 it is supposedly getting teed up as a bad thing? ("Physics does not exist" is 
 some sort of incipient war on science or intellectuals in the story?) 
 
@@ -181,21 +202,35 @@ time?
 The reason *The Matrix* was cool was because you could read it as allegory for 
 a materialistic society. Even if the Wachowski's did not intend for this to be 
 the poetic reading. Who has you trapped in the real Matrix? You do. You 
-and your ego and insatiable desires for material wealth and comforts. To 
-extract yourself from the real Matrix you want to recognize what truly 
-matters in your life. And that'd be love and kindness. Waking up from the 
-real Matrix means becoming a more spiritual person.
+and your ego and insatiable desires for material wealth and comforts. 
+Agent Smith was, all said and done, a human invention. To extract yourself 
+from the real Matrix you want to recognize what truly matters in your life. 
+And that'd be love and kindness. Waking up from the real Matrix means becoming 
+a more spiritual person.
 
-These leads to the extension of my allegory: humanity in our times is in fact 
+In the macroeconomics/political economy, allegory Agent Smith is something 
+like the White Supremacist or Neocon or Christian Fascist (they're not 
+entirely disjoint categories). His "religion" is rule of the machines. Or not 
+even that, it is rule by Agent Smith, beyond fascism (the nation is sacred) 
+to total monarchy (the King is sacred). ((I always shed a tear for my friends 
+in Thailand at such points in my thought. One nation within which a sizeable 
+proportion of citizens still has a very unhealthy attitude to their 
+monarch.))
+
+This leads to the extension of my allegory: humanity in our times is in fact 
 gripped by the tentacles of an insidious sort of vague ideology. I'd call it 
 neoliberalism, but it goes beyond the narrow meaning of that word. It extends 
 to the whole plethora of false doctrines in economics, macroeconomics, sociology 
 and politics that tells us human beings are mere animals and incapable of peace. 
-The idea is we have to be competitive, this is how we survive, we have to 
+The idea is we have to be competitive${}^\dagger$, this is how we survive, we have to 
 dominate others, and moreover this is bred into us in our DNA... and so forth. 
 I will not belabour the whole blackpill nihilist thesis, there are too many 
 varieties, I'm just sketching the cartoon of the idea.  However, I do mean 
 to refer to the real world.
+
+${}^\dagger$Or, more extreme, the idea we do not have any choice in the 
+matter, since we have no free will (the idiocy of Sam Harris, 
+Robert Sapolsky and their like). ((First define "free will" for me bros!))
 
 It is a pervasive ideology, infecting popular culture and social discourse 
 everywhere, and it is ruinous for the chances of a decent civilization. 
@@ -203,7 +238,7 @@ However, unlike nihilists, I believe humanity has the collective capacity to
 overcome this narrow dystopian world view. Call me an optimist, a hopeless 
 romantic, but it is what I believe is possible. Just don't ask me to offer 
 any probabilities. I'd say 100%, but have no clue what the time-frame would 
-be. Asymptotics is easy, real-time dynamics is hard to impossible. But this 
+be. Asymptotics is easy, real-time dynamics is hard-to-impossible. But this 
 is also not the topic of this article today.
 
 
@@ -212,55 +247,65 @@ is also not the topic of this article today.
 ```
 TODO:
 * The concept in 3BP.
-* How it appears in the allegory fo modern politicla economy.
-The hapless Tureky, the Foolish Disk Worlder.
-* The disanalogy of it, and why some allegories are made to 
-be motive to overcome the main problem.
+* How it appears in the allegory fo modern political 
+economy. The hapless Turkey, the Foolish Disk Worlder.
+* The disanalogy of it, and why some allegories are made 
+to be motive to overcome the main problem.
 ```
 
 ## An Excellent Dialogue
 
-About half way in to Three Body Probl;em the protagonist Wang Miao asks
+About half way in to *Three Body Problem* the protagonist Wang Miao asks
 the venerable and gentle Dr Ye Wenjie about "physics does not exist". 
 She answers that it is not that physics does not exist, but that what we think 
 is physics is wrong.
 
-I'm not sure of the Netflix adaptation will have this, nor am I sure if this 
-remark will play out in the original novels, but it is a crux... for me at 
+I'm not sure of the spin the Netflix adaptation will have this, nor am I sure 
+if this remark will play out in the original novels, but it is a crux... for me at 
 least, worth writing about... and with my allegorical interpretation too.
 
 Ye Wenjie likens scientists now to the Church of old, who thought Copernicus 
 as guilty of heresy, Bruno and d'Ascoli worth the stake, and Galileo worth 
-the Spanish Inquisition. Or she says, "Maybe we are like the Church."
+the Spanish Inquisition. Or she says, "Maybe we are like the Church." Meaning 
+with respect to today's scientific apostates.
 
 It is a lot less dramatic for physics these days though, than it is for 
 political economy, since physics base marble is in pretty close contact with 
-us know though particle accelerators and cosmology, and quantum computing of 
-course (very base level, since it's exploiting entanglement). Entanglement is 
-the base marble of our universe, and perhaps it is no accident Schrödinger's Cat 
-gets a mention in the immediately preceding scene with the detective Shi Qiang.
+us now though particle accelerators and cosmology, and quantum computing of 
+course (very base level, since the QC's are exploiting entanglement). 
+Entanglement is the base marble of our universe, and perhaps it is no 
+accident Schrödinger's Cat gets a mention in the immediately preceding scene 
+with the detective Shi Qiang.
 
 We are nowhere near the base marble of economics, but MMT is part of the base.
-A huge gap remains in political economy, and that is the spiritual realm, and 
-I've not encountered any professional economists who even dare acknowledge 
-this yet --- maybe there are a few like Kate Raworth or Jason Hickel, but I do 
-not really know for sure, are they merely acting ethically because they think 
-it good for themselves, or do they realize spiritual principles are at the 
-very heart of true economics? I suspect they do not acknowledge. They place 
-the ecology ahead as primary, but this is a grave mistake, because we cannot 
-have a sound ecosystem by just asserting ecology is important. Spiritual 
-prerequisites are needed, even if only at a bare minimum level of political
-recognition that the ecological economics importance is something worth caring 
-about.
+A huge gap remains in orthodox and even MMT-inspired political economy, and 
+that is the spiritual realm, and I've not encountered any professional 
+economists who even dare acknowledge this yet --- maybe there are a few like 
+Kate Raworth or Jason Hickel, but I do not really know for sure, are they 
+merely acting ethically because they think it good for themselves, or do 
+they realize spiritual principles are at the very heart of true economics? 
+
+Not just ecological principles, but spiritual principles. 
+I suspect they do not acknowledge. They place the ecology ahead as primary, 
+but this is a grave mistake, because we cannot have a sound ecosystem by just 
+asserting ecology is important. Spiritual prerequisites are needed, even if 
+only at a bare minimum level of political recognition that the ecological 
+economics importance is something worth caring about.
 
 If your economists do not care about ecology then nothing wil be done 
 politically. The ecological economics academics can scream their heads off, 
 it will only be when people dying is a clear consequence of ignorance of 
 ecology that politicians will lift a finger to dial the ecologists and invite 
-them to the table.  Too late. But it doesn't have to play out that way, if 
-people can learn spiritual principles are more important even than ecology, 
+them to the table.  Too late. But it doesn't have to play out that way. 
+If people can learn spiritual principles are more important even than ecology, 
 then there is hope of avoiding catastrophe. I know it is a hard ask for a 
 realist, even harder for a dumb-dumb materialist, but you've got to ask.
+
+((At this point through reading 3BOP, I am certianly worried (for my 
+entertainment pleasure) that Liu Cixin might head towards blackpill 
+nihilism. I hope that's not the case. Getting immersed into a story 
+is a wonderful form of entertainment, but if the bubble is shattered it's 
+kinda' depressing, which defeats the purpose.))
 
 Interestingly, although I am not close friends with Warren Mosler, I think he 
 has a moral component to his work over the decades on what became MMT. He has 
@@ -268,33 +313,39 @@ always said he talks to anyone in power or schools or the general public who
 is listening, out of a sense of public duty and moral obligation. Few other 
 economists teach from this motive. They teach from textbooks for a paycheck 
 and academic career. They have no idea at least 25% of what they teach is 
-nonsense, and in fact unethical. If you know you do not know the truth, what 
-are you teaching for?
+nonsense, and in fact unethical. If you know this, what are you teaching for?
 
 Never teach for a paycheck.
 
 Expect a paycheck, but don't let that be the reason you teach. OK, I do not 
 personally know a lot of economics teachers, I'm just guessing, but prove me 
-wrong!  What I do know is that Mosler does not do it for any income. He is 
+wrong!  Can it be that they are not teaching economics for a pay check and 
+yet refuse to inquire into the fundamental truths of the subject? 
+What I do know is that Mosler at least does not do it for any income. He is 
 pure. But, of course, considered a crank and heretic by mainstream economists, 
-all all persuasions, post-keynesians, marxists, new Keynesians and 
-neoclassical alike.
+of all persuasions, post-keynesians, marxists, new Keynesians and 
+neoclassical alike.  Warren Mosler is a Copernicus of our times. It is 
+lucky Stephanie Kelton has not yet been burned at the metaphorical stake. 
+You could say Steve Keen was the one burned at the stake, but like you'd 
+expect for an Aussie, he survived the ordeal and only increased his cuss word 
+frequency.
 
 
 
 
 ## Suspended Judgment
 
-There's little point ruining a fantasy scfi stroy with realist gripes. However, 
-I can make an exception when you out characters and actors in jeopardy --- by 
-which I mean painting them histrionically.  This is what Liu Cixin seemed to 
-have to contrive.
+There's little point ruining a fantasy scifi story with realist gripes. However, 
+I can make an exception when you put characters and actors in entertianment 
+jeopardy --- by which I mean painting them histrionically. It ruins the pure 
+entertainment experience, at least for us hard scifi art snobs.  This is what 
+Liu Cixin seemed to have to contrive.
 
-Here is what I mean. Imagine the scenario of begin confronted with outright 
-miracles was a thing, and was presented only to a few top scientists. What 
+Here is what I mean. Imagine the scenario of *begin confronted with outright 
+miracles* was a thing, and was presented only to a few top scientists. What 
 would be their response?  It would not be to commit suicide.  Did Liu Cixin 
 really need to make the story about physicist suicides? It think that was 
-unnecessary fro the plot. Most physicists I know would be intrigued, and 
+unnecessary for the plot. Most physicists I know would be intrigued, and 
 first would look to counsel one another to check not everyone was going 
 insane.  Science just is not done in such isolation as portrayed in 
 *Three Body Problem*.  And it did not have to be written that way.  The 
@@ -306,9 +357,22 @@ more sedate and investigative world committee of physicists exploring the
 miracles would have been equally as compelling a story, more interesting, 
 and more realistic.
 
-((Note: the Netflix versio
-n might be different, I do not know.))
+((Note: the Netflix version might be different, I do not know.))
 
+Liu Cixin did get it right mostly though, because he had the one anti-hero, 
+Wang Miao, respond to the miracles realistically. That was incredibly 
+important for me to stick with the book. Wang Miao realized the miracle 
+of the *countdown* was subjective, and that means the laws of physics are not 
+really vamoosed. It allowed the character to find empathy and friendship with 
+the desultory and roughish, but ultimately loveable, detective Shi Qiang.
+
+Yes, the response of a realistic community of physicists would in our real 
+world been more like Wang Maio's response, but then i guess a few plot turns 
+in Three Body Problem might not be "available".  TOo bad I say. Eliminate 
+them!  Make the story more believable. It would be a better work of art. As 
+it stands, Remembrance of Earth's Past is probably a scifi classic, but not 
+reaching the level of literary epic. I will probably still finish the trilogy.
+Stay tuned them for more on the 3BP allegory.
 
  
 <table style="border-collapse: collapse; border=0;">
