@@ -222,11 +222,11 @@ gripped by the tentacles of an insidious sort of vague ideology. I'd call it
 neoliberalism, but it goes beyond the narrow meaning of that word. It extends 
 to the whole plethora of false doctrines in economics, macroeconomics, sociology 
 and politics that tells us human beings are mere animals and incapable of peace. 
-The idea is we have to be competitive${}^\dagger$, this is how we survive, we have to 
-dominate others, and moreover this is bred into us in our DNA... and so forth. 
-I will not belabour the whole blackpill nihilist thesis, there are too many 
-varieties, I'm just sketching the cartoon of the idea.  However, I do mean 
-to refer to the real world.
+The idea is we have to be competitive${}^\dagger$, this is how we survive, we 
+have to dominate others, and moreover this is bred into us in our DNA... and 
+so forth. I will not belabour the whole blackpill nihilist thesis, there are 
+too many varieties, I'm just sketching the cartoon of the idea.  However, I 
+do mean to refer to the real world.
 
 ${}^\dagger$Or, more extreme, the idea we do not have any choice in the 
 matter, since we have no free will (the idiocy of Sam Harris, 
@@ -352,28 +352,81 @@ insane.  Science just is not done in such isolation as portrayed in
 crisis could have been instead sheer confusion among the physicists.  It'd 
 be far more natural that the physicists would get together. There is the 
 Frontier of Science group in the story, who are a bit mystical --- and I 
-think that will be integral to the plot later ()probably aliens?).  But a 
+think that will be integral to the plot later (probably aliens?).  But a 
 more sedate and investigative world committee of physicists exploring the 
 miracles would have been equally as compelling a story, more interesting, 
 and more realistic.
 
 ((Note: the Netflix version might be different, I do not know.))
 
-Liu Cixin did get it right mostly though, because he had the one anti-hero, 
-Wang Miao, respond to the miracles realistically. That was incredibly 
-important for me to stick with the book. Wang Miao realized the miracle 
-of the *countdown* was subjective, and that means the laws of physics are not 
-really vamoosed. It allowed the character to find empathy and friendship with 
+Liu Cixin did get it right mostly though, where it mattered, because he had 
+the one anti-hero, Wang Miao, respond to the miracles realistically. That was 
+incredibly important for me to stick with the book. Wang Miao realized the 
+miracle of the *countdown* was subjective, and that means the laws of physics are 
+not really vamoosed. It allowed the character to find empathy and friendship with 
 the desultory and roughish, but ultimately loveable, detective Shi Qiang.
 
 Yes, the response of a realistic community of physicists would in our real 
 world been more like Wang Maio's response, but then i guess a few plot turns 
-in Three Body Problem might not be "available".  TOo bad I say. Eliminate 
+in *Three Body Problem* might not be "available".  Too bad I say. Eliminate 
 them!  Make the story more believable. It would be a better work of art. As 
 it stands, Remembrance of Earth's Past is probably a scifi classic, but not 
 reaching the level of literary epic. I will probably still finish the trilogy.
 Stay tuned them for more on the 3BP allegory.
 
+The real gripe I have here is a very general critique of all literature and 
+movies when it comes to heros. If you have a single character as the hero or 
+anti-hero your story is, I am afraid to say, not realistic. But there is no 
+need to write a novel this way, with a main central protagonist/heroine/hero.
+
+The same trope ruined *The Expanse* --- although I loved those books too, to 
+me, just subjectively, they were epic, although not great literature. 
+
+Does Iain Banks write form a more humanistic perspective? Ursula LeGuin?  If 
+they have I've not heard of the novels. 
+
+<div style="text-align: center;">*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*</div>
+
+I'm not deliberately making this article long, but depending upon how much 
+grist there is to chew upon in *Remembrance of Earth's Past* it will be as 
+long as that.
+
+<div style="text-align: center;">*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+*</div>
+
+## Conformal Symmetry
+
+I'd like to tell you something about the opening sequences for the Chinese TV 
+adaptation. It depicts our solar system living within a larger cosmos, as if 
+our entire universe was sitting inside the tip of a piece of carbon nanotube.
+A similar concept is put to more comedic purposes in the 
+[ending sequence of](https://www.youtube.com/watch?v=8kVUPZ8_UJ4) 
+*[Men in Black](https://www.youtube.com/watch?v=8kVUPZ8_UJ4)* if I recall.
+
+The *bona fide* real physics concept here is called conformal or *scale* 
+invariance. It is the idea that our laws of physics are not sensitive to the 
+overall scale of things. So we could magnify everything up by a googol-fold 
+and no one should notice the difference. It is an approximate symmetry in 
+some areas of physics, notably electromagnetism and some string theory 
+models.
+
+It also is a symmetry that probably holds for time scales in our universe 
+close to our so-called Big Bang. INn fact, some cosmologists believe that a 
+whole lot of particle physics makes a whole lot more sense if our universe had 
+an exact conformal symmetry at the Big Bang. If it did, then there is little 
+need to explain where the Big Bang came from, since the supposed singularity 
+at our conformal time $\tau=0$ would not truly exist, it'd be a reflection 
+symmetry boundary.  In a 4D Block universe conception of Nature this says 
+that nothing came before the Big Bang, and the origin of our universe is 
+then something more global. 
+
+Whatever put us all here, out the whole 4D thing here, all at once, 
+so-to-speak. Or at least implicitly, since nothing exists on the other side 
+of a mirror. Nothing exists on the other side of our Big Bang.
+
+Since this is not my physics blog, I think I will leave this topic here. 
+I cannot quite turn it to useful allegory.
  
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
