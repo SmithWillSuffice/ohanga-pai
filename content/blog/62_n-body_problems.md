@@ -8,12 +8,19 @@ disableTitleSeparator : true
 toc: true
 ---
 
+## The Turkey Economists
+
+Are our mainstream economists turkeys or flat-worlders? 
+
+### Farmer versus Shooter Models
+
 Change of pace from recent posts today. I revert like a child to hard scifi 
 when depressed and unable to focus. 
 [Three Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))
 was recommended, but sadly it turned out to be very soft scifi. Still... it 
 did the job.  However, it did a little more. Since the Netflix version of the 
-novels is now screening, it has entered mainstream pop culture, so that's an opportunity for an MMT activist, physicist and philosopher to draw some 
+novels is now screening, it has entered mainstream pop culture, so that's an 
+opportunity for an MMT activist, physicist and philosopher to draw some 
 major fodder from for writing for popular consumption.
 
 Geeky stuff out of the way first?
@@ -276,7 +283,31 @@ neoclassical alike.
 
 
 
+## Suspended Judgment
 
+There's little point ruining a fantasy scfi stroy with realist gripes. However, 
+I can make an exception when you out characters and actors in jeopardy --- by 
+which I mean painting them histrionically.  This is what Liu Cixin seemed to 
+have to contrive.
+
+Here is what I mean. Imagine the scenario of begin confronted with outright 
+miracles was a thing, and was presented only to a few top scientists. What 
+would be their response?  It would not be to commit suicide.  Did Liu Cixin 
+really need to make the story about physicist suicides? It think that was 
+unnecessary fro the plot. Most physicists I know would be intrigued, and 
+first would look to counsel one another to check not everyone was going 
+insane.  Science just is not done in such isolation as portrayed in 
+*Three Body Problem*.  And it did not have to be written that way.  The 
+crisis could have been instead sheer confusion among the physicists.  It'd 
+be far more natural that the physicists would get together. There is the 
+Frontier of Science group in the story, who are a bit mystical --- and I 
+think that will be integral to the plot later ()probably aliens?).  But a 
+more sedate and investigative world committee of physicists exploring the 
+miracles would have been equally as compelling a story, more interesting, 
+and more realistic.
+
+((Note: the Netflix versio
+n might be different, I do not know.))
 
 
  

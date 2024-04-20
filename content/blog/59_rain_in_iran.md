@@ -151,8 +151,26 @@ this is not to leave anyone unemployed, but to hire all the workers the State
 just created by imposing tax liabilities.  Residual involuntary unemployment 
 is a simple policy mistake, a tragic one.
 
+## Foreign Policy Perverse Homeopathy
 
-    
+I am not opposed to medical homeopathy and naturopathy, but I am against these 
+practices being applied exclusively without scientific backing.  Even as 
+placebo they could be effective in treating mild conditions that are partly 
+psychosomatic.
+
+However, in foreign policy establishment circles there is something similar 
+that is totally pathological. Chas Freeman said it in one line on a recent 
+[Neutrality Studies episode](https://www.youtube.com/watch?v=jLai2YG4NRc). 
+My comment:
+
+> @28:00 this was a great one-liner: 
+_Israel has sought security by terrorizing Its neighbour._ It's almost a 
+universal law of stupidity. A sort of psychopathic foreign policy perverse 
+homeopathy --- "Yo, what hurts our neighbour must be good for them and will 
+bring peace by 'like cures like', they just need a little more hurt, give us 
+some more time y'all."
+ 
+ 
 ## Social Media Note
 
 For anyone who cares to know, I abandoned Twitter last year, partly because 
