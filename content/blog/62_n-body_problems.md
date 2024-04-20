@@ -34,6 +34,39 @@ solution to even three gravitating bodies in motion is chaotic. Technically
 that means any numerical attempt at a solution will very soon wildly diverge 
 in prediction from reality.
 
+It has been a rather silent triumph of Twentieth and 21st century mathematics 
+that stable solutions to the gravitational three body problem 
+[have been discovered](https://link.springer.com/article/10.1007/s10569-023-10177-w), 
+but no one was expecting this to be possible. However, it is still true that 
+general solutions are nearly impossible to compute. 
+
+Remarkably, in 1912 Karl Fritiof Sundman proved there is a way to compute 
+the general solution to the gravitational 3-body problem. Unfortunately it is 
+totally impractical. In any case, the gravitational problem of most interest 
+to us is for our solar system, which is what... a 1-body problem? That means 
+ignoring the moons of planets and the asteroid belt. So you might be surprised 
+that in the real world solar systems are fairly stable even though mathematics 
+says they should not be stable. The resolution is found in knowing the time 
+scales involved.  NASA or any future space engineers, can safely plot 
+trajectories for spacecraft on year-long time scales because the typical time 
+periods over which our solar system becomes unpredictable are extremely long 
+in duration. Also, space navigators do not need to know analytical solutions, 
+they can compute approximate trajectories numerically with decent precision. 
+Again, that's because they are operating with time scales far shorter than 
+that of the orbits of the planets and moons.
+
+Also, to emphasize the point: instability and predictability are totally 
+different concepts. Our solar system is both (like), it is for sure 
+unpredictable, but might also be unstable. However this matter little to 
+human space explorers because the time over which planetary motions get 
+unpredictable is on the order of years or maybe centuries (I am not exactly 
+sure of the typical time period off the top of my head), not hours or days.
+Even if our solar system is stable over millions of years (no planets will 
+collide or shoot off to infinity) it is still unpredictable over perhaps 
+thousand year intervals. That just means we need a lot more data to predict 
+where planets will be exactly in a thousand years compared to next year. 
+We'd need much more than a thousand times as much precision data.
+
 In the 1960's the meteorologist Edward Lorenz showed the same for a very simple 
 model of "weather" (fLiud convection). Eventually some heterodox economists 
 caught on to this, and realized economic systems were far from equilibrium too
@@ -412,7 +445,8 @@ some areas of physics, notably electromagnetism and some string theory
 models.
 
 It also is a symmetry that probably holds for time scales in our universe 
-close to our so-called Big Bang. INn fact, some cosmologists believe that a 
+close to our so-called Big Bang. In fact, some cosmologists --- notably 
+Neil Turok and Latham Boyle --- believe (and can show with their math) that a 
 whole lot of particle physics makes a whole lot more sense if our universe had 
 an exact conformal symmetry at the Big Bang. If it did, then there is little 
 need to explain where the Big Bang came from, since the supposed singularity 
@@ -421,9 +455,23 @@ symmetry boundary.  In a 4D Block universe conception of Nature this says
 that nothing came before the Big Bang, and the origin of our universe is 
 then something more global. 
 
-Whatever put us all here, out the whole 4D thing here, all at once, 
+Whatever put us all here, put the whole 4D thing here, all at once, 
 so-to-speak. Or at least implicitly, since nothing exists on the other side 
-of a mirror. Nothing exists on the other side of our Big Bang.
+of a mirror. Nothing exists on the other side of our Big Bang. (Some people 
+like to think there is an actual Mirror universe on the "other side" --- but 
+a reflection reflects, it does not transmit. Just sayin'.)
+
+If you prefer a cosmology where a universe does exist through a conformal 
+symmetry boundary then Roger Penrose has a Conformal Cyclic Cosmology for 
+you to work on, but it is by far the harder physics to get right, and is 
+probably wrong.
+
+There is however a hybrid of Turok--Boyle and Penrose, due to Anthony Lasenby 
+and colleagues, which is that a far future conformal symmetry could possibly 
+be "lived thorough" (for elementary particles, not biological life) but the 
+universe on the other side would be time reflected with respect to ours. That's 
+a wild one to wrap your head around, but "follow the math". It is not illogical 
+nor inconceivable.
 
 Since this is not my physics blog, I think I will leave this topic here. 
 I cannot quite turn it to useful allegory.
