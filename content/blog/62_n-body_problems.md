@@ -396,7 +396,8 @@ I was watching the Chinese TV series version parallel to reading the novels.
 In the TV series you see these little red ants from time to time, with 
 heavy cinematic significance. 
 
-Are the Trisolarans the red ant things? You know, I think they are. Cute.
+Are the Trisolarans the red ant things? You know, I think they are. Or maybe 
+not, a McGuffin?
 
 Have to say of the TV adaptation, the world Central Command gang are freakin' 
 bad actors. It is pretty hilarious. Oh yeah, Chinese State propaganda! 🤣 (I 
@@ -432,6 +433,15 @@ It's like in movies, suspension of disbelief. Only in literature I don't know
 the analogous phrase.  It should not be a thing, but in a lot of scifi 
 literature it is, sadly. 
 
+There is a lot of other funny stuff in the TV adaptation that makes it a bit 
+too hilarious to get immersed not as serious scifi. Too many to bother 
+mentioning, use of stock footage, a lot of characters stereotyped, and then 
+the symbol of the ETO --- a clear upside down Freemason symbol. 
+What's that about? The romantic cinematic scenes started to get a bit trite 
+too, although I like the slowish pace they introduce. I'm only watching and 
+reading along because I'm very depressed at the moment. Been a hard few 
+weeks on top of a hard few months on top of a hard five years after five 
+years of bitter-sweet bliss. 
 
 
 
