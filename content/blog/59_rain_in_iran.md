@@ -86,13 +86,14 @@ saintly small group of "founding fathers") once had a good idea to establish
 a representative democracy, but never actually managed to implement the ideal. 
 We cannot blame the average US citizen for the present diseased state of US 
 politics, but we can sure as heck blame every single person with agency in the 
-USA for not lifting a finger to do something about it _in their own small insignificant way_ (e.g., by engaging with family and friends on these issues, 
+USA for not lifting a finger to do something about it 
+_in their own small insignificant way_ (e.g., by engaging with family 
+and friends on these issues, 
 to generate groundswell for non-violently overthrowing neoliberalism and Its 
 Mont Pelerin bred ilk) --- because it is only the small actions of all people 
 working together in harmony that can erode such a corrupt system, unless you 
 are all prepared to sit idly by and wait for accelerationism to "work" its 
 havoc through more poverty and death by neoliberal austerity.
-
 
 ${}^\ast$Note that in other countries it is actually harder than this! 
 New Zealand could find it harder than the USA to destroy neoliberalism from 

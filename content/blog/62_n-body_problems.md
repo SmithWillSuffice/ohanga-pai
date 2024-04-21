@@ -123,6 +123,32 @@ to know then pull up a DuckDuckGo or
 [Perplexity ai](https://www.perplexity.ai/search/What-is-the-.jbJwrp1QFyYXpb47IhKyg) tab.)
 About 17 billion years before any likely major planetary collision?
 
+### Hard scifi Gripes?
+
+I have no interest in critiquing the "Physics of Three Body". But I can't 
+help myself. You can search youtube for people doing reaction videos to 
+*Three Body Problem*, and so I might be entirely redundant. What I do care 
+about is being a bit of a hard scifi snob. My attitude is why put in fantasy 
+elements into a good scifi story if you could instead make it far more 
+interesting with heavy realism?
+
+The honest truth is there is far too much physics that gets stretched in 
+*Three Body* the novel than I have time or patience to critique, so I'm 
+letting it rest, except for when there is an interesting literary angle to 
+comment upon.
+
+The first one worth mentioning in the 3BP virtual reality game character, 
+von&nbsp;Neumann. He and the game's Isaac Newton, along with the main 
+protagonist Wang Miao, convince a feudal emperor to build a human computer, 
+with 30 million soldiers doing essentially mindless logic gate tasks. The 
+trouble with this plot line is that they appear to be building a general 
+purpose computer. What I'd have done is construct a single purpose 30 million 
+solider machine. Less prone to error, faster compute. However, this is truly a 
+pedantic gripe, because Liu Cixin writes the correct realist reason the 30 million 
+soldier computer fails to predict the Trisolar orbits --- namely the Newtonian 
+dynamics model lacked general relativity corrections.
+
+
 
 ## Remembrance of Earth's Past
 
@@ -476,6 +502,131 @@ nor inconceivable.
 Since this is not my physics blog, I think I will leave this topic here. 
 I cannot quite turn it to useful allegory.
  
+ 
+## Redemptionists versus Adventists
+
+Oh no! No, no! The story got too stupid for me. The factions loyal to "Lord" 
+(the advanced alien civilization) start doing the whole anti-religious 
+thing (meaning pseudo-religious zealot ideological thing).  I thought I'd 
+make it through to the end of *Three Body Problem*, but it has become too 
+cringe.
+
+However, there is something to be recovered in my allegory. It is true that 
+in MMT circles there are factions. Some MMT advocates are capitalists, some 
+socialist, and a mix in-between, I guess some might be quasi-libertarians, 
+and there are plenty of liberals. However, I do not see *Three Body Problem* 
+being of more use for my allegory. Using scifi as allegory was a nice game 
+worth paying while it lasted today.
+
+I still do not think the book is Chinese State propaganda, but the TV series 
+has enough weird actors playing the international community (they appear to be 
+amateur actors) that it sort of ruins the feel of the TV series. The 
+cinematography is good for a TV/streaming budget, but I got a bit tired 
+sucking in the cringe on many aspects of the production, eventually. 
+
+I am guessing the Netflix version will be cringe in another way, the way 
+*Game of Thrones* became. But I'll have a look at it next year maybe, just in 
+case they do something different with the whole aliens as "Lord" plot. Change 
+that up into something realistic and more hard scifi and it could be very good 
+entertainment. 
+
+### Conflict Theory
+
+OK, I'm being too sensitive. For sure, history teaches us humans tend to get 
+into ideological conflict when there is uncertainty. So it is not at all 
+unrealistic that the ETO in *Three Body* would splinter into factions. This 
+fits with plenty of allegories, as I just mentioned.  I will suck-it-up then 
+and continue reading.
+
+However, I do like my scifi more when the super-powerful aliens are ethical. 
+Why would they not be?
+
+The worst dis-analogy people have about this is getting reflected in 
+contemporary society in the form of the fear of Ai superintelligence. The idea 
+is supertintelligent Ai might treat the human species as ants. This is 
+laughable. It is an idea based on a false analogy. (The analogy is how humans 
+treat actual ants.)
+
+There are many flaws in the analogy, but the biggest is that a 
+superintelligence will conform to *our* pretend analogies!  Another is the 
+idea hierarchies of intelligence will recapitulate (a fractal sociology 
+notion. There is no justification for this thesis.
+
+In fact, I am pretty cynical about the Ai tech industry. I think they are 
+capable, even innocently, of drumming up fear of an Ai singularity just to 
+fuel their research. I call it Nerd Capitalism.
+
+But heck, better to fund the nerds than the Military, I say. 
+
+The think about Nick Bostrom, Connor whatshisname, whatshisname Eliezer, and 
+whatshisname Hinton
+--- all the Ai Singularity fear-mongers --- is that their inferences are bogus.
+But why? Can I prove they are wrong?
+
+No, I cannot prove they are wrong. We just cannot well-predict the future. 
+The problem here is one of probability theory. The Ai nerds want you to 
+believe their doom prognostications are 95% confident bands, or whatever.
+
+The truth is, they have no idea what the error bands are for their doom 
+predictions and nightmare scenarios. No one does.
+
+If pressed on this, some of them will say, "Yeah, but prepare for the worst."
+
+OK.
+
+What is the worst case scenario though?
+
+Once again, they have no idea. They have worst case nightmares and dreams, 
+but so do I, and mine are not the same as theirs. Who is to say whose 
+nightmares are more realistic?
+
+My claim would be what we fundamentally have to deal with politically and 
+globally is an ethical macroeconomics, a spiritual economics, and a fair go 
+for all people. It has nothing to do with Ai. Ai can be used as a tool to 
+emancipate the working class, but it is only a tool. This means dismantling 
+old power structures and replacing them with power and authority that serves 
+the interests of the poorest. For the poor did not get a vote in determining 
+their condition.
+
+
+### Nihilism
+
+I do "get" the strong theme of nihilism in **THree Body*./ Humans suck.
+
+But it is a prejudice of our times. It is a jaundiced view of humanity that 
+originates from looking only at the evil people do, and ignoring all the good. 
+To be wise one needs to weight such extremes.  Although I'm no anthropologist, 
+I would suspect if we weight the acts people do, and have done, overall the 
+human species is truly marvellous and wonderful. 
+
+It is however a fair enough plot device to sue. Because a few cynics can 
+certainly spoiled things for millions. I'll thus be interested in reading on 
+to see where Liu Cixin takes this. But it could get boring, and tell us more 
+about Liu Cixin's blinkered view of humanity than about what he could have
+learned from life and reflected in his scifi art.
+
+
+## Conclusion --- halfway through
+
+I think *The Expanse* is the 2020's best scifi on the small screen so far.
+
+I tolerated a few others, there was a German and a British series, 
+"Dark something", I forge the other, one was a dual world, the other was a 
+nuclear facility turned time travel portal (the German one). They were 
+watchable.
+
+In my old age I've learned to dismiss time travel stories, they don't work 
+for me, unless used for comedy. Parallel Worlds are no good either, but 
+that's a bias I have from my own physics research preferences. So if anyone 
+thinks there is scifi entertainment better then *The Expanse* please tell me.
+The good stuff is good for me when I an low and depressed.
+
+I will probably persist with *Remembrance of Earth's Past*, but now I think 
+it's going to be more a chore than for entertainment. (Curiosity can do that, 
+kills the ).
+
+
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 25%;">
