@@ -390,12 +390,56 @@ expect for an Aussie, he survived the ordeal and only increased his cuss word
 frequency.
 
 
+### Spoiler 1
+
+I was watching the Chinese TV series version parallel to reading the novels. 
+In the TV series you see these little red ants from time to time, with 
+heavy cinematic significance. 
+
+Are the Trisolarans the red ant things? You know, I think they are. Cute.
+
+Have to say of the TV adaptation, the world Central Command gang are freakin' 
+bad actors. It is pretty hilarious. Oh yeah, Chinese State propaganda! 🤣 (I 
+can believe it in this case.)
+
+On this issue... I've watched plenty of action movies, superhero, Marvel, 
+Batman, Superman, stuff in my life to to know "state propaganda" is pervasive 
+and relative.
+
+Half the time Holly wood probably does not know it is doing propaganda, It's 
+like Noam Chomsky used to say, you do not have to believe you are a 
+propagandists to be doing propaganda, more likely you're self-selected. Only 
+natural born establishment shills get promoted to high rank in mainstream 
+media.
+
+Still, I kind of preferred the 1960's era depictions in *Three Body*.
+
+Modern China is an incredible country, bustling with dynamism (and the 
+pollution it comes with). It is super modern. But there is no excuse for 
+shoddy acting when depicting the international governmental crowd, and what's 
+with all the military regalia? 🤣 Hilarious stuff. Seriously dude, I honestly 
+think it is for comic effect, could it not be?  I guess it might not be, so 
+then it is even more hilarious. Spoils the scifi entertainment aspect 
+though. Pity.
+
+I'm not sure this can be made a critique of Liu Cixin's literary style, but 
+in fact there are some plot points and dialogues (albeit in English 
+translation) that seem pretty cringe. I skip over that speed-reading if 
+I can. But much the same in *Dune* and *The Expanse* novels. You have to know 
+when to speed read and when to slow down to enjoy sub-genius literature.
+
+It's like in movies, suspension of disbelief. Only in literature I don't know 
+the analogous phrase.  It should not be a thing, but in a lot of scifi 
+literature it is, sadly. 
+
+
+
 
 
 ## Suspended Judgment
 
 There's little point ruining a fantasy scifi story with realist gripes. However, 
-I can make an exception when you put characters and actors in entertianment 
+I can make an exception when you put characters and actors in entertainment 
 jeopardy --- by which I mean painting them histrionically. It ruins the pure 
 entertainment experience, at least for us hard scifi art snobs.  This is what 
 Liu Cixin seemed to have to contrive.
@@ -604,6 +648,91 @@ certainly spoiled things for millions. I'll thus be interested in reading on
 to see where Liu Cixin takes this. But it could get boring, and tell us more 
 about Liu Cixin's blinkered view of humanity than about what he could have
 learned from life and reflected in his scifi art.
+
+### Redemptionists
+
+(Oh, anti-puniness.)
+
+Man oh man! The Redemptionists in the story get a terrible treatment. Avoiding 
+spoilers, here I want to comment on the bit of modern fable that Liu Cixin 
+draws upon for his plot. It is the idea that humans are puny, insignificant 
+and un-special.
+
+I actually find this laughable. But understandable, And so also a crux.
+I'll try to explain.
+
+Firstly the capacity we have to see ourselves as either special or 
+insignificant is pretty significant. It's not a paradox, since the "out" is 
+clearly that we are special.
+
+Secondly, I take the Copernican Principle seriously: this is the idea that 
+it's not a good idea to think you are the centre of the universe. Clearly 
+humans are not centres of the universe. However, this does not logically lead 
+to the conclusion we are insignificant. It just means we are not the centre. 
+Of course "centre" here means the "be all and end all" as well as the 
+scientific notion that the cosmos does not have a privileged status for any 
+one observer or plant.  It is a key principle of modern science. As I 
+explained before, it's about symmetry principles and invariants, these are 
+what define physics.
+
+But again, this refutes the nihilist thesis, because the very fact human 
+civilization has proven capable of discovering the principle of physics 
+(and so much more at higher levels of organization) implies again, we are 
+highly significant creatures. Don't write us off you mad Adventists!
+
+I don't want to write an essay on this, so I'll mention just a third and fourth 
+point for now (I can think of many more).  The third  is the simplistic idea 
+the universe is so damn vast, and the Earth is so damn small, so we literally 
+are insignificant.  This is the most laughable. It does not even bare a 
+mention, but I feel I must mention it for some weaker minds.  The point is, 
+ruler and clock scale is not a great metric for "significance".
+
+There is no telling what human civilization will become capable of, and so 
+concluding right now that we are puny and insignificant is pretty insane.
+
+Lastly, the fourth: you should consider that humans on Earth might 
+in fact advance in future to something like the fictional Trisolarian 
+technical advancement. We'd be the "Lords" perhaps top some other "backwards" 
+planetary civilization. This despite not having the harshness of Trisolaris 
+to cut our technological teeth upon --- and that's a fantastical plot device 
+to be sure --- ultracapitalism or ultradarwinism! 🤣) 
+
+Oh damn... I cannot resist a fifth: another source of nihilism and feelings 
+of insignificance is the individualistic mindset. Sure my friend, *You* might 
+be insignificant, but human civilization need not be so. But I would go 
+further. But only because I have a few other metaphysical suspensions. I am 
+one of those who think consciousness indicates we are not physical creatures. 
+But we live in a physical world.  If you can put those tow thoughts together 
+in a constructive way then you will get the idea, I won't need to elaborate. 
+In any case, it is the most powerful sort of evidence that we are not 
+insignificant puny creatures, but rather in some sense the cosmos was made 
+for us (and any other sentient civilizations). Being dropped into such a 
+vast cosmos is of course humbling, but I think that is entirely part of the 
+point of it!  If only you can understand!
+
+Puniness is contextual.
+
+You hopefully can see where I am going with my macroeconomics and political 
+economy allegory!
+
+We cannot say the past understanding of neoclassical macroeconomics means 
+doom for socialism or a decent society. We would need to know what an advanced 
+level of political comprehension will do for humanity, and you never know, 
+in 15 or 20 years we might be doing wonders. Or maybe it'll take great 
+catastrophe, so a century or more outlook. In any case, we today cannot 
+comprehend how political economy will evolve, and there is thus no cause for 
+doom and gloom.  There is incredible cause for fear and regret, but not for 
+doom and gloom.  In fact does it not imply the eternal optimist is the 
+preferred stance? The wiser stance?  I think so.
+
+Doom and gloom are in fact neoclassical attitudes themselves. Stuck-in-a-rut 
+attitudes. No capacity to think dynamically. There is a big irony there, 
+since aren't neoclassicals the big boosters of the dynamo of capitalism?'
+
+Listen you guys, a dynamo that can only swirl about and equilibrium is no 
+creative thing.  You shouldn''t want neoclassical economics even if it were 
+true.
+
 
 
 ## Conclusion --- halfway through
