@@ -366,14 +366,14 @@ made to be motive to overcome the main problem.
 ```
 
 Maybe I should not waste space expanding on the Turkey and the Flat worlder 
-metaphors.  I think the better point to make is how this sets upo a false 
+metaphors.  I think the better point to make is how this sets up a false 
 dichotomy in the *Three Body* story. The viewpoint the reader is (supposedly) 
 drawn to is this binary option: either we are like Turkeys thinking the dawn 
 brings food every day, oblivious of the catastrophe of Thanks Giving; or we 
 are Flat Worlders oblivious some 3D entity is toying with our world as if we 
 were ants, meaning pretty oblivious of our cares and desires. 
 
-Whether you go all Nihilist and pomo, or Nietzsche, ion response may indicate 
+Whether you go all Nihilist and pomo, or Nietzsche, in response may indicate 
 some political persuasion, but I think I am an optimist (talking about our 
 real world now) because I believe most ordinary people are capable of a more 
 enlightened world view. The one where human beings might seem insignificant, 
@@ -382,6 +382,14 @@ civilization in our universe who are sentient and have developed science
 and technology. 
 
 The big lie is that sentience is a total accident.
+
+We might not be Turkeys nor Flat Worlders. At any primitive time in human 
+history maybe it seems that way, but that's an individualistic attitude, 
+whereas I can both appreciate the worth of every individual creature, *and* 
+imagine collectively life is something special.  There is also the point 
+nihilists should consider, which is that even if life was not special, it 
+might *become* special.  In my political economy allegory: neoliberalism is 
+probably a transitory abomination.
 
 I mean, why would you suppose we are accidents? Of course I know why, and I 
 maintain a physics and a philosophy blog where I write more about such topics. 
