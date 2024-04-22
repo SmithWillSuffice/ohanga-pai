@@ -443,7 +443,34 @@ reading along because I'm very depressed at the moment. Been a hard few
 weeks on top of a hard few months on top of a hard five years after five 
 years of bitter-sweet bliss. 
 
+### Technicomedies
 
+The 2017 TV series is funnier than the books of course,... Chinese state 
+propaganda! No, seriously. It is funny. I liked the way they depicted 
+Ye Wenjie's discovery of radiation boundaries inside the Sun, these are 
+regions where the frequencies of emission sharply drop, in-between boundaries 
+the fall off in frequency is gradual, a power law presumably.
+
+((There are in fact boundary layers in the Sun and stars, but I believe they 
+are more like conventional magnetohydrodynamic boundaries. In 
+*Three Body Problem* Liu Cixin has to invent a nice little fantasy physics 
+into the story to get the million-fold magnification of microwave 
+transmissions he needs. But it is a cool soft scifi plot device. *J'approuve*.'))
+
+The comedy angle is the TV series depicts Ye Wenjie's thesis as a stair case 
+profile of frequencies. They should have used a power law fall off with 
+boundary zones instead. Just for the *cool* factor.  But... ya know... the 
+comedy is only for the learned.  Although it'd be a nice little sociological 
+experiment to survey how many ordinary TV watchers realized the staircase 
+profile was a bit fishy. School teachers take note! Try it on your students.
+
+Come to think of it, this is the really serious good of shows like 
+*Three Body*. They make some excellent school teaching resources for discussion. 
+
+From bitter experience I've learn the "physics of scifi" lessons are not good 
+in school that have a national standards examination focus. But for younger 
+and older kids (50 years +, or under 12 years) these fantasy resources make 
+nice motivation for informal discussion and "college dorm room" banter.
 
 
 ## Suspended Judgment
@@ -673,7 +700,10 @@ I'll try to explain.
 
 Firstly the capacity we have to see ourselves as either special or 
 insignificant is pretty significant. It's not a paradox, since the "out" is 
-clearly that we are special.
+clearly that we are special. Any creature that gains sentient subjective 
+consciousness knows it is special, and it is ignorance of physics to fail to 
+see this. People who think humans are just highly evolved apes are missing 
+everything... shall I be fair and say they are missing nearly everything.
 
 Secondly, I take the Copernican Principle seriously: this is the idea that 
 it's not a good idea to think you are the centre of the universe. Clearly 
@@ -691,7 +721,7 @@ civilization has proven capable of discovering the principle of physics
 highly significant creatures. Don't write us off you mad Adventists!
 
 I don't want to write an essay on this, so I'll mention just a third and fourth 
-point for now (I can think of many more).  The third  is the simplistic idea 
+point for now (I can think of many more).  The third is the simplistic idea 
 the universe is so damn vast, and the Earth is so damn small, so we literally 
 are insignificant.  This is the most laughable. It does not even bare a 
 mention, but I feel I must mention it for some weaker minds.  The point is, 
@@ -706,6 +736,29 @@ technical advancement. We'd be the "Lords" perhaps top some other "backwards"
 planetary civilization. This despite not having the harshness of Trisolaris 
 to cut our technological teeth upon --- and that's a fantastical plot device 
 to be sure --- ultracapitalism or ultradarwinism! 🤣) 
+
+There is more to say on this fourth principle of non-significance. It 
+has relevance to current debates about Ai Singularity. The idea is we'd better 
+be careful in developing Ai because it might over-run uis and treat humans like 
+we treat ants. This is laughable. It is a false inference and a terribly 
+childish dis-analogy. For one thing, humans so not have to go around treading 
+on ants and digging up insects with no concern or compassion. We mess with the 
+Earth knowing the insects are *likely* not conscious. Whereas a hypothetical 
+Trisolairan civilization would damn well for sure know humans were sentient. 
+Would you believe an advanced alien race to treat humans like ants? No! 
+They'd treat us like...b humans. What that means is impossible for us to say, 
+because we have nothing relevant to infer from. 
+
+The idea humans are to ants and Trisolarians are to humans is a false analogy. 
+It applies only in some intellectual sense, not in a spiritual sense. Certainly 
+not in a political or colonialist/imperialist sense. Ants do not have any 
+politics, and have no companions they love and are willing to die for, they 
+just die for their colony by instinct. Their sociology is also blind and 
+instinctual, and we talk about "ant society" by imposing our language on 
+the situation, but it is a very different category to human society. Any 
+analogies here are highly fraught with ample scope for error and stupid 
+reasoning (lobster hierarchy!). This topic is probably worth an essay for 
+idiot philosophers, if I had nothing better to do, but I do, so no essay.
 
 Oh damn... I cannot resist a fifth: another source of nihilism and feelings 
 of insignificance is the individualistic mindset. Sure my friend, *You* might 
