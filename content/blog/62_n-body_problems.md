@@ -40,6 +40,10 @@ that stable solutions to the gravitational three body problem
 but no one was expecting this to be possible. However, it is still true that 
 general solutions are nearly impossible to compute. 
 
+When I write "impossible to compute" I have a technical result in mind, one 
+can read more [here](https://arxiv.org/pdf/1508.02312.pdf) and 
+more for lay readers [here](https://blbadger.github.io/3-body-problem.html)
+
 Remarkably, in 1912 Karl Fritiof Sundman proved there is a way to compute 
 the general solution to the gravitational 3-body problem. Unfortunately it is 
 totally impractical. In any case, the gravitational problem of most interest 
@@ -148,6 +152,55 @@ pedantic gripe, because Liu Cixin writes the correct realist reason the 30 milli
 soldier computer fails to predict the Trisolar orbits --- namely the Newtonian 
 dynamics model lacked general relativity corrections.
 
+Knowing this, you might ask why the classical three body problems to this day 
+still attracts some mathematicians? I cannot tell you why, except that 
+mathematicians are fond of torture.
+
+I imagine their response would be, "Sure, sure general relativity makes the 
+three body problem pure art, not science. But so what? Mathematics is *art*!"
+
+I happen to agree with this attitude. But you should know it is painful art. 
+One never knows when a piece will be finished, nor whether certain subjective 
+standards of elegance will be met. Often the aesthetics really suck. But the 
+humble mathematicians indulges in this tortuous art anyway. 
+
+Applied Mathematics is very different, for here one does seek utility in 
+physics or other sciences, and no one alive today working on the Newtonian 
+three body problem would be accused of being an applied mathematician.
+
+However... if someone ever di figure out an efficient algorithm for real-time 
+Newtonian dynamics, it is possible it might find a real world application. 
+But because solar system dynamics does require general relativity, it would 
+not be an application in astronomy or space travel... or I guess it could be 
+used for very short time-scale trajectory computations, where effects of 
+general relativity are negligible.
+
+Or normies: I cannot easily describe why general relativity turns astronomy 
+dynamics into a nightmare, you'll have to take it upon authority it does. 
+The equations for general relativity are so severely difficult to compute 
+that exact solutions are known only for truly incredibly symmetric spacetimes, 
+and they are... what?... less than a handful in number, and totally useless 
+for astronomical applications.
+
+Having said that, with enough computing power general relativistic systems, 
+like colliding black holes, can be pretty well simulated these days, so the 
+lesson there is with a gargantuan enough compute power, the classical three 
+body problem has about the same status as a general gravitational problem. 
+All of them are hard problems in real applications. 
+
+The astounding thing is that the Newtonian three body problem is so damn 
+hard! It should be a lot easier than a typical GR calculation, but in 
+computational algorithmic terms the problems are about the same. This is 
+typical for chaotic dynamics. If the system has any non-linearity, then,
+
+* the computations to solve the system numerically will be hard, 
+* they'll all be about as hard as each other for the same $N$.
+* The bigger $N$ the worse, exponentially so, so extremely frickin' harder.
+
+As the baby of all hard chaos dynamics problems, the three body problem has 
+a sort of mythic status. That is another reason why pure mathematicians might 
+like the problem. (By the way, the Trisolarians, like humans, would have known 
+this well before being capable of interstellar travel.)
 
 
 ## Remembrance of Earth's Past
@@ -289,7 +342,7 @@ do mean to refer to the real world.
 
 ${}^\dagger$Or, more extreme, the idea we do not have any choice in the 
 matter, since we have no free will (the idiocy of Sam Harris, 
-Robert Sapolsky and their like). ((First define "free will" for me bros!))
+Robert Sapolsky and their like). (First define "free will" for me bros!))
 
 It is a pervasive ideology, infecting popular culture and social discourse 
 everywhere, and it is ruinous for the chances of a decent civilization. 
@@ -308,9 +361,64 @@ TODO:
 * The concept in 3BP.
 * How it appears in the allegory fo modern political 
 economy. The hapless Turkey, the Foolish Disk Worlder.
-* The disanalogy of it, and why some allegories are made 
-to be motive to overcome the main problem.
+* The disanalogy of it, and why some allegories are 
+made to be motive to overcome the main problem.
 ```
+
+Maybe I should not waste space expanding on the Turkey and the Flat worlder 
+metaphors.  I think the better point to make is how this sets upo a false 
+dichotomy in the *Three Body* story. The viewpoint the reader is (supposedly) 
+drawn to is this binary option: either we are like Turkeys thinking the dawn 
+brings food every day, oblivious of the catastrophe of Thanks Giving; or we 
+are Flat Worlders oblivious some 3D entity is toying with our world as if we 
+were ants, meaning pretty oblivious of our cares and desires. 
+
+Whether you go all Nihilist and pomo, or Nietzsche, ion response may indicate 
+some political persuasion, but I think I am an optimist (talking about our 
+real world now) because I believe most ordinary people are capable of a more 
+enlightened world view. The one where human beings might seem insignificant, 
+but that we are nonetheless amazing creatures. As are any other aliens 
+civilization in our universe who are sentient and have developed science 
+and technology. 
+
+The big lie is that sentience is a total accident.
+
+I mean, why would you suppose we are accidents? Of course I know why, and I 
+maintain a physics and a philosophy blog where I write more about such topics. 
+But the short version would be we just cannot truly know, and yet we *could* 
+very likely be a remarkable species. Being small in the universe does not 
+equate with insignificance. (Isn't it a "very male" fallacy to consider size 
+to be of any importance? Hence, most likely dead wrong? 🤣)
+
+Size and mass are important for many things of course. But **(a)** get too 
+massive and you eventually become a useless sucky black hole. **(b)** when 
+size is not important is of most importance. In the spiritual realm *size* has 
+a completely different meaning to anything physical. In the abstract, being 
+a *spiritual giant* connotes great wisdom and compassion. In a physical world 
+where spiritual beings subsist, this sort of size truly does matter. I always 
+think of the output from mathematics and science to be inexorable companions 
+of spiritual maturation. 
+
+By this account (and you have no reason to think I am correct, but I'll state 
+it anyway) the greater a people are spiritually, the greater will be their 
+science. The greater will be many of their aspects. Greater in *both* 
+abstract spiritual and material advancement awesomeness. Moreover, in such wise 
+a tiny insignificant creature on a mundane living planet, might reach out to 
+the stars. IT will not be long in the grand scheme of things before human do 
+reach the stars. By then, the "insignificance" of any one human might, I 
+suppose, be regarded by fools as cause to think our lives have no cosmic 
+importance, but to the more sagacious and wise it can be true one puny life 
+has a lot of meaning, by virtue of its tiny insignificant contribution to the 
+whole.
+
+As I keep trying to remind some tentatively nihilist MMT friends who give up 
+on elections for government, no one votes seems to count, but in fact they 
+all do and that is the power of summation. Addition is a powerful thing.
+
+I say, give up on political parties --- they are anathema for a decent 
+society. But do not give up your vote.
+
+
 
 ## An Excellent Dialogue
 
@@ -320,8 +428,8 @@ She answers that it is not that physics does not exist, but that what we think
 is physics is wrong.
 
 I'm not sure of the spin the Netflix adaptation will have this, nor am I sure 
-if this remark will play out in the original novels, but it is a crux... for me at 
-least, worth writing about... and with my allegorical interpretation too.
+how this remark will play out in the original novels, but it is a crux... for 
+me at least, worth writing about... and with my allegorical interpretation too.
 
 Ye Wenjie likens scientists now to the Church of old, who thought Copernicus 
 as guilty of heresy, Bruno and d'Ascoli worth the stake, and Galileo worth 
