@@ -1,4 +1,4 @@
-<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>N-body Problems</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="N-body Problems"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/"><meta property="og:type" content="article"><meta property="article:published_time" content="2024-04-19"><meta property="article:modified_time" content="2024-04-19"><meta property="og:updated_time" content="2024-04-19"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebSite","@id":"https://smithwillsuffice.github.io/ohanga-pai/"},"headline":"N-body Problems","description":"","url":"https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/","inLanguage":"en","datePublished":"2024-04-19","dateModified":"2024-04-19","wordCount":"7367","publisher":{"@type":"Person","name":"Bijou M. Smith"},"author":{"@type":"Person","name":"Bijou M. Smith","description":"Random mathematician."}}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
+<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>N-body Problems</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="N-body Problems"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/"><meta property="og:type" content="article"><meta property="article:published_time" content="2024-04-19"><meta property="article:modified_time" content="2024-04-19"><meta property="og:updated_time" content="2024-04-19"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebSite","@id":"https://smithwillsuffice.github.io/ohanga-pai/"},"headline":"N-body Problems","description":"","url":"https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/","inLanguage":"en","datePublished":"2024-04-19","dateModified":"2024-04-19","wordCount":"8396","publisher":{"@type":"Person","name":"Bijou M. Smith"},"author":{"@type":"Person","name":"Bijou M. Smith","description":"Random mathematician."}}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
 <a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>N-body Problems</h1><p>Published on <time datetime=2024-04-19>2024-04-19</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#the-turkey-economists>The Turkey Economists</a><ul><li><a href=#farmer-versus-shooter-models>Farmer versus Shooter Models</a></li></ul></li><li><a href=#chaos-theory>Chaos Theory</a><ul><li><a href=#instability-versus-unpredictability>Instability versus Unpredictability</a></li><li><a href=#hard-scifi-gripes>Hard scifi Gripes?</a></li></ul></li><li><a href=#remembrance-of-earths-past>Remembrance of Earth&rsquo;s Past</a><ul><li><a href=#the-premise>The Premise</a></li></ul></li><li><a href=#harder-scifi>Harder scifi</a></li><li><a href=#the-farmer-and-the-shooter-hypotheses>The Farmer and the Shooter Hypotheses</a></li><li><a href=#an-excellent-dialogue>An Excellent Dialogue</a><ul><li><a href=#spoiler-1>Spoiler 1</a></li><li><a href=#technicomedies>Technicomedies</a></li></ul></li><li><a href=#suspended-judgment>Suspended Judgment</a></li><li><a href=#conformal-symmetry>Conformal Symmetry</a></li><li><a href=#redemptionists-versus-adventists>Redemptionists versus Adventists</a><ul><li><a href=#conflict-theory>Conflict Theory</a></li><li><a href=#nihilism>Nihilism</a></li><li><a href=#redemptionists>Redemptionists</a></li></ul></li><li><a href=#conclusion-----halfway-through>Conclusion &mdash; halfway through</a></li></ul></nav></details><h2 id=the-turkey-economists><a class=anchor href=#the-turkey-economists title='Anchor for: The Turkey Economists.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Turkey Economists</h2><p>Are our mainstream economists turkeys or flat-worlders?</p><h3 id=farmer-versus-shooter-models><a class=anchor href=#farmer-versus-shooter-models title='Anchor for: Farmer versus Shooter Models.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Farmer versus Shooter Models</h3><p>Change of pace from recent posts today. I revert like a child to hard scifi
 when depressed and unable to focus.
 <a href=https://en.wikipedia.org/wiki/The_Three-Body_Problem_%28novel%29 target=_blank>Three Body Problem</a>
@@ -16,7 +16,10 @@ that stable solutions to the gravitational three body problem
 <a href=https://link.springer.com/article/10.1007/s10569-023-10177-w target=_blank>have been discovered</a>
 ,
 but no one was expecting this to be possible. However, it is still true that
-general solutions are nearly impossible to compute.</p><p>Remarkably, in 1912 Karl Fritiof Sundman proved there is a way to compute
+general solutions are nearly impossible to compute.</p><p>When I write &ldquo;impossible to compute&rdquo; I have a technical result in mind, one
+can read more <a href=https://arxiv.org/pdf/1508.02312.pdf target=_blank>here</a>
+and
+more for lay readers <a href=https://blbadger.github.io/3-body-problem.html target=_blank>here</a></p><p>Remarkably, in 1912 Karl Fritiof Sundman proved there is a way to compute
 the general solution to the gravitational 3-body problem. Unfortunately it is
 totally impractical. In any case, the gravitational problem of most interest
 to us is for our solar system, which is what&mldr; a 1-body problem? That means
@@ -95,7 +98,35 @@ purpose computer. What I&rsquo;d have done is construct a single purpose 30 mill
 solider machine. Less prone to error, faster compute. However, this is truly a
 pedantic gripe, because Liu Cixin writes the correct realist reason the 30 million
 soldier computer fails to predict the Trisolar orbits &mdash; namely the Newtonian
-dynamics model lacked general relativity corrections.</p><h2 id=remembrance-of-earths-past><a class=anchor href=#remembrance-of-earths-past title='Anchor for: Remembrance of Earth&rsquo;s Past.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Remembrance of Earth&rsquo;s Past</h2><p>Whoa! Liu Cixin is no Proust. Although, to be fair, Proust is a little
+dynamics model lacked general relativity corrections.</p><p>Knowing this, you might ask why the classical three body problems to this day
+still attracts some mathematicians? I cannot tell you why, except that
+mathematicians are fond of torture.</p><p>I imagine their response would be, &ldquo;Sure, sure general relativity makes the
+three body problem pure art, not science. But so what? Mathematics is <em>art</em>!&rdquo;</p><p>I happen to agree with this attitude. But you should know it is painful art.
+One never knows when a piece will be finished, nor whether certain subjective
+standards of elegance will be met. Often the aesthetics really suck. But the
+humble mathematicians indulges in this tortuous art anyway.</p><p>Applied Mathematics is very different, for here one does seek utility in
+physics or other sciences, and no one alive today working on the Newtonian
+three body problem would be accused of being an applied mathematician.</p><p>However&mldr; if someone ever di figure out an efficient algorithm for real-time
+Newtonian dynamics, it is possible it might find a real world application.
+But because solar system dynamics does require general relativity, it would
+not be an application in astronomy or space travel&mldr; or I guess it could be
+used for very short time-scale trajectory computations, where effects of
+general relativity are negligible.</p><p>Or normies: I cannot easily describe why general relativity turns astronomy
+dynamics into a nightmare, you&rsquo;ll have to take it upon authority it does.
+The equations for general relativity are so severely difficult to compute
+that exact solutions are known only for truly incredibly symmetric spacetimes,
+and they are&mldr; what?&mldr; less than a handful in number, and totally useless
+for astronomical applications.</p><p>Having said that, with enough computing power general relativistic systems,
+like colliding black holes, can be pretty well simulated these days, so the
+lesson there is with a gargantuan enough compute power, the classical three
+body problem has about the same status as a general gravitational problem.
+All of them are hard problems in real applications.</p><p>The astounding thing is that the Newtonian three body problem is so damn
+hard! It should be a lot easier than a typical GR calculation, but in
+computational algorithmic terms the problems are about the same. This is
+typical for chaotic dynamics. If the system has any non-linearity, then,</p><ul><li>the computations to solve the system numerically will be hard,</li><li>they&rsquo;ll all be about as hard as each other for the same $N$.</li><li>The bigger $N$ the worse, exponentially so, so extremely frickin&rsquo; harder.</li></ul><p>As the baby of all hard chaos dynamics problems, the three body problem has
+a sort of mythic status. That is another reason why pure mathematicians might
+like the problem. (By the way, the Trisolarians, like humans, would have known
+this well before being capable of interstellar travel.)</p><h2 id=remembrance-of-earths-past><a class=anchor href=#remembrance-of-earths-past title='Anchor for: Remembrance of Earth&rsquo;s Past.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Remembrance of Earth&rsquo;s Past</h2><p>Whoa! Liu Cixin is no Proust. Although, to be fair, Proust is a little
 over-rated. I loved reading <em>À la Recherche du Temps Perdu</em> when I was a
 teenager, but when I matured I better understood why the Monte Python skit is
 even funnier than it first appears. The Proustian romance and pathos is one
@@ -182,7 +213,7 @@ so forth. I will not belabour the whole blackpill nihilist thesis, there are
 too many varieties, I&rsquo;m just sketching the cartoon of the idea. However, I
 do mean to refer to the real world.</p><p>${}^\dagger$Or, more extreme, the idea we do not have any choice in the
 matter, since we have no free will (the idiocy of Sam Harris,
-Robert Sapolsky and their like). ((First define &ldquo;free will&rdquo; for me bros!))</p><p>It is a pervasive ideology, infecting popular culture and social discourse
+Robert Sapolsky and their like). (First define &ldquo;free will&rdquo; for me bros!))</p><p>It is a pervasive ideology, infecting popular culture and social discourse
 everywhere, and it is ruinous for the chances of a decent civilization.
 However, unlike nihilists, I believe humanity has the collective capacity to
 overcome this narrow dystopian world view. Call me an optimist, a hopeless
@@ -193,14 +224,51 @@ is also not the topic of this article today.</p><h2 id=the-farmer-and-the-shoote
 * The concept in 3BP.
 * How it appears in the allegory fo modern political 
 economy. The hapless Turkey, the Foolish Disk Worlder.
-* The disanalogy of it, and why some allegories are made 
-to be motive to overcome the main problem.
-</code></pre><h2 id=an-excellent-dialogue><a class=anchor href=#an-excellent-dialogue title='Anchor for: An Excellent Dialogue.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>An Excellent Dialogue</h2><p>About half way in to <em>Three Body Problem</em> the protagonist Wang Miao asks
+* The disanalogy of it, and why some allegories are 
+made to be motive to overcome the main problem.
+</code></pre><p>Maybe I should not waste space expanding on the Turkey and the Flat worlder
+metaphors. I think the better point to make is how this sets upo a false
+dichotomy in the <em>Three Body</em> story. The viewpoint the reader is (supposedly)
+drawn to is this binary option: either we are like Turkeys thinking the dawn
+brings food every day, oblivious of the catastrophe of Thanks Giving; or we
+are Flat Worlders oblivious some 3D entity is toying with our world as if we
+were ants, meaning pretty oblivious of our cares and desires.</p><p>Whether you go all Nihilist and pomo, or Nietzsche, ion response may indicate
+some political persuasion, but I think I am an optimist (talking about our
+real world now) because I believe most ordinary people are capable of a more
+enlightened world view. The one where human beings might seem insignificant,
+but that we are nonetheless amazing creatures. As are any other aliens
+civilization in our universe who are sentient and have developed science
+and technology.</p><p>The big lie is that sentience is a total accident.</p><p>I mean, why would you suppose we are accidents? Of course I know why, and I
+maintain a physics and a philosophy blog where I write more about such topics.
+But the short version would be we just cannot truly know, and yet we <em>could</em>
+very likely be a remarkable species. Being small in the universe does not
+equate with insignificance. (Isn&rsquo;t it a &ldquo;very male&rdquo; fallacy to consider size
+to be of any importance? Hence, most likely dead wrong? 🤣)</p><p>Size and mass are important for many things of course. But <strong>(a)</strong> get too
+massive and you eventually become a useless sucky black hole. <strong>(b)</strong> when
+size is not important is of most importance. In the spiritual realm <em>size</em> has
+a completely different meaning to anything physical. In the abstract, being
+a <em>spiritual giant</em> connotes great wisdom and compassion. In a physical world
+where spiritual beings subsist, this sort of size truly does matter. I always
+think of the output from mathematics and science to be inexorable companions
+of spiritual maturation.</p><p>By this account (and you have no reason to think I am correct, but I&rsquo;ll state
+it anyway) the greater a people are spiritually, the greater will be their
+science. The greater will be many of their aspects. Greater in <em>both</em>
+abstract spiritual and material advancement awesomeness. Moreover, in such wise
+a tiny insignificant creature on a mundane living planet, might reach out to
+the stars. IT will not be long in the grand scheme of things before human do
+reach the stars. By then, the &ldquo;insignificance&rdquo; of any one human might, I
+suppose, be regarded by fools as cause to think our lives have no cosmic
+importance, but to the more sagacious and wise it can be true one puny life
+has a lot of meaning, by virtue of its tiny insignificant contribution to the
+whole.</p><p>As I keep trying to remind some tentatively nihilist MMT friends who give up
+on elections for government, no one votes seems to count, but in fact they
+all do and that is the power of summation. Addition is a powerful thing.</p><p>I say, give up on political parties &mdash; they are anathema for a decent
+society. But do not give up your vote.</p><h2 id=an-excellent-dialogue><a class=anchor href=#an-excellent-dialogue title='Anchor for: An Excellent Dialogue.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>An Excellent Dialogue</h2><p>About half way in to <em>Three Body Problem</em> the protagonist Wang Miao asks
 the venerable and gentle Dr Ye Wenjie about &ldquo;physics does not exist&rdquo;.
 She answers that it is not that physics does not exist, but that what we think
 is physics is wrong.</p><p>I&rsquo;m not sure of the spin the Netflix adaptation will have this, nor am I sure
-if this remark will play out in the original novels, but it is a crux&mldr; for me at
-least, worth writing about&mldr; and with my allegorical interpretation too.</p><p>Ye Wenjie likens scientists now to the Church of old, who thought Copernicus
+how this remark will play out in the original novels, but it is a crux&mldr; for
+me at least, worth writing about&mldr; and with my allegorical interpretation too.</p><p>Ye Wenjie likens scientists now to the Church of old, who thought Copernicus
 as guilty of heresy, Bruno and d&rsquo;Ascoli worth the stake, and Galileo worth
 the Spanish Inquisition. Or she says, &ldquo;Maybe we are like the Church.&rdquo; Meaning
 with respect to today&rsquo;s scientific apostates.</p><p>It is a lot less dramatic for physics these days though, than it is for
