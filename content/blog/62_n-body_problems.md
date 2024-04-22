@@ -407,6 +407,36 @@ where spiritual beings subsist, this sort of size truly does matter. I always
 think of the output from mathematics and science to be inexorable companions 
 of spiritual maturation. 
 
+Another thing worth mentioning --- the eco-extremists. I've never found the 
+extreme animal rights and eco-extremist people to be very spiritual. They, 
+like the *Three Body* character Dr Ye Weinjie, and the even more extreme 
+Mike Evans and Pan Han characters, have a jaundiced view of humanity. I lump 
+them (rightly or wrongly) in the same category as Agent Smith in *The Matrix*. 
+It'd be sad if Liu Cixin was among them, (is he?).  Half-way through the book 
+it looks possible Ye Wenjie will turn to more compassion for humanity. (I guess 
+it is nice for my depression that I am immersed enough in the book to care for 
+her character!)
+
+((Also, I wonder which character is Liu Cixin identifying with as author? Not 
+that we need to care, but is it Ye Wenjie or Wang Maio --- or the Trisolarian! 
+that'd be funny! 🤣  It is starting to become that sort of story where I care 
+about the author's views, which is a bad sign. A sign of a poor writer. If it 
+goes all full Authoritarian Big Daddy mode on us, I doubt I'll get to the 2nd 
+and 3rd books. Having Mums and Dads is great. But it does not scale. I am 
+pretty much now locked-in against solution by authoritarian rule.... even if 
+it frickin' worked!))
+
+The plot problem is really about how an individual's bitter experience can 
+lead them to think of all of humanity as evil and irredeemable. It's an 
+incredibly childish ans self-centred attitude. The truth is, and I think 
+most people are like this, we can save th animals, save the biosphere, and 
+also love humanity. These are not contradictory or mutually exclusive 
+options. To think otherwise is an imbecilic rotten apple fallacy.
+
+I'd go further: the human species is not a cancer or plague, we are a natural 
+outcome of life on Earth. So maybe have a little compassion for us too, as 
+well as the swallows? 
+
 By this account (and you have no reason to think I am correct, but I'll state 
 it anyway) the greater a people are spiritually, the greater will be their 
 science. The greater will be many of their aspects. Greater in *both* 
