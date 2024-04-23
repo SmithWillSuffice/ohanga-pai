@@ -72,7 +72,7 @@ where planets will be exactly in a thousand years compared to next year.
 We'd need much more than a thousand times as much precision data.
 
 In the 1960's the meteorologist Edward Lorenz showed the same for a very simple 
-model of "weather" (fliud convection). Eventually some heterodox economists 
+model of "weather" (fluid convection). Eventually some heterodox economists 
 caught on to this, and realized economic systems were far from equilibrium too
 (will wonders never cease), 
 and inherently chaotic. The folks at the Sante Fe Institute were leaders in 
@@ -1102,11 +1102,12 @@ and they seemed to me to have a bit of a "humans are stupid" and
 **Spoiler:**  
 The fun stuff blogging about scifi in real-time. How are the Trisolarians 
 using two protons to "shut down human science"? I am guessing it'll be 
-entanglement, so quantum teleportation. It's scifi because you cannot exploit 
-teleportation without first going to the other end of your entangled system at 
-conventional sub-luminal speed. I guess the 7-dimensional string theory space, 
-the Calabi-Yau manifold, will come into play too, but I cannot see how that 
-swings the plot to permit a disruption of human science over 400 years! 
+entanglement, so quantum teleportation. It's soft scifi because you cannot 
+exploit teleportation without first going to the other end of your entangled 
+system at conventional sub-luminal speed. I guess the 7-dimensional string 
+theory space, the Calabi-Yau manifold, will come into play too, but I cannot 
+see how that swings the plot to permit a disruption of human science over 
+400 years! 
 
 Trouble is, for a physicist, this is enough of a carrot to keep you reading a 
 bad novel.

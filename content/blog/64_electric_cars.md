@@ -88,6 +88,36 @@ put Its resources to use for public purpose. That's called the state hiring
 the unemployed resources it just created by imposing the tax, eliminating 
 the unemployment It generated.
 
+
+### An Observation on Bullsh$\ast$ Jobs
+
+People will often complain about how idealistic youth are desire a "greener"
+economy. A typical reaction might be, "You can't just have free range 
+chickens,big farming must grow the food or millions starve, so just be 
+realistic."
+
+"Be realistic". Fine words. But all too often I worry they conceal total 
+lack of imagination. In such cases it really is heterological. (Chickens is 
+just one of many examples.)  Bullsh$\ast$t jobs are both another example, and 
+the general case for a solution.
+
+People (I mean neoliberals) might, for instance, complain: Well, we cannot 
+just eliminate bullsh$\ast$t jobs, what else would people do?"
+
+The answer is, raise free range chickens of course! 
+
+There is no end of good things people can do which are not getting done. There 
+are about 40% of wasted human lives living in bullsh$\ast$t jobs who could be 
+doing those good things, and another 20% of people who are able to work can
+willing who cannot find employment. You do the math.
+
+How can we eliminate all unemployment and all bullsh$\ast$t jobs? 
+Fill up an infinitesimal fraction of the endless list of jobs people could 
+be doig which are not getting done.
+
+Hilbert the Roosters Hotel. (Is what I am calling it.)
+
+
 ## Wrecking the Power Grid?
 
 One argument against mass conversion to electric vehicles is the 
