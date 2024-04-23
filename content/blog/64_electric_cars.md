@@ -59,12 +59,34 @@ Either by contracting or subsidy. The idea here would be to have decent
 oversight, so there is no free corporate welfare or cronyism. The subsidies, 
 or contracts, need to be for public purpose, not private profit. The private 
 owner of the contracted companies should be held accountable to the public, 
-and use of Limited Liability legislation has to have a quid pro quo: which is 
-a democratic workplace for any company seeking government contracts or 
+and use of Limited Liability legislation has to have a quid pro quo: 
+which is a democratic workplace for any company seeking government 
+contracts or 
 subsidies.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neoliberal/libertarian governments will 
 never do any of this. We gotta get rid of them somehow.
 
+Another comment was necessary:
+> @2:30 this is madness. You have not done the research Sabine, or are 
+parroting macroeconomic ignorance. The private sector cannot create currency. 
+It'd be illegal (counterfeit). (They could spend what they hoarded, but good 
+luck getting the capitalists to release their hoards of bank scorepoints for 
+public purpose.) Banks can issue credit which can circulate for a while, but 
+in all nations outside the EMU the government is the sole source of fresh 
+currency, and by keystrokes. No tax-payer is needed. Tax payments are a 
+redemption operation, driving _demand_ for the currency, not a funding 
+operation.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The private sector *_can_* supply the 
+needed *_real resources_* --- workers primarily, and whatever equipment the 
+corporates own, they can always be contracted for public purpose use, at a 
+fair price, hence no inflation. If they ask a higher price the government 
+can choose to tax them --- but not the "get the money" rather to release the 
+real resources. (That's the purpose of a tax, to move *_real_* resources from 
+the private sector into the public sector.) The government immediately issues 
+the currency that is needed to pay the tax once the corporation is willing to 
+put Its resources to use for public purpose. That's called the state hiring 
+the unemployed resources it just created by imposing the tax, eliminating 
+the unemployment It generated.
 
 ## Wrecking the Power Grid?
 
@@ -89,6 +111,12 @@ Hossenfelder scare-mongers about this being diabolically hard to impossible.
 But any MMT understanding would say it could be easy. If the problem is not 
 insufficient real resources, then it is not an economic nor monetary 
 problem, it is a political problem.
+
+What if you *en masse* in your country just don't like public transport? 
+For you Lithuanians, private electric transition the estimate is that the 
+USA and Europe would need to double investment to upgrade the grid 
+to allow private electric vehicle infrastructure. Probably the same for 
+Lithuanian then. But... oh no, what tax payers will want to fund this? 🤣
 
 Maybe the real resources for 25% extension of the electric grid are 
 insufficient at present for a 10 year extension, but we do have the 
@@ -117,6 +145,10 @@ higher energy consuming. This is what normies and neoliberals just do not
 understand. Libertarians are worse, they think lock-downs are evil. They'd 
 be right if the purpose was to cause mass unemployment. So we should not 
 make this the purpose.
+
+((NB: I'd have to consider myself a normie if I had not bothered to 
+understand MMT. Being a mathematical physicist is not a ticket out 
+of normiehood. ))
 
 Employing people for public good purpose is of course not a lock-down. 
 What to call the policy? I do not have a fancy phrase. But the idea is to 
