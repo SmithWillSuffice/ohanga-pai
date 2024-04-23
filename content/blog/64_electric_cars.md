@@ -1,5 +1,5 @@
 ---
-title: "DNoeoelectric Cars"
+title: "Noeoelectric Cars"
 weight: 65
 date: 2024-04-22
 draft: false
@@ -22,7 +22,10 @@ I wanted to do was to address the "enormous costs" scare-mongering.
 Not a typo. It's a *word blende* I'm inventing, something like a mix of 
 "no electic", "neo-electric" and "noosphere" (the latter a Teilhard de Chardin concept for collective growing up y'all). 
 
-((Also, I prefer "word blende" to "word blend", the latter reminds me too much of the, "But will it blend?" guy, who is too hilarious.))
+((Also, I prefer "word blende" to "word blend", the latter reminds me too much of the, 
+[“But will it blend?”](https://www.youtube.com/watch?v=4P4_JM0RGGE&pp=ygURYnV0IHdpbGwgaXQgYmxlbmQ%3D) guy, who is too 
+freakin' hilarious. A hidden comedic talent of, "how come your 
+channel doesn't have a million subscribers," worthiness.))
 
 Hossenfelder does the same hysteria when speaking about big physics.  Not 
 that she is wrong entirely, the real resource cost is fairly large, but 
@@ -80,23 +83,110 @@ electric power generation for public transport has to be capacity we build.
 It'll likely not work logistically or politically to sequester existing 
 power utility output for mass public transport.
 
+The IEA estimate is the electric grid (in a nation) needs to expand about 
+25% faster in the next decade than it did in the previous decade. 
+Hossenfelder scare-mongers about this being diabolically hard to impossible. 
+But any MMT understanding would say it could be easy. If the problem is not 
+insufficient real resources, then it is not an economic nor monetary 
+problem, it is a political problem.
+
+Maybe the real resources for 25% extension of the electric grid are 
+insufficient at present for a 10 year extension, but we do have the 
+resources. the problem is the rate of build. If that is the real constraint, 
+then "obviously" governments will need to apply other measures, like 
+rationing existing electricity, or employing alternative public transport 
+systems in a transition period. Burn more fossil to eliminate fossil.
+
+That is to say, eliminate oil for transport. We cannot eliminate oil for 
+vital chemical industries... without going a little bit luddite. Not that 
+I'm opposed to a bit of luddite return to "nature", I just cannot muster 
+up extremist alarmism about it. Sorry. Why not? Because I do not think it 
+is necessary. 
+
+Here I am firmly in the Warren Mosler camp of environmentalism. We can 
+easily reduce and cut-back on non-essentials, without giving up Netflix, 
+golf and hamburgers. There are sooo many bullsh$\ast$t job workers no one 
+needs, and so much consumer crap no one seriously needs. We need to learn to 
+give up such wasteful banalities. I do not think it requires extreme luddite 
+tendency. From the Mosler camp, we'd use the COVID pandemic lock-downs as 
+illustrative. It cleared the pollution, in a matter of weeks, in major 
+cities. No one died as a result of *that*, and the lesson is, we can have 
+consumer lock-downs by volunteer, provided government employs people in 
+non-bullsh$\ast$t work for public good purpose. Such jobs do not have to be 
+higher energy consuming. This is what normies and neoliberals just do not 
+understand. Libertarians are worse, they think lock-downs are evil. They'd 
+be right if the purpose was to cause mass unemployment. So we should not 
+make this the purpose.
+
+Employing people for public good purpose is of course not a lock-down. 
+What to call the policy? I do not have a fancy phrase. But the idea is to 
+give workers a simple choice. Just publish the data showing the industries 
+that are the major polluters, and those which produce non-essentials. Then 
+give the workers the choice to quit their jobs, and work instead for the 
+public purpose. Give people the choice.
+
+Just think about it at least, you politicians. Maybe fast-food will 
+survive?  Cooking up hamburgers and fries is energy intensive, but we 
+have to eat to survive, and a fast-food join with scale can produce more 
+burgers with less overall energy than a household, probably. The massive 
+energy wasters are elsewhere, I am almost certain. Server farms doing 
+nothing but advertising. Tax attorneys trying to defeat the tax code. 
+Server farms grinding out useless computations for driving
+crypto(non)currency. The proliferation of wild west artificial neural 
+net scams and data mining for-profit and scamming. Lot;s of low hanging 
+rotten fruit we can cull, terrwatts of bullsh$\ast$t work.
+
+I don't think cattle farmers are the evil guys.
+
+Back to the question of using real resources for sustainable energy 
+generation transition...
+
 Sadly too, I think this is a political issue, not a real resource 
 constraint. Politicians cannot lift a finger to vote for mass electrified 
 public transport until the greater majority of the public are content to 
 ditch their private transport vehicles. Almost makes one wish for a 
 benevolent 
-[]Authoritarian overlord](../62_n-body_problems)! 🤣
+[Authoritarian overlord](../62_n-body_problems)! 🤣
+
+
+## Democracy is Pain to 11
+
+On that latter point. One might be moved to be half-serious. 
+I'm not one of them. It's worth the pain. Just my opinion.
+
+You could argue millions fewer would die under a benign authoritarian 
+rule, but the trouble is I just think benevolent authoritarianism is 
+psychologically impossible. People with that much power are corrupt.
+
+To be non-corrupt, "the people" have to grant monopoly power to a body, 
+and have the power to remove that power, preferably not invested in one 
+person either. But then that looks a lot like a democracy, and all the 
+hurt that comes with it. 
+
+If we could engineer a benevolent overlord, then I might say, 
+reluctantly, "ok, fine, you got me." I just think it's not possible, so 
+why waste the effort to try such political engineering? I can see it doing 
+a lot of harm in the effort, because it invites zealotry. You know *that* 
+never works out well, the Zionist project was such a thing. Like 
+South African Apartheid, both engineered social systems. Both backed by 
+the idea one type of people, defined by birth, knows best.
+
+It is not that benevolent authoritarianism is pain less than 9, but that 
+in attempting to engineer such a social system the pain would go to 22.
+With no guarantee of dropping back to 9. Just my guess. God help us in not 
+having to live it to prove me right.
+
 
  
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../62_n-body_problems">Previous chapter</a></td>
+<a href="../63_debt_todos">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
@@ -104,7 +194,7 @@ benevolent
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../62_n-body_problems">N-body Problems</a></td>
+<a href="../63_debt_todos">Debt Todos</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
