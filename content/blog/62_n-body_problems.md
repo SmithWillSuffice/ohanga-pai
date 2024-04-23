@@ -359,9 +359,9 @@ is also not the topic of this article today.
 ```
 TODO:
 * The concept in 3BP.
-* How it appears in the allegory fo modern political 
+* How it appears in the allegory of modern political 
 economy. The hapless Turkey, the Foolish Disk Worlder.
-* The disanalogy of it, and why some allegories are 
+* The dis-analogy of it, and why some allegories are 
 made to be motive to overcome the main problem.
 ```
 
@@ -457,7 +457,6 @@ I say, give up on political parties --- they are anathema for a decent
 society. But do not give up your vote.
 
 
-
 ## An Excellent Dialogue
 
 About half way in to *Three Body Problem* the protagonist Wang Miao asks
@@ -465,7 +464,7 @@ the venerable and gentle Dr Ye Wenjie about "physics does not exist".
 She answers that it is not that physics does not exist, but that what we think 
 is physics is wrong.
 
-I'm not sure of the spin the Netflix adaptation will have this, nor am I sure 
+I'm not sure of the spin the Netflix adaptation will have on this, nor am I sure 
 how this remark will play out in the original novels, but it is a crux... for 
 me at least, worth writing about... and with my allegorical interpretation too.
 
@@ -506,7 +505,7 @@ If people can learn spiritual principles are more important even than ecology,
 then there is hope of avoiding catastrophe. I know it is a hard ask for a 
 realist, even harder for a dumb-dumb materialist, but you've got to ask.
 
-((At this point through reading 3BOP, I am certianly worried (for my 
+((At this point through reading 3BP, I am certainly worried (for my 
 entertainment pleasure) that Liu Cixin might head towards blackpill 
 nihilism. I hope that's not the case. Getting immersed into a story 
 is a wonderful form of entertainment, but if the bubble is shattered it's 
@@ -534,6 +533,80 @@ lucky Stephanie Kelton has not yet been burned at the metaphorical stake.
 You could say Steve Keen was the one burned at the stake, but like you'd 
 expect for an Aussie, he survived the ordeal and only increased his cuss word 
 frequency.
+
+
+### Blackpill versus Pomo
+
+About the pill colours. They come from the red-pill/blue-=pill choice in *The Matrix*. I use "blackpill" almost synonymously with nihilism, thought they are not the same.
+
+From the [online Britannica encyclopedia](https://www.britannica.com/topic/red-pill-and-blue-pill#ref1318063):
+> The manosphere generally refers to a vast network of websites and blogs 
+frequented by online misogynist groups, including men’s rights activists 
+(MRAs), pick-up artists (PUAs), Men Going Their Own Way (MGTOW), and incels. 
+Many of these groups consider taking the red pill as a key tenet of their 
+journeys and a necessary jumping-off point for these various ideologies. In 
+the manosphere, redpilling refers to embracing the idea that men’s unhappiness 
+and lack of sexual success is the fault of women and feminists. Men who do not 
+accept this reality are referred to as bluepilled.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The red pill functions similarly in the 
+so-called “manosphere.” The manosphere generally refers to a vast network of 
+websites and blogs frequented by online misogynist groups, including men’s 
+rights activists (MRAs), pick-up artists (PUAs), Men Going Their Own Way 
+(MGTOW), and incels. Many of these groups consider taking the red pill as a 
+key tenet of their journeys and a necessary jumping-off point for these 
+various ideologies. In the manosphere, redpilling refers to embracing the idea 
+that men’s unhappiness and lack of sexual success is the fault of women 
+and feminists. Men who do not accept this reality are referred to as 
+bluepilled.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Other colors of the pills have also emerged in the manosphere. The term 
+black pill, first popularized in the 2010s on the incel blog Omega Virgin 
+Revolt, refers to accepting the futility of fighting against a feminist 
+system. Blackpilled incels are encouraged to either commit suicide or 
+“go ER”/be a “hERo,” referencing Elliot Rodger’s 2014 Isla Vista murder 
+spree that has been called an act of misogynistic terrorism.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anarchist podcaster and writer Michael 
+Malice has promoted the idea of the white pill, which expresses hope for a 
+better political future. Less common references include the pink pill, 
+purple pill, and green pill. In recent years the idea of “-pilling” has 
+become a more mainstream online joke and a self-deprecating, ironic way to 
+describe becoming interested in or influenced by something.Other colors of 
+the pills have also emerged in the manosphere. The term black pill, first 
+popularized in the 2010s on the incel blog Omega Virgin Revolt, refers to 
+accepting the futility of fighting against a feminist system. Blackpilled 
+incels are encouraged to either commit suicide or “go ER”/be a “hERo,” 
+referencing Elliot Rodger’s 2014 Isla Vista murder spree that has been 
+called an act of misogynistic terrorism.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anarchist podcaster and writer Michael 
+Malice has promoted the idea of the white pill, which expresses hope for a 
+better political future... In recent years the idea of “-pilling” has become 
+a more mainstream online joke and a self-deprecating, ironic way to describe 
+becoming interested in or influenced by something.
+
+Whoa! That's all nasty stuff. I felt the need to acknowledge this lexicon, 
+because my more casual use of "blackpill" refers merely to 
+*general hopelessness* and lack of hope for humanity generally, and my usage 
+has nothing to do with misogyny. The point to "pilling" is that it is a 
+conscious free willed *choice*. 
+
+My other point is that if we sanely examine the evidence for and against 
+humanity, there is no reason to become nihilistic. Humans do good things and 
+bad things.  We do not have to solve the three body problem for redemption. 
+We only need to treat each other with kindness and forgiveness, but the other 
+side to Justice is to not allow people who wish to do harm to harm others. 
+In other words, becoming a more spiritual person is a process, one that cannot 
+be perfected, but which can be acquired in ever greater measure, and one 
+measure is not to sit idly by while other people inflict needless harm upon 
+others. But also, not to be a dick about this and go all fascist and 
+over-protective of your ideals or children. Kindness and love cannot be imposed 
+by external force. The greater force comes from within, and --- call me a 
+wide-eyed optimist --- everyone has such capacity. We need to help each 
+other exercise such inner force.
+
+The thing is, this is easy to do. Patience and forbearance are arts for 
+sure, but being able to roughly doodle in this form of art does wonders, you 
+don't need to be a compassion and mercy Rembrandt to do a lot of good in the 
+world.
 
 
 ### Spoiler 1
@@ -941,6 +1014,38 @@ since aren't neoclassicals the big boosters of the dynamo of capitalism?'
 Listen you guys, a dynamo that can only swirl about and equilibrium is no 
 creative thing.  You shouldn''t want neoclassical economics even if it were 
 true.
+
+
+### Authorial Insertion
+
+About two-third the way through the first book. I find myself caring about 
+the author now, which is a bad sign for enjoying the story. I don't want the 
+story going down the paternal Alien overlord route. Not only is it sucky 
+scifi, it starts to seem like betraying the author's motives.
+
+**Spoiler:**  
+It is quite an audacious piece of writing to have the main character, 
+Ye Wenjie, push a button on the microwave transmitter to send a message 
+of "Come please rule over us!" just after reading the first ever alien 
+contact message: "Please do not communicate! I'm a pacifist among my people 
+and we will invade you. Please to not communicate!"
+
+Cixin tries to motivate this via an alienation among humans, and the 
+loneliness of Ye Wenjie. But I find that character sketch unbelievable. A real 
+life Ye Wenjie would probably not betray the entire human race like that!
+The plot seem far more symptomatic of Liu Cixin's pessimism than of a good 
+well written story. I know I'm only reading a translation... but still!!
+
+Let me emphasize, it is not a bad scifi fantasy to read, it gives me this 
+grist to write! I just wish it were not so cringe.
+
+I'll tell you one of the arts of genius writing: you don't need a terrific 
+vocabulary nor amazing descriptive prowess, but you do need sympathy for your 
+reader. (Unless you are James Joyce --- genius by an entirely other means, 
+so genius I can't get through one of his books, I'd rather spend time 
+reading mathematical physics. 🤣)
+
+
 
 
 
