@@ -47,7 +47,7 @@ more for lay readers [here](https://blbadger.github.io/3-body-problem.html)
 Remarkably, in 1912 Karl Fritiof Sundman proved there is a way to compute 
 the general solution to the gravitational 3-body problem. Unfortunately it is 
 totally impractical. In any case, the gravitational problem of most interest 
-to us is for our solar system, which is what... a 1-body problem? That means 
+to us is for our solar system, which is what... a 10-body problem? That means 
 ignoring the moons of planets and the asteroid belt. So you might be surprised 
 that in the real world solar systems are fairly stable even though mathematics 
 says they should not be stable. The resolution is found in knowing the time 
@@ -60,7 +60,7 @@ Again, that's because they are operating with time scales far shorter than
 that of the orbits of the planets and moons.
 
 Also, to emphasize the point: instability and predictability are totally 
-different concepts. Our solar system is both (like), it is for sure 
+different concepts. Our solar system is both, it is for sure 
 unpredictable, but might also be unstable. However this matter little to 
 human space explorers because the time over which planetary motions get 
 unpredictable is on the order of years or maybe centuries (I am not exactly 
@@ -72,7 +72,7 @@ where planets will be exactly in a thousand years compared to next year.
 We'd need much more than a thousand times as much precision data.
 
 In the 1960's the meteorologist Edward Lorenz showed the same for a very simple 
-model of "weather" (fLiud convection). Eventually some heterodox economists 
+model of "weather" (fliud convection). Eventually some heterodox economists 
 caught on to this, and realized economic systems were far from equilibrium too
 (will wonders never cease), 
 and inherently chaotic. The folks at the Sante Fe Institute were leaders in 
@@ -1047,16 +1047,91 @@ reading mathematical physics. 🤣)
 
 
 
+### The Crud of Advanced Aliens
+
+It's the same trouble with superheros. If you do not build-in flaws and 
+fallibility, then your advanced alien species that regards humans as puny 
+insects is an unbelievable story. Lower than soft scifi, it becomes just 
+fantasy novel. I have no time for reading fantasy novels.
+
+The Trisolarians have no need to invade the Earth. They'd be a spiritual 
+species. To write the story as if they want to wipe out humanity because to 
+them we are insects is thoroughly unbelievable, and it seriously gives me the 
+urge to quit reading the book. It's Liu Cixin now who needs to redeem himself.
+I hate it when books turn this way onto the author's view. But in this case, 
+it is so bad, 'cos I *wanted* it to be harder scifi, so what am I gonna do? 
+(I know, I know, I should not *want* so much.)
+
+Such superpower stories lean on the fallacy I mentioned previously: namely 
+that social hierarchy scales to sentient species hierarchy.
+ 
+Wrong!  So badly wrong. It cannot scale. 
+
+Once a civilization is at a human level of advancement, it is capable of 
+regarding and recognizing other intelligent species as worthy of giving care. 
+It is not even that it is irrational not to assume a higher 
+species would recognize a lesser sentient species, but that the spiritual 
+faculty we know we all have would be somehow less advanced in the powerful 
+alien species?  Why would that be so? The far more realistic case would be 
+the opposite. They'd be more peaceful and spiritual than us, not less, and by 
+a long way.
+
+Pre-21st Century Scifi writers are not "getting" this. I mean, the whole 
+dystopian thing and space war thing is a terrible prejudice of our times. 
+*Star Wars* is literally children's entertainment fodder. Yeah, I loved 
+*Star Wars* as a kid, it was our generation's *The Matrix*. But a grown-up can 
+be a little more mature and learn to respect more serious scifi space opera, 
+which is incredibly rare, and so all the more delicious when found. 
+
+Even the *Red Mars* series by Kim Stanley Robinson was a bit too militaristic 
+for my taste. OK, it was clearly allegory and *cautionary tale* but it still 
+could have been more spiritual. To write of the future in a spiritual way is 
+tough, I "get" that! But I wish more scifi authors would try.
+
+It is a greater art to write tension and intrigue without childish baby 
+militarism. But let's face it, humanity is at an adolescent stage in history, 
+so most people cannot see what the adult futuristic scifi could be. If I wrote 
+the novel of this kind it would likely flop. Maybe Ursula LeGuin wrote a few 
+of the kind I would admire, but so far I've only read a couple of her books, 
+and they seemed to me to have a bit of a "humans are stupid" and 
+"war is inevitable" vibe to them too.
 
 
-## Conclusion --- halfway through
+## Two Proton Theory
+
+**Spoiler:**  
+The fun stuff blogging about scifi in real-time. How are the Trisolarians 
+using two protons to "shut down human science"? I am guessing it'll be 
+entanglement, so quantum teleportation. It's scifi because you cannot exploit 
+teleportation without first going to the other end of your entangled system at 
+conventional sub-luminal speed. I guess the 7-dimensional string theory space, 
+the Calabi-Yau manifold, will come into play too, but I cannot see how that 
+swings the plot to permit a disruption of human science over 400 years! 
+
+Trouble is, for a physicist, this is enough of a carrot to keep you reading a 
+bad novel.
+
+
+## Preliminary --- 90% through
 
 I think *The Expanse* is the 2020's best scifi on the small screen so far.
 
-I tolerated a few others, there was a German and a British series, 
-"Dark something", I forge the other, one was a dual world, the other was a 
-nuclear facility turned time travel portal (the German one). They were 
-watchable.
+I often stray in my thoughts to think about why, and it was not because it 
+was militaristic, nor great literature. The answer, for me, is that 
+*The Expanse* had the heroes and heroine's, and collective insanity 
+(the Martian faction) but overall it portrayed humans as decent, united when 
+they realized they needed to be, and it this was good. But also it was a 
+detective story which stayed true to the genre to the end. *SciFi* was 
+essentially (or at least subjectively to me) *the* McGuffin of *The Expanse*. 
+The greatest McGuffin I've ever witnessed so far.
+
+I tolerated a few others, there was a Starz series, 
+[“Counterpart”](https://en.wikipedia.org/wiki/Counterpart_(TV_series)) based 
+around a parallel world tunnel, and the German production [“Dark”](https://en.wikipedia.org/wiki/Dark_(TV_series)) with a nuclear power station mishap 
+turned time travel portal (a German series based around a fictional town of 
+Winden). They were watchable. Today I am having more fun writing this article 
+than reading the novel, so another 
+<font style="color: tomato" >red flag</font>.
 
 In my old age I've learned to dismiss time travel stories, they don't work 
 for me, unless used for comedy. Parallel Worlds are no good either, but 
