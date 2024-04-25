@@ -253,10 +253,10 @@ controlling the dam gates. This is what all our electric power utility companies
 do. If they are at full dam release and there is still more demand the electric 
 utility will raise the price to suppress demand. 
 
-This sounds liek at the demand limit we will get the squeeze on poor people. 
+This sounds like at the demand limit we will get a squeeze on poor people. 
 But this is only if the electric utility company is entirely dependent upon 
 sales and is greedy. A clear alternative is to treat electric power as a 
-public good, so the government can =always regulate the price level. There is 
+public good, so the government can always regulate the price level. There is 
 no need for a competitive market for something like education, housing, energy 
 or food. 
 
@@ -266,7 +266,12 @@ necessities like water, air, energy, food, housing, the need for a free
 market needs to be seriously questioned. MMT proper might be agnostic on 
 such political preferences, but at least MMT reveals what is possible and 
 distinguishing what is necessary. Markets are not always necessary for price 
-stability.
+stability. Moreover, markets tend to settle at a Pareto distribution --- the 
+*rich take all* effect, so even when equilibrated they produce injustice. 
+Spiritual economics, which Ōhanga Pai is trying to promote, is about an 
+equilibrium of an entirely different kind, one of shared optimal prosperity 
+and fairness, hard work is fairly compensated, rentiers are eliminated, and 
+not just about mere market clearing equilibria.
 
 1. The currency-issuing government (like NZ) is a currency monopolist.
 2. The government can fix prices through:

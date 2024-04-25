@@ -16,10 +16,10 @@ Are our mainstream economists turkeys or flat-worlders?
 
 Change of pace from recent posts today. I revert like a child to hard scifi 
 when depressed and unable to focus. 
-[Three Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))
+*[Three Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))*
 was recommended, but sadly it turned out to be very soft scifi. Still... it 
 did the job.  However, it did a little more. Since the Netflix version of the 
-novels is now screening, it has entered mainstream pop culture, so that's an 
+novels is now streaming, it has entered mainstream pop culture, so that's an 
 opportunity for an MMT activist, physicist and philosopher to draw some 
 major fodder from while writing for popular consumption.
 
@@ -33,6 +33,20 @@ insoluble, when he showed that the solar system is unstable and the general
 solution to even three gravitating bodies in motion is chaotic. Technically 
 that means any numerical attempt at a solution will very soon wildly diverge 
 in prediction from reality.
+
+In modern times exact solutions have been found, but they are incredibly 
+special, and do not occur naturally. They are what you would call mathematical 
+results, not truly physical. (That is so even if we ignored effects of quantum 
+mechanics and general relativity.)  This is a major plot failure in 
+*The Three Body Problem*, since the humans attempting to solve the solar 
+system calendar problem for the Trisolarians would know the Newtonian problem 
+is not physical. In the novels this is turned into a feature, since those 
+humans are portrayed as pseudo-religious. They've wilfully, one presumes, 
+ignored general relativity (time dilation effects). Presumably the attempt to 
+Redeem humanity is merely an attempt to show the Trisolarians humans are 
+capable of solving incredibly hard but useless mathematics puzzles. 
+(Cryptocurrency all over again!) Or at least that's they way I have to read 
+the novel to enjoy it!
 
 It has been a rather silent triumph of Twentieth and 21st century mathematics 
 that stable solutions to the gravitational three body problem 
@@ -50,8 +64,8 @@ totally impractical. In any case, the gravitational problem of most interest
 to us is for our solar system, which is what... a 10-body problem? That means 
 ignoring the moons of planets and the asteroid belt. So you might be surprised 
 that in the real world solar systems are fairly stable even though mathematics 
-says they should not be stable. The resolution is found in knowing the time 
-scales involved.  NASA or any future space engineers, can safely plot 
+says they should generically not be stable. The resolution is found in knowing 
+the time scales involved.  NASA or any future space engineers, can safely plot 
 trajectories for spacecraft on year-long time scales because the typical time 
 periods over which our solar system becomes unpredictable are extremely long 
 in duration. Also, space navigators do not need to know analytical solutions, 
@@ -61,7 +75,7 @@ that of the orbits of the planets and moons.
 
 Also, to emphasize the point: instability and predictability are totally 
 different concepts. Our solar system is both, it is for sure 
-unpredictable, but might also be unstable. However this matter little to 
+unpredictable, but might also be unstable. However this matters little to 
 human space explorers because the time over which planetary motions get 
 unpredictable is on the order of years or maybe centuries (I am not exactly 
 sure of the typical time period off the top of my head), not hours or days.
@@ -110,7 +124,7 @@ appropriate.
 
 In fact delusions of this nature are more akin to illusions. Like seeing Jesus 
 in the Turin Shroud. The periodic motions of the economy are not stable orbits 
-about an ideal equilibrium. They are quasi-periodic motions 
+about an ideal equilibrium. They are (generically) quasi-periodic motions 
 far-from-equilibrium. But this does not mean the economy is unstable. It means 
 it is unpredictable. There is a big difference.
 
@@ -121,9 +135,9 @@ lucky if it were stable. They can also tell us the characteristic time scale for
 instability (the time period up until which the motions of the Sun and our 
 neighbouring planets is constrained to more or less fixed orbits). I forget 
 the number, but the characteristic period is probably on the order of 
-billions of years. the Sun could die out before any of our planets go haywire 
-and shoot off to interstellar "infinity". (Don't quote me on this. If you want 
-to know then pull up a DuckDuckGo or 
+billions of years. The Sun could die out before any of our planets go haywire 
+and shoot off to interstellar "infinity" or two planets collide. (Don't quote 
+me on this. If you want to know then pull up a DuckDuckGo or 
 [Perplexity ai](https://www.perplexity.ai/search/What-is-the-.jbJwrp1QFyYXpb47IhKyg) tab.)
 About 17 billion years before any likely major planetary collision?
 
@@ -156,6 +170,19 @@ Knowing this, you might ask why the classical three body problems to this day
 still attracts some mathematicians? I cannot tell you why, except that 
 mathematicians are fond of torture.
 
+((In the novels this is attributed to the psychological acquisition of a 
+false religion, a pseudo-religion, among the Redemptionist faction of the ETO. 
+They begin to simply believe as a matter of faith that *if* they solve the 
+three body problem the Trisolarians will leave Earth alone. By the way, this 
+fits my definition of *religion* --- which is "A source of Good."  The 
+Redemptionists believe their solving the 3BP will lead to good for all, so 
+it is at least a pseudo-religion. It is also a false religion because their 
+solving the 3BP is not a source of Good. It is merely a source of interesting 
+mathematics, inapplicable to the real world, which is morally neutral.))
+
+Why are mathematicians so fond of torture? Why would they work on a Newtonian 
+mechanics problem that has no real world applications?
+
 I imagine their response would be, "Sure, sure general relativity makes the 
 three body problem pure art, not science. But so what? Mathematics is *art*!"
 
@@ -168,23 +195,26 @@ Applied Mathematics is very different, for here one does seek utility in
 physics or other sciences, and no one alive today working on the Newtonian 
 three body problem would be accused of being an applied mathematician.
 
-However... if someone ever di figure out an efficient algorithm for real-time 
+However... if someone ever did figure out an efficient algorithm for real-time 
 Newtonian dynamics, it is possible it might find a real world application. 
 But because solar system dynamics does require general relativity, it would 
 not be an application in astronomy or space travel... or I guess it could be 
 used for very short time-scale trajectory computations, where effects of 
 general relativity are negligible.
 
-Or normies: I cannot easily describe why general relativity turns astronomy 
+For normies: I cannot easily describe why general relativity turns astronomy 
 dynamics into a nightmare, you'll have to take it upon authority it does. 
 The equations for general relativity are so severely difficult to compute 
 that exact solutions are known only for truly incredibly symmetric spacetimes, 
 and they are... what?... less than a handful in number, and totally useless 
-for astronomical applications.
+for astronomical applications. (Fascinatingly, these maximally symmetric 
+solutions are very useful in theoretical work, because a couple of them 
+describe ideal approximations to at least two very important real physical 
+phenomena: the entire cosmos, and black holes.)
 
 Having said that, with enough computing power general relativistic systems, 
 like colliding black holes, can be pretty well simulated these days, so the 
-lesson there is with a gargantuan enough compute power, the classical three 
+lesson there is with gargantuan enough compute power, the classical three 
 body problem has about the same status as a general gravitational problem. 
 All of them are hard problems in real applications. 
 
@@ -197,10 +227,56 @@ typical for chaotic dynamics. If the system has any non-linearity, then,
 * they'll all be about as hard as each other for the same $N$.
 * The bigger $N$ the worse, exponentially so, so extremely frickin' harder.
 
+and it gets even more interesting,
+
+* Once $N$ becomes truly gargantuan, the $N$-body problem can be immensely 
+simplified to the point of "solvability" --- this occurs when there are so 
+many molecules that the entire system can be coarsely described on a large 
+scale using statistical mechanics.
+
+With statistical mechanics we give up worrying about what any one body is 
+doing, entirely, we are not interested in the single body trajectories, and 
+instead we define macroscopic variables, like temperature, pressure, volume, 
+density, and these fictional variables are then treated as new higher order or 
+emergent variables. Even if the molecular dynamics are highly chaotic, the 
+macroscopic variable time evolution can, under strict conditions, be simple 
+and solvable. The class of such solvable statistical mechanics systems are 
+those in equilibrium. Thermal equilibrium.
+
+This has concern for my macroeconomics and political economy allegory. The 
+macroeconomic system we live within is --- luckily --- not in thermal equilibrium 
+in any sense. This is essentially why neoclassical economics does not work.
+(And also why, perhaps to the chagrin of some socialists, why Austrian School 
+economics is not entirely stupid. The Austrians are dummies only because they 
+think gold is currency and "free markets" are possible, neither of which is 
+true, so in the end they are as rotten as the neoclassicals. Being half-right 
+in a field where Justice and Trust matter is as good as being all wrong.)
+
 As the baby of all hard chaos dynamics problems, the three body problem has 
 a sort of mythic status. That is another reason why pure mathematicians might 
 like the problem. (By the way, the Trisolarians, like humans, would have known 
-this well before being capable of interstellar travel.)
+this well before being capable of interstellar travel.)  How would we know 
+macroeconomic systems are in a state of equilibrium?  We would know if the 
+macroeconomic could be well-described by a small number of dynamical variables 
+(analogies to temperature, volume, density &c.)
+
+In fact, our macroeconomic systems (taken per country, say) are 
+far-from-equilibrium systems, but also not totally anarchic. There are 
+macroscopic observables that can usefully describe the time evolution of a 
+macroeconomy. The analogy is like a complicated fluid, or the weather. 
+Although this is only a very weak analogy.
+
+In particular, while the Sun tends to monopolize the behaviour of our weather, 
+governments tend to monopolize the behaviour of our macroeconomics. And to 
+extend the analogy somewhat comically, while the Sun does not know what it is 
+doing to us, nor do politicians in government know what they are doing to the 
+macroeconomy.  I take this *not* as an argument against government and for 
+anarchy, but rather an argument for a better informed and educated 
+government. If you have something as powerful as the Sun, it could be a good 
+idea to use it for the greater Good.
+
+Does that sound like an endorsement of authoritarianism to you? It should not, 
+but to see why... read onwards!
 
 
 ## Remembrance of Earth's Past
@@ -1094,7 +1170,7 @@ so most people cannot see what the adult futuristic scifi could be. If I wrote
 the novel of this kind it would likely flop. Maybe Ursula LeGuin wrote a few 
 of the kind I would admire, but so far I've only read a couple of her books, 
 and they seemed to me to have a bit of a "humans are stupid" and 
-"war is inevitable" vibe to them too.
+"war is inevitable" vibe to them t🤣oo.
 
 
 ## Two Proton Theory
@@ -1111,6 +1187,106 @@ see how that swings the plot to permit a disruption of human science over
 
 Trouble is, for a physicist, this is enough of a carrot to keep you reading a 
 bad novel.
+
+
+**Spoilers:**  
+OK, I read through to where the *sophons* are explained. 
+Superstring theory! 🤣  Protons being "unfolded" so that one of the 
+6 Calabi-Yau compactified dimensions becomes macroscopic. It was disappointing 
+that this plot device was used to then etch computer logic arrays onto the 
+enlarged dimension, turning the single proton into a supercomputer. Once a
+Calibi-Yau dimension is enlarged there is nothing but vacuum to "write" or 
+"etch" upon. If you engineer some other actual membrane to write information 
+on then it will no longer be a proton, by definition. In particular it could 
+not then be recompressed back down the small superstring dimensions. Besides 
+which, the proton is not a compactified object, it is a composite of strings 
+(three constantly mixing quarks and an ephemeral sea of gluons --- these are 
+what you might "unpack" into large extra dimensions)
+So this was highly cringe for a reading physicist wanting some decent 
+entertainment. 
+
+There have to be dozens of better ways to scifi imagine a stealth 
+supercomputer carrying an Ai program as a weapon against Earth. I would 
+probably go for nanobots that can assemble to mimic a natural biological 
+species, like an ant. ^he processing could be done partly remote, using 
+entangled Bell pairs, and all the ant would need to do would be to receive 
+radio signals for the quantum teleportation decoding. (A quantum teleport is 
+not possible at faster-then-light speed. The receiver needs to be sent an 
+instruction via normal space channels.) Having such realistic constraints is 
+good for a scifi writer.
+
+Though, I admit, to the fantacists these would be nowhere near as "cool" as 
+Liu Cixin's sophons. The sophon is an incredibly scary scifi invention, one 
+of my favourite horrors now (if we are talking pure fantasy, 
+I can appreciate good fantasy, I just do not like it inserted into scifi).
+
+I am not so sure about the Trisolarians having brains that emit 
+electromagnetic waves that betray all their thoughts, so they cannot lie or 
+deceive. That one came as a shock. I am sure Liu Cixin thought he needs it 
+for novelty or some plot turn, but again, it is too big a stretch for scifi.
+Why not stick a Magneto (Erik Lehnsherr) helmet on to shield your thinking?
+You cannot write serious scifi and tell me no Trisolarian would think of 
+this. Nor that their evolution would not have had to go through a period where 
+their brains were not so luminous. As I said, cringe.
+
+Worrisome, since as goes the scifi cringe, so probably goes the sociology and 
+political cringe. I cannot see the second novel, *The Dark Forest* going well 
+for a reader like myself.
+
+However, I did like the way detective Shi Qiang ended the first novel (not the 
+horrific nano flying knife slicing of the oil tanker, but the "bugs" bit.) 
+some hope for the optimistic reader, reading scifi for imagination and 
+creative reflection upon our future, amidst too much stupid nihilism. 
+
+It was interesting Cixin wrote the character Ye Wenjie as one who thought 
+advanced aliens would almost surely have to be spiritual (kind, compassionate, 
+peaceful). In the afterword it seems clear Liu Cixin himself thinks the 
+opposite, so he has a terrible sense of social consciousness I feel. 
+What a dick. (Hey... my informed opinion is all!) He should not have written 
+the afterword, it ruined the whole reading experience. The author 
+sometimes needs to stfu. Same problem with Frank Herbert. A good example of 
+an author who stays quiet better would be William Gibson. I don't quite 
+know why, but for me, subjectively, it should be the same problem for 
+Ursula LeGuin, but I don't *always* get the same cringe from her books. 
+I'm not saying authors cannot have afterwords for their novels, I am just 
+saying I was unfortunate to bother reading this one. However, it is not all 
+bad, Liu Cixin seems to be sympathetic to environmentalism and greater unity 
+among the people of the Earth. His atrocious political beliefs are concerning 
+non-existent aliens.  Not that I think extraterrestrials do not exist, I think 
+they do, but it is childish to believe in the Mathers theory (the fictional 
+RAND author character) that they'd be hostile or would be a source of conflict 
+among humans simply by the symbolic event of a First Contact, or monopolization 
+of knowledge potentially gained from an advanced alien species. 
+
+(Kind of makes you hope the other guys had Star Trek and the 
+Prime Directive.) 
+
+There is a more balanced view of CETI (communication with extraterrestiral intelligence) in a Cold War context you can get here: 
+[“Mixed Signals Communication with the Alien in Cold War Radio Astronomy”](https://api.repository.cam.ac.uk/server/api/core/bitstreams/7e186d38-914c-4175-bd0c-d9501279dd98/content) by Rebecca Charbonneau. She actually discusses 
+*Three Body Problem*. I did not read it all, since it is irrelevant now the 
+Cold War is over, but her thesis mostly concerned historical analysis of the 
+Cold War politics, not future ET contact.
+
+I suspect some of the fictional BIll Mather theory might be applicable 
+should ET contact just one person or nation tomorrow. (Why would they?)
+
+OK, Liu Cixin portrays a scenario why they might! That's the fun of the 
+scifi.
+
+((Alos, who knows, maybe Liu Cixin *was* influenced by some RAND lunatic. A lot 
+of stuff that came out of RAND was laughable Neocon foolery, 
+unfortunately cloaked in a lot of serious intent and taken seriously by 
+the neoliberals and, it seems, by Liu Cixin. RAND also had plenty of 
+intellectual firepower to lend the air of distinguished scholarship. A lot of 
+what came out of RAND was also very good analysis. But if you are a reader 
+of RAND reports, and a user, it is your duty to conduct due diligence and weed 
+out the wheat from the chaff.))
+
+Fans of Liu Cixin should not be upset and flame me, these are just my 
+personal opinions, so don't hate me for them. I am not saying he wrote 
+[Chinese State propaganda](https://www.youtube.com/watch?v=uGZW1xnkzkI) 
+material! 🤣
+
 
 
 ## Preliminary --- 90% through
