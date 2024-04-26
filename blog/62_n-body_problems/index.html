@@ -1,4 +1,4 @@
-<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>N-body Problems</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="N-body Problems"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/"><meta property="og:type" content="article"><meta property="article:published_time" content="2024-04-19"><meta property="article:modified_time" content="2024-04-19"><meta property="og:updated_time" content="2024-04-19"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebSite","@id":"https://smithwillsuffice.github.io/ohanga-pai/"},"headline":"N-body Problems","description":"","url":"https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/","inLanguage":"en","datePublished":"2024-04-19","dateModified":"2024-04-19","wordCount":"12563","publisher":{"@type":"Person","name":"Bijou M. Smith"},"author":{"@type":"Person","name":"Bijou M. Smith","description":"Random mathematician."}}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
+<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>N-body Problems</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="N-body Problems"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/"><meta property="og:type" content="article"><meta property="article:published_time" content="2024-04-19"><meta property="article:modified_time" content="2024-04-19"><meta property="og:updated_time" content="2024-04-19"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebSite","@id":"https://smithwillsuffice.github.io/ohanga-pai/"},"headline":"N-body Problems","description":"","url":"https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/","inLanguage":"en","datePublished":"2024-04-19","dateModified":"2024-04-19","wordCount":"12895","publisher":{"@type":"Person","name":"Bijou M. Smith"},"author":{"@type":"Person","name":"Bijou M. Smith","description":"Random mathematician."}}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
 <a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>N-body Problems</h1><p>Published on <time datetime=2024-04-19>2024-04-19</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#the-turkey-economists>The Turkey Economists</a><ul><li><a href=#farmer-versus-shooter-models>Farmer versus Shooter Models</a></li></ul></li><li><a href=#chaos-theory>Chaos Theory</a><ul><li><a href=#instability-versus-unpredictability>Instability versus Unpredictability</a></li><li><a href=#hard-scifi-gripes>Hard scifi Gripes?</a></li></ul></li><li><a href=#remembrance-of-earths-past>Remembrance of Earth&rsquo;s Past</a><ul><li><a href=#the-premise>The Premise</a></li></ul></li><li><a href=#harder-scifi>Harder scifi</a></li><li><a href=#the-farmer-and-the-shooter-hypotheses>The Farmer and the Shooter Hypotheses</a></li><li><a href=#an-excellent-dialogue>An Excellent Dialogue</a><ul><li><a href=#blackpill-versus-pomo>Blackpill versus Pomo</a></li><li><a href=#spoiler-1>Spoiler 1</a></li><li><a href=#technicomedies>Technicomedies</a></li></ul></li><li><a href=#suspended-judgment>Suspended Judgment</a></li><li><a href=#conformal-symmetry>Conformal Symmetry</a></li><li><a href=#redemptionists-versus-adventists>Redemptionists versus Adventists</a><ul><li><a href=#conflict-theory>Conflict Theory</a></li><li><a href=#nihilism>Nihilism</a></li><li><a href=#redemptionists>Redemptionists</a></li><li><a href=#authorial-insertion>Authorial Insertion</a></li><li><a href=#the-crud-of-advanced-aliens>The Crud of Advanced Aliens</a></li></ul></li><li><a href=#two-proton-theory>Two Proton Theory</a></li><li><a href=#preliminary-----90-through>Preliminary &mdash; 90% through</a></li></ul></nav></details><h2 id=the-turkey-economists><a class=anchor href=#the-turkey-economists title='Anchor for: The Turkey Economists.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Turkey Economists</h2><p>Are our mainstream economists turkeys or flat-worlders?</p><h3 id=farmer-versus-shooter-models><a class=anchor href=#farmer-versus-shooter-models title='Anchor for: Farmer versus Shooter Models.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Farmer versus Shooter Models</h3><p>Change of pace from recent posts today. I revert like a child to hard scifi
 when depressed and unable to focus.
 <em><a href=https://en.wikipedia.org/wiki/The_Three-Body_Problem_%28novel%29 target=_blank>Three Body Problem</a></em>
@@ -314,8 +314,8 @@ were ants, meaning pretty oblivious of our cares and desires.</p><p>Whether you 
 some political persuasion, but I think I am an optimist (talking about our
 real world now) because I believe most ordinary people are capable of a more
 enlightened world view. The one where human beings might seem insignificant,
-but that we are nonetheless amazing creatures. As are any other aliens
-civilization in our universe who are sentient and have developed science
+but that we are nonetheless amazing creatures. As are any other alien
+civilizations in our universe who are sentient and have developed science
 and technology.</p><p>The big lie is that sentience is a total accident.</p><p>We might not be Turkeys nor Flat Worlders. At any primitive time in human
 history maybe it seems that way, but that&rsquo;s an individualistic attitude,
 whereas I can both appreciate the worth of every individual creature, <em>and</em>
@@ -351,8 +351,8 @@ and 3rd books. Having Mums and Dads is great. But it does not scale. I am
 pretty much now locked-in against solution by authoritarian rule&mldr;. even if
 it frickin&rsquo; worked!))</p><p>The plot problem is really about how an individual&rsquo;s bitter experience can
 lead them to think of all of humanity as evil and irredeemable. It&rsquo;s an
-incredibly childish ans self-centred attitude. The truth is, and I think
-most people are like this, we can save th animals, save the biosphere, and
+incredibly childish and self-centred attitude. The truth is, and I think
+most people are like this, we can save the animals, save the biosphere, and
 also love humanity. These are not contradictory or mutually exclusive
 options. To think otherwise is an imbecilic rotten apple fallacy.</p><p>I&rsquo;d go further: the human species is not a cancer or plague, we are a natural
 outcome of life on Earth. So maybe have a little compassion for us too, as
@@ -361,22 +361,30 @@ it anyway) the greater a people are spiritually, the greater will be their
 science. The greater will be many of their aspects. Greater in <em>both</em>
 abstract spiritual and material advancement awesomeness. Moreover, in such wise
 a tiny insignificant creature on a mundane living planet, might reach out to
-the stars. IT will not be long in the grand scheme of things before human do
+the stars. It will not be long in the grand scheme of things before humans do
 reach the stars. By then, the &ldquo;insignificance&rdquo; of any one human might, I
-suppose, be regarded by fools as cause to think our lives have no cosmic
-importance, but to the more sagacious and wise it can be true one puny life
-has a lot of meaning, by virtue of its tiny insignificant contribution to the
-whole.</p><p>As I keep trying to remind some tentatively nihilist MMT friends who give up
-on elections for government, no one votes seems to count, but in fact they
-all do and that is the power of summation. Addition is a powerful thing.</p><p>I say, give up on political parties &mdash; they are anathema for a decent
-society. But do not give up your vote.</p><h2 id=an-excellent-dialogue><a class=anchor href=#an-excellent-dialogue title='Anchor for: An Excellent Dialogue.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>An Excellent Dialogue</h2><p>About half way in to <em>Three Body Problem</em> the protagonist Wang Miao asks
+suppose, might still be regarded by fools as cause to think our lives have no
+cosmic importance, but to the more sagacious and wise it can be true one puny
+life has a lot of meaning, by virtue of its tiny insignificant contribution to
+the whole.</p><p>As I keep trying to remind some tentatively nihilist MMT friends who give up
+on elections for government, no one vote seems to count, but in fact they
+all do and that is the power of summation. Addition is a powerful thing.</p><p>Subtraction is also a powerful thing, once you get to zero you are dead.</p><p>When people withhold their vote in elections they are ceding power to those
+who do vote, so it is disgusting defeatism. Using your vote to register a
+protest means voting for someone or something, not abstaining. Unless the
+result of mass abstinence is some good (abstain from voting when there is
+only one horrible choice). But if you abstain it seems morally incumbent upon
+you to exert great effort to create a better system where your vote is
+worthwhile, is it not?</p><p>I say, give up on political parties &mdash; they are anathema for a decent
+society. But do not give up your vote. Do not rely solely upon the collective
+power of a vote either. All means available for peaceful revolution need to
+be employed.</p><h2 id=an-excellent-dialogue><a class=anchor href=#an-excellent-dialogue title='Anchor for: An Excellent Dialogue.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>An Excellent Dialogue</h2><p>About half way in to <em>Three Body Problem</em> the protagonist Wang Miao asks
 the venerable and gentle Dr Ye Wenjie about &ldquo;physics does not exist&rdquo;.
 She answers that it is not that physics does not exist, but that what we think
 is physics is wrong.</p><p>I&rsquo;m not sure of the spin the Netflix adaptation will have on this, nor am I sure
 how this remark will play out in the original novels, but it is a crux&mldr; for
 me at least, worth writing about&mldr; and with my allegorical interpretation too.</p><p>Ye Wenjie likens scientists now to the Church of old, who thought Copernicus
 as guilty of heresy, Bruno and d&rsquo;Ascoli worth the stake, and Galileo worth
-the Spanish Inquisition. Or she says, &ldquo;Maybe we are like the Church.&rdquo; Meaning
+the Spanish Inquisition. She says, &ldquo;Maybe we are like the Church.&rdquo; Meaning
 with respect to today&rsquo;s scientific apostates.</p><p>It is a lot less dramatic for physics these days though, than it is for
 political economy, since physics base marble is in pretty close contact with
 us now though particle accelerators and cosmology, and quantum computing of
@@ -405,7 +413,8 @@ realist, even harder for a dumb-dumb materialist, but you&rsquo;ve got to ask.</
 entertainment pleasure) that Liu Cixin might head towards blackpill
 nihilism. I hope that&rsquo;s not the case. Getting immersed into a story
 is a wonderful form of entertainment, but if the bubble is shattered it&rsquo;s
-kinda&rsquo; depressing, which defeats the purpose.))</p><p>Interestingly, although I am not close friends with Warren Mosler, I think he
+kinda&rsquo; depressing, which defeats the purpose.))</p><p>Interestingly, although I am not close friends with Warren Mosler, only a
+friendly acquaintance, I think he
 has a moral component to his work over the decades on what became MMT. He has
 always said he talks to anyone in power or schools or the general public who
 is listening, out of a sense of public duty and moral obligation. Few other
@@ -422,7 +431,9 @@ neoclassical alike. Warren Mosler is a Copernicus of our times. It is
 lucky Stephanie Kelton has not yet been burned at the metaphorical stake.
 You could say Steve Keen was the one burned at the stake, but like you&rsquo;d
 expect for an Aussie, he survived the ordeal and only increased his cuss word
-frequency.</p><h3 id=blackpill-versus-pomo><a class=anchor href=#blackpill-versus-pomo title='Anchor for: Blackpill versus Pomo.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Blackpill versus Pomo</h3><p>About the pill colours. They come from the red-pill/blue-=pill choice in <em>The Matrix</em>. I use &ldquo;blackpill&rdquo; almost synonymously with nihilism, thought they are not the same.</p><p>From the <a href=https://www.britannica.com/topic/red-pill-and-blue-pill#ref1318063 target=_blank>online Britannica encyclopedia</a>
+frequency.</p><h3 id=blackpill-versus-pomo><a class=anchor href=#blackpill-versus-pomo title='Anchor for: Blackpill versus Pomo.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Blackpill versus Pomo</h3><p>About the pill colours. They come from the red-pill/blue-pill choice in
+<em>The Matrix</em>. I use &ldquo;blackpill&rdquo; almost synonymously with nihilism, though
+they are not the same.</p><p>From the <a href=https://www.britannica.com/topic/red-pill-and-blue-pill#ref1318063 target=_blank>online Britannica encyclopedia</a>
 :</p><blockquote><p>The manosphere generally refers to a vast network of websites and blogs
 frequented by online misogynist groups, including men’s rights activists
 (MRAs), pick-up artists (PUAs), Men Going Their Own Way (MGTOW), and incels.
@@ -486,7 +497,7 @@ not, a McGuffin?</p><p>Have to say of the TV adaptation, the world Central Comma
 bad actors. It is pretty hilarious. Oh yeah, Chinese State propaganda! 🤣 (I
 can believe it in this case.)</p><p>On this issue&mldr; I&rsquo;ve watched plenty of action movies, superhero, Marvel,
 Batman, Superman, stuff in my life to to know &ldquo;state propaganda&rdquo; is pervasive
-and relative.</p><p>Half the time Holly wood probably does not know it is doing propaganda, It&rsquo;s
+and relative.</p><p>Half the time Hollywood probably does not know it is doing propaganda, It&rsquo;s
 like Noam Chomsky used to say, you do not have to believe you are a
 propagandists to be doing propaganda, more likely you&rsquo;re self-selected. Only
 natural born establishment shills get promoted to high rank in mainstream
@@ -510,7 +521,8 @@ What&rsquo;s that about? The romantic cinematic scenes started to get a bit trit
 too, although I like the slowish pace they introduce. I&rsquo;m only watching and
 reading along because I&rsquo;m very depressed at the moment. Been a hard few
 weeks on top of a hard few months on top of a hard five years after five
-years of bitter-sweet bliss.</p><h3 id=technicomedies><a class=anchor href=#technicomedies title='Anchor for: Technicomedies.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Technicomedies</h3><p>The 2017 TV series is funnier than the books of course,&mldr; Chinese state
+years of bitter-sweet bliss that got surgically removed from my heart with
+a thousand blunt chainsaws.</p><h3 id=technicomedies><a class=anchor href=#technicomedies title='Anchor for: Technicomedies.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Technicomedies</h3><p>The 2017 TV series is funnier than the books of course,&mldr; Chinese state
 propaganda! No, seriously. It is funny. I liked the way they depicted
 Ye Wenjie&rsquo;s discovery of radiation boundaries inside the Sun, these are
 regions where the frequencies of emission sharply drop, in-between boundaries
@@ -518,14 +530,14 @@ the fall off in frequency is gradual, a power law presumably.</p><p>((There are 
 are more like conventional magnetohydrodynamic boundaries. In
 <em>Three Body Problem</em> Liu Cixin has to invent a nice little fantasy physics
 into the story to get the million-fold magnification of microwave
-transmissions he needs. But it is a cool soft scifi plot device. <em>J&rsquo;approuve</em>.&rsquo;))</p><p>The comedy angle is the TV series depicts Ye Wenjie&rsquo;s thesis as a stair case
+transmissions he needs. But it is a cool soft scifi plot device. <em>J&rsquo;approuve</em>.))</p><p>The comedy angle is the TV series depicts Ye Wenjie&rsquo;s thesis as a stair case
 profile of frequencies. They should have used a power law fall off with
 boundary zones instead. Just for the <em>cool</em> factor. But&mldr; ya know&mldr; the
 comedy is only for the learned. Although it&rsquo;d be a nice little sociological
 experiment to survey how many ordinary TV watchers realized the staircase
 profile was a bit fishy. School teachers take note! Try it on your students.</p><p>Come to think of it, this is the really serious good of shows like
-<em>Three Body</em>. They make some excellent school teaching resources for discussion.</p><p>From bitter experience I&rsquo;ve learn the &ldquo;physics of scifi&rdquo; lessons are not good
-in school that have a national standards examination focus. But for younger
+<em>Three Body</em>. They make some excellent school teaching resources for discussion.</p><p>From bitter experience I&rsquo;ve learned the &ldquo;physics of scifi&rdquo; lessons are not good
+in schools that have a national standards examination focus. But for younger
 and older kids (50 years +, or under 12 years) these fantasy resources make
 nice motivation for informal discussion and &ldquo;college dorm room&rdquo; banter.</p><h2 id=suspended-judgment><a class=anchor href=#suspended-judgment title='Anchor for: Suspended Judgment.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Suspended Judgment</h2><p>There&rsquo;s little point ruining a fantasy scifi story with realist gripes. However,
 I can make an exception when you put characters and actors in entertainment
@@ -545,7 +557,9 @@ Frontier of Science group in the story, who are a bit mystical &mdash; and I
 think that will be integral to the plot later (probably aliens?). But a
 more sedate and investigative world committee of physicists exploring the
 miracles would have been equally as compelling a story, more interesting,
-and more realistic.</p><p>((Note: the Netflix version might be different, I do not know.))</p><p>Liu Cixin did get it right mostly though, where it mattered, because he had
+and more realistic.</p><p>((Note: the Netflix version might be different, I do not know.))</p><p>(((I do not yet know if the story is about alien First Contact. Just a third
+of the way in, but the Red Coast Base satellite must surely become a first
+contact instrument?)))</p><p>Liu Cixin did get it right mostly though, where it mattered, because he had
 the one anti-hero, Wang Miao, respond to the miracles realistically. That was
 incredibly important for me to stick with the book. Wang Miao realized the
 miracle of the <em>countdown</em> was subjective, and that means the laws of physics are
@@ -556,12 +570,13 @@ in <em>Three Body Problem</em> might not be &ldquo;available&rdquo;. Too bad I s
 them! Make the story more believable. It would be a better work of art. As
 it stands, Remembrance of Earth&rsquo;s Past is probably a scifi classic, but not
 reaching the level of literary epic. I will probably still finish the trilogy.
-Stay tuned them for more on the 3BP allegory.</p><p>The real gripe I have here is a very general critique of all literature and
+Stay tuned then for more on the 3BP allegory.</p><p>The real gripe I have here is a very general critique of all literature and
 movies when it comes to heros. If you have a single character as the hero or
 anti-hero your story is, I am afraid to say, not realistic. But there is no
 need to write a novel this way, with a main central protagonist/heroine/hero.</p><p>The same trope ruined <em>The Expanse</em> &mdash; although I loved those books too, to
-me, just subjectively, they were epic, although not great literature.</p><p>Does Iain Banks write form a more humanistic perspective? Ursula LeGuin? If
-they have I&rsquo;ve not heard of the novels.</p><div style=text-align:center>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+me, just subjectively, they were epic, although not great literature.</p><p>Does Iain Banks write from a more humanistic perspective? Ursula LeGuin? If
+they have I&rsquo;ve not heard enough about their novels. (Hey, I can only spare
+the time to read about one scifi novel a year.)</p><div style=text-align:center>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *</div><p>I&rsquo;m not deliberately making this article long, but depending upon how much
 grist there is to chew upon in <em>Remembrance of Earth&rsquo;s Past</em> it will be as
 long as that.</p><div style=text-align:center>*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -593,11 +608,11 @@ symmetry boundary then Roger Penrose has a Conformal Cyclic Cosmology for
 you to work on, but it is by far the harder physics to get right, and is
 probably wrong.</p><p>There is however a hybrid of Turok&ndash;Boyle and Penrose, due to Anthony Lasenby
 and colleagues, which is that a far future conformal symmetry could possibly
-be &ldquo;lived thorough&rdquo; (for elementary particles, not biological life) but the
+be &ldquo;lived through&rdquo; (for elementary particles, not biological life) but the
 universe on the other side would be time reflected with respect to ours. That&rsquo;s
 a wild one to wrap your head around, but &ldquo;follow the math&rdquo;. It is not illogical
 nor inconceivable.</p><p>Since this is not my physics blog, I think I will leave this topic here.
-I cannot quite turn it to useful allegory.</p><h2 id=redemptionists-versus-adventists><a class=anchor href=#redemptionists-versus-adventists title='Anchor for: Redemptionists versus Adventists.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Redemptionists versus Adventists</h2><p>Oh no! No, no! The story got too stupid for me. The factions loyal to &ldquo;Lord&rdquo;
+I cannot quite turn it to useful allegory.</p><h2 id=redemptionists-versus-adventists><a class=anchor href=#redemptionists-versus-adventists title='Anchor for: Redemptionists versus Adventists.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Redemptionists versus Adventists</h2><p><strong>Spoilers:</strong> ok, it is about alien first contact.</p><p>Oh no! No, no! The story got too stupid for me. The factions loyal to &ldquo;Lord&rdquo;
 (the advanced alien civilization) start doing the whole anti-religious
 thing (meaning pseudo-religious zealot ideological thing). I thought I&rsquo;d
 make it through to the end of <em>Three Body Problem</em>, but it has become too
@@ -626,17 +641,26 @@ laughable. It is an idea based on a false analogy. (The analogy is how humans
 treat actual ants.)</p><p>There are many flaws in the analogy, but the biggest is that a
 superintelligence will conform to <em>our</em> pretend analogies! Another is the
 idea hierarchies of intelligence will recapitulate (a fractal sociology
-notion. There is no justification for this thesis.</p><p>In fact, I am pretty cynical about the Ai tech industry. I think they are
+notion). There is no justification for this thesis.</p><p>In fact, I am pretty cynical about the Ai tech industry. I think they are
 capable, even innocently, of drumming up fear of an Ai singularity just to
-fuel their research. I call it Nerd Capitalism.</p><p>But heck, better to fund the nerds than the Military, I say.</p><p>The think about Nick Bostrom, Connor whatshisname, whatshisname Eliezer, and
-whatshisname Hinton
-&mdash; all the Ai Singularity fear-mongers &mdash; is that their inferences are bogus.
-But why? Can I prove they are wrong?</p><p>No, I cannot prove they are wrong. We just cannot well-predict the future.
+fuel their research. I call it Nerd Capitalism.</p><p>But heck, better to fund the nerds than the Military, I say. Although, you&rsquo;d
+like to fund the Einstein&rsquo;s not the Oppenheimer&rsquo;s and Teller. Not all nerds
+were compiled equal.</p><p>The thing about Nick Bostrom, Connor whatshisname, whatshisname Yudkowsky,
+and whatshisname Hinton &mdash; all the Ai Singularity fear-mongers &mdash; is that
+their inferences are bogus. But why? Can I prove they are wrong?</p><p>No, I cannot prove they are wrong. We just cannot well-predict the future.
 The problem here is one of probability theory. The Ai nerds want you to
 believe their doom prognostications are 95% confident bands, or whatever.</p><p>The truth is, they have no idea what the error bands are for their doom
 predictions and nightmare scenarios. No one does.</p><p>If pressed on this, some of them will say, &ldquo;Yeah, but prepare for the worst.&rdquo;</p><p>OK.</p><p>What is the worst case scenario though?</p><p>Once again, they have no idea. They have worst case nightmares and dreams,
 but so do I, and mine are not the same as theirs. Who is to say whose
-nightmares are more realistic?</p><p>My claim would be what we fundamentally have to deal with politically and
+nightmares are more realistic?</p><p>Our biggest closest threat coming from Ai is the powerful and wealthy people
+seeking to monopolize the technology, not the robots themselves.</p><p>What&rsquo;s more, all the false psychology. Robots do not take way worker wages.
+They take away shit jobs. Every shit job removed from a human worker&rsquo;s daily
+burden is a win. Only the MMT aware know this means <em>more</em> cash for worker
+wages is affordable without inflation risk. Why? Because we aught to be
+commissioning the Ai robots to produce real output for human and other
+planetary needs. That means all humans can work fewer hours producing <em>that</em>
+output. But this also means people can work for higher wages doing more
+interesting things. Like producing awesome scifi novels, our curing cancer.</p><p>My claim would be what we fundamentally have to deal with politically and
 globally is an ethical macroeconomics, a spiritual economics, and a fair go
 for all people. It has nothing to do with Ai. Ai can be used as a tool to
 emancipate the working class, but it is only a tool. This means dismantling
