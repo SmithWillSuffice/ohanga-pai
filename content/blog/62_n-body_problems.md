@@ -316,7 +316,9 @@ For scifi fans, I'd recommend the EPUB books, you can get them free-libre, or
 look for the Chinese TV series. Reading subtitles is not the worst thing in 
 the world, my daughters who have Smartphone addiction and extremely normal 
 average "ADHD" (the type every kid has these days, total normality) watch a 
-lot of Korean sitcom and romcom drama.
+lot of Korean sitcom and romcom drama. I guess they've evolved eyeballs that 
+can flicker in sync with subtitle display frequency with no conscious mental 
+effort.
 
 ### The Premise
 
@@ -336,7 +338,9 @@ propaganda, and will often laugh at it, but the merits of the scifi story as
 entertainment could still be considerable. Anyone remember *The Matrix*?
 
 At worst, dumb-dumb politics ruins the novel immersive experience, so it's 
-depressing. I rarely get angry and fumed up about it, no novelist is perfect.
+depressing. But I rarely get angry and fumed up about it, no novelist is 
+perfect, and life is too short to write angry letters to artists telling them 
+their politics suck.
 
 I will confess then that I liked the premise of *Remembrance of Earth's Past*. 
 The one-liner "Physics does not exist, and never will exist" is pretty good.
@@ -377,9 +381,9 @@ will exist". But that's almost too comical.
 Or is it?
 
 The way I think of the Marxist counter to capitalism is as a bit of a fantasy. 
-Neither the capitalists nor the marxists are living in reality as far as I 
-can tell. Their economics does not exist.  So I'd get my proper poetic analogy 
-via "Economics does not exist".
+Neither the capitalists nor the marxists are theorising about reality as far 
+as I can tell. Their economics does not exist.  So I'd get my proper poetic 
+analogy via "Economics does not exist".
 
 As allegory I'd take this to mean our economy surely exists (as does matter 
 and spacetime probably in *Remembrance of Earth's Past*? Not yet sure!) The 
@@ -389,6 +393,17 @@ That'd be my poetic take on the *Three Body Problem* story.
 The only trouble is this is a *good* thing, whereas in the *Three Body Problem* 
 it is supposedly getting teed up as a bad thing? ("Physics does not exist" is 
 some sort of incipient war on science or intellectuals in the story?) 
+In macroeconomics it is a damn good thing the marxists and neoclassicals 
+preach bogus economics, because no one should ever be forced to live in their 
+"gold is currency" and "capitalism is revolutionary" fantasy universe.
+
+(Disclosure: I used to think "capitalism is the revolutionary force" was a 
+fair enough theory. But a better grasp of neoliberalism has disabused me of 
+this childish reading of marxism. Neoliberal capitalism has potential to 
+persist on state life-support forever. F-o-r-e-v-e-r!!! How? 
+UBI ya' sockcuckers! The revolutionary force, if there ever is to be one, has 
+to be the spiritual capacity of people working together to overthrow tyranny 
+and injustice. This is not "capitalism" by any definition.)
 
 This is at least a nice way to enjoy the scifi story, because I am unable to 
 enjoy it much as a physicist myself. It is too fantastical, so not good 
@@ -411,13 +426,13 @@ from the real Matrix you want to recognize what truly matters in your life.
 And that'd be love and kindness. Waking up from the real Matrix means becoming 
 a more spiritual person.
 
-In the macroeconomics/political economy, allegory Agent Smith is something 
+In the macroeconomics/political economy allegory, Agent Smith is something 
 like the White Supremacist or Neocon or Christian Fascist (they're not 
 entirely disjoint categories). His "religion" is rule of the machines. Or not 
 even that, it is rule by Agent Smith, beyond fascism (the nation is sacred) 
 to total monarchy (the King is sacred). ((I always shed a tear for my friends 
 in Thailand at such points in my thought. One nation within which a sizeable 
-proportion of citizens still has a very unhealthy attitude to their 
+proportion of citizens still has a very unhealthy regard for their 
 monarch.))
 
 This leads to the extension of my allegory: humanity in our times is in fact 
