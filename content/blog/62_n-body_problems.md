@@ -483,8 +483,8 @@ Whether you go all Nihilist and pomo, or Nietzsche, in response may indicate
 some political persuasion, but I think I am an optimist (talking about our 
 real world now) because I believe most ordinary people are capable of a more 
 enlightened world view. The one where human beings might seem insignificant, 
-but that we are nonetheless amazing creatures. As are any other aliens 
-civilization in our universe who are sentient and have developed science 
+but that we are nonetheless amazing creatures. As are any other alien 
+civilizations in our universe who are sentient and have developed science 
 and technology. 
 
 The big lie is that sentience is a total accident.
@@ -534,8 +534,8 @@ it frickin' worked!))
 
 The plot problem is really about how an individual's bitter experience can 
 lead them to think of all of humanity as evil and irredeemable. It's an 
-incredibly childish ans self-centred attitude. The truth is, and I think 
-most people are like this, we can save th animals, save the biosphere, and 
+incredibly childish and self-centred attitude. The truth is, and I think 
+most people are like this, we can save the animals, save the biosphere, and 
 also love humanity. These are not contradictory or mutually exclusive 
 options. To think otherwise is an imbecilic rotten apple fallacy.
 
@@ -548,19 +548,31 @@ it anyway) the greater a people are spiritually, the greater will be their
 science. The greater will be many of their aspects. Greater in *both* 
 abstract spiritual and material advancement awesomeness. Moreover, in such wise 
 a tiny insignificant creature on a mundane living planet, might reach out to 
-the stars. IT will not be long in the grand scheme of things before human do 
+the stars. It will not be long in the grand scheme of things before humans do 
 reach the stars. By then, the "insignificance" of any one human might, I 
-suppose, be regarded by fools as cause to think our lives have no cosmic 
-importance, but to the more sagacious and wise it can be true one puny life 
-has a lot of meaning, by virtue of its tiny insignificant contribution to the 
-whole.
+suppose, might still be regarded by fools as cause to think our lives have no 
+cosmic importance, but to the more sagacious and wise it can be true one puny 
+life has a lot of meaning, by virtue of its tiny insignificant contribution to 
+the whole.
 
 As I keep trying to remind some tentatively nihilist MMT friends who give up 
-on elections for government, no one votes seems to count, but in fact they 
+on elections for government, no one vote seems to count, but in fact they 
 all do and that is the power of summation. Addition is a powerful thing.
 
+Subtraction is also a powerful thing, once you get to zero you are dead. 
+
+When people withhold their vote in elections they are ceding power to those 
+who do vote, so it is disgusting defeatism. Using your vote to register a 
+protest means voting for someone or something, not abstaining. Unless the 
+result of mass abstinence is some good (abstain from voting when there is 
+only one horrible choice). But if you abstain it seems morally incumbent upon 
+you to exert great effort to create a better system where your vote is 
+worthwhile, is it not?
+ 
 I say, give up on political parties --- they are anathema for a decent 
-society. But do not give up your vote.
+society. But do not give up your vote.  Do not rely solely upon the collective 
+power of a vote either.  All means available for peaceful revolution need to 
+be employed.
 
 
 ## An Excellent Dialogue
@@ -576,7 +588,7 @@ me at least, worth writing about... and with my allegorical interpretation too.
 
 Ye Wenjie likens scientists now to the Church of old, who thought Copernicus 
 as guilty of heresy, Bruno and d'Ascoli worth the stake, and Galileo worth 
-the Spanish Inquisition. Or she says, "Maybe we are like the Church." Meaning 
+the Spanish Inquisition. She says, "Maybe we are like the Church." Meaning 
 with respect to today's scientific apostates.
 
 It is a lot less dramatic for physics these days though, than it is for 
@@ -617,7 +629,8 @@ nihilism. I hope that's not the case. Getting immersed into a story
 is a wonderful form of entertainment, but if the bubble is shattered it's 
 kinda' depressing, which defeats the purpose.))
 
-Interestingly, although I am not close friends with Warren Mosler, I think he 
+Interestingly, although I am not close friends with Warren Mosler, only a 
+friendly acquaintance, I think he 
 has a moral component to his work over the decades on what became MMT. He has 
 always said he talks to anyone in power or schools or the general public who 
 is listening, out of a sense of public duty and moral obligation. Few other 
@@ -643,7 +656,9 @@ frequency.
 
 ### Blackpill versus Pomo
 
-About the pill colours. They come from the red-pill/blue-=pill choice in *The Matrix*. I use "blackpill" almost synonymously with nihilism, thought they are not the same.
+About the pill colours. They come from the red-pill/blue-pill choice in 
+*The Matrix*. I use "blackpill" almost synonymously with nihilism, though 
+they are not the same.
 
 From the [online Britannica encyclopedia](https://www.britannica.com/topic/red-pill-and-blue-pill#ref1318063):
 > The manosphere generally refers to a vast network of websites and blogs 
@@ -732,7 +747,7 @@ On this issue... I've watched plenty of action movies, superhero, Marvel,
 Batman, Superman, stuff in my life to to know "state propaganda" is pervasive 
 and relative.
 
-Half the time Holly wood probably does not know it is doing propaganda, It's 
+Half the time Hollywood probably does not know it is doing propaganda, It's 
 like Noam Chomsky used to say, you do not have to believe you are a 
 propagandists to be doing propaganda, more likely you're self-selected. Only 
 natural born establishment shills get promoted to high rank in mainstream 
@@ -766,7 +781,8 @@ What's that about? The romantic cinematic scenes started to get a bit trite
 too, although I like the slowish pace they introduce. I'm only watching and 
 reading along because I'm very depressed at the moment. Been a hard few 
 weeks on top of a hard few months on top of a hard five years after five 
-years of bitter-sweet bliss. 
+years of bitter-sweet bliss that got surgically removed from my heart with 
+a thousand blunt chainsaws. 
 
 ### Technicomedies
 
@@ -780,7 +796,7 @@ the fall off in frequency is gradual, a power law presumably.
 are more like conventional magnetohydrodynamic boundaries. In 
 *Three Body Problem* Liu Cixin has to invent a nice little fantasy physics 
 into the story to get the million-fold magnification of microwave 
-transmissions he needs. But it is a cool soft scifi plot device. *J'approuve*.'))
+transmissions he needs. But it is a cool soft scifi plot device. *J'approuve*.))
 
 The comedy angle is the TV series depicts Ye Wenjie's thesis as a stair case 
 profile of frequencies. They should have used a power law fall off with 
@@ -792,8 +808,8 @@ profile was a bit fishy. School teachers take note! Try it on your students.
 Come to think of it, this is the really serious good of shows like 
 *Three Body*. They make some excellent school teaching resources for discussion. 
 
-From bitter experience I've learn the "physics of scifi" lessons are not good 
-in school that have a national standards examination focus. But for younger 
+From bitter experience I've learned the "physics of scifi" lessons are not good 
+in schools that have a national standards examination focus. But for younger 
 and older kids (50 years +, or under 12 years) these fantasy resources make 
 nice motivation for informal discussion and "college dorm room" banter.
 
@@ -824,6 +840,11 @@ and more realistic.
 
 ((Note: the Netflix version might be different, I do not know.))
 
+(((I do not yet know if the story is about alien First Contact. Just a third 
+of the way in, but the Red Coast Base satellite must surely become a first 
+contact instrument?)))
+
+
 Liu Cixin did get it right mostly though, where it mattered, because he had 
 the one anti-hero, Wang Miao, respond to the miracles realistically. That was 
 incredibly important for me to stick with the book. Wang Miao realized the 
@@ -837,7 +858,7 @@ in *Three Body Problem* might not be "available".  Too bad I say. Eliminate
 them!  Make the story more believable. It would be a better work of art. As 
 it stands, Remembrance of Earth's Past is probably a scifi classic, but not 
 reaching the level of literary epic. I will probably still finish the trilogy.
-Stay tuned them for more on the 3BP allegory.
+Stay tuned then for more on the 3BP allegory.
 
 The real gripe I have here is a very general critique of all literature and 
 movies when it comes to heros. If you have a single character as the hero or 
@@ -847,8 +868,9 @@ need to write a novel this way, with a main central protagonist/heroine/hero.
 The same trope ruined *The Expanse* --- although I loved those books too, to 
 me, just subjectively, they were epic, although not great literature. 
 
-Does Iain Banks write form a more humanistic perspective? Ursula LeGuin?  If 
-they have I've not heard of the novels. 
+Does Iain Banks write from a more humanistic perspective? Ursula LeGuin?  If 
+they have I've not heard enough about their novels. (Hey, I can only spare 
+the time to read about one scifi novel a year.)
 
 <div style="text-align: center;">*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 *</div>
@@ -900,7 +922,7 @@ probably wrong.
 
 There is however a hybrid of Turok--Boyle and Penrose, due to Anthony Lasenby 
 and colleagues, which is that a far future conformal symmetry could possibly 
-be "lived thorough" (for elementary particles, not biological life) but the 
+be "lived through" (for elementary particles, not biological life) but the 
 universe on the other side would be time reflected with respect to ours. That's 
 a wild one to wrap your head around, but "follow the math". It is not illogical 
 nor inconceivable.
@@ -910,6 +932,8 @@ I cannot quite turn it to useful allegory.
  
  
 ## Redemptionists versus Adventists
+
+**Spoilers:** ok, it is about alien first contact.
 
 Oh no! No, no! The story got too stupid for me. The factions loyal to "Lord" 
 (the advanced alien civilization) start doing the whole anti-religious 
@@ -956,18 +980,19 @@ treat actual ants.)
 There are many flaws in the analogy, but the biggest is that a 
 superintelligence will conform to *our* pretend analogies!  Another is the 
 idea hierarchies of intelligence will recapitulate (a fractal sociology 
-notion. There is no justification for this thesis.
+notion). There is no justification for this thesis.
 
 In fact, I am pretty cynical about the Ai tech industry. I think they are 
 capable, even innocently, of drumming up fear of an Ai singularity just to 
 fuel their research. I call it Nerd Capitalism.
 
-But heck, better to fund the nerds than the Military, I say. 
+But heck, better to fund the nerds than the Military, I say. Although, you'd 
+like to fund the Einstein's not the Oppenheimer's and Teller. Not all nerds 
+were compiled equal.
 
-The think about Nick Bostrom, Connor whatshisname, whatshisname Eliezer, and 
-whatshisname Hinton
---- all the Ai Singularity fear-mongers --- is that their inferences are bogus.
-But why? Can I prove they are wrong?
+The thing about Nick Bostrom, Connor whatshisname, whatshisname Yudkowsky, 
+and whatshisname Hinton --- all the Ai Singularity fear-mongers --- is that 
+their inferences are bogus. But why? Can I prove they are wrong?
 
 No, I cannot prove they are wrong. We just cannot well-predict the future. 
 The problem here is one of probability theory. The Ai nerds want you to 
@@ -985,6 +1010,18 @@ What is the worst case scenario though?
 Once again, they have no idea. They have worst case nightmares and dreams, 
 but so do I, and mine are not the same as theirs. Who is to say whose 
 nightmares are more realistic?
+
+Our biggest closest threat coming from Ai is the powerful and wealthy people 
+seeking to monopolize the technology, not the robots themselves.
+
+What's more, all the false psychology. Robots do not take way worker wages. 
+They take away shit jobs. Every shit job removed from a human worker's daily 
+burden is a win. Only the MMT aware know this means *more* cash for worker 
+wages is affordable without inflation risk. Why? Because we aught to be 
+commissioning the Ai robots to produce real output for human and other 
+planetary needs. That means all humans can work fewer hours producing *that* 
+output. But this also means people can work for higher wages doing more 
+interesting things. Like producing awesome scifi novels, our curing cancer.
 
 My claim would be what we fundamentally have to deal with politically and 
 globally is an ethical macroeconomics, a spiritual economics, and a fair go 
