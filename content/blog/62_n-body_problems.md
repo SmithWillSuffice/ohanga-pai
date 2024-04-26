@@ -45,8 +45,12 @@ humans are portrayed as pseudo-religious. They've wilfully, one presumes,
 ignored general relativity (time dilation effects). Presumably the attempt to 
 Redeem humanity is merely an attempt to show the Trisolarians humans are 
 capable of solving incredibly hard but useless mathematics puzzles. 
-(Cryptocurrency all over again!) Or at least that's they way I have to read 
-the novel to enjoy it!
+(<font style="color: #dab720;">Cryptocurrency</font> all over again! 🤣) Or at 
+least that's they way I 
+have to read the novel to enjoy it!
+
+((Oh no! I can already feel this blog post is going to have the highest lol 
+emoji density of them all.))
 
 It has been a rather silent triumph of Twentieth and 21st century mathematics 
 that stable solutions to the gravitational three body problem 
@@ -61,24 +65,31 @@ more for lay readers [here](https://blbadger.github.io/3-body-problem.html)
 Remarkably, in 1912 Karl Fritiof Sundman proved there is a way to compute 
 the general solution to the gravitational 3-body problem. Unfortunately it is 
 totally impractical. In any case, the gravitational problem of most interest 
-to us is for our solar system, which is what... a 10-body problem? That means 
-ignoring the moons of planets and the asteroid belt. So you might be surprised 
-that in the real world solar systems are fairly stable even though mathematics 
-says they should generically not be stable. The resolution is found in knowing 
-the time scales involved.  NASA or any future space engineers, can safely plot 
-trajectories for spacecraft on year-long time scales because the typical time 
-periods over which our solar system becomes unpredictable are extremely long 
-in duration. Also, space navigators do not need to know analytical solutions, 
-they can compute approximate trajectories numerically with decent precision. 
-Again, that's because they are operating with time scales far shorter than 
-that of the orbits of the planets and moons.
+to us is for our solar system, which is what... a 10-body problem?${}^\dagger$ 
+That means ignoring the moons of planets and the asteroid belt. So you might be 
+surprised that in the real world solar systems are fairly stable even though 
+mathematics says they should generically not be stable. The resolution is 
+found in knowing the time scales involved.  NASA or any future space engineers, 
+can safely plot trajectories for spacecraft on year-long time scales because 
+the typical time periods over which our solar system becomes unpredictable are 
+extremely long in duration. Also, space navigators do not need to know 
+analytical solutions, they can compute approximate trajectories numerically 
+with decent precision. Again, that's because they are operating with time 
+scales far shorter than that of the orbits of the planets and moons.
+
+(${}^\dagger$A reddit'er, who else, points out the Trisolarians face a 4-body 
+problem, since they have three Suns, plus their planet.😂 Completely missing 
+the point that on a calendar prediction time-scale the perturbations of a 
+planet on a star are truly negligible. Even with chaotic motion. If you cannot 
+measure the initial configuration of the three stars within a millimetre, then 
+your puny planet's effect will be less than the chaotic motion divergence.)
 
 Also, to emphasize the point: instability and predictability are totally 
 different concepts. Our solar system is both, it is for sure 
 unpredictable, but might also be unstable. However this matters little to 
 human space explorers because the time over which planetary motions get 
 unpredictable is on the order of years or maybe centuries (I am not exactly 
-sure of the typical time period off the top of my head), not hours or days.
+sure of the typical time period off the top of my head), not days or years.
 Even if our solar system is stable over millions of years (no planets will 
 collide or shoot off to infinity) it is still unpredictable over perhaps 
 thousand year intervals. That just means we need a lot more data to predict 
@@ -155,7 +166,7 @@ The honest truth is there is far too much physics that gets stretched in
 letting it rest, except for when there is an interesting literary angle to 
 comment upon.
 
-The first one worth mentioning in the 3BP virtual reality game character, 
+The first one worth mentioning is the 3BP virtual reality game character, 
 von&nbsp;Neumann. He and the game's Isaac Newton, along with the main 
 protagonist Wang Miao, convince a feudal emperor to build a human computer, 
 with 30 million soldiers doing essentially mindless logic gate tasks. The 
@@ -166,7 +177,7 @@ pedantic gripe, because Liu Cixin writes the correct realist reason the 30 milli
 soldier computer fails to predict the Trisolar orbits --- namely the Newtonian 
 dynamics model lacked general relativity corrections.
 
-Knowing this, you might ask why the classical three body problems to this day 
+Knowing this, you might ask why the classical three body problem to this day 
 still attracts some mathematicians? I cannot tell you why, except that 
 mathematicians are fond of torture.
 
@@ -178,7 +189,7 @@ fits my definition of *religion* --- which is "A source of Good."  The
 Redemptionists believe their solving the 3BP will lead to good for all, so 
 it is at least a pseudo-religion. It is also a false religion because their 
 solving the 3BP is not a source of Good. It is merely a source of interesting 
-mathematics, inapplicable to the real world, which is morally neutral.))
+mathematics which is morally neutral, inapplicable to the real world.))
 
 Why are mathematicians so fond of torture? Why would they work on a Newtonian 
 mechanics problem that has no real world applications?
@@ -189,7 +200,7 @@ three body problem pure art, not science. But so what? Mathematics is *art*!"
 I happen to agree with this attitude. But you should know it is painful art. 
 One never knows when a piece will be finished, nor whether certain subjective 
 standards of elegance will be met. Often the aesthetics really suck. But the 
-humble mathematicians indulges in this tortuous art anyway. 
+humble mathematician indulges in this tortuous art anyway. 
 
 Applied Mathematics is very different, for here one does seek utility in 
 physics or other sciences, and no one alive today working on the Newtonian 
@@ -210,12 +221,12 @@ and they are... what?... less than a handful in number, and totally useless
 for astronomical applications. (Fascinatingly, these maximally symmetric 
 solutions are very useful in theoretical work, because a couple of them 
 describe ideal approximations to at least two very important real physical 
-phenomena: the entire cosmos, and black holes.)
+phenomena: the entire cosmos, and rotating black holes.)
 
 Having said that, with enough computing power general relativistic systems, 
 like colliding black holes, can be pretty well simulated these days, so the 
 lesson there is with gargantuan enough compute power, the classical three 
-body problem has about the same status as a general gravitational problem. 
+body problem has about the same status as a relativistic gravitational problem. 
 All of them are hard problems in real applications. 
 
 The astounding thing is that the Newtonian three body problem is so damn 
@@ -244,7 +255,7 @@ and solvable. The class of such solvable statistical mechanics systems are
 those in equilibrium. Thermal equilibrium.
 
 This has concern for my macroeconomics and political economy allegory. The 
-macroeconomic system we live within is --- luckily --- not in thermal equilibrium 
+macroeconomic system we live within is --- luckily${}^\ddagger$ --- not in thermal equilibrium 
 in any sense. This is essentially why neoclassical economics does not work.
 (And also why, perhaps to the chagrin of some socialists, why Austrian School 
 economics is not entirely stupid. The Austrians are dummies only because they 
@@ -252,12 +263,15 @@ think gold is currency and "free markets" are possible, neither of which is
 true, so in the end they are as rotten as the neoclassicals. Being half-right 
 in a field where Justice and Trust matter is as good as being all wrong.)
 
+${}^\ddagger$"Luckily" because an economic system in equilibrium would mean we 
+are all dead.... or all Borg.
+
 As the baby of all hard chaos dynamics problems, the three body problem has 
 a sort of mythic status. That is another reason why pure mathematicians might 
 like the problem. (By the way, the Trisolarians, like humans, would have known 
 this well before being capable of interstellar travel.)  How would we know 
 macroeconomic systems are in a state of equilibrium?  We would know if the 
-macroeconomic could be well-described by a small number of dynamical variables 
+macroeconomics could be well-described by a small number of dynamical variables 
 (analogies to temperature, volume, density &c.)
 
 In fact, our macroeconomic systems (taken per country, say) are 
@@ -272,8 +286,9 @@ extend the analogy somewhat comically, while the Sun does not know what it is
 doing to us, nor do politicians in government know what they are doing to the 
 macroeconomy.  I take this *not* as an argument against government and for 
 anarchy, but rather an argument for a better informed and educated 
-government. If you have something as powerful as the Sun, it could be a good 
-idea to use it for the greater Good.
+government. If you have something as powerful as the Sun but exists next door 
+at room temperature and has eyes and ears and an email account, it could be 
+a good idea to use it for the greater Good.
 
 Does that sound like an endorsement of authoritarianism to you? It should not, 
 but to see why... read onwards!
@@ -283,7 +298,7 @@ but to see why... read onwards!
 
 Whoa! Liu Cixin is no Proust. Although, to be fair, Proust is a little 
 over-rated. I loved reading _À la Recherche du Temps Perdu_ when I was a 
-teenager, but when I matured I better understood why the Monte Python skit is 
+teenager, but when I matured I better understood why the Monty Python skit is 
 even funnier than it first appears.  The Proustian romance and pathos is one 
 thing, but you really can't appreciate it until you've lived a good life and have 
 experienced true loss of love and loss of innocence. Same for 
