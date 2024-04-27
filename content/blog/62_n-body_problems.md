@@ -1014,14 +1014,30 @@ nightmares are more realistic?
 Our biggest closest threat coming from Ai is the powerful and wealthy people 
 seeking to monopolize the technology, not the robots themselves.
 
-What's more, all the false psychology. Robots do not take way worker wages. 
-They take away shit jobs. Every shit job removed from a human worker's daily 
-burden is a win. Only the MMT aware know this means *more* cash for worker 
+What's more, all the false psychology in macroeconomics --- it is equally a 
+threat to human well-being. Robot automation does not take away worker wages. 
+They take away shit jobs. Any useful work an Ai bot can do is by definition a 
+shit job.  This does not mean quality control and oversight of the Ai 
+systems --- for those are shit jobs that must always be a human worker's 
+burden. Those people need decent wages, but even more importantly such workers 
+need good healthcare. The Ai system has to have such costs factored in, and if 
+that makes them unprofitable it is then up to government to worry about whether 
+the Ai service is socially necessary and therefore needs to be subsidized 
+or nationalized. 
+Primarily the question for Ai automation is: is it actually reducing human 
+labour burdens and overall increasing human well-being? Such questions can be 
+hard to answer, and we might get them wrong sometimes, but they are not 
+impossible to estimate and we have to do so.
+
+Every shit job removed from a human worker's daily 
+burden, without introducing more shit jobs or pollution elsewhere, is a win 
+for humanity. 
+Only the MMT aware know this means *more* cash for worker 
 wages is affordable without inflation risk. Why? Because we aught to be 
 commissioning the Ai robots to produce real output for human and other 
 planetary needs. That means all humans can work fewer hours producing *that* 
 output. But this also means people can work for higher wages doing more 
-interesting things. Like producing awesome scifi novels, our curing cancer.
+interesting things. Like producing awesome scifi novels, or curing cancer.
 
 My claim would be what we fundamentally have to deal with politically and 
 globally is an ethical macroeconomics, a spiritual economics, and a fair go 
