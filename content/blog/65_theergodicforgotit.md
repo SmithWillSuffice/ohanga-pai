@@ -76,7 +76,7 @@ economy. It just means all past human history where power elites have been
 found, it has been diabolically nasty and brutal.
 
 In [Yonatan Berman’s model](https://www.youtube.com/watch?v=V7j4eO4Kbls&list=UULFJG8N5P1RFX29JTKt_6R21A&index=2&pp=iAQB) 
-the main control parameter $\tau$ alolows for interactions between individuals, 
+the main control parameter $\tau$ allows for interactions between individuals, 
 and this is what allows the dynamics to become non-ergodic.
 
 It is seriously important in the econophysics, because non-ergodicity is 
