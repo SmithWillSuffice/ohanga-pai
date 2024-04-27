@@ -1050,7 +1050,7 @@ their condition.
 
 ### Nihilism
 
-I do "get" the strong theme of nihilism in **THree Body*./ Humans suck.
+I do "get" the strong theme of nihilism in *Three Body*. Humans suck.
 
 But it is a prejudice of our times. It is a jaundiced view of humanity that 
 originates from looking only at the evil people do, and ignoring all the good. 
@@ -1058,7 +1058,7 @@ To be wise one needs to weight such extremes.  Although I'm no anthropologist,
 I would suspect if we weight the acts people do, and have done, overall the 
 human species is truly marvellous and wonderful. 
 
-It is however a fair enough plot device to sue. Because a few cynics can 
+It is however a fair enough plot device to use. Because a few cynics can 
 certainly spoiled things for millions. I'll thus be interested in reading on 
 to see where Liu Cixin takes this. But it could get boring, and tell us more 
 about Liu Cixin's blinkered view of humanity than about what he could have
@@ -1066,7 +1066,7 @@ learned from life and reflected in his scifi art.
 
 ### Redemptionists
 
-(Oh, anti-puniness.)
+(Or, anti-puniness.)
 
 Man oh man! The Redemptionists in the story get a terrible treatment. Avoiding 
 spoilers, here I want to comment on the bit of modern fable that Liu Cixin 
@@ -1192,8 +1192,12 @@ and we will invade you. Please to not communicate!"
 Cixin tries to motivate this via an alienation among humans, and the 
 loneliness of Ye Wenjie. But I find that character sketch unbelievable. A real 
 life Ye Wenjie would probably not betray the entire human race like that!
-The plot seem far more symptomatic of Liu Cixin's pessimism than of a good 
+The plot seems far more symptomatic of Liu Cixin's pessimism than of a good 
 well written story. I know I'm only reading a translation... but still!!
+
+Also... I *know* it is pointless critiquing fiction, ... but I can't help 
+myself. Call it post Twitter withdrawal syndrome. (Yeah, I gave up that 
+gaping hole of enshittification.)
 
 Let me emphasize, it is not a bad scifi fantasy to read, it gives me this 
 grist to write! I just wish it were not so cringe.
@@ -1235,7 +1239,7 @@ alien species?  Why would that be so? The far more realistic case would be
 the opposite. They'd be more peaceful and spiritual than us, not less, and by 
 a long way.
 
-Pre-21st Century Scifi writers are not "getting" this. I mean, the whole 
+Pre-22nd Century Scifi writers are not "getting" this. I mean, the whole 
 dystopian thing and space war thing is a terrible prejudice of our times. 
 *Star Wars* is literally children's entertainment fodder. Yeah, I loved 
 *Star Wars* as a kid, it was our generation's *The Matrix*. But a grown-up can 
@@ -1248,12 +1252,12 @@ could have been more spiritual. To write of the future in a spiritual way is
 tough, I "get" that! But I wish more scifi authors would try.
 
 It is a greater art to write tension and intrigue without childish baby 
-militarism. But let's face it, humanity is at an adolescent stage in history, 
+militarism. But let's face it, humanity *is* at an adolescent stage in history, 
 so most people cannot see what the adult futuristic scifi could be. If I wrote 
 the novel of this kind it would likely flop. Maybe Ursula LeGuin wrote a few 
 of the kind I would admire, but so far I've only read a couple of her books, 
 and they seemed to me to have a bit of a "humans are stupid" and 
-"war is inevitable" vibe to them t🤣oo.
+"war is inevitable" vibe to them too. 🤣
 
 
 ## Two Proton Theory
@@ -1263,7 +1267,7 @@ The fun stuff blogging about scifi in real-time. How are the Trisolarians
 using two protons to "shut down human science"? I am guessing it'll be 
 entanglement, so quantum teleportation. It's soft scifi because you cannot 
 exploit teleportation without first going to the other end of your entangled 
-system at conventional sub-luminal speed. I guess the 7-dimensional string 
+system at conventional sub-luminal speed. I guess the 6/7-dimensional string 
 theory space, the Calabi-Yau manifold, will come into play too, but I cannot 
 see how that swings the plot to permit a disruption of human science over 
 400 years! 
@@ -1274,7 +1278,7 @@ bad novel.
 
 **Spoilers:**  
 OK, I read through to where the *sophons* are explained. 
-Superstring theory! 🤣  Protons being "unfolded" so that one of the 
+Superstring theory it is! 🤣  Protons being "unfolded" so that one of the 
 6 Calabi-Yau compactified dimensions becomes macroscopic. It was disappointing 
 that this plot device was used to then etch computer logic arrays onto the 
 enlarged dimension, turning the single proton into a supercomputer. Once a
@@ -1291,10 +1295,10 @@ entertainment.
 There have to be dozens of better ways to scifi imagine a stealth 
 supercomputer carrying an Ai program as a weapon against Earth. I would 
 probably go for nanobots that can assemble to mimic a natural biological 
-species, like an ant. ^he processing could be done partly remote, using 
+species, like an ant. The processing could be done partly remote, using 
 entangled Bell pairs, and all the ant would need to do would be to receive 
 radio signals for the quantum teleportation decoding. (A quantum teleport is 
-not possible at faster-then-light speed. The receiver needs to be sent an 
+not possible at faster-than-light speed. The receiver needs to be sent an 
 instruction via normal space channels.) Having such realistic constraints is 
 good for a scifi writer.
 

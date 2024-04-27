@@ -166,7 +166,6 @@ unheard of charity and altruism on a global scale, it'd be unjust even in the
 ergodic regimes, given present neoliberal policy dominance.
 
 
-
 What more can be said?
 
 Well I know: a helluva lot more. People need to know MMT. Governments need to 
@@ -178,6 +177,90 @@ at worst, tantamount to murder by government design or ignorance.
 
 You cannot claim moral righteousness if you think there is no 
 alternative.
+
+
+## Interest Rate Effects
+
+Although MMT scholarship is pretty clear in interest rate effects, it is 
+not crystal clear, because the macroeconomics is highly non-linear and 
+dynamical and non-linear. Interest rate have "perverse" effects, meaning they 
+can be pro-inflationary (most oftne) but under some conditions can stifle 
+effective demand.
+
+The LSE EgodicityEcon group have a write-up where they advocate low interest 
+rates, but I thought they offer an incorrect analysis, so I wrote this comment 
+to them:
+
+> Hey, in your write-up 
+<https://ergodicityeconomics.com/2017/08/14/wealth-redistribution-and-interest-rates/> 
+you get interest rates slightly wrong. Most loans are fixed rate, so lowering 
+the interest rate does not help the poor too much, except to slow down 
+inflation. High rates are one-to-one pro-inflationary through interest-income 
+and forward price effects, given propensities of savers to spend and borrowers 
+to save are empirically about equal. But in fact moderate inflation helps with 
+a bit with fixed rate debt, since it means higher nominal income servicing a 
+fixed rate debt. It still sucks that most lower income families in debt have 
+to also pay higher CPI prices, but nevertheless, if they stay afloat a moderate 
+rate of inflation helps them pay off fixed rate debts faster. Which means a 
+higher interest rate tomorrow helps them to pay off past lower fixed rate debt.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The more serious inequality issue is with debts that cannot be repaid out of income flow.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debts that cannot be paid should be 
+forgiven, since in the macro they are a drag on effective demand or 
+currency circulation, and we all know healthy effective demand is a healthy 
+economy. Debts that can be repaid can be serviced out of income flow. That 
+suggests decent wages buttressed by a Job Guarantee wage floor is the superior 
+policy to ineffective monetary policy.  It is called fiscal dominance.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yeah, central bank interest rates should 
+be permanent zero (ZIRP) and this is non-inflationary, once you understand the 
+source of the price level. Chartered banks can always operate for a profit 
+from the spread rate, and they always do, they can make loans regardless of 
+the CB rate. The constraint on bank credit is the number of credit-worthy 
+borrowers. Banks do not lend reserves or deposits, they issue credit simply 
+by marking-up the customer's bank account, the currency is created *ex nihilo*, 
+in receipt of a promissory note to repay (also in the form of a credit card 
+agreement). The licensed software operationally does not permit a bank to 
+lends reserves or deposits.  Moving around deposits is what non-bank trusts 
+need to do, since they do not have access to the legal means to create the 
+currency *ex nihilo*, if they tried they'd be jailed for counterfeit. Chartered 
+banks do not operate like this, they have a license to create the currency 
+*ex nihilo* by computer account entries (albeit with severe penalties for 
+fraudulent issuance --- they do need to find or "generate" a 
+credit-worthy borrower).   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guess what helps create more 
+credit-worthy customers? --- a higher CB rate, since the CB/Treasury rate is 
+essentially a basic income scheme: 
+*_basic income but only for people who already have money in proportion to how much money they already have._*".
+
+Follow-up:  
+> As for folks who fear forgiving debts can lead to instability and rampant 
+inflation, let me just say they are ignoramuses. Effective demand has never 
+been a *_cause_*  of hyperinflation (the causation goes the other way, with 
+usually war reparations, massive corruption, or severe natural disasters the 
+cause), and moderate inflation is a good thing --- it erodes the purchasing 
+power of hoarded wealth, encourages more circulation and reduces the burden of 
+past debt, provided wages go with. The way to get wages "going with" is via 
+Job Guarantee wage floor. The CB sets the interest rate floor by votes, the 
+Parliament must set the wage floor, also by a vote. There is no market force 
+obstacle at play for a monopoly currency issuer, unless the politicians 
+falsely act as if there is market pressure. They can tell the bond traders 
+to pi55 off. The government does not need to borrow it's own fiat currency.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax returns and bonds do not finance the 
+government. Taxes help resource the government in *_real terms_* --- the 
+tax liability generates demand for the otherwise worthless currency. Tsy Bonds 
+are an interest rate maintenance operation, an asset swap, not a borrowing 
+operation.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the discipline on banks has to be 
+understood. It never works out if the liability side is chosen as the place 
+for discipline. For starters no customers know the risk, to think they do is 
+laughable. The proper place for discipline is on the asset side. The proper 
+policy is to give banks unlimited overdraft at the CB, to ensure payments 
+clearing, and discipline the banks on the asset side. You tell banks only 
+what they can do, and that is to (1) run the payments clearing, (2) assess 
+credit worthiness. Do not allow them anything else. Bankers are dangerous 
+animals and need to be kept in cages.
+
+Quite a bit of channelling Mosler the GOAT there, which I will always do 
+given half a chance.
 
 
 
