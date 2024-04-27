@@ -79,24 +79,106 @@ In [Yonatan Berman’s model](https://www.youtube.com/watch?v=V7j4eO4Kbls&list=U
 the main control parameter $\tau$ allows for interactions between individuals, 
 and this is what allows the dynamics to become non-ergodic.
 
-It is seriously important in the econophysics, because non-ergodicity is 
-characteristic of the real-world. The long time average of a distribution of 
-wealth is not the same as the average over all infinite possible ensembles.
-models where the time average equals the ensemble average are ergodic, and 
-this is not the real-world situation. 
+It is seriously important in the econophysics, because ergodicity is 
+thought to be characteristic of the real-world under typical circumstances. 
+The long time average of a distribution of wealth is the same as the average 
+over all infinite possible ensembles.
 
 ((Why so seriously important? It is because these econophysics models are all 
 about the statistical mechanics, so the statistical characteristics are the 
 only thing they need to get right, so they need to get (non)ergodicity --- and 
 other statistical characterizations --- right, if nothing else.))
 
+Models where the time average does *not* equal the ensemble average are 
+non-ergodic, and this is the real-world situation when there are increasing 
+returns to wealth and decreasing returns to the poor. The Gilded Age, the 
+Great Depression, and the Neoliberal era, are possible non-ergodic periods 
+in our recent history, times when the rich got not only richer, but 
+obscenely richer --- in relative terms.
+
+The base model is *random multiplicative growth* --- which means the growth 
+in wealth over a distribution is dominated completely by random exchange.
+This is non-ergodic.
+
+The first adjustment for reality is a reallocation term, with parameter $\tau$, 
+which governs how one individual contribute aa fraction of their wealth every 
+time period to a common pool, this pool is then split evenly between 
+everyone.  The model is very simple,
+$$
+dx\_i = x\_i \left(\mu \\, dt + \sigma\\, dW\_i (t)\right) - \tau\left(x\_i - \braket{x}\_N\right)\\, dt
+$$
+The first term in  parentheses is the geometric Brownian random exchange 
+effect, the second is the reallocation.
+
+
+For simple analysis $\tau$ is taken to be the same for everyone, which means 
+the amount of wealth put into the common pool is the same proportion of an 
+individual's current wealth. The rich contribute more than the poor, but in 
+equal percentages.
+
+For $\tau>0$ people with wealth greater than the population mean 
+$\braket{x}_N$ is a net contributor, while the poorer are net receivers.
+This is the ergodic regime.
+
+(Technically, the reallocation model is ergodic if $\tau > tau\_c$ for some 
+threshold $\tau\_c$, but for a large enough population $\tau\_c \approx 0$.)
+
+In the ergodic regime rescaled wealth converges in time. Although it still 
+has a "disgusting" Pareto tail (technically an inverse $\Gamma$ distribution), 
+it is at least telling us that government have a role to play in fairly 
+redistributing nominal wealth. Why? Because in the real world everyone knows 
+redistribution does not occur. The rich can afford tax evasion, and the poor 
+not only have a tax burden but also tend to need to borrow from banks just to 
+not starve --- through no fault of their own (why the hell are they being 
+taxed? There is no good reason.)
+
 In particular, the models show that in times when in the real world the 
-effective $]\tau <0$ are times of increasing return to the rich, when 
+effective $\tau <0$ are times of increasing return to the rich, when 
 inequality soars. These are non-ergodic periods. It is pretty revealing to 
 see the data estimates showing the periods in recent history where such 
 instability occurs, the following screenshot is Barman's data.
 
 {{< nonergodic_wealth_reallocation >}}
+
+The light grey bands are the regions where $\tau <0$ for the USA, the 
+non-ergodic regimes where wealth inequality grows and people with negative 
+wealth arise.
+
+For $\tau < 0$ the dynamics are non-ergodic. One interesting thing is that 
+Berman characterizes this regime by the effect on the poorest:
+> In this regime some individuals end up with *negative* wealth, even if all 
+start with positive wealth.
+
+The long neoliberal era period from 1980 to today where $\tau < 0$ is  as 
+story of a new gilded age. Crushing for the poor and the working middle 
+class. Boom times for the rentiers and grifters.
+
+Currently then, under present government policy, pretty much across the world, 
+we are in a terrible era of non-ergodic wealth allocation effects, $\tau < )$, 
+and *_the reallocations are from the poor to the rich._*
+
+What it also shows is that the default assumptions in mainstream economics: 
+that reallocation is ergodic, are unjustified, and often downright invalid.
+But that is the most mild criticism of mainstream economics. I mean... 
+hells bells... everyone *knows* the political economy is unjust, we did not 
+need a model to tells us this is due to non-ergodicity. Without incredible 
+unheard of charity and altruism on a global scale, it'd be unjust even in the 
+ergodic regimes, given present neoliberal policy dominance.
+
+
+
+What more can be said?
+
+Well I know: a helluva lot more. People need to know MMT. Governments need to 
+know what the full policy space available to a monopoly currency issuer is, 
+if only so they know their policy is designed to benefit the rich and crush 
+the poor. The first step to denouncing neoliberalism is to know what the 
+policy does and why the policy is stupid, at best, horrific class warfare 
+at worst, tantamount to murder by government design or ignorance.
+
+You cannot claim moral righteousness if you think there is no 
+alternative.
+
 
 
 ### All We Need is a Warp Drive
