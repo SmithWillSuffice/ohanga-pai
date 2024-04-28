@@ -1,5 +1,5 @@
-<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>N-body Problems</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="N-body Problems"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/"><meta property="og:type" content="article"><meta property="article:published_time" content="2024-04-19"><meta property="article:modified_time" content="2024-04-19"><meta property="og:updated_time" content="2024-04-19"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebSite","@id":"https://smithwillsuffice.github.io/ohanga-pai/"},"headline":"N-body Problems","description":"","url":"https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/","inLanguage":"en","datePublished":"2024-04-19","dateModified":"2024-04-19","wordCount":"13089","publisher":{"@type":"Person","name":"Bijou M. Smith"},"author":{"@type":"Person","name":"Bijou M. Smith","description":"Random mathematician."}}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
-<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>N-body Problems</h1><p>Published on <time datetime=2024-04-19>2024-04-19</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#the-turkey-economists>The Turkey Economists</a><ul><li><a href=#farmer-versus-shooter-models>Farmer versus Shooter Models</a></li></ul></li><li><a href=#chaos-theory>Chaos Theory</a><ul><li><a href=#instability-versus-unpredictability>Instability versus Unpredictability</a></li><li><a href=#hard-scifi-gripes>Hard scifi Gripes?</a></li></ul></li><li><a href=#remembrance-of-earths-past>Remembrance of Earth&rsquo;s Past</a><ul><li><a href=#the-premise>The Premise</a></li></ul></li><li><a href=#harder-scifi>Harder scifi</a></li><li><a href=#the-farmer-and-the-shooter-hypotheses>The Farmer and the Shooter Hypotheses</a></li><li><a href=#an-excellent-dialogue>An Excellent Dialogue</a><ul><li><a href=#blackpill-versus-pomo>Blackpill versus Pomo</a></li><li><a href=#spoiler-1>Spoiler 1</a></li><li><a href=#technicomedies>Technicomedies</a></li></ul></li><li><a href=#suspended-judgment>Suspended Judgment</a></li><li><a href=#conformal-symmetry>Conformal Symmetry</a></li><li><a href=#redemptionists-versus-adventists>Redemptionists versus Adventists</a><ul><li><a href=#conflict-theory>Conflict Theory</a></li><li><a href=#nihilism>Nihilism</a></li><li><a href=#redemptionists>Redemptionists</a></li><li><a href=#authorial-insertion>Authorial Insertion</a></li><li><a href=#the-crud-of-advanced-aliens>The Crud of Advanced Aliens</a></li></ul></li><li><a href=#two-proton-theory>Two Proton Theory</a></li><li><a href=#preliminary-----90-through>Preliminary &mdash; 90% through</a></li></ul></nav></details><h2 id=the-turkey-economists><a class=anchor href=#the-turkey-economists title='Anchor for: The Turkey Economists.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Turkey Economists</h2><p>Are our mainstream economists turkeys or flat-worlders?</p><h3 id=farmer-versus-shooter-models><a class=anchor href=#farmer-versus-shooter-models title='Anchor for: Farmer versus Shooter Models.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Farmer versus Shooter Models</h3><p>Change of pace from recent posts today. I revert like a child to hard scifi
+<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>N-body Problems</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="N-body Problems"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/"><meta property="og:type" content="article"><meta property="article:published_time" content="2024-04-19"><meta property="article:modified_time" content="2024-04-19"><meta property="og:updated_time" content="2024-04-19"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebSite","@id":"https://smithwillsuffice.github.io/ohanga-pai/"},"headline":"N-body Problems","description":"","url":"https://smithwillsuffice.github.io/ohanga-pai/blog/62_n-body_problems/","inLanguage":"en","datePublished":"2024-04-19","dateModified":"2024-04-19","wordCount":"13595","publisher":{"@type":"Person","name":"Bijou M. Smith"},"author":{"@type":"Person","name":"Bijou M. Smith","description":"Random mathematician."}}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>N-body Problems</h1><p>Published on <time datetime=2024-04-19>2024-04-19</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#the-turkey-economists>The Turkey Economists</a><ul><li><a href=#farmer-versus-shooter-models>Farmer versus Shooter Models</a></li></ul></li><li><a href=#chaos-theory>Chaos Theory</a><ul><li><a href=#instability-versus-unpredictability>Instability versus Unpredictability</a></li><li><a href=#hard-scifi-gripes>Hard scifi Gripes?</a></li></ul></li><li><a href=#remembrance-of-earths-past>Remembrance of Earth&rsquo;s Past</a><ul><li><a href=#the-premise>The Premise</a></li></ul></li><li><a href=#harder-scifi>Harder scifi</a></li><li><a href=#the-farmer-and-the-shooter-hypotheses>The Farmer and the Shooter Hypotheses</a></li><li><a href=#an-excellent-dialogue>An Excellent Dialogue</a><ul><li><a href=#blackpill-versus-pomo>Blackpill versus Pomo</a></li><li><a href=#spoiler-1>Spoiler 1</a></li><li><a href=#technicomedies>Technicomedies</a></li></ul></li><li><a href=#suspended-judgment>Suspended Judgment</a></li><li><a href=#conformal-symmetry>Conformal Symmetry</a></li><li><a href=#redemptionists-versus-adventists>Redemptionists versus Adventists</a><ul><li><a href=#conflict-theory>Conflict Theory</a></li><li><a href=#spoiler-the-trisolarian-need-for-invasion>Spoiler: The Trisolarian need for invasion</a></li><li><a href=#nihilism>Nihilism</a></li><li><a href=#redemptionists>Redemptionists</a></li><li><a href=#authorial-insertion>Authorial Insertion</a></li><li><a href=#the-crud-of-advanced-aliens>The Crud of Advanced Aliens</a></li></ul></li><li><a href=#two-proton-theory>Two Proton Theory</a></li><li><a href=#preliminary-----90-through>Preliminary &mdash; 90% through</a></li></ul></nav></details><h2 id=the-turkey-economists><a class=anchor href=#the-turkey-economists title='Anchor for: The Turkey Economists.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Turkey Economists</h2><p>Are our mainstream economists turkeys or flat-worlders?</p><h3 id=farmer-versus-shooter-models><a class=anchor href=#farmer-versus-shooter-models title='Anchor for: Farmer versus Shooter Models.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Farmer versus Shooter Models</h3><p>Change of pace from recent posts today. I revert like a child to hard scifi
 when depressed and unable to focus.
 <em><a href=https://en.wikipedia.org/wiki/The_Three-Body_Problem_%28novel%29 target=_blank>Three Body Problem</a></em>
 was recommended, but sadly it turned out to be very soft scifi. Still&mldr; it
@@ -633,7 +633,9 @@ entertainment.</p><h3 id=conflict-theory><a class=anchor href=#conflict-theory t
 into ideological conflict when there is uncertainty. So it is not at all
 unrealistic that the ETO in <em>Three Body</em> would splinter into factions. This
 fits with plenty of allegories, as I just mentioned. I will suck-it-up then
-and continue reading.</p><p>However, I do like my scifi more when the super-powerful aliens are ethical.
+and continue reading. (Later on I will get to the spoiler where Cixin Liu
+paints the Trisolarians motives for wanting to invade the Earth, but I have
+not read up to it yet in the book.)</p><p>However, I do like my scifi more when the super-powerful aliens are ethical.
 Why would they not be?</p><p>The worst dis-analogy people have about this is getting reflected in
 contemporary society in the form of the fear of Ai superintelligence. The idea
 is supertintelligent Ai might treat the human species as ants. This is
@@ -644,7 +646,7 @@ idea hierarchies of intelligence will recapitulate (a fractal sociology
 notion). There is no justification for this thesis.</p><p>In fact, I am pretty cynical about the Ai tech industry. I think they are
 capable, even innocently, of drumming up fear of an Ai singularity just to
 fuel their research. I call it Nerd Capitalism.</p><p>But heck, better to fund the nerds than the Military, I say. Although, you&rsquo;d
-like to fund the Einstein&rsquo;s not the Oppenheimer&rsquo;s and Teller. Not all nerds
+like to fund the Einstein&rsquo;s not the Oppenheimer&rsquo;s and Teller&rsquo;s&rsquo;. Not all nerds
 were compiled equal.</p><p>The thing about Nick Bostrom, Connor whatshisname, whatshisname Yudkowsky,
 and whatshisname Hinton &mdash; all the Ai Singularity fear-mongers &mdash; is that
 their inferences are bogus. But why? Can I prove they are wrong?</p><p>No, I cannot prove they are wrong. We just cannot well-predict the future.
@@ -674,30 +676,48 @@ wages is affordable without inflation risk. Why? Because we aught to be
 commissioning the Ai robots to produce real output for human and other
 planetary needs. That means all humans can work fewer hours producing <em>that</em>
 output. But this also means people can work for higher wages doing more
-interesting things. Like producing awesome scifi novels, or curing cancer.</p><p>My claim would be what we fundamentally have to deal with politically and
+interesting things. Like producing awesome scifi novels, or curing cancer.</p><p>The interesting thing is, if we were all content to live humbly, we would
+have zero need for Ai. Humanity survived for centuries without the robots.
+But if we collectively desire ever higher standards of living, and the
+necessary healthcare support is going to consume vast resources, then we
+will probably need a lot more automation.</p><p>My claim would be what we fundamentally have to deal with politically and
 globally is an ethical macroeconomics, a spiritual economics, and a fair go
 for all people. It has nothing to do with Ai. Ai can be used as a tool to
 emancipate the working class, but it is only a tool. This means dismantling
 old power structures and replacing them with power and authority that serves
 the interests of the poorest. For the poor did not get a vote in determining
-their condition.</p><h3 id=nihilism><a class=anchor href=#nihilism title='Anchor for: Nihilism.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Nihilism</h3><p>I do &ldquo;get&rdquo; the strong theme of nihilism in <em>Three Body</em>. Humans suck.</p><p>But it is a prejudice of our times. It is a jaundiced view of humanity that
+their condition.</p><h3 id=spoiler-the-trisolarian-need-for-invasion><a class=anchor href=#spoiler-the-trisolarian-need-for-invasion title='Anchor for: Spoiler: The Trisolarian need for invasion.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Spoiler: The Trisolarian need for invasion</h3><p>Gawd, it was bit disappointing. The Trisolarian militarists are scared of
+humans. They realize human science advances at a faster pace than
+Trisolarian. OK. It is a good enough plot device.</p><p>They also have not figured out Magneto brain helmets to shield their thoughts.
+(we will assume humans could figure out how to HUD display a Trisolarian&rsquo;s
+brain beamed thought. LOL.)</p><p>I dunno though. I am going cold on the whole trilogy. Why do the Aliens always
+need to be a threat? It&rsquo;s xenophobic. It is also disgusting, given actual
+border humanitarian crises on our actual Earth. The heart yearns for a cool
+scifi novel without xenophobia as the default contact reaction.</p><p><em>The Expanse</em> was such a cool series. Placing the human conflict where it
+truly is for real. It&rsquo;s class conflict, it always has been. Racism is a
+fairly new human invention, and some say (though I am no expert on this) a
+lot of racism was invented to fuel capitalism. (Liberal meaning of the word
+&ldquo;capitalism&rdquo; &mdash; includes slavery of all forms, including tying pencil
+pushers and paper shufflers to desks, even when they&rsquo;re not complaining
+about it. Look-up <em>Bullsh$\ast$t Jobs</em>.)</p><h3 id=nihilism><a class=anchor href=#nihilism title='Anchor for: Nihilism.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Nihilism</h3><p>I do &ldquo;get&rdquo; the strong theme of nihilism in <em>Three Body</em>. Humans suck.</p><p>But it is a prejudice of our times. It is a jaundiced view of humanity that
 originates from looking only at the evil people do, and ignoring all the good.
 To be wise one needs to weight such extremes. Although I&rsquo;m no anthropologist,
 I would suspect if we weight the acts people do, and have done, overall the
 human species is truly marvellous and wonderful.</p><p>It is however a fair enough plot device to use. Because a few cynics can
-certainly spoiled things for millions. I&rsquo;ll thus be interested in reading on
+certainly spoil things for millions. I&rsquo;ll thus be interested in reading on
 to see where Liu Cixin takes this. But it could get boring, and tell us more
 about Liu Cixin&rsquo;s blinkered view of humanity than about what he could have
 learned from life and reflected in his scifi art.</p><h3 id=redemptionists><a class=anchor href=#redemptionists title='Anchor for: Redemptionists.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Redemptionists</h3><p>(Or, anti-puniness.)</p><p>Man oh man! The Redemptionists in the story get a terrible treatment. Avoiding
 spoilers, here I want to comment on the bit of modern fable that Liu Cixin
 draws upon for his plot. It is the idea that humans are puny, insignificant
-and un-special.</p><p>I actually find this laughable. But understandable, And so also a crux.
+and un-special.</p><p>I actually find this laughable. But understandable. And so also a crux.
 I&rsquo;ll try to explain.</p><p>Firstly the capacity we have to see ourselves as either special or
 insignificant is pretty significant. It&rsquo;s not a paradox, since the &ldquo;out&rdquo; is
 clearly that we are special. Any creature that gains sentient subjective
 consciousness knows it is special, and it is ignorance of physics to fail to
-see this. People who think humans are just highly evolved apes are missing
-everything&mldr; shall I be fair and say they are missing nearly everything.</p><p>Secondly, I take the Copernican Principle seriously: this is the idea that
+see this. People who think humans are just highly evolved apes are
+missing&mldr; everything&mldr; or shall I be fair and say they are missing
+nearly everything.</p><p>Secondly, I take the Copernican Principle seriously: this is the idea that
 it&rsquo;s not a good idea to think you are the centre of the universe. Clearly
 humans are not centres of the universe. However, this does not logically lead
 to the conclusion we are insignificant. It just means we are not the centre.
@@ -706,7 +726,7 @@ scientific notion that the cosmos does not have a privileged status for any
 one observer or plant. It is a key principle of modern science. As I
 explained before, it&rsquo;s about symmetry principles and invariants, these are
 what define physics.</p><p>But again, this refutes the nihilist thesis, because the very fact human
-civilization has proven capable of discovering the principle of physics
+civilization has proven capable of discovering the principles of physics
 (and so much more at higher levels of organization) implies again, we are
 highly significant creatures. Don&rsquo;t write us off you mad Adventists!</p><p>I don&rsquo;t want to write an essay on this, so I&rsquo;ll mention just a third and fourth
 point for now (I can think of many more). The third is the simplistic idea
@@ -716,20 +736,28 @@ mention, but I feel I must mention it for some weaker minds. The point is,
 ruler and clock scale is not a great metric for &ldquo;significance&rdquo;.</p><p>There is no telling what human civilization will become capable of, and so
 concluding right now that we are puny and insignificant is pretty insane.</p><p>Lastly, the fourth: you should consider that humans on Earth might
 in fact advance in future to something like the fictional Trisolarian
-technical advancement. We&rsquo;d be the &ldquo;Lords&rdquo; perhaps top some other &ldquo;backwards&rdquo;
+technical advancement. We&rsquo;d be the &ldquo;Lords&rdquo; perhaps to some other &ldquo;backwards&rdquo;
 planetary civilization. This despite not having the harshness of Trisolaris
 to cut our technological teeth upon &mdash; and that&rsquo;s a fantastical plot device
 to be sure &mdash; ultracapitalism or ultradarwinism! 🤣)</p><p>There is more to say on this fourth principle of non-significance. It
 has relevance to current debates about Ai Singularity. The idea is we&rsquo;d better
-be careful in developing Ai because it might over-run uis and treat humans like
+be careful in developing Ai because it might over-run us and treat humans like
 we treat ants. This is laughable. It is a false inference and a terribly
-childish dis-analogy. For one thing, humans so not have to go around treading
+childish dis-analogy. For one thing, humans do not have to go around treading
 on ants and digging up insects with no concern or compassion. We mess with the
 Earth knowing the insects are <em>likely</em> not conscious. Whereas a hypothetical
-Trisolairan civilization would damn well for sure know humans were sentient.
-Would you believe an advanced alien race to treat humans like ants? No!
-They&rsquo;d treat us like&mldr;b humans. What that means is impossible for us to say,
-because we have nothing relevant to infer from.</p><p>The idea humans are to ants and Trisolarians are to humans is a false analogy.
+Trisolarian civilization would damn well for sure know humans were sentient.
+Would you believe an advanced alien race would treat humans like ants? No!
+They&rsquo;d treat us like&mldr; humans. What that means is impossible for us to say,
+because we have nothing relevant to infer from, except how we treat each other.</p><p>Again, how we treat each other could be a cause for a touch of nihilism,
+but&mldr; hardly! I&rsquo;ve never been treated anything but kindly to indifferent
+by every person on Earth I have ever met. The sockcuckers were all hiding
+online. Actually, I was a victim of crime, a couple of times, but I did not
+know it at the time. OK, case closed I guess, all humans suck and are
+irredeemable! &lsquo;cos&rsquo;, ya know&mldr; if one person can be criminal, well hell
+Cleetus, we all are capable dognabit. 🤣 Send us all to hell Cleetus, be
+quick about it thanks.</p><p>((I know, it&rsquo;s only a story, by so disappointing the gentle scientist
+Ye Wenjie goes all Cleetus&rsquo; Dad on all of humanity. Faaarrrk.))</p><p>Continuing ignoring it is only a story&mldr;</p><p>The idea humans are to ants as Trisolarians are to humans is a false analogy.
 It applies only in some intellectual sense, not in a spiritual sense. Certainly
 not in a political or colonialist/imperialist sense. Ants do not have any
 politics, and have no companions they love and are willing to die for, they
@@ -738,18 +766,21 @@ instinctual, and we talk about &ldquo;ant society&rdquo; by imposing our languag
 the situation, but it is a very different category to human society. Any
 analogies here are highly fraught with ample scope for error and stupid
 reasoning (lobster hierarchy!). This topic is probably worth an essay for
-idiot philosophers, if I had nothing better to do, but I do, so no essay.</p><p>Oh damn&mldr; I cannot resist a fifth: another source of nihilism and feelings
+idiot philosophers, if I had nothing better to do, but I do, so no essay.</p><p>Why is this making <em>Three Body Problem</em> a sucky story? It is because even
+though it is only a story, the authorial &ldquo;god&rdquo; for a good scifi story
+cannot use false analogies. <em>Characters can</em>. Authors not.</p><p>Oh damn&mldr; I cannot resist a fifth: another source of nihilism and feelings
 of insignificance is the individualistic mindset. Sure my friend, <em>You</em> might
 be insignificant, but human civilization need not be so. But I would go
-further. But only because I have a few other metaphysical suspensions. I am
-one of those who think consciousness indicates we are not physical creatures.
-But we live in a physical world. If you can put those tow thoughts together
-in a constructive way then you will get the idea, I won&rsquo;t need to elaborate.
-In any case, it is the most powerful sort of evidence that we are not
-insignificant puny creatures, but rather in some sense the cosmos was made
-for us (and any other sentient civilizations). Being dropped into such a
-vast cosmos is of course humbling, but I think that is entirely part of the
-point of it! If only you can understand!</p><p>Puniness is contextual.</p><p>You hopefully can see where I am going with my macroeconomics and political
+further. But only because I have a few other metaphysical suspensions (did I
+mean to write &ldquo;suspicions&rdquo;?). I am one of those who think consciousness
+indicates we are not physical creatures. But we live in a physical world.
+If you can put those two thoughts together in a constructive way then you
+will get the idea, I won&rsquo;t need to elaborate. In any case, it is the most
+powerful sort of evidence that we are not insignificant puny creatures, but
+rather in some sense the cosmos was made for us (and any other sentient
+civilizations). Being dropped into such a vast cosmos is of course humbling,
+but I think that is entirely part of the point of it! If only you can
+understand!</p><p>Puniness is contextual.</p><p>You hopefully can see where I am going with my macroeconomics and political
 economy allegory!</p><p>We cannot say the past understanding of neoclassical macroeconomics means
 doom for socialism or a decent society. We would need to know what an advanced
 level of political comprehension will do for humanity, and you never know,
@@ -760,8 +791,8 @@ doom and gloom. There is incredible cause for fear and regret, but not for
 doom and gloom. In fact does it not imply the eternal optimist is the
 preferred stance? The wiser stance? I think so.</p><p>Doom and gloom are in fact neoclassical attitudes themselves. Stuck-in-a-rut
 attitudes. No capacity to think dynamically. There is a big irony there,
-since aren&rsquo;t neoclassicals the big boosters of the dynamo of capitalism?'</p><p>Listen you guys, a dynamo that can only swirl about and equilibrium is no
-creative thing. You shouldn&rsquo;&rsquo;t want neoclassical economics even if it were
+since aren&rsquo;t neoclassicals the big boosters of the dynamo of capitalism?&rsquo;</p><p>Listen you guys, a dynamo that can only swirl about an equilibrium is no
+creative thing. You shouldn&rsquo;t want neoclassical economics even if it were
 true.</p><h3 id=authorial-insertion><a class=anchor href=#authorial-insertion title='Anchor for: Authorial Insertion.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Authorial Insertion</h3><p>About two-third the way through the first book. I find myself caring about
 the author now, which is a bad sign for enjoying the story. I don&rsquo;t want the
 story going down the paternal Alien overlord route. Not only is it sucky
@@ -769,7 +800,7 @@ scifi, it starts to seem like betraying the author&rsquo;s motives.</p><p><stron
 Ye Wenjie, push a button on the microwave transmitter to send a message
 of &ldquo;Come please rule over us!&rdquo; just after reading the first ever alien
 contact message: &ldquo;Please do not communicate! I&rsquo;m a pacifist among my people
-and we will invade you. Please to not communicate!&rdquo;</p><p>Cixin tries to motivate this via an alienation among humans, and the
+and we will invade you. Please do not communicate!&rdquo;</p><p>Cixin tries to motivate this via an alienation among humans, and the
 loneliness of Ye Wenjie. But I find that character sketch unbelievable. A real
 life Ye Wenjie would probably not betray the entire human race like that!
 The plot seems far more symptomatic of Liu Cixin&rsquo;s pessimism than of a good
@@ -779,11 +810,13 @@ gaping hole of enshittification.)</p><p>Let me emphasize, it is not a bad scifi 
 grist to write! I just wish it were not so cringe.</p><p>I&rsquo;ll tell you one of the arts of genius writing: you don&rsquo;t need a terrific
 vocabulary nor amazing descriptive prowess, but you do need sympathy for your
 reader. (Unless you are James Joyce &mdash; genius by an entirely other means,
-so genius I can&rsquo;t get through one of his books, I&rsquo;d rather spend time
-reading mathematical physics. 🤣)</p><h3 id=the-crud-of-advanced-aliens><a class=anchor href=#the-crud-of-advanced-aliens title='Anchor for: The Crud of Advanced Aliens.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Crud of Advanced Aliens</h3><p>It&rsquo;s the same trouble with superheros. If you do not build-in flaws and
+such a galaxy brained genius I can&rsquo;t get through one of his books, I&rsquo;d
+rather spend time reading mathematical physics. 🤣)</p><h3 id=the-crud-of-advanced-aliens><a class=anchor href=#the-crud-of-advanced-aliens title='Anchor for: The Crud of Advanced Aliens.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Crud of Advanced Aliens</h3><p>It&rsquo;s the same trouble with superheros. If you do not build-in flaws and
 fallibility, then your advanced alien species that regards humans as puny
 insects is an unbelievable story. Lower than soft scifi, it becomes just
-fantasy novel. I have no time for reading fantasy novels.</p><p>The Trisolarians have no need to invade the Earth. They&rsquo;d be a spiritual
+fantasy novel. I have no time for reading fantasy novels. But I also have
+no time to write this blog post either. Amazing what you can do stealing
+time spaghetti.</p><p>The Trisolarians have no need to invade the Earth. They&rsquo;d be a spiritual
 species. To write the story as if they want to wipe out humanity because to
 them we are insects is thoroughly unbelievable, and it seriously gives me the
 urge to quit reading the book. It&rsquo;s Liu Cixin now who needs to redeem himself.
@@ -805,13 +838,13 @@ be a little more mature and learn to respect more serious scifi space opera,
 which is incredibly rare, and so all the more delicious when found.</p><p>Even the <em>Red Mars</em> series by Kim Stanley Robinson was a bit too militaristic
 for my taste. OK, it was clearly allegory and <em>cautionary tale</em> but it still
 could have been more spiritual. To write of the future in a spiritual way is
-tough, I &ldquo;get&rdquo; that! But I wish more scifi authors would try.</p><p>It is a greater art to write tension and intrigue without childish baby
+tough, I &ldquo;get&rdquo; that! But I wish more scifi authors would try.</p><p>It is a greater art to write tension and intrigue without prepubescent man-baby
 militarism. But let&rsquo;s face it, humanity <em>is</em> at an adolescent stage in history,
 so most people cannot see what the adult futuristic scifi could be. If I wrote
-the novel of this kind it would likely flop. Maybe Ursula LeGuin wrote a few
-of the kind I would admire, but so far I&rsquo;ve only read a couple of her books,
-and they seemed to me to have a bit of a &ldquo;humans are stupid&rdquo; and
-&ldquo;war is inevitable&rdquo; vibe to them too. 🤣</p><h2 id=two-proton-theory><a class=anchor href=#two-proton-theory title='Anchor for: Two Proton Theory.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Two Proton Theory</h2><p><strong>Spoiler:</strong><br>The fun stuff blogging about scifi in real-time. How are the Trisolarians
+the novel of this kind it would likely flop (I mean even if I was a genius
+writer). Maybe Ursula LeGuin wrote a few of the kind I would admire, but so
+far I&rsquo;ve only read a couple of her books, and they seemed to me to have a bit
+of a &ldquo;humans are stupid&rdquo; and &ldquo;war is inevitable&rdquo; vibe to them too. 🤣</p><h2 id=two-proton-theory><a class=anchor href=#two-proton-theory title='Anchor for: Two Proton Theory.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Two Proton Theory</h2><p><strong>Spoiler:</strong><br>The fun stuff blogging about scifi in real-time. How are the Trisolarians
 using two protons to &ldquo;shut down human science&rdquo;? I am guessing it&rsquo;ll be
 entanglement, so quantum teleportation. It&rsquo;s soft scifi because you cannot
 exploit teleportation without first going to the other end of your entangled
@@ -827,12 +860,12 @@ enlarged dimension, turning the single proton into a supercomputer. Once a
 Calibi-Yau dimension is enlarged there is nothing but vacuum to &ldquo;write&rdquo; or
 &ldquo;etch&rdquo; upon. If you engineer some other actual membrane to write information
 on then it will no longer be a proton, by definition. In particular it could
-not then be recompressed back down the small superstring dimensions. Besides
+not then be recompressed back down to small superstring dimensions. Besides
 which, the proton is not a compactified object, it is a composite of strings
-(three constantly mixing quarks and an ephemeral sea of gluons &mdash; these are
-what you might &ldquo;unpack&rdquo; into large extra dimensions)
-So this was highly cringe for a reading physicist wanting some decent
-entertainment.</p><p>There have to be dozens of better ways to scifi imagine a stealth
+(three constantly mixing quarks and an ephemeral sea of gluons &mdash; these far
+more unstable critters are all you could &ldquo;unpack&rdquo; into large extra
+dimensions). So this was highly cringe for a reading physicist wanting some
+decent entertainment.</p><p>There have to be dozens of better ways to scifi imagine a stealth
 supercomputer carrying an Ai program as a weapon against Earth. I would
 probably go for nanobots that can assemble to mimic a natural biological
 species, like an ant. The processing could be done partly remote, using
@@ -853,8 +886,8 @@ this. Nor that their evolution would not have had to go through a period where
 their brains were not so luminous. As I said, cringe.</p><p>Worrisome, since as goes the scifi cringe, so probably goes the sociology and
 political cringe. I cannot see the second novel, <em>The Dark Forest</em> going well
 for a reader like myself.</p><p>However, I did like the way detective Shi Qiang ended the first novel (not the
-horrific nano flying knife slicing of the oil tanker, but the &ldquo;bugs&rdquo; bit.)
-some hope for the optimistic reader, reading scifi for imagination and
+horrific nano flying knife slicing of the oil tanker, but the &ldquo;bugs&rdquo; bit).
+Some hope for the optimistic reader, reading scifi for imagination and
 creative reflection upon our future, amidst too much stupid nihilism.</p><p>It was interesting Cixin wrote the character Ye Wenjie as one who thought
 advanced aliens would almost surely have to be spiritual (kind, compassionate,
 peaceful). In the afterword it seems clear Liu Cixin himself thinks the
@@ -878,10 +911,10 @@ Prime Directive.)</p><p>There is a more balanced view of CETI (communication wit
 <a href=https://api.repository.cam.ac.uk/server/api/core/bitstreams/7e186d38-914c-4175-bd0c-d9501279dd98/content target=_blank>“Mixed Signals Communication with the Alien in Cold War Radio Astronomy”</a>
 by Rebecca Charbonneau. She actually discusses
 <em>Three Body Problem</em>. I did not read it all, since it is irrelevant now the
-Cold War is over, but her thesis mostly concerned historical analysis of the
+Cold War is over, her thesis mostly concerned historical analysis of the
 Cold War politics, not future ET contact.</p><p>I suspect some of the fictional BIll Mather theory might be applicable
 should ET contact just one person or nation tomorrow. (Why would they?)</p><p>OK, Liu Cixin portrays a scenario why they might! That&rsquo;s the fun of the
-scifi.</p><p>((Alos, who knows, maybe Liu Cixin <em>was</em> influenced by some RAND lunatic. A lot
+scifi.</p><p>((Also, who knows, maybe Liu Cixin <em>was</em> influenced by some RAND lunatic. A lot
 of stuff that came out of RAND was laughable Neocon foolery,
 unfortunately cloaked in a lot of serious intent and taken seriously by
 the neoliberals and, it seems, by Liu Cixin. RAND also had plenty of
@@ -895,10 +928,10 @@ material! 🤣</p><h2 id=preliminary-----90-through><a class=anchor href=#prelim
 was militaristic, nor great literature. The answer, for me, is that
 <em>The Expanse</em> had the heroes and heroine&rsquo;s, and collective insanity
 (the Martian faction) but overall it portrayed humans as decent, united when
-they realized they needed to be, and it this was good. But also it was a
-detective story which stayed true to the genre to the end. <em>SciFi</em> was
-essentially (or at least subjectively to me) <em>the</em> McGuffin of <em>The Expanse</em>.
-The greatest McGuffin I&rsquo;ve ever witnessed so far.</p><p>I tolerated a few others, there was a Starz series,
+they realized they needed to be, including most MArtians, and it this was
+good. But also it was a detective story which stayed true to the genre to
+the end. <em>SciFi</em> was essentially (or at least subjectively to me) <em>the</em>
+McGuffin of <em>The Expanse</em>. The greatest McGuffin I&rsquo;ve ever witnessed so far.</p><p>I tolerated a few others, there was a Starz series,
 <a href=https://en.wikipedia.org/wiki/Counterpart_%28TV_series%29 target=_blank>“Counterpart”</a>
 based
 around a parallel world tunnel, and the German production <a href=https://en.wikipedia.org/wiki/Dark_%28TV_series%29 target=_blank>“Dark”</a>
@@ -909,8 +942,8 @@ than reading the novel, so another
 <font style="color: tomato">red flag</font>.</p><p>In my old age I&rsquo;ve learned to dismiss time travel stories, they don&rsquo;t work
 for me, unless used for comedy. Parallel Worlds are no good either, but
 that&rsquo;s a bias I have from my own physics research preferences. So if anyone
-thinks there is scifi entertainment better then <em>The Expanse</em> please tell me.
-The good stuff is good for me when I an low and depressed.</p><p>I will probably persist with <em>Remembrance of Earth&rsquo;s Past</em>, but now I think
+thinks there is scifi entertainment better than <em>The Expanse</em> please tell me.
+The good stuff is good for me when I am low and depressed.</p><p>I will probably persist with <em>Remembrance of Earth&rsquo;s Past</em>, but now I think
 it&rsquo;s going to be more a chore than for entertainment. (Curiosity can do that,
-kills the ).</p><table style="border-collapse:collapse;border=0"><col span=1 style=width:25%><col span=1 style=width:15%><col span=1 style=width:15%><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../61_inflation_starts_with_monopoly>Previous chapter</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=../>Back to</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../63_debt_todos>Next post</a></td></tr><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../61_inflation_starts_with_monopoly>Start from Duelling Monopolies</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=../>TOC</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../63_debt_todos>Debt Todos</a></td></tr></table></article></main></div><footer><div class=req-js><button class=outline-dashed title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#adjust"/></svg></button><input class=outline-dashed type=color list=presets value=#1585d5 title="Change accent color." aria-label="Change accent color."><datalist id=presets><option value=#1f676b><option value=#1585d5><option value=#225670><option value=#dd587c><option value=#902b37><option value=#f3a530><option value=#754e85><option value=#7fc121><option value=#a8314a><option value=#ff7433><option value=#3e6728><option value=#c063bd><option value=#805080><option value=#9d629d><option value=#a064a0><option value=#7daa50><option value=#284531><option value=#285790><option value=#F5A83D><option value=#88aa33><option value=#015660><option value=#bf274e><option value=#bf4242><option value=#51b37c></datalist></div><noscript><p class=noscript>Unable to execute JavaScript. Some features were disabled.</p></noscript></footer><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.6950e59dbd8dfddd111390d85888bb5f9dc2e9c334da7ac1c3bacc92a695610d.css integrity="sha256-aVDlnb2N/d0RE5DYWIi7X53C6cM02nrBw7rMkqaVYQ0=" crossorigin=anonymous><script defer src=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.4268ce940bc6faa510d7b638acc3f08a63501d9504dd3155bfc48d6838ade320.js integrity="sha256-QmjOlAvG+qUQ17Y4rMPwimNQHZUE3TFVv8SNaDit4yA=" crossorigin=anonymous></script>
+kills the catch).</p><table style="border-collapse:collapse;border=0"><col span=1 style=width:25%><col span=1 style=width:15%><col span=1 style=width:15%><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../61_inflation_starts_with_monopoly>Previous chapter</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=../>Back to</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../63_debt_todos>Next post</a></td></tr><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../61_inflation_starts_with_monopoly>Start from Duelling Monopolies</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=../>TOC</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../63_debt_todos>Debt Todos</a></td></tr></table></article></main></div><footer><div class=req-js><button class=outline-dashed title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#adjust"/></svg></button><input class=outline-dashed type=color list=presets value=#1585d5 title="Change accent color." aria-label="Change accent color."><datalist id=presets><option value=#1f676b><option value=#1585d5><option value=#225670><option value=#dd587c><option value=#902b37><option value=#f3a530><option value=#754e85><option value=#7fc121><option value=#a8314a><option value=#ff7433><option value=#3e6728><option value=#c063bd><option value=#805080><option value=#9d629d><option value=#a064a0><option value=#7daa50><option value=#284531><option value=#285790><option value=#F5A83D><option value=#88aa33><option value=#015660><option value=#bf274e><option value=#bf4242><option value=#51b37c></datalist></div><noscript><p class=noscript>Unable to execute JavaScript. Some features were disabled.</p></noscript></footer><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.6950e59dbd8dfddd111390d85888bb5f9dc2e9c334da7ac1c3bacc92a695610d.css integrity="sha256-aVDlnb2N/d0RE5DYWIi7X53C6cM02nrBw7rMkqaVYQ0=" crossorigin=anonymous><script defer src=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.4268ce940bc6faa510d7b638acc3f08a63501d9504dd3155bfc48d6838ade320.js integrity="sha256-QmjOlAvG+qUQ17Y4rMPwimNQHZUE3TFVv8SNaDit4yA=" crossorigin=anonymous></script>
 <script defer src=https://smithwillsuffice.github.io/ohanga-pai/js/katex-custom-render.min.cdeaf561a454e015b169c385f95c72d57d41f906a9bc4100636b18e1e4c15da3.js integrity="sha256-zer1YaRU4BWxacOF+Vxy1X1B+QapvEEAY2sY4eTBXaM=" crossorigin=anonymous></script></body></html>
