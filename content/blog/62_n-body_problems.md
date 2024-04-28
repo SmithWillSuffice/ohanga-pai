@@ -966,7 +966,9 @@ OK, I'm being too sensitive. For sure, history teaches us humans tend to get
 into ideological conflict when there is uncertainty. So it is not at all 
 unrealistic that the ETO in *Three Body* would splinter into factions. This 
 fits with plenty of allegories, as I just mentioned.  I will suck-it-up then 
-and continue reading.
+and continue reading. (Later on I will get to the spoiler where Cixin Liu 
+paints the Trisolarians motives for wanting to invade the Earth, but I have 
+not read up to it yet in the book.)
 
 However, I do like my scifi more when the super-powerful aliens are ethical. 
 Why would they not be?
@@ -987,7 +989,7 @@ capable, even innocently, of drumming up fear of an Ai singularity just to
 fuel their research. I call it Nerd Capitalism.
 
 But heck, better to fund the nerds than the Military, I say. Although, you'd 
-like to fund the Einstein's not the Oppenheimer's and Teller. Not all nerds 
+like to fund the Einstein's not the Oppenheimer's and Teller's'. Not all nerds 
 were compiled equal.
 
 The thing about Nick Bostrom, Connor whatshisname, whatshisname Yudkowsky, 
@@ -1039,6 +1041,12 @@ planetary needs. That means all humans can work fewer hours producing *that*
 output. But this also means people can work for higher wages doing more 
 interesting things. Like producing awesome scifi novels, or curing cancer.
 
+The interesting thing is, if we were all content to live humbly, we would 
+have zero need for Ai. Humanity survived for centuries without the robots. 
+But if we collectively desire ever higher standards of living, and the 
+necessary healthcare support is going to consume vast resources, then we 
+will probably need a lot more automation.
+
 My claim would be what we fundamentally have to deal with politically and 
 globally is an ethical macroeconomics, a spiritual economics, and a fair go 
 for all people. It has nothing to do with Ai. Ai can be used as a tool to 
@@ -1047,6 +1055,29 @@ old power structures and replacing them with power and authority that serves
 the interests of the poorest. For the poor did not get a vote in determining 
 their condition.
 
+
+### Spoiler: The Trisolarian need for invasion
+
+Gawd, it was bit disappointing. The Trisolarian militarists are scared of 
+humans. They realize human science advances at a faster pace than 
+Trisolarian. OK. It is a good enough plot device. 
+
+They also have not figured out Magneto brain helmets to shield their thoughts.
+(we will assume humans could figure out how to HUD display a Trisolarian's 
+brain beamed thought. LOL.)
+
+I dunno though. I am going cold on the whole trilogy. Why do the Aliens always 
+need to be a threat?  It's xenophobic. It is also disgusting, given actual 
+border humanitarian crises on our actual Earth. The heart yearns for a cool 
+scifi novel without xenophobia as the default contact reaction.
+
+*The Expanse* was such a cool series. Placing the human conflict where it 
+truly is for real. It's class conflict, it always has been. Racism is a 
+fairly new human invention, and some say (though I am no expert on this) a 
+lot of racism was invented to fuel capitalism. (Liberal meaning of the word 
+"capitalism" --- includes slavery of all forms, including tying pencil 
+pushers and paper shufflers to desks, even when they're not complaining 
+about it. Look-up *Bullsh$\ast$t Jobs*.) 
 
 ### Nihilism
 
@@ -1059,7 +1090,7 @@ I would suspect if we weight the acts people do, and have done, overall the
 human species is truly marvellous and wonderful. 
 
 It is however a fair enough plot device to use. Because a few cynics can 
-certainly spoiled things for millions. I'll thus be interested in reading on 
+certainly spoil things for millions. I'll thus be interested in reading on 
 to see where Liu Cixin takes this. But it could get boring, and tell us more 
 about Liu Cixin's blinkered view of humanity than about what he could have
 learned from life and reflected in his scifi art.
@@ -1073,15 +1104,16 @@ spoilers, here I want to comment on the bit of modern fable that Liu Cixin
 draws upon for his plot. It is the idea that humans are puny, insignificant 
 and un-special.
 
-I actually find this laughable. But understandable, And so also a crux.
+I actually find this laughable. But understandable. And so also a crux.
 I'll try to explain.
 
 Firstly the capacity we have to see ourselves as either special or 
 insignificant is pretty significant. It's not a paradox, since the "out" is 
 clearly that we are special. Any creature that gains sentient subjective 
 consciousness knows it is special, and it is ignorance of physics to fail to 
-see this. People who think humans are just highly evolved apes are missing 
-everything... shall I be fair and say they are missing nearly everything.
+see this. People who think humans are just highly evolved apes are 
+missing... everything... or shall I be fair and say they are missing 
+nearly everything.
 
 Secondly, I take the Copernican Principle seriously: this is the idea that 
 it's not a good idea to think you are the centre of the universe. Clearly 
@@ -1094,7 +1126,7 @@ explained before, it's about symmetry principles and invariants, these are
 what define physics.
 
 But again, this refutes the nihilist thesis, because the very fact human 
-civilization has proven capable of discovering the principle of physics 
+civilization has proven capable of discovering the principles of physics 
 (and so much more at higher levels of organization) implies again, we are 
 highly significant creatures. Don't write us off you mad Adventists!
 
@@ -1110,24 +1142,38 @@ concluding right now that we are puny and insignificant is pretty insane.
 
 Lastly, the fourth: you should consider that humans on Earth might 
 in fact advance in future to something like the fictional Trisolarian 
-technical advancement. We'd be the "Lords" perhaps top some other "backwards" 
+technical advancement. We'd be the "Lords" perhaps to some other "backwards" 
 planetary civilization. This despite not having the harshness of Trisolaris 
 to cut our technological teeth upon --- and that's a fantastical plot device 
 to be sure --- ultracapitalism or ultradarwinism! 🤣) 
 
 There is more to say on this fourth principle of non-significance. It 
 has relevance to current debates about Ai Singularity. The idea is we'd better 
-be careful in developing Ai because it might over-run uis and treat humans like 
+be careful in developing Ai because it might over-run us and treat humans like 
 we treat ants. This is laughable. It is a false inference and a terribly 
-childish dis-analogy. For one thing, humans so not have to go around treading 
+childish dis-analogy. For one thing, humans do not have to go around treading 
 on ants and digging up insects with no concern or compassion. We mess with the 
 Earth knowing the insects are *likely* not conscious. Whereas a hypothetical 
-Trisolairan civilization would damn well for sure know humans were sentient. 
-Would you believe an advanced alien race to treat humans like ants? No! 
-They'd treat us like...b humans. What that means is impossible for us to say, 
-because we have nothing relevant to infer from. 
+Trisolarian civilization would damn well for sure know humans were sentient. 
+Would you believe an advanced alien race would treat humans like ants? No! 
+They'd treat us like... humans. What that means is impossible for us to say, 
+because we have nothing relevant to infer from, except how we treat each other.
 
-The idea humans are to ants and Trisolarians are to humans is a false analogy. 
+Again, how we treat each other could be a cause for a touch of nihilism, 
+but... hardly! I've never been  treated anything but kindly to indifferent 
+by every person on Earth I have ever met. The sockcuckers were all hiding 
+online. Actually, I was a victim of crime, a couple of times, but I did not 
+know it at the time. OK, case closed I guess, all humans suck and are 
+irredeemable! 'cos', ya know... if one person can be criminal, well hell 
+Cleetus, we all are capable dognabit. 🤣 Send us all to hell Cleetus, be 
+quick about it thanks.
+
+((I know, it's only a story, by so disappointing the gentle scientist 
+Ye Wenjie goes all Cleetus' Dad on all of humanity. Faaarrrk.))
+
+Continuing ignoring it is only a story...
+
+The idea humans are to ants as Trisolarians are to humans is a false analogy. 
 It applies only in some intellectual sense, not in a spiritual sense. Certainly 
 not in a political or colonialist/imperialist sense. Ants do not have any 
 politics, and have no companions they love and are willing to die for, they 
@@ -1138,18 +1184,23 @@ analogies here are highly fraught with ample scope for error and stupid
 reasoning (lobster hierarchy!). This topic is probably worth an essay for 
 idiot philosophers, if I had nothing better to do, but I do, so no essay.
 
+Why is this making *Three Body Problem* a sucky story? It is because even 
+though it is only a story, the authorial "god" for a good scifi story 
+cannot use false analogies. *Characters can*. Authors not.
+
 Oh damn... I cannot resist a fifth: another source of nihilism and feelings 
 of insignificance is the individualistic mindset. Sure my friend, *You* might 
 be insignificant, but human civilization need not be so. But I would go 
-further. But only because I have a few other metaphysical suspensions. I am 
-one of those who think consciousness indicates we are not physical creatures. 
-But we live in a physical world.  If you can put those tow thoughts together 
-in a constructive way then you will get the idea, I won't need to elaborate. 
-In any case, it is the most powerful sort of evidence that we are not 
-insignificant puny creatures, but rather in some sense the cosmos was made 
-for us (and any other sentient civilizations). Being dropped into such a 
-vast cosmos is of course humbling, but I think that is entirely part of the 
-point of it!  If only you can understand!
+further. But only because I have a few other metaphysical suspensions (did I 
+mean to write "suspicions"?). I am one of those who think consciousness 
+indicates we are not physical creatures. But we live in a physical world. 
+If you can put those two thoughts together in a constructive way then you 
+will get the idea, I won't need to elaborate. In any case, it is the most 
+powerful sort of evidence that we are not insignificant puny creatures, but 
+rather in some sense the cosmos was made for us (and any other sentient 
+civilizations). Being dropped into such a vast cosmos is of course humbling, 
+but I think that is entirely part of the point of it!  If only you can 
+understand!
 
 Puniness is contextual.
 
@@ -1170,8 +1221,8 @@ Doom and gloom are in fact neoclassical attitudes themselves. Stuck-in-a-rut
 attitudes. No capacity to think dynamically. There is a big irony there, 
 since aren't neoclassicals the big boosters of the dynamo of capitalism?'
 
-Listen you guys, a dynamo that can only swirl about and equilibrium is no 
-creative thing.  You shouldn''t want neoclassical economics even if it were 
+Listen you guys, a dynamo that can only swirl about an equilibrium is no 
+creative thing.  You shouldn't want neoclassical economics even if it were 
 true.
 
 
@@ -1187,7 +1238,7 @@ It is quite an audacious piece of writing to have the main character,
 Ye Wenjie, push a button on the microwave transmitter to send a message 
 of "Come please rule over us!" just after reading the first ever alien 
 contact message: "Please do not communicate! I'm a pacifist among my people 
-and we will invade you. Please to not communicate!"
+and we will invade you. Please do not communicate!"
 
 Cixin tries to motivate this via an alienation among humans, and the 
 loneliness of Ye Wenjie. But I find that character sketch unbelievable. A real 
@@ -1205,8 +1256,8 @@ grist to write! I just wish it were not so cringe.
 I'll tell you one of the arts of genius writing: you don't need a terrific 
 vocabulary nor amazing descriptive prowess, but you do need sympathy for your 
 reader. (Unless you are James Joyce --- genius by an entirely other means, 
-so genius I can't get through one of his books, I'd rather spend time 
-reading mathematical physics. 🤣)
+such a galaxy brained genius I can't get through one of his books, I'd 
+rather spend time reading mathematical physics. 🤣)
 
 
 
@@ -1215,7 +1266,9 @@ reading mathematical physics. 🤣)
 It's the same trouble with superheros. If you do not build-in flaws and 
 fallibility, then your advanced alien species that regards humans as puny 
 insects is an unbelievable story. Lower than soft scifi, it becomes just 
-fantasy novel. I have no time for reading fantasy novels.
+fantasy novel. I have no time for reading fantasy novels. But I also have 
+no time to write this blog post either. Amazing what you can do stealing 
+time spaghetti.
 
 The Trisolarians have no need to invade the Earth. They'd be a spiritual 
 species. To write the story as if they want to wipe out humanity because to 
@@ -1251,13 +1304,13 @@ for my taste. OK, it was clearly allegory and *cautionary tale* but it still
 could have been more spiritual. To write of the future in a spiritual way is 
 tough, I "get" that! But I wish more scifi authors would try.
 
-It is a greater art to write tension and intrigue without childish baby 
+It is a greater art to write tension and intrigue without prepubescent man-baby 
 militarism. But let's face it, humanity *is* at an adolescent stage in history, 
 so most people cannot see what the adult futuristic scifi could be. If I wrote 
-the novel of this kind it would likely flop. Maybe Ursula LeGuin wrote a few 
-of the kind I would admire, but so far I've only read a couple of her books, 
-and they seemed to me to have a bit of a "humans are stupid" and 
-"war is inevitable" vibe to them too. 🤣
+the novel of this kind it would likely flop (I mean even if I was a genius 
+writer). Maybe Ursula LeGuin wrote a few of the kind I would admire, but so 
+far I've only read a couple of her books, and they seemed to me to have a bit 
+of a "humans are stupid" and "war is inevitable" vibe to them too. 🤣
 
 
 ## Two Proton Theory
@@ -1285,12 +1338,12 @@ enlarged dimension, turning the single proton into a supercomputer. Once a
 Calibi-Yau dimension is enlarged there is nothing but vacuum to "write" or 
 "etch" upon. If you engineer some other actual membrane to write information 
 on then it will no longer be a proton, by definition. In particular it could 
-not then be recompressed back down the small superstring dimensions. Besides 
+not then be recompressed back down to small superstring dimensions. Besides 
 which, the proton is not a compactified object, it is a composite of strings 
-(three constantly mixing quarks and an ephemeral sea of gluons --- these are 
-what you might "unpack" into large extra dimensions)
-So this was highly cringe for a reading physicist wanting some decent 
-entertainment. 
+(three constantly mixing quarks and an ephemeral sea of gluons --- these far 
+more unstable critters are all you could  "unpack" into large extra 
+dimensions). So this was highly cringe for a reading physicist wanting some 
+decent entertainment. 
 
 There have to be dozens of better ways to scifi imagine a stealth 
 supercomputer carrying an Ai program as a weapon against Earth. I would 
@@ -1321,8 +1374,8 @@ political cringe. I cannot see the second novel, *The Dark Forest* going well
 for a reader like myself.
 
 However, I did like the way detective Shi Qiang ended the first novel (not the 
-horrific nano flying knife slicing of the oil tanker, but the "bugs" bit.) 
-some hope for the optimistic reader, reading scifi for imagination and 
+horrific nano flying knife slicing of the oil tanker, but the "bugs" bit). 
+Some hope for the optimistic reader, reading scifi for imagination and 
 creative reflection upon our future, amidst too much stupid nihilism. 
 
 It was interesting Cixin wrote the character Ye Wenjie as one who thought 
@@ -1351,7 +1404,7 @@ Prime Directive.)
 There is a more balanced view of CETI (communication with extraterrestiral intelligence) in a Cold War context you can get here: 
 [“Mixed Signals Communication with the Alien in Cold War Radio Astronomy”](https://api.repository.cam.ac.uk/server/api/core/bitstreams/7e186d38-914c-4175-bd0c-d9501279dd98/content) by Rebecca Charbonneau. She actually discusses 
 *Three Body Problem*. I did not read it all, since it is irrelevant now the 
-Cold War is over, but her thesis mostly concerned historical analysis of the 
+Cold War is over,  her thesis mostly concerned historical analysis of the 
 Cold War politics, not future ET contact.
 
 I suspect some of the fictional BIll Mather theory might be applicable 
@@ -1360,7 +1413,7 @@ should ET contact just one person or nation tomorrow. (Why would they?)
 OK, Liu Cixin portrays a scenario why they might! That's the fun of the 
 scifi.
 
-((Alos, who knows, maybe Liu Cixin *was* influenced by some RAND lunatic. A lot 
+((Also, who knows, maybe Liu Cixin *was* influenced by some RAND lunatic. A lot 
 of stuff that came out of RAND was laughable Neocon foolery, 
 unfortunately cloaked in a lot of serious intent and taken seriously by 
 the neoliberals and, it seems, by Liu Cixin. RAND also had plenty of 
@@ -1384,10 +1437,10 @@ I often stray in my thoughts to think about why, and it was not because it
 was militaristic, nor great literature. The answer, for me, is that 
 *The Expanse* had the heroes and heroine's, and collective insanity 
 (the Martian faction) but overall it portrayed humans as decent, united when 
-they realized they needed to be, and it this was good. But also it was a 
-detective story which stayed true to the genre to the end. *SciFi* was 
-essentially (or at least subjectively to me) *the* McGuffin of *The Expanse*. 
-The greatest McGuffin I've ever witnessed so far.
+they realized they needed to be, including most MArtians, and it this was 
+good. But also it was a detective story which stayed true to the genre to 
+the end. *SciFi* was essentially (or at least subjectively to me) *the* 
+McGuffin of *The Expanse*. The greatest McGuffin I've ever witnessed so far.
 
 I tolerated a few others, there was a Starz series, 
 [“Counterpart”](https://en.wikipedia.org/wiki/Counterpart_(TV_series)) based 
@@ -1400,12 +1453,12 @@ than reading the novel, so another
 In my old age I've learned to dismiss time travel stories, they don't work 
 for me, unless used for comedy. Parallel Worlds are no good either, but 
 that's a bias I have from my own physics research preferences. So if anyone 
-thinks there is scifi entertainment better then *The Expanse* please tell me.
-The good stuff is good for me when I an low and depressed.
+thinks there is scifi entertainment better than *The Expanse* please tell me.
+The good stuff is good for me when I am low and depressed.
 
 I will probably persist with *Remembrance of Earth's Past*, but now I think 
 it's going to be more a chore than for entertainment. (Curiosity can do that, 
-kills the ).
+kills the catch).
 
 
 
