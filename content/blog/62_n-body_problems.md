@@ -1428,6 +1428,34 @@ personal opinions, so don't hate me for them. I am not saying he wrote
 material! 🤣
 
 
+## Critical Non-criticism
+
+I have repeatedly stated, at least four times now I think, that I am not 
+really interested in too much literary criticism. The story is what it is. 
+In fact if I came across a blog like this without the context I would also 
+be pretty disgusted with myself --- it is not my place to criticize 
+Liu Cixin's story-telling.
+
+As I said, I merely found the need to read a novel to get over a bout of 
+depression, and since *The Three Body Problem* became incredibly annoying I 
+felt I had to release some frustrations. I have tried the next best thing, 
+which is to use 3BP as an allegory for my macroeconomic justice activism. 
+And a chance to indulge in a bit of sociological futurology. I think I 
+might continue as I go through the 2nd and 3rd books of the trilogy, as my 
+the mood takes me.
+
+Also I will admit, this blog post is not for my readers, it is just for me.
+If you are enjoying it so far, that's a bonus. I had finished the first novel 
+by the end of the next section, and have decided to keep reading the 2nd, but 
+will not promise more commentary. There is a slim chance the trilogy will 
+become more hopeful, by which I mean more realistic. This probably runs 
+counter to the cultural milieu in contemporary society, where climate 
+change and pollution and endless wars have become a source of deep cynicism 
+and nihilism. "Don't bring a baby into this world!"' But I simply don't 
+share such hopelessness. If for no other reason than hopelessness does our 
+more optimistic scenario chances no good. Also, my particular babies, now 
+young adults, are going to do a lot more good for our society than I ever 
+can.
 
 ## Preliminary --- 90% through
 
@@ -1437,7 +1465,7 @@ I often stray in my thoughts to think about why, and it was not because it
 was militaristic, nor great literature. The answer, for me, is that 
 *The Expanse* had the heroes and heroine's, and collective insanity 
 (the Martian faction) but overall it portrayed humans as decent, united when 
-they realized they needed to be, including most MArtians, and it this was 
+they realized they needed to be, including most Martians, and it this was 
 good. But also it was a detective story which stayed true to the genre to 
 the end. *SciFi* was essentially (or at least subjectively to me) *the* 
 McGuffin of *The Expanse*. The greatest McGuffin I've ever witnessed so far.
@@ -1459,6 +1487,152 @@ The good stuff is good for me when I am low and depressed.
 I will probably persist with *Remembrance of Earth's Past*, but now I think 
 it's going to be more a chore than for entertainment. (Curiosity can do that, 
 kills the catch).
+
+## Yang Dong
+
+I did make it to the end of *Three Body*. Damn.
+
+**Spoilers:** diabolical is not even the harshest word. What happened to 
+Yang Dong was a piece of scifi writing to be sure, that I'd never really 
+read before. I will relate the story in case you do not like reading epic 
+tragedy.
+
+So Ye Wenjie contacts aliens using the Sun as a million-fold amplifier, and 
+asks them to invade the Earth. Her motive is to unifying humanity. 
+(She may yet get her wish, since humans can unify all right, in the face of a 
+common enemy.)  She recognizes she "betrayed" all humankind. 
+
+Worse to come. Mike Evans, an eco-extremist, co-opts Ye Wenjie's ideals and 
+monopolizes contact with the Trisolarians. He plans to destroy the human 
+species, entirely, no jokes, totally serious. His Adventist faction of the 
+ETO has this as their explicit goal. Ye Wenjie has Redemptionist sympathy, 
+those who worship the Trisolarians as potential benevolent overlords. (A whole
+kettle of fishy fish I won't get into, but you probably know my views by now.)
+
+The Trisolarians can only send radio message or a couple of protons to Earth, 
+they do so, takes only a 40 years. The protons arrive by around 2020.
+They have been crafted to store an advanced AI, using unfolded Calabi-Yau 
+manifold dimensions. Trekkies would call this "subspace". They cannot unfold 
+near Earth because they could be nuked. But they can alter microscopic events, 
+and they proceed to mes up fundamental physics experiments, like the LHC stuff 
+and quantum computers. The purpose is to freeze human scientific knowledge, 
+so human cannot ever understand the subspace physics.  This will ensure when the 
+Trisolaran space fleet arrives in about 400 years, human technology will still 
+be relatively primitive.
+
+Plot future? This should not freeze applied physics, so the nanotech 
+developed by the character Wang Maio will be a key thing in any defeat of 
+Trisolaris invasion, one presumes, or part of a defeat. It is shaping up 
+as David vs Goliath. Or Guerilla war more precisely. (War of the Worlds a 
+bit too, but with humans the bugs.) Did I mention the Trisolarians are really 
+friggin mean, nasty and paranoid! But you might be too if your planet was 
+going to dive into your Sun.
+
+The Trisolarians have learned (from Evans) that human science advances rapidly, 
+so would overtake the Trisolarians in that time span.
+
+Have not got to the kicker yet!
+
+Ye Wenjie's daughter, Yang Dong, becomes a theoretical physicist working on 
+String Theory, and doing experimental investigations. This would be a major 
+area of science humans would defeat the Trisolarans with (we presume --- in 
+our real world... nah!).
+
+She becomes a target of the AI sophons (the sentient protons). They mess up 
+her experiments. She concludes, "Physics does not exist." And nihilistically 
+gives up science. Except not so nihilistically. She retires form science and 
+starts to enjoy nature, living without watching new media and doing peaceful 
+things with her husband. 
+
+Trouble is, she logs onto her computer and comes across an old file saved by 
+her mother, which details Ye Wenjie's plans to allow the Trisolarians to 
+invade the Earth. She recognizes the betrayal of her mother. Not only against 
+all humankind, whatever her "good" motives, but also against her own daughter. 
+It is due to the Trisolarians that she could not pursue her first love, 
+theoretical physics. 
+
+We learn that her suicide note had deeper meaning. She wrote, 
+> "Physics does not exist, and *never will exist*.
+
+She realized the Trisolarians were going to destroy humanity, and stopping 
+physics progress was their first strike method. This is what sent Yang Dong 
+into the deeper depression --- that her mother was responsible (at least for 
+lighting a fire she could not control) was the last fatal straw. She was 
+resigned to physics not existing at the Planck scale, but to now learn that was 
+only because of the Trisolarian attack, instigated by her mother,...
+
+... well... maybe most people cannot appreciate the depravity of it, but 
+any scientist could empathize with Yang Dong. She was the first human 
+outside the ETO factions who realized the despair and utter hopelessness of 
+the situation for future humankind.
+
+So... whoa!
+
+I am not sure if this was magnificent scfi-fantasy story-telling, or 
+completely depraved by Liu Cixin? The physics module in my brain says 
+"depraved".
+
+
+# The Dark Forest 
+
+## Wallfacers
+
+The 2nd novel, *The Dark Forest* hints at some incipient human fight-back, 
+using a plot device of a *Wallfacer*. These are chosen humans, just a 
+hand-full, who will be given unparalleled resource access do do whatever the 
+hell they want, with minimalist UN oversight. Their only brief is they cannot 
+communicate with anyone what their strategy is, since the sophons can see and 
+hear and read all. The sophons however cannot read human thought.
+
+Thought-based warfare basically.
+
+The term "Wallfacer" comes from meditation against a blank wall. 
+
+Trouble is, only one of the Wallfacers, Luo Ji, seems to know they're not 
+supposed to blab or reveal their plans. 
+
+(Major plot failure here, since they were all sternly briefed on the entire 
+modus operandi of the Wallfacers, which was to make sure no one has an 
+inkling of what they are up to. You might think the "Let's nuke 'em!" pair 
+are bluffing? But then, what a waste of resource (they are each commissioning 
+ultra-fission bombs, small stars. The sophons can halt nuclear reactions 
+bros.)
+
+But young Luo Ji,  he's taking it easy, giving up, black-pilling, 
+choosing instead to craft the perfect woman lover and live a Bohemian 
+lifestyle in a paradise. (His is the cheapest Wallfacer strategy so far.) 
+
+Or is he?
+
+Hence some mystery and intrigue, just enough to keep me reading. No longer 
+for the sci of the scifi, but for the mystery novel aspect. The character
+Luo Ji seems like a real dick, but you have to think his strategy is to look 
+like a dick.
+
+All the other Wallfacers have a nemesis in the ETO, a *Wallbreaker*, who is 
+there own personal assassin (or disruptor, whichever I guess works.) 
+If nothing else, this is a novel scifi device I think. So, semi-cool I guess.
+
+### Continued Militarism
+
+It is clear Lui Cixin has a pretty warped view of humanity, or at least has 
+chosen that for his portrayals. Too much aggression and militarism. So he 
+gets a lot in Tom Clancy sort of writing, the Generals are dominant, the 
+Civilian leadership muted --- except for UN Sec.Gen Ms Say. (Does the author 
+give her a first name?)
+
+While the Wallfacers and Wallbreakers are terrific new (I think) scifi 
+plot devices, I found them to degenerate into comedy. In this context 
+"comedy" means too cartoonish to be hard scifi respectable. While fantasy 
+scifi does not have to be *hard*, the literature is superior when it is 
+*hard* when it is not necessary to be *soft*."
+
+All such literary critique should be taken in stride. I cannot write a 
+single novel, I'm too lazy, and if I did, because I am lazy, it'd probably 
+read even more cartoonish. But I will not stfu. As I noted before, I am 
+writing this mediation on Three Body Problem for my own depression 
+alleviation. Why are you still reading this?
+
 
 
 

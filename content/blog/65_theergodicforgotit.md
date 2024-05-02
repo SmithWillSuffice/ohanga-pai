@@ -30,7 +30,7 @@ the same qualitative macroscopic behaviour.
 
 Secondly, in the real world governments do not behave as if they have a 
 monopoly control of their own tax credits (aka. the currency) and so a lot of 
-economic injustices occur due to plain ignorance --- a massively tragic for of 
+economic injustices occur due to plain ignorance --- massively tragic form of 
 banal evil. If governments cause unemployment in the first place (as MMT shows) 
 then a morally agnostic government operating according to quasi free market 
 ideology --- welfare for the rich, rugged individualism for the poor --- 

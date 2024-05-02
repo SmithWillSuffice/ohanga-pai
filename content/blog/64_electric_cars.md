@@ -89,7 +89,7 @@ the unemployed resources it just created by imposing the tax, eliminating
 the unemployment It generated.
 
 
-### Eliminating Bullsh$\ast$ Jobs
+### Eliminating Bullsh$\ast$t Jobs
 
 People will often complain about how idealistic youth are desire a "greener"
 economy. A typical reaction might be, "You can't just have free range 
