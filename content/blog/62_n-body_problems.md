@@ -1744,7 +1744,9 @@ a new horror story.
 
 This idea the universe is full of life, so full it is competitive and 
 hyper-darwinistic, is what I would say can be an allegory for our life 
-here on Earth.
+here on Earth. Bloody social darminwists. It's insane how their kind 
+infiltrated popular culture so deeply. Only the Lorde Taylor Swift 
+can save us, and the great philosopher Miley Cyrus.
 
 But I choose for us --- if I had the proverbial magic wand --- to take 
 the higher road of defying a M.A.D. option, and going all out for altruism 
