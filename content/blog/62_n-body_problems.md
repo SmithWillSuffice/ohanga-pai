@@ -1772,6 +1772,48 @@ front of collective humanity, and in that distortion you can see how we
 should not behave, and how we will not behave. First of all, let's just 
 Kill All Neoliberals though.
 
+### Why the Horror?
+
+Just my reading ok, it is a horror story.
+
+Another terrific more hard scifi read qas Greg Egan's *Diaspora*. It was 
+also horror. In the end... meaningless. Or as next to it. But it's from 
+a materialist worldview, so in the end a comedy for someone like me.
+It was a good journey of a read though, as are most Egan novels.
+
+The last novel in the Liu Cixin trilogy, *Death's End*,' seems to get even 
+more horrific, after the tense peaceful stand-off of *The Dark Forest* 
+with the craziest mad M.A.D. 
+
+I do believe in the effectiveness of nuclear deterrence under some conditions, 
+but I think it is a horror that we are born to surpass. It is not supposed 
+to be forever.  *The Dark Forests* ultra-dariwninst cosmic sociology M.A.D 
+is next level horror though. I found it disappointing as a scifi vision, 
+which is why I am reclassifying *Remembrance of Earth's Past* as horror 
+genre. But a lot of popular scifi is horror, more than it is scifi.
+
+*Death's End* does not seem to be changing course.
+
+But it raises a very interesting issue that I am sure we here in the real 
+world will be contemplating and debating, and some already do, which is 
+cheating death.
+
+In *Deaths' End* cryogenic revival is the chosen method, rather than 
+upload into silicon minds. But I guess being a computer nerd Liu Cixin 
+might yet pull that one out too. That's be ultra disappointing. But that's 
+just me.
+
+I find it horrific that we'd even get the choice to continue living in the 
+physical realm. But if you are pseudo-religious and have utter faith in 
+physical materialism I guess you'd leap at the chance to live in this world 
+forever. Eating up finite resources that might otherwise nourish a soul who 
+now will never be born because of your vanity. 
+
+if humans ever did for real manage to cheat death, we'd be destroying life, 
+and on an epic tragic unseen cosmic scale, and in more ways than one.
+
+This is the ultimate horror show. I cannot imagine worse.
+
 
 
 
