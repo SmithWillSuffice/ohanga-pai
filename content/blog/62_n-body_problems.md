@@ -320,6 +320,15 @@ lot of Korean sitcom and romcom drama. I guess they've evolved eyeballs that
 can flicker in sync with subtitle display frequency with no conscious mental 
 effort.
 
+
+### Music Geeks
+
+I liked some of the scores used for the CHoinese TV series that I am following 
+in parallel with reading. The end credits remind me of the theme used 
+in *Donnie Darka* --- *Mad World* by Tears for Fears written by 
+Roland Orzabal. Little touch of genius. I hate to admit my older sister 
+sometimes had good taste in pop music.
+
 ### The Premise
 
 I'll be writing in real-time as I read the novels. Thus without foreknowledge 
@@ -848,9 +857,10 @@ contact instrument?)))
 Liu Cixin did get it right mostly though, where it mattered, because he had 
 the one anti-hero, Wang Miao, respond to the miracles realistically. That was 
 incredibly important for me to stick with the book. Wang Miao realized the 
-miracle of the *countdown* was subjective, and that means the laws of physics are 
-not really vamoosed. It allowed the character to find empathy and friendship with 
-the desultory and roughish, but ultimately loveable, detective Shi Qiang.
+miracle of the *countdown* was subjective, and that means the laws of physics 
+are not really vamoosed. It allowed the character to find empathy and 
+friendship with the desultory and roughish, but ultimately loveable, 
+detective Shi Qiang.
 
 Yes, the response of a realistic community of physicists would in our real 
 world been more like Wang Maio's response, but then i guess a few plot turns 
@@ -1378,6 +1388,14 @@ horrific nano flying knife slicing of the oil tanker, but the "bugs" bit).
 Some hope for the optimistic reader, reading scifi for imagination and 
 creative reflection upon our future, amidst too much stupid nihilism. 
 
+But... you know I'm going to be a nerd about it. The ""we're bugs" speech is 
+pure bullshit motivation, zero reality. why? because of biological scaling 
+laws. bugs can survive and "outwit" humans because **(a)** we are truly intent 
+on eliminating them entirely, **(b)** smaller means faster breeding, 
+vaster numbers, superior robustness. so the analogy of "Bugs to Humans" as 
+"Humans to Trisolarians" does not hold, it does not scale. The larger 
+metabolism the organism, the easier it is to extinct the species.
+
 It was interesting Cixin wrote the character Ye Wenjie as one who thought 
 advanced aliens would almost surely have to be spiritual (kind, compassionate, 
 peaceful). In the afterword it seems clear Liu Cixin himself thinks the 
@@ -1632,6 +1650,125 @@ single novel, I'm too lazy, and if I did, because I am lazy, it'd probably
 read even more cartoonish. But I will not stfu. As I noted before, I am 
 writing this mediation on Three Body Problem for my own depression 
 alleviation. Why are you still reading this?
+
+Anyhow, it was gratifying the Rumsfeld figure "Tyler" got suicided. LOL.
+
+You can see Wallfacer Bill Hine's hair-brained scheme of mind control is 
+going to turn out a bunch of pseudo-religious (meaning anti-religious) 
+nutters. (Guessing the plot is a fun game.)
+
+I would not write such a plot. The UN would not be so stupid. They had a 
+veto over hair-brained Wallfacer strategies. the fudge was to make the 
+mind control voluntary. But any decent UN committee would realize that is 
+going to create violent extremists, who might win the war? But more likely 
+will do more harm than good. But in a fantasy story, this could be a funky 
+bit of story-telling. I will not say it will be fun to read, because I find it 
+repugnant (also disrespectful to the actual UN and Its ideals), but how the 
+story deals with the problem could be redeeming.
+
+You do not need faith in the face of infinite odds against you, you need 
+courage. For it does not matter if you win, what matters is doing the right 
+thing.
+
+When people think "God is dead," it is *not even defeatism*. It is moral 
+decay. But, anti Liu Cixin, just because "society" has morally decayed does 
+not mean all humans are bad. It's the Collectivist fallacy. Sure, humanity is 
+*analogous* to a superorganism, but not equivalent: humanity has no soul 
+or moral conscience. People do. You have to respect all levels.
+
+
+### Glimpses of Humanity
+
+First: what am I still doing here? Answer: I am still under a pretty big 
+shadow of anxiety and depression. But I got all the way through 
+*The Dark Forest*. Some nice scifi plot devices, sort of cool, healthy doses 
+of both wild optimism plus nihilism, which made a good contrast (though way 
+to extreme to by serious, it was a comedy novel).
+
+Black Humour that is. 
+
+Referring first to Bill Hines (the biotech Wallfacer), who hair-brain 
+engineers a "mind seal" system. Brain washes people into a bio hard-coded 
+simple belief. He uses it on himself to convince himself his strategy is 
+correct. LOL. It takes balls to write in a character like that into your 
+novel.
+
+Some of the other wild optimism of humanity (once they realize they can 
+propel a spaceship faster than the Trisolarians) is too comical, but suppress 
+your incredulity and it makes a good story. The trouble is, it was layered 
+on a bit too thick in the English translation, which partly spoiled the big 
+surprise reveal when the small perfectly mirrored, strong force hardened 
+Trisolaran probe obliterated all the human space force within minutes, some 
+hundred or thousand of battle ships armed with *The Expanse* level *Rosinante* 
+weapons and higher. The description of the massacre was a bit thickly laid 
+on too, but I guess justified.
+
+The Black Comedy in outer space with the escaping Fleet was also too heavily 
+laid on tragedy. The reader sympathetic to humanity wants at least some of 
+them to make the voluntary sacrifice and negotiate, to avoid leaving the 
+survivors with the dark guilt trip. But, *c'est la vie* I guess. It's only 
+a damn scifi fantasy story. Author is entitled to rank cynicism.
+
+The *coup de grâce*? I was almost expecting it, but is did mildly surprise me, 
+Luo Ji turns out to defeat the Trisolarians with M.A.D. --- mutually assured 
+destruction --- using the greatest gamble ever. (A half-baked theory of 
+*cosmic sociology*.) Took balls to write that one too. Far too mush 
+Asimov insanity there. But it was residual cool. At least it was not 
+Harry Seldon level incredulity.
+
+I was worth the reading, because at the very end the pacifist from Trisolaris 
+reaches out to Luo Ji and understands both species have spiritual capacity 
+for love, it was simply suppressed among Trisolarans.Understnadbly --- who 
+has time to go mad with love when the next second you might have to 
+dehydrate?  I hope the third novel *Deaths End* does not cynically ruin this, 
+for on Earth a Trisolarian need dehydrate no more. Amen.
+
+My biggest fear: friggin' time travel will ruin the story. Once a scifi 
+author allows time travel, well... it loses appeal for me, it's like 
+Parallel Worlds stuff. Belongs only in glossy colourful; Marvel comics.
+
+
+### The Most Horrific Cautionary Tale?
+
+On way I appreciated the first two novels is as parody. They paint a 
+grime portrait of the stupidity of humanity, but one might say *suitably* 
+caricatured into hyperbole. I no longer think this is Liu Cixin's politics 
+being projected into the reader, it is more a cautionary tale. I still 
+think Cixin's politics are a bit heavy handed and smack of neoconservatism, 
+but they are what they are. I don't let them get in the way of the other 
+lessons one can glean.
+
+In this respect, *Remembrance of Earth's Past* is not adding anything new 
+to our view of ourselves reflected in the mirror of scifi fantasy. But it is 
+a new horror story. 
+
+This idea the universe is full of life, so full it is competitive and 
+hyper-darwinistic, is what I would say can be an allegory for our life 
+here on Earth.
+
+But I choose for us --- if I had the proverbial magic wand --- to take 
+the higher road of defying a M.A.D. option, and going all out for altruism 
+and peace. Humanity can do it. My optimism exceed Cixin's pessimism and 
+neoconservatism. Moreover, if given the magic wand I would not wave it, I 
+would burn it and let everyone know the greater thing is to forge peace 
+ourselves, everyone in it together. No Lord savior. I would say this even 
+knowing there is a God. A true God, not an alien overlord, put us here to 
+solve our own problems, both individually and socially. A magic wand would 
+be redundant and stupid, defeating the entire purpose of human existence.
+
+And... no!  ... it is not *only* because I know MMT. LOL.
+
+I've known in my life more betrayal than Ye Wenjie in the story. I've wanted 
+to die so many times, just to be rid of the suffering. I still would not 
+betray humanity like she did. I would rather suffer alone than betray 
+anyone. Applying the Copernican Principle, I think most people would be 
+more like myself than they'd be like Ye Wenjie. 
+
+You can take your own lessons from the cautionary tale. What I take is that 
+some scifi fantasy stories can distort the mirror they portend to hold in 
+front of collective humanity, and in that distortion you can see how we 
+should not behave, and how we will not behave. First of all, let's just 
+Kill All Neoliberals though.
 
 
 
