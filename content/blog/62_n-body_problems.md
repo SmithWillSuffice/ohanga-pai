@@ -1829,25 +1829,57 @@ from  *Remembrance of Earth's Past*. Here are my take-aways.
 fascists in our own homes. Human civilization can surely overcome the 
 adolescent stage of internecine conflict. Liu Cixin needs to assume not 
 for a long arc storyline of endless fighting and conflict. (Boring!!!)
-* **SciFi is Open*** --- ... to better stories. There is a spiritual SciFi 
+* **SciFi is Open** --- ... to better stories. There is a spiritual SciFi 
 novel yet to be written. It would have a completely different plot structure, 
 and would introduce an entirely new trope. (What's a "new trope" called 
 before it is a trope?)
+* **SciFi is Open** --- if you understand MMT then you can write SciFi 
+stories like Kim Stanley Robinson. But if you know just a little about the 
+spiritual aspects to human beings (or other sentient aliens) you'd know 
+conscious sentience is non-physical in origin, and this opens up 
+non-fantastical but spiritual hard SciFi stories. Just ask: what if in the 
+not-so-distant future most human beings realize our existence is in a 
+physical universe, but *not entirely*?  To write great hard SciFi you need 
+believability and plausibility, or conceivability. Lui Cixin did not have 
+all that.
+* **Pocket universes** --- great metaphor for resource hoarding and 
+selfishness. But it probably worked out in the end ok for Cheng Xin and 
+Guan Yifan. Trouble is, Cixin has 
+not encountered Neil Turok and Latham Boyle, nor considered Sir Roger 
+Penrose's cosmological models. Our universe probably is open (positive 
+cosmological constant), and that is probably a very good thing! Because that 
+is the way information could cross a cosmic aeon boundary. (Both the 
+Turok & Boyle/Lasenby or the Penrose conformal futures, either of these 
+three should work out for our descendants, one or the other).
 * **Anti-Cixin** --- my summary quote from the literature would be from   
 [Bahá‘u‘lláh‘s](https://bahaiteachings.org/poor-midst-trust/)
 *[Hidden Words](https://bahaiteachings.org/poor-midst-trust/)*: 
 "<font style="color: #ee8f99">*O ye rich ones on earth! The poor in your midst are My trust; guard ye My trust, and be not intent only on your own ease.*</font>"
+* **Spiritual Macronomics is Inverse Microeconomics** --- Mosler's aphorism: 
+"<font style="color: #aaeebb">*Economics is the opposite of religion; it is better to receive than to give.*</font>"
+Ah, yes! But that's microeconomics. There is also the MMT aphorism borrowed 
+from convention and Keynes: One of the *fallacies of composition*, or the 
+*Paradox of Thrift*. Net savers are the enemy of macroeconomics, net spenders 
+are the life-blood of an economic system. 
+
+
+(If anyone needs to know, the voice in *The Hidden Words* is not that of 
+Bahá'u'lláh here, it is a meditation from Words allegorically uttered to 
+Muhammad's daughter Fatima --- probably in a dream --- after Muhammad's 
+passing, to console her.  Full title of the Tablet is 
+"The Hidden Words of Fatima".)
+
+When you know a  Baháʼí  allegory or *Hidden Word* you know "wealth" does 
+not mean financial or material wealth! What is the Tree of Wealth?  It is 
+the source of spiritual virtue, not the source of food & beverage yo'!
 
 If there is a better quotation then it is also from *The Hidden Words*:
-> <font style="color: palegoldenrod">*O children of dust! Tell the rich of the midnight sighing of the poor, 
+> <font style="color: palegoldenrod">*O children of dust! Tell the rich of 
+the midnight sighing of the poor, 
 lest heedlessness lead them into the path of destruction, and deprive them 
 of the Tree of Wealth. To give and to be generous are attributes of Mine; 
 well is it with him that adorneth himself with My virtues.*</font>
 
-(If anyone needs to know, the voice in *The Hidden Words* is not that of Bahá'u'lláh here, it is a mediation from Words allegorically uttered to 
-Muhammad's daughter Fatima --- probably in a dream --- after Muhammad's 
-passing, to console her.  Full title of the Tablet is 
-"The Hidden Words of Fatima".)
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
