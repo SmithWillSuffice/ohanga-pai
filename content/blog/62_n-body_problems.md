@@ -1815,7 +1815,39 @@ and on an epic tragic unseen cosmic scale, and in more ways than one.
 This is the ultimate horror show. I cannot imagine worse.
 
 
+## Death's Ending
 
+Well, whaddya know?  I liked the way *Remembrance of Earth's Past* concluded.
+But I lost the macroeconomics & MMT analogy game!  The story got too 
+fantastical. I have not thought too much about MMT recently to bother with 
+keeping up my analogy within an analogy.
+
+It is, after all, much better to take only a first level metaphorical lessons 
+from  *Remembrance of Earth's Past*. Here are my take-aways.
+
+* **Cautionary Tale** --- let's not keep being resource hoarders and 
+fascists in our own homes. Human civilization can surely overcome the 
+adolescent stage of internecine conflict. Liu Cixin needs to assume not 
+for a long arc storyline of endless fighting and conflict. (Boring!!!)
+* **SciFi is Open*** --- ... to better stories. There is a spiritual SciFi 
+novel yet to be written. It would have a completely different plot structure, 
+and would introduce an entirely new trope. (What's a "new trope" called 
+before it is a trope?)
+* **Anti-Cixin** --- my summary quote from the literature would be from   
+[Bahá‘u‘lláh‘s](https://bahaiteachings.org/poor-midst-trust/)
+*[Hidden Words](https://bahaiteachings.org/poor-midst-trust/)*: 
+"<font style="color: #ee8f99">*O ye rich ones on earth! The poor in your midst are My trust; guard ye My trust, and be not intent only on your own ease.*</font>"
+
+If there is a better quotation then it is also from *The Hidden Words*:
+> <font style="color: palegoldenrod">*O children of dust! Tell the rich of the midnight sighing of the poor, 
+lest heedlessness lead them into the path of destruction, and deprive them 
+of the Tree of Wealth. To give and to be generous are attributes of Mine; 
+well is it with him that adorneth himself with My virtues.*</font>
+
+(If anyone needs to know, the voice in *The Hidden Words* is not that of Bahá'u'lláh here, it is a mediation from Words allegorically uttered to 
+Muhammad's daughter Fatima --- probably in a dream --- after Muhammad's 
+passing, to console her.  Full title of the Tablet is 
+"The Hidden Words of Fatima".)
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
