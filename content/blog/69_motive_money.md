@@ -14,7 +14,7 @@ hate. LOL.
 
 The story was broadcast on 
 [CBS 60 Minutes here](https://www.youtube.com/watch?v=VHeWndnHuQs)
---- it is a freakin' _great_+ story, poorly presented. Except well-presented 
+--- it is a freakin' _great_+story, poorly presented. Except well-presented 
 with all the professionalism of corporate news!
 
 Two high school students, Calcea Johnson and Ne'Kiya Jackson, seniors at 
@@ -32,7 +32,7 @@ of this post, which is why the prize incentive was rotten.
 ## Why such a big deal?
 
 1. Trigonometry (ratios of sides of triangles) --- and nothing more --- had 
-not been able to yield a proof of Pythagoras' Theorem for over a thousand 
+not been able to yield a proof of Pythagoras' Theorem for over two thousand 
 years, until 
 [Jason Zimba in 2007](https://forumgeom.fau.edu/FG2009volume9/FG200925.pdf). 
 (It is well worth reading that paper, it is an easy read.)
@@ -75,8 +75,8 @@ lifetime achievements, and so are fair compensation for sacrificing a lot to
 work on serious mathematics. For most people they are more than a wage. The 
 problem is that they are only a wage for **_one person_** and this degrades or 
 
-Alfie Kohn, I dare say, would agree with me. Twitt3r might not, but I'm no 
-longer involved in that swamp.
+[Alfie Kohn](https://www.alfiekohn.org/), I dare say, would agree with me. 
+Twitt3r might not, but I'm no longer involved in that swamp.
 
 
 ### The nuances of wages
@@ -84,7 +84,7 @@ longer involved in that swamp.
 I am not saying students should be paid to go to school. That issue is 
 entirely different. Public education is an investment. It should be fully 
 funded up to available teaching resources.  The private schools like 
-[St Mary's Academy](https://www.stmarys.academy/) need to be crowded out, 
+[St Mary’s Academy](https://www.stmarys.academy/) need to be crowded out, 
 because they are elitist. 
 
 The placements of Calcea and Ne'Kiya are at the school mean other "less 
@@ -108,11 +108,112 @@ environment, a decent breakfast, and parents who are not bitterly struggling
 to survive, who have time to read their children Dr Suess stories, or 
 whatever the better stories are... Spike Milligan.
 
+Besides all this, we (society) do pay for children to go to school. We pay 
+in terms of the real resources committed to schools --- both private and 
+public. As long as we all are paying in real terms, and the teachers 
+especially with their labour time, I think we should demand the public 
+schools get the premium resources. Will this crowd-out the private schools? 
+Yes, I think so, and good riddance.
 
 
+### What about the motive?
+
+The puzzle solving motive is the only motive the students needed.
+
+Would they then bother to solve the problem?
+
+Who knows? But they did not _need_ the money prize motive. Why not? Because 
+they should have been take care of materially, or their parents should have 
+been taken care of, with decent wages. 
+
+> Take the money incentive off the table --- unless it is a socially 
+necessary sh1t job.
+
+Since solving mathematic puzzle is not a sh1t job, we can, and therefore 
+should, take the money off the table, by providing for the students needs, 
+by providing for their parents' or guardians' needs.
+
+"But," the pedant asks, "what if the students then did not bother?" I say two 
+things to this foolishness:
+
+1. So what? If they did not bother to work on the puzzle then no one dies, 
+and they lose out on the chance of discovery. People lose such chances all 
+the time. What you do not know you lost will not hurt you.
+2. This would more likely than not reveal the students were not truly 
+motivated by the money prize, because I bet were finances not an issue, 
+they'd still have worked on the puzzle. 
+3. Everyone is capable of providing their own incentive. If you crack the 
+puzzle treat yourself to a movie -- or whatever floats your boat.
+
+(I guess I suck at arithmetic.)
+
+It is a profound lack of creativity to think the students had no motive 
+other than the money.
+
+It is a reality they _were in fact_ motivated by the monetary prize, because 
+to _them_ US\$500 dollars was a lot of dinero. But that's utterly beside my 
+point. 
 
 
+### But don't wages encrudify labour?
 
+I don't know about that! As I stated, for sh1t jobs wages are bl00dy good. 
+
+For enjoyable jobs we still compensate workers because it is the right 
+thing to do, even if the worker is having such a wonderful larking time of 
+it they cannot care about the money.  In this case, we _take the money off 
+the table_ by paying a wage that is fair and just above what the worker 
+considers fine enough not to care about the amount and care more about the 
+work (enjoyment or utility or both).
+
+But then the neoliberal wank3r utters, "The wage destroys the competition!"
+
+I mean... sure. With a wage the student can take their own f33t sucking 
+time  trying to crack the mathematics puzzle.
+
+But what student you know would be taking their s33t a\$\$ time?
+
+None I know. There is always competition in sciences because others can 
+discover the thing first, and then you've really cocked it up. Discoveries 
+are not like hamburgers, the first one made is the only one made.
+
+(There is an exception for school pedagogy: it is a great thing to give 
+students a solved problem, but get them to try to rediscover a solution. 
+There is still a marvellous thrill in this, but it's not the same. However, 
+this pedagogical thrill of re-discovery is even more important than original 
+discovery, precisely because it is the hamburgers and fries of mathematics 
+and science. Feeds the masses.)
+
+But again, it is profound lack of creativity to think students cannot 
+motivate themselves when they are waged, or have their financial cares met. 
+How would I motivate myself with some pressure? That's so say, I can think 
+of a million ways --- which is to say, the million ways my girlfriend and I 
+can achieve orgasm.
+
+What about the teacher wishing to motivate their students?
+
+Well, for heavens sake do not offer a prize.  You can put a deadline on the 
+puzzle for "recognition". But even deadlines are for dummies.
+
+You can instead just talk to the students! Shock & horror! Does "talking" 
+even work?  I cannot imagine.
+
+> "Hey Calcea and Ne'Kiya Jackson, so you like this challenge problem? 
+Well, this is a tough one, it might take a long time, much effort, many 
+day dreams, and at the end of six months you might get nowhere. Except in 
+the process you'll have learned so much interesting geometry your brain will 
+swell and your mind will be both humbled and proud. Think about that!  
+Now... do you want to give yourself a constraint as a challenge. 
+Say 9 months, but then move on to a new puzzle?"
+
+and then you might say,
+> "... look, if you _also_ want some candy as a prize, we've got \$500 from 
+the school kitty. That'll get all the chocolate you need for a year. Give 
+yourselves that if you crack the puzzle, but work on it because it'll grow 
+your mind, not our belly."
+
+But I personally would _not_ add that bit, it's the real enshittification.
+Am I a mean & nasty teacher? Maybe. But no student of mine ever told me so.
 
 
 
