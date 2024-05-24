@@ -31,7 +31,33 @@ of this post, which is why the prize incentive was rotten.
 
 ## Why such a big deal?
 
+1. Trigonometry (ratios of sides of triangles) --- and nothing more --- had 
+not been able to yield a proof of Pythagoras' Theorem for over a thousand 
+years, until 
+[Jason Zimba in 2007](https://forumgeom.fau.edu/FG2009volume9/FG200925.pdf). 
+(It is well worth reading that paper, it is an easy read.)
+2. Although Calcea Johnson and Ne'Kiya were given the puzzle by the same 
+teacher, and both knew the other was trying to solve it, they worked 
+independently, and each discovered a different new proof.
+3. Finding new proofs of old theorems is hard enough itself. (Let alone 
+finding one most mathematicians considered impossible.)
 
+### The non-circular proof
+
+For the macroeconomists, let me just say that very, _very_ good mathematicians 
+had _[conjectured](https://files.eric.ed.gov/fulltext/ED037335.pdf)_ that 
+that Pythagoras' Theorem proof using _only_ trigonometry functions would 
+be circular, in that it would assume 
+$$
+\sin^2\theta = \cos^2\theta = 1
+$$
+which is of course Pythagoras' Theorem. (You cannot assume in a proof what 
+you are trying to prove!)
+
+BTW, I see this a lot in crackpot physics. People often try to derive the 
+masses of the elementary particles, but they more often than not have 
+implicitly assumed the empirical mass, for the electron, for example, people 
+will take the Compton wavelength as their data.
 
 
 ## The Problem with Prize Money
@@ -51,6 +77,42 @@ problem is that they are only a wage for **_one person_** and this degrades or
 
 Alfie Kohn, I dare say, would agree with me. Twitt3r might not, but I'm no 
 longer involved in that swamp.
+
+
+### The nuances of wages
+
+I am not saying students should be paid to go to school. That issue is 
+entirely different. Public education is an investment. It should be fully 
+funded up to available teaching resources.  The private schools like 
+[St Mary's Academy](https://www.stmarys.academy/) need to be crowded out, 
+because they are elitist. 
+
+The placements of Calcea and Ne'Kiya are at the school mean other "less 
+Catholic"" students do not get a place. This is not their fault of course. 
+I'm saying it is a systematic problem with private schools. Not only do they 
+consume more resources than public schools, the parents are paying for these, 
+and they shouldn't be. There is no reason public schools cannot be as 
+nice and hygienic as these private schools.  The private schools prove the 
+real resources are available.
+
+Sure, sure, admitting less desirable students into the schools messes up the 
+pristine learning environment for these gifted kids. That's a whole other 
+problem though, for another day. you cannot ignore it though, otherwise you 
+give fodder for the elites who demand their kids go to a pristine school if 
+they pay the money. I am not trying to skirt this issue, I am just writing 
+about a different issue today, the prizes & rewards issue.
+
+Let me just say though, that such elitist claptrap can be defeated if we 
+eliminate poverty and allow the riffraff kids to have a dignified living 
+environment, a decent breakfast, and parents who are not bitterly struggling 
+to survive, who have time to read their children Dr Suess stories, or 
+whatever the better stories are... Spike Milligan.
+
+
+
+
+
+
 
 
 
