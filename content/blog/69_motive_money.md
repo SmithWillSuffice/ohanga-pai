@@ -230,7 +230,7 @@ and then you might say,
 > "... look, if you _also_ want some candy as a prize, we've got \$500 from 
 the school kitty. That'll get all the chocolate you need for a year. Give 
 yourselves that if you crack the puzzle, but work on it because it'll grow 
-your mind, not our belly."
+your mind, not your belly."
 
 But I personally would _not_ add that bit, it's the real enshittification.
 Am I a mean & nasty teacher? Maybe. But no student of mine ever told me so.
