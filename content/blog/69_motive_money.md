@@ -14,8 +14,9 @@ hate. LOL.
 
 The story was broadcast on 
 [CBS 60 Minutes here](https://www.youtube.com/watch?v=VHeWndnHuQs)
---- it is a freakin' _great_+story, poorly presented. Except well-presented 
-with all the professionalism of corporate news!
+--- it is a freakin' _great_ story, poorly presented. Except well-presented 
+with all the professionalism of corporate news!  Poorly presented in terms 
+of the real economy, real education and real creativity.
 
 Two high school students, Calcea Johnson and Ne'Kiya Jackson, seniors at 
 St. Mary's Academy, _independently_ discovered new proofs of Pythagoras' 
@@ -56,7 +57,7 @@ you are trying to prove!)
 
 BTW, I see this a lot in crackpot physics. People often try to derive the 
 masses of the elementary particles, but they more often than not have 
-implicitly assumed the empirical mass, for the electron, for example, people 
+implicitly assumed the empirical mass.  For the electron, for example, people 
 will take the Compton wavelength as their data.
 
 
@@ -184,14 +185,16 @@ simply want their fair say in the rules of our society.)
 
 But then the neoliberal wank3r utters, "The wage destroys the competition!"
 
-I mean... sure. With a wage the student can take their own f33t sucking 
+I mean... sure. With a wage the student can take their own fw33t sucking 
 time  trying to crack the mathematics puzzle.
 
-But what student you know would be taking their s33t a\$\$ time?
+But what student you know would be taking their sw33t a\$\$ time?
 
 None I know. There is always competition in sciences because others can 
 discover the thing first, and then you've really cocked it up. Discoveries 
-are not like hamburgers, the first one made is the only one made.
+are not like hamburgers, the first one made is the only one made. Unless 
+you get lucky and the original hamburger gets lost in the 
+<font style="color: #D5B98F">sands of time</font>.
 
 (There is an exception for school pedagogy: it is a great thing to give 
 students a solved problem, but get them to try to rediscover a solution. 
