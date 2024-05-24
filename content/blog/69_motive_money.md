@@ -36,7 +36,7 @@ not been able to yield a proof of Pythagoras' Theorem for over two thousand
 years, until 
 [Jason Zimba in 2007](https://forumgeom.fau.edu/FG2009volume9/FG200925.pdf). 
 (It is well worth reading that paper, it is an easy read.)
-2. Although Calcea Johnson and Ne'Kiya were given the puzzle by the same 
+2. Although Calcea and Ne'Kiya were given the puzzle by the same 
 teacher, and both knew the other was trying to solve it, they worked 
 independently, and each discovered a different new proof.
 3. Finding new proofs of old theorems is hard enough itself. (Let alone 
@@ -46,10 +46,10 @@ finding one most mathematicians considered impossible.)
 
 For the macroeconomists, let me just say that very, _very_ good mathematicians 
 had _[conjectured](https://files.eric.ed.gov/fulltext/ED037335.pdf)_ that 
-that Pythagoras' Theorem proof using _only_ trigonometry functions would 
+that a proof of Pythagoras' Theorem using _only_ trigonometry functions would 
 be circular, in that it would assume 
 $$
-\sin^2\theta = \cos^2\theta = 1
+\sin^2\theta + \cos^2\theta = 1
 $$
 which is of course Pythagoras' Theorem. (You cannot assume in a proof what 
 you are trying to prove!)
@@ -67,13 +67,23 @@ will take the Compton wavelength as their data.
 Any decent mathematician would not be solving such a problem for the prize 
 money. The effort the students put in was worth far more than US\$500, if 
 they had been paid a wage to work on the puzzle. They should have been paid 
-to work on it.  Being paid a wage does not mean one is not learning.
+to work on it if the money was the goal. But while being paid a wage does 
+not mean one is not learning, _not being paid a wage_ should not be the 
+price of learning.  The price of learning at school should be the real 
+resources going in to teaching and learning. The money should not be a 
+question. Just pay the teachers a decent living wage, and hire them locally, 
+and hire _all of them_ to cut down the class size ratio.
 
 Prize monies are often like this. Except perhaps for the million dollar 
 Clay Millenium Prizes and the Nobel, or Abel. Those bigger prizes recognize 
 lifetime achievements, and so are fair compensation for sacrificing a lot to 
 work on serious mathematics. For most people they are more than a wage. The 
-problem is that they are only a wage for **_one person_** and this degrades or 
+problem is that they are only a wage for **_one person_** and this degrades 
+and demeans the effort of all other people who support the prize winner. 
+Anyone ever heard of _standing on the shoulders of giants_?
+ 
+(No? Of course, you're an Ayn Rand acolyte! LOL.)
+ 
 
 [Alfie Kohn](https://www.alfiekohn.org/), I dare say, would agree with me. 
 Twitt3r might not, but I'm no longer involved in that swamp.
@@ -83,21 +93,23 @@ Twitt3r might not, but I'm no longer involved in that swamp.
 
 I am not saying students should be paid to go to school. That issue is 
 entirely different. Public education is an investment. It should be fully 
-funded up to available teaching resources.  The private schools like 
+funded up to available teaching resources. We should not even worry about 
+the pay-off, since the pay-off is incalculable, but whatever it is, it 
+is yuuuuge!  The private schools like 
 [St Mary’s Academy](https://www.stmarys.academy/) need to be crowded out, 
 because they are elitist. 
 
 The placements of Calcea and Ne'Kiya are at the school mean other "less 
-Catholic"" students do not get a place. This is not their fault of course. 
+Catholic" students do not get a place. This is not their fault of course. 
 I'm saying it is a systematic problem with private schools. Not only do they 
-consume more resources than public schools, the parents are paying for these, 
-and they shouldn't be. There is no reason public schools cannot be as 
-nice and hygienic as these private schools.  The private schools prove the 
-real resources are available.
+consume more resources per student than current public schools, the parents 
+are paying for these, and they shouldn't be. There is no reason public 
+schools cannot be as nice and hygienic as these private schools.  The 
+private schools prove the real resources are available.
 
 Sure, sure, admitting less desirable students into the schools messes up the 
 pristine learning environment for these gifted kids. That's a whole other 
-problem though, for another day. you cannot ignore it though, otherwise you 
+problem though, for another day. You cannot ignore it though, otherwise you 
 give fodder for the elites who demand their kids go to a pristine school if 
 they pay the money. I am not trying to skirt this issue, I am just writing 
 about a different issue today, the prizes & rewards issue.
@@ -129,7 +141,7 @@ been taken care of, with decent wages.
 > Take the money incentive off the table --- unless it is a socially 
 necessary sh1t job.
 
-Since solving mathematic puzzle is not a sh1t job, we can, and therefore 
+Since solving mathematics puzzle is not a sh1t job, we can, and therefore 
 should, take the money off the table, by providing for the students needs, 
 by providing for their parents' or guardians' needs.
 
@@ -140,10 +152,10 @@ things to this foolishness:
 and they lose out on the chance of discovery. People lose such chances all 
 the time. What you do not know you lost will not hurt you.
 2. This would more likely than not reveal the students were not truly 
-motivated by the money prize, because I bet were finances not an issue, 
+motivated by the money prize, because I bet were finances not an issue 
 they'd still have worked on the puzzle. 
 3. Everyone is capable of providing their own incentive. If you crack the 
-puzzle treat yourself to a movie -- or whatever floats your boat.
+puzzle treat yourself to a movie --- or whatever floats your boat.
 
 (I guess I suck at arithmetic.)
 
@@ -161,10 +173,14 @@ I don't know about that! As I stated, for sh1t jobs wages are bl00dy good.
 
 For enjoyable jobs we still compensate workers because it is the right 
 thing to do, even if the worker is having such a wonderful larking time of 
-it they cannot care about the money.  In this case, we _take the money off 
+it they cannot care about the money.  In this case, we${}^\ast$ _take the money off 
 the table_ by paying a wage that is fair and just above what the worker 
 considers fine enough not to care about the amount and care more about the 
 work (enjoyment or utility or both).
+
+(${}^\ast$Who is this "we" you might ask?  I mean the We if I were supreme 
+dictator. Or failing that, a simple democracy, full of nasty plebs who 
+simply want their fair say in the rules of our society.)
 
 But then the neoliberal wank3r utters, "The wage destroys the competition!"
 
@@ -186,7 +202,7 @@ and science. Feeds the masses.)
 
 But again, it is profound lack of creativity to think students cannot 
 motivate themselves when they are waged, or have their financial cares met. 
-How would I motivate myself with some pressure? That's so say, I can think 
+How would I motivate myself with some pressure? That's so easy, I can think 
 of a million ways --- which is to say, the million ways my girlfriend and I 
 can achieve orgasm.
 
@@ -198,13 +214,14 @@ puzzle for "recognition". But even deadlines are for dummies.
 You can instead just talk to the students! Shock & horror! Does "talking" 
 even work?  I cannot imagine.
 
-> "Hey Calcea and Ne'Kiya Jackson, so you like this challenge problem? 
+> "Hey Calcea and Ne'Kiya, so you like this challenge problem? 
 Well, this is a tough one, it might take a long time, much effort, many 
-day dreams, and at the end of six months you might get nowhere. Except in 
-the process you'll have learned so much interesting geometry your brain will 
-swell and your mind will be both humbled and proud. Think about that!  
-Now... do you want to give yourself a constraint as a challenge. 
-Say 9 months, but then move on to a new puzzle?"
+daydreams, and at the end of six months you might get nowhere, like all 
+humankind for two thousand years. Except in the process you'll have learned 
+so much interesting geometry your brain will swell and your mind will be 
+both humbled and proud. Think about that!   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Now... do you want to give yourself a 
+constraint as a challenge. Say 9 months, but then move on to a new puzzle?"
 
 and then you might say,
 > "... look, if you _also_ want some candy as a prize, we've got \$500 from 
@@ -216,6 +233,19 @@ But I personally would _not_ add that bit, it's the real enshittification.
 Am I a mean & nasty teacher? Maybe. But no student of mine ever told me so.
 
 
+To be clear, if we are not making whole the families of the students, then 
+yeah, would should damn well offer a wage or a prize. For open puzzles I 
+prefer a wage, because there is a lot of work to be done, and no guarantee 
+of success. But it is a poor system that requires this enshittification. 
+
+The neoliberalization of education cuts deep, and has created a festering 
+wound on our society.
+
+("Here kids, work on this and teacher will give you candies, but 
+if you cannot solve it then pi55 off, because you deserve the f-all proportion 
+of a billion times your present wage.")
+
+
 
 ## Summary based-MMT Thoughts
 
@@ -223,9 +253,9 @@ Am I a mean & nasty teacher? Maybe. But no student of mine ever told me so.
 
 Most people are perfectly capable of motivating themselves with scarcity. I do 
 it all the time with food --- I will exercise to earn my meal. 
-The CBS story reported the high creativity shown by Calcea and N''., but 
-does not stop to ponder how uncreative the idea of the monetary prize was, 
-and how insidious.
+The CBS story reported the high creativity shown by Calcea and Ne'Kiya, 
+which is rightly celebrated, but does not stop to ponder how uncreative the 
+idea of the monetary prize was, and how insidious.
 
 
 <table style="border-collapse: collapse; border=0;">
