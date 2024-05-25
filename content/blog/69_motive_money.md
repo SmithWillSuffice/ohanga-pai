@@ -87,7 +87,7 @@ Anyone ever heard of _standing on the shoulders of giants_?
  
 
 [Alfie Kohn](https://www.alfiekohn.org/), I dare say, would agree with me. 
-Twitt3r might not, but I'm no longer involved in that swamp.
+Twittxr might not, but I'm no longer involved in that swamp.
 
 
 ### The nuances of wages
@@ -142,7 +142,7 @@ been taken care of, with decent wages.
 > Take the money incentive off the table --- unless it is a socially 
 necessary sh1t job.
 
-Since solving mathematics puzzle is not a sh1t job, we can, and therefore 
+Since solving mathematics puzzles is not a sh1t job, we can, and therefore 
 should, take the money off the table, by providing for the students needs, 
 by providing for their parents' or guardians' needs.
 
@@ -252,7 +252,7 @@ of a billion times your present wage.")
 
 ## Summary based-MMT Thoughts
 
-(Well... _I_ think they're based. 😂)
+(Well... $I$ think they're based. 😂)
 
 Most people are perfectly capable of motivating themselves with scarcity. I do 
 it all the time with food --- I will exercise to earn my meal. 
