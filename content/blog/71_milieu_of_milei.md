@@ -96,7 +96,26 @@ from Mosler & Mitchell, not Kelton.
 &nbsp;&nbsp;&nbsp;i) https://media.realvision.com/wp/20220309173133/A-Framework-for-the-Analysis-of-the-Price-Level-and-Inflation.pdf  
 &nbsp;&nbsp;&nbsp;ii) https://moslereconomics.com/wp-content/uploads/2018/04/A-General-Analytical-Framework.pdf
 
-Ben Norton is good on anti-fascism and geopolitics, but on macroeconomics he sucks --- almost like a neoliberal --- "our hard earned tax dollars!" LOL.
+Ben Norton is good on anti-fascism and geopolitics, but on macroeconomics he 
+sucks --- almost like a neoliberal --- "our hard earned tax dollars!" LOL.
+
+### Wrong on Trade... again
+
+Ben mentions the Argentinian "trade deficit". They are getting more than 
+they give.
+
+My comment:
+> @13:00 trade deficits are a good thing Ben. Economics is the opposite of 
+religion: it is better to receive than to give. The issue is they peg to the 
+USD, so they have an export led growth model, the stupid model. Put the peso 
+on a float, then you can have as many imports as foreigners are willing to 
+sell. Exports are a real cost, not a real benefit, they are the price you pay 
+for imports. The USA does not enjoy a trade deficit because of "global 
+reserve currency status". Little young New Zealand also enjoys a trade 
+deficit, not that our neoliberal infested government recognizes this as a 
+win for us -- they are constantly trying to make us export more to foreigners, 
+when we have people domestically who are living on the street and could use 
+those kiwifruit and pine lumber goods.
 
 ## Other comments on Liberal versus Libertarian
  
