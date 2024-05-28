@@ -48,7 +48,7 @@ This is true, people do think that, and it drives neoliberal policy.
 
 But you, we, everyone who is honest, need to start talking about what 
 is _possible_ and what the true available policy space open to a government 
-is, free from ideology. Because only )then_ can we learn how no tax revenue 
+is, free from ideology. Because only _then_ can we learn how no tax revenue 
 is needed for free healthcare and affordable green state housing, and free 
 education, and whatnot. The constraints are available real resources, not 
 currency, not inflation.
