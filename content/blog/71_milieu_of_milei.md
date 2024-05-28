@@ -133,8 +133,9 @@ libertarians notwithstanding.  They have to choose between their policy
 options, because libertarianism is inconsistent with a government monopoly 
 on the currency and law. But they can never do without a quasi-police state 
 to enforce their policies. They inevitably choose the fashy elements that 
-are anti-liberal because they prefer the (fake) "free market" aka. sell to 
-the highest bidders (which is pro-inflationary, so... LOL)
+are anti-liberal because they prefer the (fake) "free market" --- aka. 
+rich get richer Pareto dynamics, aka. sell to the highest bidders (which 
+is pro-inflationary, so... LOL)
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
