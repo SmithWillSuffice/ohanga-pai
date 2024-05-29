@@ -38,7 +38,7 @@ A response (implicit I think by Mosler) was, "And...?"
 Warren had already addressed the deeper problem of why there are such 
 powerful savings incentives, which tend to the Paradox of Thrift, and force 
 governments to run deficits, large deficits. If people really do not like 
-large numbers, for whatever reason, (numerophobia?) they (governments) should 
+large numbers, for whatever reason (numerophobia?), they (governments) should 
 stop creating massive artificial savings incentives. Case closed.
 
 However, perhaps Anastasia meant that it could be a concern that people put 
@@ -71,17 +71,19 @@ a spreadsheet.
 ## Payroll Tax Elimination
 
 This was the biggie. I think it is the grand daddy of all MMT ideas, besides 
-the public sector employment proposals (+ Job Guarantee). Although even WEareen seeemed vague on the actual GDP fractiosn that we waste on useless human activity, but let's suppose a ballpark is:
+the public sector employment proposals (+ Job Guarantee). Although even Warren 
+seemed vague on the actual GDP fractions that we waste on useless human 
+activity, but let's suppose a ballpark is:
 
-1. **Tax compliance costs:** around 15% of GDP on bullsh1t jobs.
-2. **Payroll Tax:** about 20% of GDP on bullsh1t tax revenue (and tax avoidance accountants and all the rest).
-3. **Bond markets:** around 10% of GDP on bullsh1t trading.
+1. **Tax compliance costs:** around 10% of GDP on bullsh1t jobs.
+2. **Payroll Tax:** about 15% of GDP on bullsh1t tax revenue (and tax avoidance accountants and all the rest).
+3. **Bond markets:** around 3% of GDP on bullsh1t trading.
 4. **Stock market gambling:** about 5% of GDP on bullsh1t investment gambling.
-5. **Financial sector:** about 3% of humans are calling themselves financiers 
+5. **Financial sector:** about 5% of humans are calling themselves financiers 
 about are not financing anything, they are parasites, rentiers. we do not need 
 99% of the so-called finance sector. 
 
-I mean... hellsbells, you can see how rough estimates might even get to 
+I mean... hellsbells, you can see how very rough estimates might even get to 
 above 100% of GDP!!!!  That'd just mean your estimates were way off, but in 
 any case, it suggests we are losing an incredible tragic amount of human 
 time and energy on pointless activity.  Meaning _pointless_ in the MMT 
