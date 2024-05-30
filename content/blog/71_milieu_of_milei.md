@@ -149,7 +149,7 @@ is pro-inflationary, so... LOL)
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../72_fresh_cup_of_M">Next post</a></td>
+<a href="../72_fresh_cup_of_m">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -157,6 +157,6 @@ is pro-inflationary, so... LOL)
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../72_fresh_cup_of_M">Fresh Cup of M</a></td>
+<a href="../72_fresh_cup_of_m">Fresh Cup of M</a></td>
 </tr>
 </table>

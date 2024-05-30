@@ -15,7 +15,7 @@ Awesome.
 Gotta celebrate podcasters prepared to upload over two hours with a guy like 
 Warren talking about monetary operations 101!
 
-A couple of issues raised by the hostess, Dr Anastasia Bendebury. piqued my 
+A couple of issues raised by the hostess, Dr Anastasia Bendebury, piqued my 
 interest, since Warren was not able to fill in all the gaps.
 
 ## Stock Market
@@ -126,6 +126,32 @@ With these simple policies (not saying they'd be easy political battles to
 win) we get something like 30 to 40% of GDP going towards raising standards 
 of living and reducing work hours, with no economic downside. That's massive! 
 Just think about it!
+
+
+
+## Inflation from Oil Price
+
+The other big issue raised by Anastasia was the fear over the "collapse of 
+the dollar" due to a sequence of implausible events.  Warren asked her, "Give 
+me an example where that's happened?" which although a bit flippant, is the 
+best response. 
+
+We would not get a collapse of the dollar provide the government continues 
+to enforce tax liabilities. Period. 
+
+Everything else (for the government deficit issuance) is a policy choice. Do 
+we want to spend significant fractions of GDP in building bridges or on 
+blowing up bridges? 
+
+Could there be inflationary episodes from those foreign monopolies setting 
+price? Sure. No political process absent invading those foreigners or CIA 
+assassinations, can prevent them. But we do not need the assassinations 
+or invasions. Only the MMT Lens explains why not!
+
+
+
+
+
 
 
 <table style="border-collapse: collapse; border=0;">
