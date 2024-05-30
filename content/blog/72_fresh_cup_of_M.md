@@ -81,7 +81,12 @@ activity, but let's suppose a ballpark is:
 4. **Stock market gambling:** about 5% of GDP on bullsh1t investment gambling.
 5. **Financial sector:** about 5% of humans are calling themselves financiers 
 about are not financing anything, they are parasites, rentiers. we do not need 
-99% of the so-called finance sector. 
+99% of the so-called finance sector.
+
+((When I write "suppose a ballpark" you are correct in noting that's a 
+huge fudge and I have no idea what the percentages are to within $\pm 5\%$ 
+or even worse! My point today is more qualitative, and yet I recognize it must 
+rest on some large percentages here.)) 
 
 I mean... hellsbells, you can see how very rough estimates might even get to 
 above 100% of GDP!!!!  That'd just mean your estimates were way off, but in 
@@ -136,7 +141,7 @@ the dollar" due to a sequence of implausible events.  Warren asked her, "Give
 me an example where that's happened?" which although a bit flippant, is the 
 best response. 
 
-We would not get a collapse of the dollar provide the government continues 
+We would not get a collapse of the dollar provided the government continues 
 to enforce tax liabilities. Period. 
 
 Everything else (for the government deficit issuance) is a policy choice. Do 
