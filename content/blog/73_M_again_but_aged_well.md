@@ -67,6 +67,36 @@ struggling for decades trying to get politicians to understand, and they
 either do and refuse to admit it, or choose to be ignorant for their own 
 political purposes. 
 
+The interesting thing here is that tax return is often considered 
+deflationary, but demand withdrawal, but that's a slight myth. Tax liabilities 
+drive the demand, tax returns withdraw demand, but do not immediately alter 
+prices. Firm have to actively reduce prices to clear sales, but they tend not 
+too, especially these days with credit cards all around. It might be a whole 
+different story of not for credit cards and overdraughts, in fact 
+it _would be_ totally different. But as things stand today, tax return does 
+not actively lower the price level, it can prevent the prices from going up 
+too fast.  Tax drains certainly tend to suppress the stock market for a week 
+or so --- hardly a catastrophe for the real economy.
+
+The _more_ interesting thing is the vast free-up in real terms when payroll 
+and GST taxes are eliminated. Mosler estimates it would free up around 10% of 
+GDP, maybe more.  Governments seem to have no clue about this, 
+and probably do not know the massive amount of wasted human lives spent on 
+needless tax compliance. Eliminating GSt and payroll taxes would likely be 
+inflation neutral in the mid-term, since although increasing effective 
+demand, it frees up a huge amount of human labour hours to do better things.
+What is demanded when GST and payroll taxes are dropped to 0% rate would be 
+an offset fiscal policy to employ the newly unemployed.
+
+We could call that a Job Guarantee, but really there is no good reason to 
+use the JG this way, it is an abuse. The proper thing to do would be to 
+employ all those unemployed tax lawyers and accountants for the public 
+purpose in skilled work --- if they want it --- say in investigating 
+financial fraud, or helping out at the local school or orphanage --- teaching 
+MMT of course! ;-)
+
+> Mitchell: _"We wake up every day to severe labour shortages._"
+
 
 ## Inflation Fear-mongering
 
