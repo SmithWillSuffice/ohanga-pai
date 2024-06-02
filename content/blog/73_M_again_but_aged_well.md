@@ -154,7 +154,7 @@ greedy, primarily the excessive tax burden, which MMMT claims is overkill.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../71_milieu_of_milei">Previous chapter</a></td>
+<a href="../72_fresh_cup_of_M">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
@@ -162,7 +162,7 @@ greedy, primarily the excessive tax burden, which MMMT claims is overkill.
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../71_milieu_of_milei">Milieu of Milei</a></td>
+<a href="../72_fresh_cup_of_M">Fresh Cup of M</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">

@@ -157,8 +157,6 @@ or invasions. Only the MMT Lens explains why not!
 
 
 
-
-
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -171,7 +169,7 @@ or invasions. Only the MMT Lens explains why not!
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next post</a></td>
+<a href="../73_M_again_but_aged_well">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -179,6 +177,6 @@ or invasions. Only the MMT Lens explains why not!
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../73_M_again_but_aged_well">M Again, Aged Well</a></td>
 </tr>
 </table>
