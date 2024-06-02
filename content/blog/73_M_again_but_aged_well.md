@@ -55,8 +55,8 @@ thousand.
 
 ## Governments _are_ "implementing MMT"??
 
-This is a giant "WFT!" One youtube poster was essentially blaming "MMT" for 
-all the ills of today's inflations, tc., the usual straw-man attack on MMT.
+This is a giant "WTF!" One youtube poster was essentially blaming "MMT" for 
+all the ills of today's inflations, etc., the usual straw-man attack on MMT.
 
 My counter:
 > No government is implementing MMT recommended policy (ZIRP, JG, eliminate 
@@ -65,7 +65,9 @@ operations system. You cannot legitimately criticize MMT for politicians who
 do not understand their own currency system, MMT activists have been 
 struggling for decades trying to get politicians to understand, and they 
 either do and refuse to admit it, or choose to be ignorant for their own 
-political purposes. 
+political purposes. As Phil Waller, and a few others, remarked: where is 
+the country implementing a Job Guarantee? Not even "MMT Japan" is 
+implementing.
 
 The interesting thing here is that tax return is often considered 
 deflationary, but demand withdrawal, but that's a slight myth. Tax liabilities 
@@ -82,7 +84,7 @@ The _more_ interesting thing is the vast free-up in real terms when payroll
 and GST taxes are eliminated. Mosler estimates it would free up around 10% of 
 GDP, maybe more.  Governments seem to have no clue about this, 
 and probably do not know the massive amount of wasted human lives spent on 
-needless tax compliance. Eliminating GSt and payroll taxes would likely be 
+needless tax compliance. Eliminating GST and payroll taxes would likely be 
 inflation neutral in the mid-term, since although increasing effective 
 demand, it frees up a huge amount of human labour hours to do better things.
 What is demanded when GST and payroll taxes are dropped to 0% rate would be 
