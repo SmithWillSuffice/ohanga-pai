@@ -1,5 +1,5 @@
 ---
-title: "M Again, but Aged"
+title: "M Again, de-Aged"
 weight: 74
 date: 2024-06-02
 draft: false
@@ -8,9 +8,9 @@ disableTitleSeparator : true
 toc: true
 ---
 
-A slightly younger Warren Mosler today, but like choice wine. (Intellectual 
-wine for me, I don't drink intoxicants except coffee. Healthy body, healthy 
-mind, and all that.)
+A slightly younger Warren Mosler today, but like choice wine his past 
+appearances age well. (Intellectual wine for me, I don't drink intoxicants 
+except coffee. Healthy body, healthy mind, and all that.)
 [Mosler at the Berkely Forum c.2022.](https://www.youtube.com/watch?v=iOGoT_A5fqc)
 
 This aged Mosler goes down well, but the youtube comments section is 
@@ -21,10 +21,10 @@ comments to make.
 
 ## Myth of Barter
 
-Good ol' "Rob" inserts his usual simplistic critique of MMT. He points out in 
-pre-colonial Africa Mosler is saying there was a non-monetary economy, until 
-the British came in to force the natives to grow coffee by imposing coercive 
-tax liabilities --- the infamous and downright cruel Hut Tax.
+Good ol' "Rob" inserts his usual simplistic critique of MMT. He points out,
+for the case of pre-colonial Africa, Mosler is saying there was a non-monetary 
+economy, until the British came in to force the natives to grow coffee by 
+imposing coercive tax liabilities --- the infamous and downright cruel Hut Tax.
 
 Rob claims Mosler is being contradictory with Randall Wray, since Wray 
 insists there were never pure barter economies. The thing is, both Mosler 
@@ -36,7 +36,8 @@ terms, to with **_state tax credits**.
 With a broader definition of "money" then a barter economy can be seen to be 
 a monetary economy. Just not using a tax credit. But to the extent such a 
 small economy is using a type of account record, it is not pure barter.
-In pure barter you cannot put anything "on credit".  Where can you find such economies? They are rare, and tend to be village level in size, everyone 
+In pure barter you cannot put anything "on credit".  Where can you find such 
+economies? They are rare, and tend to be village level in size, everyone 
 knows everyone else, meaning little need for account records.
 
 My counter:
@@ -53,7 +54,7 @@ pure barter. A few households can run pure barter, but not more than a few
 thousand.
 
 
-## Governments _are_ "implementing MMT"??
+## Governments are "implementing MMT"??
 
 This is a giant "WTF!" One youtube poster was essentially blaming "MMT" for 
 all the ills of today's inflations, etc., the usual straw-man attack on MMT.
@@ -126,7 +127,7 @@ differences by the time interval, and you roughly get an inflation forecast.
 You cannot look backwards and say the reported CPI or PCE (personal 
 consumption expenditures). Even 
 [this article here](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci3-6.html) kinda' gets it wrong, you 
-can take CPI as a good measure, for past changes in the price level. What 
+can take CPI as a good measure, for _past changes in the price level_. What 
 does CPI tell you about the **_current_** rate of inflation though? Next to 
 nothing. Why?
 
@@ -134,13 +135,14 @@ It is because active government policy is needed to sustain inflation.
 Inflation is not a natural phenomenon. If anything deflation is slightly more 
 natural due to more or less continual productivity gains due to improved 
 technology. Off-setting this is rampant consumerism and greed, of course. 
-Another bias for pro-inflation is demands of the lower paid for better 
+Another bias for pro-inflation is demand from the lower paid for better 
 equity, and when that is the inflation driver then it is a good thing, not 
 to be complained about.
 
 I guess you can say human greed is "natural" but I don't. We are not greedy 
-inherently. Tonnes of artificial incentives and artificial scarcity make us 
-greedy, primarily the excessive tax burden, which MMMT claims is overkill.
+inherently. We are not ruled deterministically by selfish genes.  Tonnes of 
+artificial incentives and artificial scarcity make us greedy and artificially 
+competitive, primarily the excessive tax burden, which MMT claims is overkill.
 
 
 
@@ -154,7 +156,7 @@ greedy, primarily the excessive tax burden, which MMMT claims is overkill.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../72_fresh_cup_of_M">Previous chapter</a></td>
+<a href="../72_fresh_cup_of_m">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
@@ -162,7 +164,7 @@ greedy, primarily the excessive tax burden, which MMMT claims is overkill.
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../72_fresh_cup_of_M">Fresh Cup of M</a></td>
+<a href="../72_fresh_cup_of_m">Fresh Cup of M</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
