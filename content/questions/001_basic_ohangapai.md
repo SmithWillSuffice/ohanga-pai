@@ -208,10 +208,15 @@ who already have money and in *proportion to how much money they already have.*
 It is an obscene policy. There is simply no good reason for our government to 
 be issuing bonds. If we had a fixed exchange rate policy (so similar to a gold 
 standard, our government would be promising to redeem the tax credits (NZD) for 
-either gold or for a foreign currency) then it would be necessary to issue bonds, 
-in order to prevent mild inflationary pressures. But why? There is no need for 
-enriching people who are already rich with such policy, our government should 
-instead float the NZD, and offer zero interest.
+either gold or for a foreign currency) then it would be necessary under some 
+conditions (say weak exports) to issue bonds, 
+in order to prevent mild pass-through inflationary pressures. 
+
+But why? Why operate a fixed exchange rate or a commodity peg? There is 
+no need. There is also no need for enriching people who are already rich 
+with such policy, our government should instead float the NZD, and offer 
+zero interest. And use fiscal policy to stabilize the price level using the 
+counter-cyclical stabilisers.
 
 The greater body of work on MMT recognizes that a far more effective way
 to stimulate an economy is to supply new money at the bottom, in the form of
@@ -239,21 +244,58 @@ MMT is correct.
 Money can only come from government net spending (or unstably from
 bank credit extension) and so when the state provides public services not 
 only are they lowering private business costs, they actually fund the private 
-sector withcapacity to pay their tax liabilities. 
+sector with capacity to pay their tax liabilities. 
 Everyone else has the money story backwards,
 including most post-Keynesians and Marxists.
 
 #### The Treasury Bond Story
 
-1. Whether the Central Bank or the Treasury sell bonds, the function is exactly the same --- to offer interest on savings. The purpose is not to fund the government. The purpose is to set the desired inter-bank interest rate.
-2. Treasury and Reserve Bank bond operations are thus pure asset swaps: cash (reserves) are swapped for a savings account (Treasuries). 
-3. In countries like the USA where the Central Bank is forbidden from directly purchasing Treasury securities, a six-step process of bond auctions, repo agreements, and reverse repos is used to by-pass the law, and the net effect is exactly the same as the Federal Reserve purchasing Treasuries! We call this deficit spending, but you can also think of it as the government funding itself because functionally it amounts to exactly the same, the government issuing Its own IOU’s and booking it as Treasury debt --- this is the left pocket of government (Treasury) owing the right-pocket of government (Central Bank), but why this "charade"?  It's to make sure no accounting mistakes are made! But that's all.  It serves a purpose.
-4. When the Central Bank has an interest rate target mandate, if they do not sell bonds when the government spends, the result will be excess reserves in the banking system, which will send the overnight cash rate (OCR) to zero.
-5. To maintain the desired OCR target the Central Bank must therefore either sell bonds to drain reserves, or pay interest on reserves (either method will work).
-6. However, there is little need to inflate the economy this way, through welfare for those who already have money, and an alternative policy is to set a permanent zero interest rate (ZIRP).
-7. With ZIRP no bonds are offered. All existing Treasuries could be retired at maturity, and no more issued. If the central bank does not allow commercial banks to have overdraft facilities they could continue issuing three month Treasury bills for purposes of ensuring the payments clearing system operates smoothly. (This is a bank system software problem, not an economic problem.)
-8. Existing savings schemes (like pension plans) which rely on interest from Treasury bonds, could instead be scrapped and all pension payments could be made directly each month as the promised payments come due. There is no need for a superannuation trust fund. Moreover, pension payments can be arbitrarily increased to a dignified living wage, since the governments cannot run out of money, they can choose the pension wage (which means choosing what proportion of real output retirees can claim). 
-9. A superior way to stabilize the economy is with direct fiscal policy: money injected at the bottom, via either a Job Guarantee or Basic Income Guarantee (or combination of both); coupled with a progressive tax structure as a further automatic stabilizer (as inflation rises, tax receipts automatically rise, cooling off the inflation).
+1. Whether the Central Bank or the Treasury sell bonds, the function is 
+exactly the same --- to offer interest on savings. The purpose is not to 
+fund the government. The purpose is to set the desired inter-bank interest 
+rate.
+2. Treasury and Reserve Bank bond operations are thus pure asset swaps: 
+cash (reserves) are swapped for a savings account (Treasuries). 
+3. In countries like the USA where the Central Bank is forbidden from directly 
+purchasing Treasury securities, a six-step process of bond auctions, repo 
+agreements, and reverse repos is used to by-pass the law, and the net effect 
+is exactly the same as the Federal Reserve purchasing Treasuries! We call 
+this deficit spending, but you can also think of it as the government funding 
+itself because functionally it amounts to exactly the same, the government 
+issuing Its own IOU’s and booking it as Treasury debt --- this is the left 
+pocket of government (Treasury) owing the right-pocket of government 
+(Central Bank), but why this charade?  It's to make sure no accounting 
+mistakes are made! But that's all.  It serves a purpose. However the 
+convoluted operations are unnecessary and wasteful of human labour, it could 
+all be conducted in a far simpler fashion, freeing up staffers to do more 
+useful things.
+4. When the Central Bank has an interest rate target mandate, if they do not 
+sell bonds when the government spends, the result will be excess reserves in 
+the banking system, which will send the overnight cash rate (OCR) to zero.
+5. To maintain the desired OCR target the Central Bank must therefore either 
+sell bonds to drain reserves, or pay interest on reserves (either method 
+will work).
+6. However, there is little need to inflate the economy this way, through 
+welfare for those who already have money, and an alternative policy is to 
+set a permanent zero interest rate (ZIRP).
+7. With ZIRP no bonds are offered. All existing Treasuries could be retired 
+at maturity, and no more issued. If the central bank does not allow 
+commercial banks to have overdraft facilities they could continue issuing 
+three month Treasury bills for purposes of ensuring the payments clearing 
+system operates smoothly. (This is a bank system software problem, not an 
+economic problem.)
+8. Existing savings schemes (like pension plans) which rely on interest 
+from Treasury bonds, could instead be scrapped and all pension payments 
+could be made directly each month as the promised payments come due. There 
+is no need for a superannuation trust fund. Moreover, pension payments can 
+be arbitrarily increased to a dignified living wage, since the governments 
+cannot run out of money, they can choose the pension wage (which means 
+choosing what proportion of real output retirees can claim). 
+9. A superior way to stabilize the economy is with direct fiscal policy: 
+money injected at the bottom, via either a Job Guarantee or Basic Income 
+Guarantee (or combination of both); coupled with a progressive tax structure 
+as a further automatic stabilizer (as inflation rises, tax receipts 
+automatically rise, cooling off the inflation).
 
 **Comment 1.** A fascinating aspect of point 1., of the Treasury Bond Story is that
 even if people think and act as if bonds are funding the government then they
@@ -266,34 +308,55 @@ Thus, not only are Treasury bond operations purely for purposes of interest rate
 public purpose other than basic income for wealthy people.
 
 **Comment 8 (a).** The remark about pension payments is subtle. 
-While the government can always afford to mark-up the bank accounts to make pension payments,
+While the government can always afford to mark-up the bank accounts to make 
+pension payments,
 if the pensioners spend their income wildly this can put pressure on the supply
 of goods, which can cause price inflation, which once it propagates into higher
 private sector wages just reduces the purchasing power of the pension. 
-The government policy thus needs to be informed by stability analysis, so that pension
-payments can be increased above the subsistence level they are today, but consistent with the claims on real resources (electricity, rent, groceries, &c.) that the
+The government policy thus needs to be informed by stability analysis, so 
+that pension payments can be increased above the subsistence level they are 
+today, but consistent with the claims on real resources (electricity, rent, 
+groceries, &c.) that the
 average pensioner needs and that the workers can supply.
 
 The main implication is that if we want to raise the retirement pension, it
 is best to guarantee full employment, because then we maximize our production 
 of real goods the pensioners have a claim on consuming. The idiotic policy
-would be to force people to save for retirement, because that is a demand leakage
-which contributes to unemployment (if government does not raise spending or
-cut taxes) and lowers our economic output that pensioners are claiming upon.
+would be to force people to save for retirement, because that is a demand 
+leakage which contributes to unemployment (if government does not raise 
+spending or cut taxes) and lowers our economic output that pensioners are 
+claiming upon.
 
-If today's workers wish to save for their retirement more than the government guaranteed pension, they can always use a bank term deposit, or gamble on the share market. 
-(But not real estate gambling, which should be banned, since it serves no public purpose. 
-Or rather than banning ownership of second homes for speculation, there could be a heavy tax on non-owner occupied real estate, which lowers the necessary tax on owner-occupied housing.) 
+If today's workers wish to save for their retirement more than the government 
+guaranteed pension, they can always use a bank term deposit, or gamble on the 
+share market. 
+(But not real estate gambling, which should be banned, since it serves no 
+public purpose. 
+Or rather than banning ownership of second homes for speculation, there could 
+be a heavy tax on non-owner occupied real estate, which lowers the necessary 
+tax on owner-occupied housing.) 
 
-The point of a decent society that MMT shows us is possible, is that there should be no need for such gambling. 
-The government pension can always be made to afford a decent dignified retirement, provided the government ensures full non-bullsh-t job employment of Kiwis --- and this can always be roughly ensured (up to definitions of what counts as a bullsh*t job).
+The point of a decent society that MMT shows us is possible, is that there 
+should be no need for such gambling. 
+The government pension can always be made to afford a decent dignified 
+retirement, provided the government ensures full non-bullsh$\ast$t job 
+employment of Kiwis --- and this can always be roughly ensured (up to 
+definitions of what counts as a bullsh*t job).
 
-**Comment 8 (b).** A pension trust fund is a great idea *if* you have *a finite money supply to defend*, but under New Zealand's monetary system it is highly regressive. 
-I do realize currently scrapping superannuation and simply guaranteeing all pension payments is politically untenable (but reading this you have to wonder why!), even if the pension payments would be guaranteed forever, there is currently just too strong a social psychological blockage in understanding.
+(([Bullsh$\ast$t Job](https://www.strike.coop/bullshit-jobs) is a 
+[technical term](https://www.strike.coop/bullshit-jobs), not a cuss word.))
+
+**Comment 8 (b).** A pension trust fund is a great idea *if* you have *a finite money supply to defend*, but under New Zealand's monetary system it is 
+highly regressive. 
+I do realize currently scrapping superannuation and simply guaranteeing all 
+pension payments is politically untenable (but reading this you have to 
+wonder why!), even if the pension payments would be guaranteed forever, 
+there is currently just too strong a social psychological blockage in 
+understanding to get parliaments to do the right thing.
 
 ### The Price Story 
 
-We begin with one more axiom:
+We begin with one more axiom, or take it as a definition:
 
 **Monopoly actions:** A monopolist always has two options: (a) set the price
 and let quantity float, or (b) fix the quantity they supply and let the price float.
@@ -318,20 +381,26 @@ But this is only if the electric utility company is entirely dependent upon
 sales and is greedy. A clear alternative is to treat electric power as a 
 public good, so the government can always regulate the price level. There is 
 no need for a competitive market for something like education, housing, energy 
-or food. 
+or food. Except in New Zealand where we have plentiful food, there is a good 
+reason to have a market to have consumer preference dictate relative prices. 
+In other countries food could be scarce and so better to then have a 
+semi-market: people could have food credits and can use them for any available 
+food purchases, then the social equity adjustments can be simpler and made at 
+the margins.
 
 The idea of markets is to allow consumers with adequate purchasing power to 
 determine relative prices. But when we are talking about basic human 
 necessities like water, air, energy, food, housing, the need for a free 
 market needs to be seriously questioned. MMT proper might be agnostic on 
 such political preferences, but at least MMT reveals what is possible and 
-distinguishing what is necessary. Markets are not always necessary for price 
+distinguishes between what is possible and what is necessary. Markets are 
+not always necessary for price 
 stability. Moreover, markets tend to settle at a Pareto distribution --- the 
 *rich take all* effect, so even when equilibrated they produce injustice. 
 Spiritual economics, which Ōhanga Pai is trying to promote, is about an 
 equilibrium of an entirely different kind, one of shared optimal prosperity 
 and fairness, hard work is fairly compensated, rentiers are eliminated, and 
-not just about mere market clearing equilibria.
+is not just about mere market clearing equilibria.
 
 1. The currency-issuing government (like NZ) is a currency monopolist.
 2. The government can fix prices through:
@@ -346,7 +415,8 @@ not just about mere market clearing equilibria.
    This effectively fixes the interest rate ceiling provided there is no commercial 
    banking monopolist, via competitive pressure on banks competing for customer 
    debtors. 
-   - Regulating reserve balances, or IRMA, through Treasury bond operations to fix 
+   - Regulating reserve balances, or IRMA (interest rate maintenance 
+   accounts), through Treasury bond operations to fix 
    the interest rate floor.
 3. In New Zealand the practice is typically for the NZ government to fix prices and 
 let quantity of NZD float.
@@ -421,70 +491,131 @@ If the government sets a very high interest rate, high enough that the debt serv
 <div style="text-align: center;">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</div>
 
 This completes the basic outline of MMT. 
-However, there are thousands of papers expanding on these basics, full of subtlety, nuance and with additional extra policy prescriptions, that are not considered part of MMT proper, 
-but which can be considered as closely affiliated (such as green energy transition economics, social welfare economics, trade economics, poverty elimination, housing economics, anti-fragile banking, and the like). 
+However, there are thousands of papers expanding on these basics, full of 
+subtlety, nuance and with additional extra policy prescriptions, that are 
+not considered part of MMT proper, 
+but which can be considered as closely affiliated (such as green energy 
+transition economics, social welfare economics, trade economics, poverty 
+elimination, housing economics, anti-fragile banking, and the like). 
 
 Some of these topics will be addressed in later questions.
 
 ## Caveats
 
 Please just take careful note of the postulates under [The System.](#the-system) 
-If any economy does not satisfy these conditions then it is not necessarily well described by *proper* MMT, but MMT might still be useful with a few tweaks. 
+If any economy does not satisfy these conditions then it is not necessarily 
+well described by *proper* MMT, but MMT might still be useful with a few tweaks. 
 An example would be when a nation runs a fixed exchange rate policy. 
-They can always *choose* to move to floating exchange rate, but if they choose not to, then their fiscal policy space is severely reduced compared to a proper MMT economy.
+They can always *choose* to move to floating exchange rate, but if they choose 
+not to, then their fiscal policy space is severely reduced compared to a 
+proper MMT economy.
 
-Almost all post-Keynesian, Neoclassical and New Keynesian analysis implicitly adopts fixed exchange rate thinking, and so will not be correct according to MMT if a country runs a floating exchange rate, but will agree with MMT policy constraints if the country does run a rigid fixed exchange rate or currency peg. 
-(The MMT analysis updates in this case, basically becoming a post-Keynesian framework.)
+Almost all post-Keynesian, Neoclassical and New Keynesian analysis implicitly 
+adopts fixed exchange rate thinking, and so will not be correct according to 
+MMT if a country runs a floating exchange rate, but will agree with MMT 
+policy constraints if the country does run a rigid fixed exchange rate or 
+currency peg. 
+(The MMT analysis updates in this case, basically becoming a 
+post-Keynesian framework.)
 
 Post-Keynesian analysis is thus roughly a proper subset of MMT.
 
-For example, under fixed exchange rates a government will have a deficit constraint (aka. fiscal injection limit), but what the constraint is exactly will be impossible to compute (although it might be estimated to some fair uncertainty), because it depends upon microeconomics and resource capacity. The point is that full resource capacity cannot be used when a nation fixes their exchange rate, they may be *forced* (by their own needless self-imposed constraints) to tolerate involuntary unemployment, while a proper MMT system never has to tolerate any unemployment. 
-There is no inflation constraint in an MMT system when a floating exchange rate is adopted. 
+For example, under fixed exchange rates a government will have a deficit 
+constraint (aka. fiscal injection limit), but what the constraint is exactly 
+will be impossible to compute (although it might be estimated to some fair 
+uncertainty), because it depends upon microeconomics and resource capacity. The 
+point is that full resource capacity cannot be used when a nation fixes their 
+exchange rate, they may be *forced* (by their own needless self-imposed 
+constraints) to tolerate involuntary unemployment, while a proper MMT system never 
+has to tolerate any unemployment. 
+There is no inflation constraint in an MMT system when a floating exchange 
+rate is adopted. 
 Later questions will explain why.
 There is however, *always* a **real resource constraint** --- that's just physics. 
 
-In MMT frameworks, the "price paid" for maintaining full employment can be an exchange rate depreciation. But this benefits exporters. 
+In MMT frameworks, the "price paid" for maintaining full employment can be 
+an exchange rate depreciation. But this benefits exporters. 
 The opposite benefits importers. 
 So exchange rate movements are internal domestic redistributions. 
 There is always sufficient flexibility in an open economy for such movements. 
 They determine who gets to play more golf and who gets to go to work in the factory. 
 The government role is to not intervene in the exchange rate, but to; 
 
-* ensure there is no exchange rate speculation (which serves no public purpose), and
-* the internal redistributions are fair and equitable (so that the export oligarchs are not the only ones getting to knock off early for golf).
+* ensure there is no exchange rate speculation (which serves no public 
+purpose), and
+* the internal redistributions are fair and equitable (so that the export 
+oligarchs are not the only ones getting to knock off early for golf).
 
 Post-Keynesians think there is an inflation constraint. 
 They are wrong. 
 (At least wrong in the case of New Zealand.) 
 They would be correct if a fixed exchange rate was applied. 
 
-But New Zealand dropped fixed exchange rates in 1985, since that date the NZ government has been operating with no constraint on full employment, yet disgustingly acting to create unemployment nonetheless, a terrible policy mistake persisting for over 35 years --- wiping out the otherwise decent livelihood of an entire generation, now nearing two entire generations of Kiwis.
+But New Zealand dropped fixed exchange rates in 1985, since that date 
+the NZ government has been operating with no constraint on full employment, 
+yet disgustingly acting to create unemployment nonetheless, a terrible 
+policy mistake persisting for over 35 years --- wiping out the otherwise 
+decent livelihood of an entire generation, now nearing two entire 
+generations of Kiwis.
 
-For roughly the same reason, post-Keynesians think a large government debt is a problem, since "debt servicing" has to be "funded" by raising taxes. 
-(What they mean by "funded" is that there is a need to keep the exchange rate fixed --- so it is bad language framing.) 
+For roughly the same reason, post-Keynesians think a large government debt 
+is a problem, since "debt servicing" has to be "funded" by raising taxes. 
+(What they mean by "funded" is that there is a need to keep the exchange 
+rate fixed --- so it is bad language framing.) 
 This is of course incorrect in a proper MMT system. 
-The government operating a floating exchange rate has no debt constraint, they have *only* real resource constraints.
+The government operating a floating exchange rate has no debt constraint, 
+they have *only* real resource constraints.
 
-MMT tells us that "debt servicing" for a government sovereign is nothing but *typing numbers into bank accounts* of Treasury bond holders. 
+MMT tells us that "debt servicing" for a government sovereign is nothing 
+but *typing numbers into bank accounts* of Treasury bond holders. 
 There is no constraint here other than psychological, or political.
 Governments can refuse to type in those numbers. 
 Then the bond holders are defrauded, the governments defaults. 
 *Why would a government choose to voluntarily default on such debt obligations?* 
-There is no *good* reason other than to either, (i) defend a gold supply (inapplicable today post Breton-Woods), or (ii) defend a desired exchange rate (inapplicable to NZ since 1985).
+There is no *good* reason other than to either, (i) defend a gold supply 
+(inapplicable today post Bretton-Woods), or (ii) defend a desired exchange 
+rate (inapplicable to NZ since 1985).
 
-But otherwise post-Keynesians are very close to MMT in all other respects on macroeconomics. 
+But otherwise post-Keynesians are very close to MMT in all other respects on 
+macroeconomics. 
 
-Neoclassicals and New Keynesians have far more diverging views other than just obsessing on fixed exchange rates, they for instance still have completely idiotic thinking about money supply, marginal product of labour, marginal cost of production, and the champion of all bone-headed macroeconomic thinking --- the NAIRU (a total and utter myth). 
-There is a NAIRU only if governments refuse to hire the unemployed. But most governments are prepared to hire plenty of people who cannot find employment in the private sector, so the NAIRU is at best just an artefact of stupid government policy (governments who think (or act as if) the private sector is supposed to be responsible for full employment).
+Neoclassicals and New Keynesians have far more diverging views other than 
+just obsessing on fixed exchange rates, they for instance still have 
+completely idiotic thinking about money supply, marginal product of labour, 
+marginal cost of production, and the champion of all bone-headed 
+macroeconomic thinking --- the NAIRU (a total and utter myth). 
+There is a NAIRU only if governments refuse to hire the unemployed. But 
+most governments are prepared to hire plenty of people who cannot find 
+employment in the private sector, so the NAIRU is at best just an artifact 
+of stupid government policy --- governments who think (or act as if) the 
+private sector is supposed to be responsible for full employment.
 
-Today Australia, New Zealand, Japan, and the USA are all examples of MMT systems. This does not mean their politicians understand MMT, and typically they will not, so bad policy choices that MMT would tell you are harmful to workers can often result --- this is no fault of the MMT system that exists in these countries.
+Today Australia, New Zealand, Japan, and the USA are all examples of MMT 
+systems. This does not mean their politicians understand MMT, and typically 
+they will not, so bad policy choices that MMT would tell you are harmful to 
+workers can often result --- this is no fault of the MMT system that exists 
+in these countries.
 
-It is a fault of political misunderstandings and power plays by oligarchs who desire to see workers in debt (desperation for a job means the wage bargain can be undermined). 
-The labour market is not a fair game (employers do not always forego income when a worker is fired).
+It is a fault of political misunderstandings and power plays by oligarchs 
+who desire to see workers in debt (desperation for a job means the wage 
+bargain can be undermined). 
+The labour market is not a fair game (employers do not always forego income 
+when a worker is fired).
 
-The analogy would be like playing Football in a system that is governed by Rugby, or even worse, it could be in the USA a lot like trying to play NFL with the rules of baseball, completely messed up government policy results, for no good reason other than ignorance of the monetary system. 
-Under such political conditions one cannot blame MMT for any economic crises, the blame has to fall upon the decision makers who utterly fail to understand their own nation's monetary operations.
+The analogy would be like playing Football in a system that is governed 
+by Rugby, or even worse, it could be in the USA a lot like trying to play 
+NFL with the rules of baseball, completely messed up government policy 
+results, for no good reason other than ignorance of the monetary system. 
+Under such political conditions one cannot blame MMT for any economic crises, 
+the blame has to fall upon the decision makers who utterly fail to 
+understand their own nation's monetary operations.
 
+
+Lastly, we should never say New Zealand "needs to move to an MMT system." 
+We already have an MMT system. You can see for yourself.  What needs to be 
+said is that, "New Zealand governments need to be informed by MMT knowledge." 
+(And I would hasten to add, "also by _spiritual (moral and ethical) economics_ 
+concerns.")
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
