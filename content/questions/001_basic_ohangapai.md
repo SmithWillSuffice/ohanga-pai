@@ -11,31 +11,63 @@ tags: []
 katex: true
 ---
 
-For most of this whole course on MMT I am going to use the example of New Zealand, since many people claim MMT only applies to a country like the USA which enjoys a global reserve currency status. 
+For most of this whole course on MMT I am going to use the example of 
+New Zealand, since many people claim MMT only applies to a country like 
+the USA which enjoys a global reserve currency status. 
 This would be false. 
 MMT applies perfectly well to a small open economy like New Zealand. 
 The currency is the NZD.
 
 ## The Bare Minimum
 
-If you have a very sharp mind and keen intelligence you can almost derive answers to most of the basic questions concerning state currency monopoly systems (which would describe most monetary systems in all major countries today) using the principles in the following four subsections:  
+If you have a very sharp mind and keen intelligence you can almost derive 
+answers to most of the basic questions concerning state currency monopoly 
+systems (which would describe most monetary systems in all major countries 
+today) using the principles in the following four subsections:
 
 ### The System 
 
 MMT is based on one axiom, one legal reality, and one identity:
 
 1. All economies face real resource constraints.
-2. Currency issuers (usually these are governments or their licenced agents) face no purely financial constraints. To learn why this is a legal reality see [What is Money.](../003_what_is_money/)
+2. Currency issuers (usually these are governments or their licenced agents) 
+face no purely financial constraints. To learn why this is a legal reality 
+see [What is Money.](../003_what_is_money/)
 3. Sectoral balances sum to zero.
 
 A few supporting definitions and operational realities:
-* **Real resources:**  material goods, workers, capital machinery, natural re-sources, water, sunlight, land,...
-* **Fiat currency:** a unit of account for issuing or settling debts. Normally a single economic region issues only one fiat currency and it is defined as "that which is accepted for redemption of tax liabilities, fees or fines of the state." The most efficient modern forms of fiat currency are electronic digits in a bank account, which is indeed the most common form of NZD currency. 
-* **Bank reserves:** banks use reserve accounts (held at the central bank) to facilitate payments clearing. Bank reserves are not used to make loans, nor are deposits. In fact, deposits are liabilities of a bank, and debts owed by customers are the bank’s assets. Reserve accounts are just spreadsheets at the central bank and are for payments clearing operations.
+* **Real resources:**  material goods, workers, capital machinery, natural 
+resources, water, sunlight, land,...
+* **Fiat currency:** a unit of account for issuing or settling debts. 
+Normally a single economic region issues only one fiat currency and it is 
+defined as "that which is accepted for redemption of tax liabilities, fees 
+or fines of the state." The most efficient modern forms of fiat currency 
+are electronic digits in a bank account, which is indeed the most common 
+form of NZD currency. 
+* **Bank reserves:** banks use reserve accounts (held at the central bank) to 
+facilitate payments clearing. Bank reserves are not used to make loans, nor 
+are deposits. In fact, deposits are liabilities of a bank, and debts owed by 
+customers are the bank’s assets. Reserve accounts are just spreadsheets at the 
+central bank and are for payments clearing operations.
 * **Bank credit:** banks are licenced to issue money when they extend credit.
-Operationally this is not a loan or a borrowing by the customer, because banks do not lend out their reserves and deposits. Bank credit (what we tend to think of as bank loans) are nothing but electronic entries in a spreadsheet, the bank marks-up the customers account and records a corresponding debt that the customer must repay with interest at a due date or dates.
-* **Currency issuer (or 'money sovereign'):** monopoly issuer of a non-convertible fiat currency with floating exchange rate, and no foreign denominated debt.
-* **Sectoral balances:** one sector's deficit is another's surplus. MMT in the macro normally recognizes four sectors: government, banks, house- holds+firms, foreign. The domestic private sector comprises the private banks, households and firms. But one can split an economy into as many sectors as one likes, the sectoral balances still sum to zero.
+Operationally this is not a loan or a borrowing by the customer, because banks 
+do not lend out their reserves and deposits. Bank credit (what we tend to 
+think of as bank loans) are nothing but electronic entries in a spreadsheet, 
+the bank marks-up the customers account and records a corresponding debt that 
+the customer must repay with interest at a due date or dates.
+* **Currency issuer (or 'money sovereign'):** monopoly issuer of a 
+non-convertible fiat currency with floating exchange rate, and no foreign 
+denominated debt. Although having foreign denominated debt is a political 
+choice, unnecessary, and is completely pointless if the government understand 
+their monetary system. A government that issues their own currency holding 
+on to foreign reserves is also pointless of the domestic currency is on a 
+float --- provided the government understand the floating exchange rate 
+mechanism and use that understanding to inform policy choices, which is 
+admittedly a big proviso (most do not understand.)
+* **Sectoral balances:** one sector's deficit is anothers surplus. MMT in 
+the macro normally recognizes four sectors: government, banks, 
+house-holds+firms, foreign. The domestic private sector comprises the 
+private banks, households and firms. But one can split an economy into as many sectors as one likes, the sectoral balances still sum to zero.
 * **Private sector** means 'non-government' including all foreigners.
 
 

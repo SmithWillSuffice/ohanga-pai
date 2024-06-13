@@ -31,7 +31,7 @@ insists there were never pure barter economies. The thing is, both Mosler
 and Wray are correct. It is far too simplistic to say barter equals 
 "non-monetary". It's a logical subset fallacy: the "non-monetary" is a far 
 larger category than "barter" --- when we define "money" in very specific 
-terms, to with **_state tax credits**.
+terms, to with **_state tax credits_**.
 
 With a broader definition of "money" then a barter economy can be seen to be 
 a monetary economy. Just not using a tax credit. But to the extent such a 
