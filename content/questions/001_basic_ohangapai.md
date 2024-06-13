@@ -64,7 +64,7 @@ on to foreign reserves is also pointless of the domestic currency is on a
 float --- provided the government understand the floating exchange rate 
 mechanism and use that understanding to inform policy choices, which is 
 admittedly a big proviso (most do not understand.)
-* **Sectoral balances:** one sector's deficit is anothers surplus. MMT in 
+* **Sectoral balances:** one sector's deficit is another's surplus. MMT in 
 the macro normally recognizes four sectors: government, banks, 
 house-holds+firms, foreign. The domestic private sector comprises the 
 private banks, households and firms. But one can split an economy into as many sectors as one likes, the sectoral balances still sum to zero.
@@ -89,13 +89,22 @@ from China," occurs at all.
 Another way of putting this is that the NZD is the State's unit of account. 
 Like a kilogram is a unit of measure for mass. 
 
-You never own or emit or collect kilograms. You can own or collect masses, like sheep, pancakes, potato chips, paua, kiwifruit, apples and whatnot. You collect certain *masses*, you measure them in the kilogram unit. 
-The authority defining the measurement unit cannot ever run out of units --- it's just not an applicable concept, it's like saying you could run out of names for babies. 
-They *can* however run out of real types of mass that the measurement unit denominates. 
+You never own or emit or collect kilograms. You can own or collect masses, 
+like sheep, pancakes, potato chips, paua, kiwifruit, apples and whatnot. You 
+collect certain *masses*, you measure them in the kilogram unit. 
+The authority defining the measurement unit cannot ever run out of 
+units --- it's just not an applicable concept, it's like saying you could run 
+out of names for babies. 
+They *can* however run out of real types of mass that the measurement 
+unit denominates. 
 
-For macroeconomics, the *critical* resource a government can "run out of" is human labour. 
-But in a sense that's a good thing, if or when government has run out of labour it can hire at existing wages, then it knows it has reached full employment. 
-Further public sector hiring will then just push up wages in certain sectors, by competing with the private sector for already employed workers. 
+For macroeconomics, the *critical* resource a government can "run out of" is 
+human labour. 
+But in a sense that's a good thing, if or when government has run out of 
+labour it can hire at existing wages, then it knows it has reached full 
+employment. Further public sector hiring will then just push up wages in 
+certain sectors, by competing with the private sector for already employed 
+workers. 
 
 Under some conditions this could even be good policy. 
 Public sector jobs might be more critical than many [bullsh*t workers](https://www.strike.coop/bullshit-jobs) in the bloated private sector. 
@@ -107,31 +116,48 @@ But these are political matters requiring political choices.
 
 1. The state desires to provision itself.
 2. The state imposes tax liabilities payable in its currency as the tax credit.
-3. This results in sellers of goods and services (and hence also unemployed people) seeking state currency.
-4. The state then makes its desired purchases, and thus from inception is the price-setter, not price-taker. (The government sets the price level.)
+3. This results in sellers of goods and services (and hence also unemployed 
+people) seeking state currency.
+4. The state then makes its desired purchases, and thus from inception is the 
+price-setter, not price-taker. (The government sets the price level.)
 5. Taxes are paid and bonds purchased.<br> <br>
 **What Happens to State Spending?**
 6. After the state spends, the private sector has only two choices:
 7. (a) use the money to pay taxes, in which case it’s removed from the economy,
-8. (b) don’t use the money to pay taxes, in which case it remains in the economy until it is used to pay taxes. <br> <br>
+8. (b) don’t use the money to pay taxes, in which case it remains in the 
+economy until it is used to pay taxes. <br> <br>
 **The Public Debt**
-9. The national debt (=private savings) is the funds spent by the state that have not yet been used to pay taxes, it is dollar-for-dollar our private savings. (government deficit = private surplus.)
-10. The ‘national debt’ constitutes what is best thought of as the net money supply of the economy.
+9. The national debt (=private savings) is the funds spent by the state that 
+have not yet been used to pay taxes, it is dollar-for-dollar our private 
+savings. (government deficit = private surplus.)
+10. The ‘national debt’ constitutes what is best thought of as the net money 
+supply of the economy.
 11. A growing economy is expected to include a growing net money supply. <br> <br>
 **Unemployment**
 12. Taxation, by design, causes unemployment.
-13. Residual unemployment --- after state hiring and spending --- is the evidence the state has not spent enough to cover the need to pay taxes and the private sector’s desire to save out of income.
-14. If the state doesn’t spend enough to cover the need to pay taxes and desire to save, the evidence is unemployment. <br> <br>
+13. Residual unemployment --- after state hiring and spending --- is the 
+evidence the state has not spent enough to cover the need to pay taxes and 
+the private sector’s desire to save out of income.
+14. If the state doesn’t spend enough to cover the need to pay taxes and 
+desire to save, the evidence is unemployment. <br> <br>
 **Reversing Unemployment**
-15. Unemployment is the evidence that the state’s tax policy caused more unemployed than the state + private sector has hired.
-16. The state has the option to reduce the tax liabilities or get the unemployed hired through increased public spending (preferably on direct job creation for public purpose). <br> <br>
+15. Unemployment is the evidence that the state’s tax policy caused more 
+unemployed than the state + private sector has hired.
+16. The state has the option to reduce the tax liabilities or get the 
+unemployed hired through increased public spending (preferably on direct 
+job creation for public purpose). <br> <br>
 **The Job Guarantee**
 17. Tax liabilities created more unemployed workers than the state wanted to hire.
-18. Business resists hiring the unemployed and prefers hiring people already working, and in any case, firms cannot hire if they cannot make sales.
-19. The JG facilitates the transition from unemployment to private sector employment, providing the non-government sector with a net injected supply of money, boosting sales.
-20. The JG is a superior price anchor vs unemployment (unemployment$\leftrightarrow$basic income).
+18. Business resists hiring the unemployed and prefers hiring people 
+already working, and in any case, firms cannot hire if they cannot make sales.
+19. The JG facilitates the transition from unemployment to private 
+sector employment, providing the non-government sector with a net injected 
+supply of money, boosting sales.
+20. The JG is a superior price anchor vs unemployment 
+(unemployment$\leftrightarrow$basic income).
 
-The JG program is the superior automatic stabilizer for an otherwise unstable economy.
+The JG program is the superior automatic stabilizer for an otherwise 
+unstable economy.
 
 #### Summary:  
 All state currencies are IOU's of the state. 
@@ -139,7 +165,9 @@ All state currencies are IOU's of the state.
 **Answer:** the state says it owes you redemption for payment of tax liabilities. 
 The State always honours this obligation. 
 Why would they not? 
-The State creates the need to pay tax liabilities, it issues the only records of account that are accepted for such payments, and it can always accept them back, it's just book entries.
+The State creates the need to pay tax liabilities, it issues the only 
+records of account that are accepted for such payments, and it can always 
+accept them back, it's just book entries.
 
 ### The Bond Story 
 
@@ -182,7 +210,7 @@ be issuing bonds. If we had a fixed exchange rate policy (so similar to a gold
 standard, our government would be promising to redeem the tax credits (NZD) for 
 either gold or for a foreign currency) then it would be necessary to issue bonds, 
 in order to prevent mild inflationary pressures. But why? There is no need for 
-enriching people who are already rich with such policy, our governemtn should 
+enriching people who are already rich with such policy, our government should 
 instead float the NZD, and offer zero interest.
 
 The greater body of work on MMT recognizes that a far more effective way
