@@ -147,7 +147,21 @@ there is no pressure on prices. In reality people often do spend their
 savings, eventually, and this can have a small pressure on prices, an 
 inflation bias. But it is never a problem except when supply of goods are 
 scarce, as in war time or a pandemic. In this case progressive tax rates (via 
-bracket creep) will automatically cool off inflation in an economic boom.
+bracket creep, or progressive energy usage taxes, or transaction taxes) will 
+automatically cool off inflation in an economic boom.
+
+(Note: most MMT experts would say transaction taxes and sales taxes are 
+regressive and pointless. As are corporate taxes --- which are always a 
+simple pass-through to the shareholders or customers, so also regressive. 
+If the real idea is to limit energy use, then the tax should be on excess 
+energy consumption, but starting at 0% for reasonable household energy use.)
+
+((If we do not like what corporations are doing, we aught not tax them, since 
+a tax is a legitimation. We need to fine them out of existence, period.
+What about the poor newly unemployed? No problem: use a 
+[Job Guarantee](/ohanga-pai/questions/001_basic_ohangapai/#money_story) 
+policy.))
+
 
 In a supply shock crisis the remedy for inflation is totally different, it is to 
 *increase government investment* to fix supply. 
@@ -174,7 +188,7 @@ But this is ridiculous.
 Why are private banks any superior in knowing the needs of the local community? 
 
 The proper regulation upon local state and municipality spending is an account of 
-**_what resources** the spending is procuring. 
+**_what resources_** the spending is procuring. 
 If it is procuring yachts for wealthy people it is fraud. 
 If it is procuring rent free housing for otherwise homeless people, or 
 supplies for hospitals that are needed and which provide buffer stocks, not 
@@ -189,7 +203,7 @@ This principle is one component of
 targetted spending.
 
 A government, or demos really, that wants a thriving private sector, making 
-sneakers, computers, smartphones, fast-food, games, art, or whatever, should 
+sportswear, computers, smartphones, fast-food, games, art, or whatever, should 
 be careful to not spend on purchasing the energy, hiring already employed 
 workers, and buying up basic inputs that these private firms need. If 
 government competes with the private sector the government will always win (if 
@@ -213,20 +227,21 @@ public purpose.
 
 ### Why the heck should government be picking winners and losers?
 
-Most of the time government should not be picking winners and loser, as I already 
-stated. But when the broad public purpose is threatened then government 
+Most of the time government should not be picking winners and losers, as I 
+already stated. But when the broad public purpose is threatened then government 
 intervention is justified. The government does not get to define the public 
 purpose in a semblance of a democracy, that is up to the demos.
 
 Why should the demos then sometimes be using government to pick winners and 
-losers? For a couple of reasons.
+losers? For a couple of reasons:
 1. As the representatives of "the people" governments have a responsibility to 
 ensure something nebulous called "the public good." They cannot do so with a 
 laissez faire hands-off approach that lets powerful market players dominate 
 the world of finance.
 2. Private markets are not efficient, do not allocate resources fairly (they 
 allocate according to who has the most money), and privilege people with power 
-over workers who have to work to live.
+over workers who have to work to live. Bosses (of the rentier variety) do not 
+have to work (much) to live.
 3. In particular *the labour market is not a fair game*, a government is 
 therefore necessary to protect labour. Workers have to work to eat, employers 
 do not (do not have to work too much).
@@ -274,10 +289,11 @@ not a financial constraint. Currency issuers have *no* financial constraints
 that are not self-imposed.
 
 The tricky thing here is that the reality about what should be the proper 
-regulations on government spending are not recognized by politicians, the 
-public or mainstream neoclassical economists, so the proper reality is not 
-heeded. We instead get a terrible mix in reality: a confusion about what is 
-possible, and what actually gets accomplished.
+regulations on government spending are not recognized by politicians, nor 
+by the news media, nor by the public or mainstream neoclassical economists, 
+so the proper reality is not heeded. We instead get a terrible mix in 
+reality: a confusion about what is possible, and what actually gets 
+accomplished.
 
 Due to unnecessary budget constraints (aka. austerity) government leaders 
 are not doing what is possible to help their people. They are doing instead 
