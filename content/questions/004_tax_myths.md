@@ -18,12 +18,13 @@ The *reality*:
 * Currency **_issuers_** do not, and cannot logically, use tax return for 
 their spending.
 * Currency **_users_** like you and I do not use tax return for our 
-spending either, because we have legal authority to impose taxes.
+spending either, because we do not have legal authority to impose taxes in 
+the first place.
 * Special currency **_users_** like provincial or municipal governments) do 
 not need tax receipts for their funding either,
-* but local currency-using governments that do not receive sufficient central 
-government grant funds can be forced to impose taxes to get funds (numbers, 
-scorepoints, in their bank accounts).
+* but local currency-using branches of governments that do not receive 
+sufficient central government grant funds can be forced to impose taxes to 
+get funds (numbers, scorepoints, in their bank accounts).
 
 > The *myth* is that governments need to get their own currency off 
 tax-payers before they can spend it! 
@@ -38,6 +39,43 @@ central bank.
 
 Laws concerning such monetary relations between local and central government 
 are pure conventions, the law can be changed to meet the needs of the people.
+
+### Note on overdrafts
+
+The Canadian government does allow banks an overdraft facility. They have 
+partially recognized MMT, at least to the extent this implicitly acknowledges 
+the CND is a scorekeeping system, not a pot of gold reserve or money reserve 
+system. 
+
+We in NZ ostensibly do not allow chartered banks to have overdrafts, but when 
+the central bank (RBNZ) lends to a commercial bank, this is functionally 
+the same as an overdraft. The interest is the penalty. There is no need for 
+this however. Banks could be allowed permanent overdraft facilities at the 
+RBNZ so that payments clearing software does not choke. There might still be 
+a penalty interest charged, which would become the effective OCR. But at the 
+same time eliminate a lot of pointless record keeping and lending operations.
+Just use the spreadsheet at the RBNZ efficiently!
+
+The issue at the end of an accounting period would be "Is this back $Z$ running suspiciously high overdrafts?" Is so, then it is cause of oversight and regulators to inspect the books closely. Interview that bank's managers, and look for 
+fraud (which possibly might be due to fraudulent customers). 
+
+Regulatory investigation of fraud is, of course, a massive drain on 
+human resources. There should be stiff penalties. But it does not "cost" 
+the NZ government a single "tax payer dollar". The cost is always in real 
+terms if you are the monopoly currency issuer, you pay the regulatory staff 
+for spending time investigating the suspected fraud or accounting errors. 
+That is income in their pockets, but the government would have paid that 
+anyway (if they do not use a bonus salary system). 
+
+The real cost is that those staffers no longer get to knock off work early, 
+perhaps, so the golf course gets less income from fees. The putting greens 
+go to seed. Although I joke, you get the idea. One purpose for strict 
+regulation is that we have massive incentives against fraud, which lowers 
+the real costs of regulation. Rule of Law is a more powerful and cheap thing 
+when everyone obeys the Law.
+
+
+
 
 
 ### Why can't governments "logically" use tax receipts for spending?
