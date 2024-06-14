@@ -56,8 +56,10 @@ a penalty interest charged, which would become the effective OCR. But at the
 same time eliminate a lot of pointless record keeping and lending operations.
 Just use the spreadsheet at the RBNZ efficiently!
 
-The issue at the end of an accounting period would be "Is this back $Z$ running suspiciously high overdrafts?" Is so, then it is cause of oversight and regulators to inspect the books closely. Interview that bank's managers, and look for 
-fraud (which possibly might be due to fraudulent customers). 
+The issue at the end of an accounting period would be, "Is this back $Z$ 
+running suspiciously high overdrafts?" Is so, then it is cause of oversight 
+and regulators to inspect the books closely. Interview that bank's managers, 
+and look for fraud (which possibly might be due to fraudulent customers). 
 
 Regulatory investigation of fraud is, of course, a massive drain on 
 human resources. There should be stiff penalties. But it does not "cost" 
@@ -85,8 +87,8 @@ By accounting logic **_no one can pay a dime in taxes until the government (or i
 Remember, state currency is **_defined_** as *that which is accepted for payment of taxes, fees, fines and levies imposed by the state.*
 State currency only comes from the government or its licenced banks, it cannot 
 legally come from anywhere else. It is points on the central bank's scoreboard 
-(secured spreadsheets, or in the olde days ledger books kept under lock and 
-key.)
+(secured spreadsheets, or in the $\mathfrak{olde}$ days ledger books kept 
+under $\mathfrak{lock}$  and $key$.)
 
 **Caveat:** In recent years, and going back in history, you can find isolated 
 cases where governments have accepted stupid things for redemption of taxes, 
@@ -99,7 +101,10 @@ wealthy hoarders, rentiers).
 
 $^\ast$ Gold is useful for electrical engineering, so governments can make 
 some use of gold. But there are satisfactory metal alternatives in 
-electronics.
+electronics, and what government, outside the former Soviet, is ever involved 
+in running electronics manufacturing plants? OK, NASA in the USA used a lot 
+of gold.  These days now the ESA and Chinese and Indian space industries too. 
+That stuff does not belong under ground in Fort Knox. 
 
 ### Why do governments tax us then?
 
@@ -108,7 +113,7 @@ currency, **_not_** to get supply of scorepoints for the monopoly issuer of
 the scorepoints!
 
 Consider playing a game of rugby, or a game of cards, the scorekeeper does not 
-need to get scorepoints off the players. The same holds for a fat currency 
+need to get scorepoints off the players. The same holds for a fiat currency 
 issuer. they are scorekeepers for the economy. The scorekeeping is real, not 
 fictional, it is not "funny money", there are severe penalties for violating 
 the scoring system. Try creating our own NZD scorepoints!
