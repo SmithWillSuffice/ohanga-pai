@@ -307,8 +307,31 @@ is no need for currency issuing austerity.
 
 In particular, human labour, all available willing workers, can always be fully 
 employed, if not by the private sector, then in public sector programs to help 
-out with local community needs. This is the concept of a two-fold increase in 
-human prosperity:
+out with local community needs. It is also anti-inflationary: the more support 
+for businesses provided by government without, free of charge, the lower the 
+costs of doing business, provided the government is not bidding up prices in 
+hiring to provide the support. There is a natural (hard to define or compute) 
+limit them to state support, but there is no financial limit. The limit is 
+how much price inflation can be politically tolerated. That is a psychological 
+limit, not a real nor monetary limit. A fiat currency on a float has no 
+inflation limit, the inflation has no first order economic consequence, except 
+that it is an inconvenience (firms have to keep checking the price level, which 
+can be considered a bit of a waste of their effort, if instead prices could 
+be stabilized). Although really, a stable positive rate of inflation is just 
+as good, it is the uncertainty that is disruptive, not the inflation _per se._
+
+With a fiat currency the inflation (continual change in the price level 
+upwards) is a gauge. If other frictions are reduced, then this re-gauging 
+should have no serious economic impact, provided it is a stable rate of 
+change. In our times it **_is_** disruptive because our governments lack the 
+understanding that their policy is the cause of all inflation (and 
+unemployment). So they routinely make terrible banal policy mistakes. 
+Mostly because they have the 
+[Money Sequence](http://localhost:1818/ohanga-pai/questions/001_basic_ohangapai/#money_story) 
+all backwards in their minds.
+
+When public sector programs help out with local community needs, this is 
+the concept of a two-fold increase in human prosperity:
 
 1. Expanded public sector hiring, for public purpose (no bullsh*t jobs), and
 2. a Job Guarantee wage floor --- which protects workers in the otherwise unfair 
