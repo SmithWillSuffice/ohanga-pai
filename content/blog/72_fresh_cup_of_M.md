@@ -155,6 +155,43 @@ or invasions. Only the MMT Lens explains why not!
 
 
 
+## Eliminate the Stock Market Casino
+
+The DemystifySci hosts asked about "money going into the stock market if 
+bonds were eliminated (or zirp)." It reminded me of Mosler's proposal for 
+stocks: set a price cap at $20 per, and the companies can then just issue 
+more. Eliminate the "casino".  I checked in with Warren to ask him about 
+this proposal and if he had any revisions. He replied as courteously as usual:
+
+**Answer:** Yes, new issues come at $\text{\small \\$}$10, and the company is required to 
+issue unlimited shares for sale at $\text{\small \\$}$20.
+
+I had a few related follow-ups, and Warren was generous to reply:
+
+**Question:** how could you see a government implementing this practically 
+in a transition period?  
+**Answer:** Immediately subject all new issues to this requirement. 
+Immediately require all existing listed companies to offer unlimited shares 
+for sale at a price maybe 25% above the latest closing market price. 
+
+
+**Question:** I do not know how the exchanges are organized, but in most 
+countries there is something like the SEC, right, so they'd just dictate 
+the new terms coming from government direction/statutes?   
+**Answer:** Corporations have charters that subject them to gov reg.s in 
+exchange for limited liability. They can go back to partnerships and sole 
+proprietorships any time and lose gov granted limited liability.
+
+
+**Question:** Did you have any idea for how to make such a transition 
+least disruptive?  
+**Answer:**  As above, but open to suggestions.   
+Say: for existing shares on the new day=1 the price goes straight to the 
+last closing price + 25%, as above.
+
+
+
+
 
 
 <table style="border-collapse: collapse; border=0;">
