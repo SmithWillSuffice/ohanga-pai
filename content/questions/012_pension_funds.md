@@ -522,7 +522,7 @@ justice with a military or guerilla warfare solution. Fascists will for sure win
 
 ## The Mosler Proposals
 
-I recently (c.June 2024) had a chance to ask Warren Mosler whetehr he had 
+I recently (c.&nbsp;June 2024) had a chance to ask Warren Mosler whetehr he had 
 any reviisons to his social security policy proposals. He graciously replied.
 
 
@@ -532,7 +532,7 @@ on pension plans/social security.  MMT knows the policy space. The question
 was what salient policy advice should activists promote --- bearing in mind 
 a few psychological constraints:  
 **1.** people have limited attention spans, so the MMT messaging has to 
-"pop".
+"pop".  
 **2.** try best not to trigger the normies. (I'm serious! I want people to 
 have a path of least resistance to MMT).
 
