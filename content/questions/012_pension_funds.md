@@ -563,7 +563,7 @@ frame, to avoid sheer panic among normies).
 taxes, sales taxes, etc. to eliminate the real compliance costs that are 
 eating up maybe 15% of GDP, and replacing the lot with a federal real 
 estate tax that has minimal real compliance costs.  Assuming those real 
-resources get redeployed into useful public services- health, education 
+resources get redeployed into useful public services --- health, education 
 and other public infrastructure the real gains for the lowest income 
 earners are something like 30%+. 
 
@@ -573,7 +573,7 @@ earners are something like 30%+.
 operations (less disruptive).
 
 
-**Answer (Warren):** ... aAnd shrinks the financial sector:
+**Answer (Warren):** ... and shrinks the financial sector:
 [“How to Deep Six/Bin Off the Financial Sector”](https://docs.google.com/presentation/d/1K4sHGX-o0qGvlOTwoWl9EW_Yw2CQ12I9tD2FNhPInKI/edit?usp=sharing)
  
 
