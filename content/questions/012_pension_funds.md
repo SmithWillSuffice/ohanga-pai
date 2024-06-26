@@ -3,7 +3,7 @@ title: "Pension Fund Myths"
 weight: 9
 description: ""
 date: 2014-12-17
-lastmod: 2014-12-17
+lastmod: 2024-06-25
 cover: ""
 coverAlt: ""
 toc: true
@@ -520,6 +520,70 @@ justice with a military or guerilla warfare solution. Fascists will for sure win
 *that* war. (Or maybe I watch too many movies?)
 
 
+## The Mosler Proposals
+
+I recently (c.June 2024) had a chance to ask Warren Mosler whetehr he had 
+any reviisons to his social security policy proposals. He graciously replied.
+
+
+**Question:**  James Keenan replied to me about his 
+[recent article](https://jamesekeenan.substack.com/p/an-action-for-social-security) 
+on pension plans/social security.  MMT knows the policy space. The question 
+was what salient policy advice should activists promote --- bearing in mind 
+a few psychological constraints:  
+**1.** people have limited attention spans, so the MMT messaging has to 
+"pop".
+**2.** try best not to trigger the normies. (I'm serious! I want people to 
+have a path of least resistance to MMT).
+
+The minimalist program for my MMT activism would be (following Warren 
+(and Randy & Yeva)):
+**(a)** First & foremost: scrap superannuation (that's what we call it in 
+New Zealand.... something, like your 401K stuff. Giant waste of resources, 
+and people think it is "affording"; them things. LOL.)  How to frame this 
+politely? Instead of "scrap" I need a bit more subtlety.
+
+
+**Answer (Warren):** Yes, one of my proposals for shrinking the financial 
+sector. Eliminate all tax advantages for not spending income (saving) as 
+they are what's driving the deficit spending that creates the 10's of 
+$trillions under management in the financial sector. The idea is to cut off 
+the 'fuel' for the financial sector at source, rather than pay it out and 
+try to claw it back with the tax structure. And increase social 
+security/universal gov pension payments to a respectable level so seniors 
+aren't dependent on their own savings. 
+ 
+
+**Question (continued):**  
+**(a)** Eliminate income tax (payroll tax holiday is the polite policy 
+frame, to avoid sheer panic among normies).
+
+
+**Answer (Warren):** I propose eliminating all transactions taxes --- income 
+taxes, sales taxes, etc. to eliminate the real compliance costs that are 
+eating up maybe 15% of GDP, and replacing the lot with a federal real 
+estate tax that has minimal real compliance costs.  Assuming those real 
+resources get redeployed into useful public services- health, education 
+and other public infrastructure the real gains for the lowest income 
+earners are something like 30%+. 
+
+
+**Question (continued):**  
+**(c)** Tsy bonds go to ZIRP and 3-month bills only for bank clearing 
+operations (less disruptive).
+
+
+**Answer (Warren):** ... aAnd shrinks the financial sector:
+[“How to Deep Six/Bin Off the Financial Sector”](https://docs.google.com/presentation/d/1K4sHGX-o0qGvlOTwoWl9EW_Yw2CQ12I9tD2FNhPInKI/edit?usp=sharing)
+ 
+
+**Question:**  The way I see it, MMT progressives should be framing the 
+policy advice so that it does not require massive re-drafting of entire 
+bookshelves of Acts and Statutes. My mantra would be "tweak the dials and 
+knobs" and try to not exercise the law maker's pens.
+
+**Answer:** Agreed.
+
 
 ## Caveats
 
@@ -534,15 +598,12 @@ I am still working on writing the software for such models in a human readable
 form, so would like to promise the appearance of dashboards for these models soon, 
 but I cannot promise a fixed due date.
 If you want to see such models, GPL code too, sooner than "vaguely soon" then 
-please consider donating, and drop me a message when you do telling me what you want to see.
+please consider donating, and drop me a message when you do telling me what 
+you want to see.
 
 To help me complete these chapters and write the software, please donating   
 via [Achronomaster \@ Ko-fi.](https://ko-fi.com/achrononmaster/)
 
-
-[Next chapter (Periphery Countries)](../020_peripherynations)  
-[Previous chapter (Interest Rate Myths)](../007_interest_rate_myths)  
-[Back to Questions TOC](../)
 
 
 <table style="border-collapse: collapse; border=0;">
