@@ -193,7 +193,6 @@ last closing price + 25%, as above.
 
 
 
-
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
