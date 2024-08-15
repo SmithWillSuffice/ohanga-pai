@@ -58,7 +58,7 @@ the customer must repay with interest at a due date or dates.
 * **Currency issuer (or 'money sovereign'):** monopoly issuer of a 
 non-convertible fiat currency with floating exchange rate, and no foreign 
 denominated debt. Although having foreign denominated debt is a political 
-choice, unnecessary, and is completely pointless if the government understand 
+choice, unnecessary, and is completely pointless if the government understands 
 their monetary system. A government that issues their own currency holding 
 on to foreign reserves is also pointless of the domestic currency is on a 
 float --- provided the government understand the floating exchange rate 
@@ -67,7 +67,8 @@ admittedly a big proviso (most do not understand.)
 * **Sectoral balances:** one sector's deficit is another's surplus. MMT in 
 the macro normally recognizes four sectors: government, banks, 
 house-holds+firms, foreign. The domestic private sector comprises the 
-private banks, households and firms. But one can split an economy into as many sectors as one likes, the sectoral balances still sum to zero.
+private banks, households and firms. But one can split an economy into as 
+many sectors as one likes, the sectoral balances still sum to zero.
 * **Private sector** means 'non-government' including all foreigners.
 
 
