@@ -49,7 +49,7 @@ facilitate payments clearing. Bank reserves are not used to make loans, nor
 are deposits. In fact, deposits are liabilities of a bank, and debts owed by 
 customers are the bank’s assets. Reserve accounts are just spreadsheets at the 
 central bank and are for payments clearing operations.
-* **Bank credit:** banks are licenced to issue money when they extend credit.
+* **Bank credit:** banks are licensed to issue money when they extend credit.
 Operationally this is not a loan or a borrowing by the customer, because banks 
 do not lend out their reserves and deposits. Bank credit (what we tend to 
 think of as bank loans) are nothing but electronic entries in a spreadsheet, 
@@ -60,7 +60,7 @@ non-convertible fiat currency with floating exchange rate, and no foreign
 denominated debt. Although having foreign denominated debt is a political 
 choice, unnecessary, and is completely pointless if the government understands 
 their monetary system. A government that issues their own currency holding 
-on to foreign reserves is also pointless of the domestic currency is on a 
+on to foreign reserves is also pointless if the domestic currency is on a 
 float --- provided the government understand the floating exchange rate 
 mechanism and use that understanding to inform policy choices, which is 
 admittedly a big proviso (most do not understand.)
