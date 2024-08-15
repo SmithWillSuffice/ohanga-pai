@@ -347,20 +347,49 @@ definitions of what counts as a bullsh*t job).
 (([Bullsh$\ast$t Job](https://www.strike.coop/bullshit-jobs) is a 
 [technical term](https://www.strike.coop/bullshit-jobs), not a cuss word.))
 
-**Comment 8 (b).** A pension trust fund is a great idea *if* you have *a finite money supply to defend*, but under New Zealand's monetary system it is 
-highly regressive. 
+**Comment 8 (b).** A pension trust fund is a great idea *if* you have 
+*a finite money supply to defend*, but under New Zealand's monetary system it 
+is highly regressive. And no government ever has had a 'finite money supply' 
+--- this finiteness is an inapplicable notion, it is like imagining the 
+scorekeeper in a rugby or cricket game can run out of scorepoints. In fact is 
+is exactly the same, this is not just an analogy, it is an isomorphism.
+Our government is the scorekeeper, they are bowling and scoring, we are batting.
+
+The entirety of thought going into retirement pension policy should focus on 
+the real resources our nation can either produce domestically or import. 
+This means _government policy._ Private firm and household policy is a 
+completely different matter because firms and households are currency 
+constrained, since they generally do not indulge in counterfeit operations.
+Nor can private banks create the NZD, they have licences granted by the 
+State to assess credit worthiness and to then exchange a promissory note to 
+repay with account deposits. *_The loan creates the deposit._*
+
 I do realize currently scrapping superannuation and simply guaranteeing all 
-pension payments is politically untenable (but reading this you have to 
-wonder why!), even if the pension payments would be guaranteed forever, 
+pension payments is politically untenable at present given our deplorable 
+macroeconomics literacy (but reading this you have to 
+wonder why!).  Even if the pension payments would be guaranteed forever, 
 there is currently just too strong a social psychological blockage in 
-understanding to get parliaments to do the right thing.
+understanding to get parliaments to do the right thing.  Before scrapping 
+superannuation then, I would recommend MMT education programs. Only a 
+counter to the false paradigm via a newly well-informed public can exert the 
+pressure on governments to do the right thing when the entire paradigm of 
+thinking is backwards.
+
+We will see evidence of such education when the mainstream news media stop 
+accepting the official narratives and question politicians and appointed 
+officials using the MMT lens.  Governments never have to "find the money" 
+because they create the currency using a computer to mark-up a bank account.
+Governments have to _find the real resources_ needed to fulfill the public 
+purpose.
+
 
 ### The Price Story 
 
 We begin with one more axiom, or take it as a definition:
 
-**Monopoly actions:** A monopolist always has two options: (a) set the price
-and let quantity float, or (b) fix the quantity they supply and let the price float.
+**Monopoly actions:** A monopolist always has two limiting options: (a) set 
+the price and let quantity float, or (b) fix the quantity they supply and let 
+the price float.
 
 Most monopolists find it convenient (for their customers) to use option (a): 
 to fix the price, and only later adjust the price to control quantity emitted 
