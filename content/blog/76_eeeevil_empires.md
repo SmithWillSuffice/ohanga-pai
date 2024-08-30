@@ -8,6 +8,7 @@ disableTitleSeparator : true
 toc: false
 ---
 
+## Eeevil empires and the Liedeologies that Support Them
 
 This little essay might be a bit too hot for the liberal left, but since I am 
 an anti-celebrity I figure it cannot hurt putting it out in public. If you 
@@ -289,7 +290,7 @@ research. It would be the spiritual thing to do.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next post</a></td>
+<a href="../77_credit_for_free">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -297,6 +298,6 @@ research. It would be the spiritual thing to do.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../77_credit_for_free">Credit for Free</a></td>
 </tr>
 </table>
