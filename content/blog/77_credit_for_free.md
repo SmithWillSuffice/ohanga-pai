@@ -60,9 +60,9 @@ truly regressive.
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 25%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -70,7 +70,7 @@ truly regressive.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next post</a></td>
+<a href="../78_normanator_disinvertigation">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -78,6 +78,6 @@ truly regressive.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../78_normanator_disinvertigation">The Normanator Dis-invertigation</a></td>
 </tr>
 </table>
