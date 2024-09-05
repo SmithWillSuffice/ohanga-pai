@@ -14,13 +14,13 @@ depression. But I did manage to click the appropriate pixels on my browser
 page to see what Mike Norman had to say about the recent dis-inversion of 
 the yield curve.  Below I’ll attempt a mini synopsis, and finish with my take 
 on the story. Let me emphasize: no one should bother paying any attention to 
-me, especially not the “paying” but. But if this amuses you, delights you, or 
+me, especially not the “paying”. But if this amuses you, delights you, or 
 motivates you to get into macroeconomic justice activism, then my job is 
 well done. (This is not Millennial Gen false modesty and fake absurdist 
 self-deprecation, it is just fact, since my expertise is in physics.)
 
 Actually, I am going to invert this essay, and start with my take on the 
-situation, then after go through the terminology and the dynamics a bit.
+situation, then afterwards go through the terminology and the dynamics a bit.
 (Non-technical, no math. Apologies to the nerds.) The challenge is to offer 
 a decent honest "explainer" using only cartoons. This is an art, and I'm no 
 Rembrandt at it, and my pencil is just words and letters, but I hope I find 
@@ -35,8 +35,16 @@ claiming the Monetarists have it all backwards again. For all previous history
 they scream "murder" (or "recession") when the 
 [bond market yield curve inverts](https://www.investopedia.com/terms/i/invertedyieldcurve.asp) --- meaning short term 
 yields on bonds go higher than long term yields. I will try to explain 
-later the (false) logic why the Monetarists (read: almost all mainstream 
+later the (false) logic why the 'Monetarists' (read: almost all mainstream 
 economists) think an inverted yield curve signals a recession.
+
+OK, but today, Mike notes, the Monetarists are changing their tune: now it 
+is a dis-inverted yield curve that signals a recession. (MoneyTsarist: 
+“Haha! Psyche. We knew this all along, we were only kidding before, 
+couldn’t you tell?”.  🤣 ) 
+
+((Ooops! Big linguistic pun error?  When you think about it, it is really 
+the MMT extremist who is the “MoneyTsarist”.))
 
 Mike then points out there was no recession after the yield curve inverted a 
 few years ago, and there will be none. He then claims the yield curve 
@@ -85,17 +93,24 @@ need to borrow (except if they want to, e.g., buy a house).
 
 This is a policy I have not heard about in the MMT literature too much, 
 but Warren Mosler gets close to it, with the Job Guarantee. The idea is that 
-a basic decent income is government guaranteed, and is sufficient for any 
+a basic decent income is government guaranteed, and is _sufficient_ for any 
 family to live with, inclusively, without stress, and that means it will 
 always pay the rent, the electricity and the groceries, minimum, plus a bit 
 to save for a vacation or whatever.
 
-If this causes a bit of inflation then it is a good thing. You should never 
-fear or cry about inflation if this is the cause, it would be reactionary 
-right-wing thinking and framing. You've just improved people's 
-lives. _So friggin'  what_ if the general price level went upwards, it is 
-a gauge of the scorekeeping system that the policy to improve people's 
-lives has just re-gauged.
+Why is it not _more prominent_ in the MMT literature? The answer is 
+because the recovering neoliberal MMT'ers still fear the inflation bogeyman.  
+_Keltonista:_ "Look, we cannot give the poor too many scorepoints, or they might 
+eat too much and then we will get the horrors of inflaaaashhiooooon."
+
+Right. Stomach inflation. Not so good.
+
+If regularly adjusting the JG wage upwards causes a bit of inflation then it 
+is a good thing. You should never fear or cry about inflation if this is the 
+cause, it would be reactionary right-wing thinking and framing. You've just 
+improved people's lives. _So friggin'  what_ if the general price level went 
+upwards?, it is a gauge of the scorekeeping system that the policy to 
+improve people's lives has just re-gauged.
 
 Or as Bill Mitchell once put it, what do you prefer?  **(A)** the social 
 pathologies of mass unemployment and wasted human lives, exceeding the costs 
@@ -185,13 +200,39 @@ are all parasitic overhead, a massive drain on the real economy.
 By "investment class" I really _only_ mean the money managed accounts. 
 Real investment in real industry is a good thing.
 
+**Senventh**, why does the yield curve invert, then dis-invert. I've given 
+you the answer, it is because the central bank votes to set the current 
+interest rte floor. If they vote it up then new bonds will have higher yield.
+That is the whole story.
+
+Almost. If the central bank thinks there is too much economic activity for 
+the good of those who like seeing workers suffer from unemployment, then they 
+think it is appropriate to vote up the interest rate --- because they believe 
+(falsely in most cases) this cools down the economy. (It doesn't.). It is a 
+terrible policy response, but that is their thinking. That is why the yield 
+curve can invert.
+
+Conversely, if they fear a recession they vote to lower the interest rate, 
+because they think this lowering of the cost of funds (aka. "cheap money") 
+will help stimulate the economy. 
+I just pointed out this latter idea ("cheap money") is false, it is the 
+base case for trading the currency at par. It is the most stable. It is 
+not "cheap money". It does not stimulate the economy in most cases. Especially 
+not if the currency is on a float.  In any case, this vote will dis-invert a 
+yield curve if it was previously inverted. Whether the feared recession ever 
+happens is anyone's guess, but the backwards policy response is a sick 
+self-fulfilling prophecy, the lower rates without any fiscal offset, like 
+reducing taxes, will help _cause_ a recession (drop in sales --- for goods 
+that people need that can easily be produced --- then the spiral).
+
 I think I had a few more points to make concerning the Treasury bond market 
 operations that relate to the Yield Curve story, but hopefully that is 
 sufficient for now. If you have questions, or question my account, feel free 
 to write to me. If you donate a few government scorepoints into my bank 
-account via KoFi then I might also write back and apologize if I got 
-something wrong. Oh my goodness, am I seeling Indulgences of some 
-kind? LOL.
+account via 
+[KoFi](https://ko-fi.com/achrononmaster/) then I might also write back and 
+apologize if I got something wrong. Oh my goodness, am I selling 
+Indulgences of some kind? LOL.
 
 
 ## Psychological Damages
@@ -217,17 +258,33 @@ assassins are about to mobilize, but no more than that.
 I myself, if supreme leader, would go the whole hog and risk assassination. 
 Just to prove a point.  The point that honest workers getting paid more 
 are _never the problem_ --- unless they are the backwards thinking miscreants 
-who turn fascist because someone even more Cretinous told them they cannot 
-convert their scorepoints into certificates for gold bullion that is kept 
-under the ground. (Is it a transgression to use the word Cretin these days? 
-I cannot keep up with these things.)
+who turn fascist because someone even more Cretinous told them they 
+should desire gold but cannot convert their scorepoints into certificates 
+for gold bullion that is kept under the ground. (Is it a transgression to 
+use the word Cretin these days?  I cannot keep up with these things.)
 
-Preppers: When you build your bunker for the end of the world scenario, is 
+**Rich c_nts:** I know I should not cuss, you cannot help yourselves. But you 
+understand why I do pity you so much: you do have a moral choice, unlike a 
+starving household.  You can always choose to spend all your income.  A low 
+wage worker cannot, they always spend all their income (which is a good 
+thing for everyone else) but not because they choose.
+
+**Preppers:** When you build your bunker for the end of the world scenario, is 
 gold really going to be your main commodity of choice to steal?  What do you 
 think the farmer who bakes your bread is going to ask in exchange for her 
 bread? She is not going to waste burning energy carrying around
 <font style="color: #ffd755;">gold bars</font>. 
 
+
+### Apologies
+
+Sorry again for no mathematics to back up the stories, and no 
+actual _cartoon_ cartoons. If I can think of a good cartoon I will update 
+this post.
+How do you draw a central banker with the end of the yield curve in his 
+hand like a skipping rope, and an investor trying to jump rope and the 
+banker not cooperating? Probably better animated, but I have no time for 
+that, or if I do it'll have to be xkcd style.
 
 
 <table style="border-collapse: collapse; border=0;">
