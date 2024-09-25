@@ -14,7 +14,7 @@ katex: true
 For most of this whole course on MMT I am going to use the example of 
 New Zealand, since many people claim MMT only applies to a country like 
 the USA which enjoys a global reserve currency status. 
-This would be false on bopth counts. 
+This would be false on both counts. 
 MMT applies perfectly well to a small open economy like New Zealand. 
 The currency is the NZD. The US dollar is not a global reserve currency, 
 since the Bretton-Woods system was abandoned over 50 years ago.
