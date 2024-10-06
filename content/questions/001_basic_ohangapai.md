@@ -1,6 +1,6 @@
 ---
 title: "Basic MMT and Economic Justice"
-weight: 2
+weight: 2https://findingmoneyfilm.com/o
 description: ""
 date: 2014-10-15
 lastmod: 2014-10-15
@@ -64,7 +64,7 @@ their monetary system. A government that issues their own currency holding
 on to foreign reserves is also pointless if the domestic currency is on a 
 float --- provided the government understand the floating exchange rate 
 mechanism and use that understanding to inform policy choices, which is 
-admittedly a big proviso (most do not understand.)
+admittedly a big proviso (most do not understand).
 * **Sectoral balances:** one sector's deficit is another's surplus. MMT in 
 the macro normally recognizes four sectors: government, banks, 
 house-holds+firms, foreign. The domestic private sector comprises the 
@@ -352,7 +352,7 @@ definitions of what counts as a bullsh*t job).
 *a finite money supply to defend*, but under New Zealand's monetary system it 
 is highly regressive. And no government ever has had a 'finite money supply' 
 --- this finiteness is an inapplicable notion, it is like imagining the 
-scorekeeper in a rugby or cricket game can run out of scorepoints. In fact is 
+scorekeeper in a rugby or cricket game can run out of scorepoints. In fact it 
 is exactly the same, this is not just an analogy, it is an isomorphism.
 Our government is the scorekeeper, they are bowling and scoring, we are batting.
 
