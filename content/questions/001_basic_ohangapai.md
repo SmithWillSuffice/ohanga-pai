@@ -495,22 +495,25 @@ upwards by about ten times. The government chooses the price level.
 (other than for certain single commodities through import prices, which are not 
 under our government’s control). This may or may not be good policy depending upon 
 circumstances, such as import needs.
-12. The result of government refusing to pay higher prices will be no contracts for 
+12. The result of government refusing to pay higher prices will be no 
+contracts for 
 the non-government sector if higher prices are demanded, and so no government 
 spending, and this collapses aggregate demand in NZD. If the government is still 
 issuing tax liabilities, and collecting on them, then prices will rapidly lower 
 until the government is now willing to spend again. (This is just monopoly pricing 
 effect, not good policy. No government should want to deflate the currency this 
 way! (Because it only benefits the wealthy.))
-13. In all cases then, the government chooses the price level, and thus chooses the 
+13. In all cases then, the government chooses the price level, and thus 
+chooses the 
 inflation rate. Inflation is a policy variable, not a market determined quantity. 
 (This does *not* mean inflation rate is an easy policy variable to manage.)
-14. It might be very good policy for government to use fiscal policy (through a job 
-guarantee wage + benefit floor) to deliberately raise the price level periodically, 
+14. It might be very good policy for government to use fiscal policy (through 
+a job guarantee wage + benefit floor) to deliberately raise the price level 
+periodically, 
 perhaps every five years. This is not technically inflation, but has the same 
 effect: it lowers the purchasing power of hoarded wealth, and lowers the burden on 
-the poor of their past debt (since now their wage rate floor is higher than their 
-past debt servicing rate).
+the poor of their past debt (since now their wage rate permits a higher 
+percentage rate of nominal debt repayment).
 15. In a recession, in particular, designed controlled one-off inflation (a 
 deliberate re-gauging  of the currency unit) can be highly progressive egalitarian 
 fiscal policy, but it depends upon how the currency is re-gauged, if it is done by 
