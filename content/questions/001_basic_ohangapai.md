@@ -383,6 +383,15 @@ because they create the currency using a computer to mark-up a bank account.
 Governments have to _find the real resources_ needed to fulfill the public 
 purpose.
 
+The government needs to find or generate sellers of labour or goods 
+willing to accept the government IOU. This is why the government imposes 
+taxes: to create willing sellers of labour tie or goods now available to 
+the public sector. If the government fails to hire all the resources it 
+unemploys with this tax then they made a policy mistake and need to lower 
+the tax or directly hire all those they unemployed.  If they unemployed 
+non-perishable goods, then that's an excellent case for a buffer stock 
+policy which is the superior method, when available, for price stability.
+
 
 ### The Price Story 
 
