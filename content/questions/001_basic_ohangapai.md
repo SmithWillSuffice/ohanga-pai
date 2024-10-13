@@ -31,7 +31,7 @@ today) using the principles in the following four subsections:
 MMT is based on one axiom, one legal reality, and one identity:
 
 1. All economies face real resource constraints.
-2. Currency issuers (usually these are governments or their licenced agents) 
+2. Currency issuers (usually these are governments or their licensed agents) 
 face no purely financial constraints. To learn why this is a legal reality 
 see [What is Money.](../003_what_is_money/)
 3. Sectoral balances sum to zero.
@@ -58,12 +58,12 @@ the bank marks-up the customers account and records a corresponding debt that
 the customer must repay with interest at a due date or dates.
 * **Currency issuer (or 'money sovereign'):** monopoly issuer of a 
 non-convertible fiat currency with floating exchange rate, and no foreign 
-denominated debt. Although having foreign denominated debt is a political 
+denominated debt. Note that having foreign denominated debt is a political 
 choice, unnecessary, and is completely pointless if the government understands 
 their monetary system. A government that issues their own currency holding 
 on to foreign reserves is also pointless if the domestic currency is on a 
-float --- provided the government understand the floating exchange rate 
-mechanism and use that understanding to inform policy choices, which is 
+float --- provided the government understands the floating exchange rate 
+mechanism and uses that understanding to inform policy choices, which is 
 admittedly a big proviso (most do not understand).
 * **Sectoral balances:** one sector's deficit is another's surplus. MMT in 
 the macro normally recognizes four sectors: government, banks, 
@@ -79,14 +79,15 @@ raft of powers, such as food self-sufficiency, energy self-sufficiency and legis
 All forms of 'sovereignty' are desirable, but currency issuing authority is the
 minimum necessary and sufficient for an economic region to be considered well-described by MMT.
 
-**Comment:** When people first encounter fiat money they usually ask, since it is not gold
-mined out of the Earth, "where does the government get this money from?" 
-The answer is the government does not get money from anywhere, the NZ dollar is a
-unit of account, the government neither has this stuff nor doesn’t have the stuff,
-when they want to spend they mark-up someone's bank account with a computer, and when they tax they mark-down the person’s account, and that's all
-that happens. 
-No gold is lost, no one’s grandchild is put at risk, no "borrowing
-from China," occurs at all.
+**Comment:** When people first encounter fiat money they usually ask, 
+since it is not gold mined out of the Earth, "where does the government 
+get this money from?" The answer is the government does not get money from 
+anywhere, the NZ dollar is a unit of account, the government neither has 
+this stuff nor doesn’t have the stuff, when they want to spend they 
+mark-up someone's bank account with a computer, and when they tax they 
+mark-down the person’s account, and that's all that happens. No gold is 
+lost, no one’s grandchild is put at risk, no "borrowing from China," occurs 
+at all.
 
 Another way of putting this is that the NZD is the State's unit of account. 
 Like a kilogram is a unit of measure for mass. 
