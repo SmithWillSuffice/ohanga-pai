@@ -481,7 +481,10 @@ regulations on bank credit, also determined by government.
 spending at prices the government sets, or from bank credit which government 
 regulates. We do not get NZD from China: before Chinese consumers can get NZD to 
 buy goods from us, or purchase NZ Treasury securities, we must first supply them, 
-either with NZ bank credit or NZ government spending --- loans create savings.)
+either with NZ bank credit or NZ government spending. (Once the dollars are in 
+private importer accounts no one needs to worry about where the credits came 
+from, but the majority happen to come from state chartered 
+bank credit --- loans create savings.)
 9. No other agency has the legal authority to issue NZ dollars. Therefore, the NZ 
 government, and only the NZ government, can and does determine the general level 
 for prices for all goods for sale in NZ dollars --- whether the government 
@@ -507,7 +510,10 @@ way! (Because it only benefits the wealthy.))
 13. In all cases then, the government chooses the price level, and thus 
 chooses the 
 inflation rate. Inflation is a policy variable, not a market determined quantity. 
-(This does *not* mean inflation rate is an easy policy variable to manage.)
+(This does *not* mean inflation rate is an easy policy variable to manage, and 
+in any case inflation policy is far less important than full employment 
+policy, since regardless of the inflation rate what truly matters for living 
+standards is all the available *_real output._*)
 14. It might be very good policy for government to use fiscal policy (through 
 a job guarantee wage + benefit floor) to deliberately raise the price level 
 periodically, 
@@ -524,7 +530,7 @@ not their fault.)
 16. In an economic boom when natural resources might be under threat of being 
 depleted, a designed deliberate currency re-gauging policy might be desirable 
 though either taxes, or fines, on goods for sale that are depleting natural 
-resources, or through rationing and various other fiscal policies. 
+resources, or through rationing and various other fiscal and regulatory policies. 
 17. The NZ government is not beholden (in principle) to any private market forces 
 for implementing any of these policies, it is beholden (in principle) only to the 
 market for election votes, aka. democracy.
@@ -552,7 +558,8 @@ well described by *proper* MMT, but MMT might still be useful with a few tweaks.
 An example would be when a nation runs a fixed exchange rate policy. 
 They can always *choose* to move to floating exchange rate, but if they choose 
 not to, then their fiscal policy space is severely reduced compared to a 
-proper MMT economy.
+proper MMT economy.  MMT would then describe the reduced policy space 
+available to the government.
 
 Almost all post-Keynesian, Neoclassical and New Keynesian analysis implicitly 
 adopts fixed exchange rate thinking, and so will not be correct according to 

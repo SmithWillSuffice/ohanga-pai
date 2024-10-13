@@ -81,7 +81,7 @@ bias, because the interest paid on government bonds adds to the money supply
 _but for zero *real* supply_, 
 unless the government raises tax rates to counter this add.
 
-When governemtns net spend, it increases the money supply, but this is not 
+When governments net spend, it increases the money supply, but this is not 
 inflationary if the spending is for the purpose of increasing real output.
 A growing population _needs_ a growing money supply if the price level is 
 to be stable and real output grows accordingly (no drop in the standard 
