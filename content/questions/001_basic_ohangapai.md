@@ -386,7 +386,7 @@ purpose.
 
 The government needs to find or generate sellers of labour or goods 
 willing to accept the government IOU. This is why the government imposes 
-taxes: to create willing sellers of labour tie or goods now available to 
+taxes: to create willing sellers of labour time or goods now available to 
 the public sector. If the government fails to hire all the resources it 
 unemploys with this tax then they made a policy mistake and need to lower 
 the tax or directly hire all those they unemployed.  If they unemployed 
@@ -481,7 +481,7 @@ regulations on bank credit, also determined by government.
 spending at prices the government sets, or from bank credit which government 
 regulates. We do not get NZD from China: before Chinese consumers can get NZD to 
 buy goods from us, or purchase NZ Treasury securities, we must first supply them, 
-either with NZ bank credit or NZ government spending.
+either with NZ bank credit or NZ government spending --- loans create savings.)
 9. No other agency has the legal authority to issue NZ dollars. Therefore, the NZ 
 government, and only the NZ government, can and does determine the general level 
 for prices for all goods for sale in NZ dollars --- whether the government 
