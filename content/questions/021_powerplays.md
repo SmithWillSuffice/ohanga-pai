@@ -1,6 +1,6 @@
 ---
 title: "Punked Plutocrat Power Plays"
-weight: 11
+weight: 13
 description: ""
 date: 2023-02-16
 lastmod: 2023-02-16

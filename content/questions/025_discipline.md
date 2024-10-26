@@ -1,6 +1,6 @@
 ---
 title: "Bondage and Discipline"
-weight: 15
+weight: 17
 description: ""
 date: 2023-08-29
 cover: ""

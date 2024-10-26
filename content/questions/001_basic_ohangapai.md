@@ -1,5 +1,6 @@
 ---
 title: "Basic MMT and Economic Justice"
+weight: 2
 weight: 2https://findingmoneyfilm.com/o
 description: ""
 date: 2014-10-15

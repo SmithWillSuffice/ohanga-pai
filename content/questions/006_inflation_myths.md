@@ -1,6 +1,6 @@
 ---
 title: "Inflation Myths"
-weight: 5
+weight: 6
 description: ""
 date: 2014-10-22
 lastmod: 2014-10-22
@@ -406,18 +406,18 @@ natural.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../004_tax_myths">Previous chapter</a></td>
+<a href="../005_tax_myths">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Q</a></td>
-<td style="006_deficit_myths: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../005_inflation_myths">Next chapter</a></td>
+<td style="007_deficit_myths: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../006_inflation_myths">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../004_tax_myths">What is Money?</a></td>
+<a href="../005_tax_myths">What is Money?</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../006_deficit_myths">Deficit Myths</a></td>
+<a href="../007_deficit_myths">Deficit Myths</a></td>
 </tr>
 </table>

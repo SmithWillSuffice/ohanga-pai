@@ -1,6 +1,6 @@
 ---
 title: "Interest Rate Myths"
-weight: 7
+weight: 8
 description: ""
 date: 2014-10-26
 lastmod: 2014-10-26
@@ -355,18 +355,18 @@ clearing system, and do proper regulation to shut down fraudulent banks.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../006_deficit_myths">Previous chapter</a></td>
+<a href="../007_deficit_myths">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Q</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../008_fullemployment_and_pricestability">Next chapter</a></td>
+<a href="../009_fullemployment_and_pricestability">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../006_deficit_myths">Deficit Myths</a></td>
+<a href="../007_deficit_myths">Deficit Myths</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../008_fullemployment_and_pricestability">Full Employment</a></td>
+<a href="../009_fullemployment_and_pricestability">Full Employment</a></td>
 </tr>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: "Pension Fund Myths"
-weight: 9
+weight: 11
 description: ""
 date: 2014-12-17
 lastmod: 2024-06-25
@@ -614,7 +614,7 @@ via [Achronomaster \@ Ko-fi.](https://ko-fi.com/achrononmaster/)
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../007_interest_rate_myths">Previous chapter</a></td>
+<a href="../010_central_bank_operations">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Q</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
@@ -622,7 +622,7 @@ via [Achronomaster \@ Ko-fi.](https://ko-fi.com/achrononmaster/)
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../007_interest_rate_myths">Interest Rate Myths</a></td>
+<a href="../010_central_bank_operations">Central Bank Operations</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">

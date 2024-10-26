@@ -1,6 +1,6 @@
 ---
 title: "Tax Myths"
-weight: 4
+weight: 5
 description: ""
 date: 2014-10-20
 lastmod: 2014-10-20
@@ -10,6 +10,10 @@ toc: true
 tags: []
 katex: true
 ---
+
+The movie theatre Box Office does not get seat tickets off customers and 
+then sell them.
+
 
 ## Myths about Taxation and the Reality
 
@@ -347,12 +351,24 @@ grannies,  and whatnot).
 ((By "build bridges to nowhere" I mean of course anything wasteful of otherwise 
 communal resources.))
 
+## The Tragedy of Margaret Thatcher
+
+Had Thatcher realized her government's money was sovereign, and was not 
+coming from the "tax payer" then Neoliberalism UK style might have been 
+a completely different story of full employment rentier economics. Still 
+regressive, but at least not stuffing the working class so badly.
+
+Even in your wildest dreams do you really think Thatcher was inherently 
+an evil person?  I don't. She was just a very lazy incurious thinker hiding 
+behind a bullying persona.
+
+
 ## Caveats
 
 But doesn't issuing currency cause inflation? 
 How can governments desiring price stability therefore have no budget constraint? 
-Short answer is no: Issuing currency does not cause inflation. 
-Long answer is for [another chapter.](../005_inflation_myths)
+Short answer is no: government spending does not cause inflation. 
+Long answer is for [another chapter.](../006_inflation_myths)
 
 
 <table style="border-collapse: collapse; border=0;">
@@ -363,18 +379,18 @@ Long answer is for [another chapter.](../005_inflation_myths)
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../003_what_is_money">Previous chapter</a></td>
+<a href="../004_bond_myths">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Q</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../005_inflation_myths">Next chapter</a></td>
+<a href="../006_inflation_myths">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../003_what_is_money">What is Money?</a></td>
+<a href="../004_bond_myths">Bond Myths</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../005_inflation_myths">Inflation Myths</a></td>
+<a href="../006_inflation_myths">Inflation Myths</a></td>
 </tr>
 </table>

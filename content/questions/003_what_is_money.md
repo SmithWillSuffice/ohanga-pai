@@ -18,7 +18,7 @@ nerds, right?
 Wrong. 
 We can point out several things both lefties and conservatives get horribly 
 wrong for their own causes, even when their hearts are in the right place. 
-Foremost among these is the [tax payer funding myth.](../004_tax_myths)
+Foremost among these is the [tax payer funding myth.](../005_tax_myths)
 
 The trouble is, the requisite background to understanding why 
 "tax payer funding" is a myth, involves an understanding of *what money is*, 
@@ -102,8 +102,8 @@ The state currency redeems for payment of one unit of tax liability.
 ### What is the state currency worth?
 
 Because the state always makes good on its promise to redeem a tax payment, 
-it never defaults, the state currency unit is worth whatever you need to do 
-to get one.
+it never defaults, the state currency unit is worth whatever the State says 
+you need to do to get one.
 
 There are generally only three ways to *earn* state currency (so we're 
 not considering welfare payments):
@@ -115,7 +115,7 @@ repay (that's what a credit card agreement does, also a mortgage agreement),
 currency (or received state welfare).
 
 In such cases 1., and 2., the state tells you what their currency is worth, 
-e.g/, 35 units for one hour of work as a park ranger.
+e.g., 35 units for one hour of work as a park ranger.
 The monopoly issuer of an IOU tells you what their IOU is worth. 
 They are price setter, not price taker. 
 There is no market force at work saying what the currency is worth.
@@ -189,11 +189,11 @@ Then you can thank yourself instead of thanking me, for doing the checking.
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../001_basic_ohangapai">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Q</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../004_tax_myths">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../005_tax_myths">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;"><a href="../001_basic_ohangapai">Basic Ōhanga Pai </a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../004_tax_myths">Tax Myths</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../005_tax_myths">Tax Myths</a></td>
 </tr>
 </table>
