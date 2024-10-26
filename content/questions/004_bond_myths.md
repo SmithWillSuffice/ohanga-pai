@@ -13,14 +13,29 @@ This is a new chapter as fo 2024, inserted in a rough pedagogical order.
 
 ## The Mosler Frame
 
-The original MMT contribution the The Bond Story concerend pure monetary 
-operations between centrla bank and Treasury.
+The original MMT contribution the 
+[The Bond Story](../001_basic_ohangapai#the-bond-story) concerned 
+pure monetary operations between centrla bank and Treasury.
 
 When the governemtn spends it adds to reserves. Banks can statutoriily 
 lend reserves, and may seek to do so to gain interest, but if the 
-governemtn spending reuslt sin overall excess reserves for the whole system, then the interbankk lending rate drops rapidly to zero. A good thing, you might say.
+governemtn spending reuslt sin overall excess reserves for the whole system, 
+then the interbankk lending rate drops rapidly to zero. A good thing, you 
+might say.
 
-However, some central bankers dislike zero interet rates (for false reasons, but that is another story).
+However, some central bankers dislike zero interet rates (for false reasons, 
+but that is another story) and so in order to "offset operating facotrs"
+the central bank will either sell bonds to drain the reserves or pay interest 
+on the reserves so the banks do not mind holding excess reserves.
+
+Total smoke & mirrors. But that's what they do in central banking for the 
+bullsh1t jobs maintenance of employment of professional accounts clerks.
+
+
+## THe Mitchell Frame
+
+Bill Mitchell alerted me (I was just reading his work, catching up) to the 
+fact that he agrees with Warren, but has another way of 
 
 
  

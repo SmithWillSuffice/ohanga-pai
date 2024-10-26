@@ -187,13 +187,19 @@ Then you can thank yourself instead of thanking me, for doing the checking.
        <col span="1" style="width: 35%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../001_basic_ohangapai">Previous chapter</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">Back to Q</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../005_tax_myths">Next chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../001_basic_ohangapai">Previous chapter</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">Back to Q</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../004_bond_myths">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;"><a href="../001_basic_ohangapai">Basic Ōhanga Pai </a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;"><a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;"><a href="../005_tax_myths">Tax Myths</a></td>
+<td style="border: 1px solid color:#0f0f0f;">
+<a href="../001_basic_ohangapai">Basic Ōhanga Pai </a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:center;">
+<a href="../">TOC</a></td>
+<td style="border: 1px solid color:#0f0f0f; text-align:right;">
+<a href="../004_bond_myths">Bond Myths</a></td>
 </tr>
 </table>
