@@ -190,12 +190,11 @@ Bill Mitchell's insights on buffer stocks for employment) kick-started MMT
 before it was known as MMT, and this was the realization that when the Central
 Bank (Federal Reserve in the USA, RBNZ in New Zealand) sold or purchased
 bonds this was functionally equivalent to the Treasury selling and buying bonds.
-The issuance of Treasury bonds could thus not be considered a borrowing operation, 
-an issuer of a currency can no more borrow from itself than you or I can
-borrow our own IOU's.
-To be sure, when you or I issue an IOU we can certainly borrow it back, but
-the point is that this serves no purpose other than to drain IOUs from everyone
-else. 
+The issuance of Treasury bonds could thus not be considered a borrowing 
+operation, an issuer of a currency can no more borrow from itself than you 
+or I can borrow our own IOU's. To be sure, when you or I issue an IOU we can 
+certainly borrow it back, but the point is that this serves no purpose other 
+than to drain IOUs from everyone else. 
 
 However, if we regard it as borrowing, the IOU is owed back to the person we 
 borrowed it from, so we have not altered the net money supply of IOUs.

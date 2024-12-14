@@ -16,8 +16,9 @@ today and maybe even harmful, and why they *were* at one time useful in the past
 
 Up-front, to avoid you going away immediately, I will say superannuation funds 
 are not harmful if governments running the schemes do not use them to create 
-mass unemployment. The trouble is they do! Yet it's just a policy mistake, so can 
-be corrected. So we will learn why they should not make the policy error in the first place!
+mass unemployment. The trouble is they do! Yet it's just a policy mistake, so 
+can be corrected. So we will learn why they should not make the policy error 
+in the first place!
 
 
 ## The New Zealand Superannuation Story
