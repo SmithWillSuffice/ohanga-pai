@@ -1,6 +1,6 @@
 ---
 title: Quantopian Series Notes
-weight: 8
+weight: 10
 date: 2023-01-15
 toc_depth: 1
 katex: true

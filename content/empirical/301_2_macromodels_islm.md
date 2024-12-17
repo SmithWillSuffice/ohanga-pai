@@ -1,47 +1,11 @@
 ---
-title: "Macromodels I --- IS-LM"
-weight: 6
-date: 2024-12-10
+title: "Macromodels II --- IS-LM"
+weight: 7
+date: 2024-12-06
 toc: true
 katex: true
 ---
 
-This is a new chapter series on macroeconomic modelling. I set my task to go 
-through all the crud before getting to the good stuff of MMT and 
-Minsky/Godley Table models.  The desire would be to do as much justice to 
-the lamestream models, and then test them against empirical data. 
-
-The two mainstream models will be,
-* IS-LM
-* DSGE. 
-
-That's the curd.
-
-Then we will try to increase sophistication:
-
-* CNN/LSTM fit models (to provide a base case for prevailing policy conditions).
-* Dirk Ehnts AD model.
-* Sam Levey Price Models (minimal MMT, aimed at modelling the source of the 
-price level).
-* Keen-Minsky models (state of the Art MMT).
-
-## Caveats
-
-It is hard to claim DSGE is "wrong" because there are too many free 
-parameters, so one can simply curve fit and claim a DSGE model "just works". 
-That is disingenuous of course, so we will want a long term forecast form 
-all the models, at least 6 months ahead. No one should expect a macroeconomic 
-model to forecast accurately that far ahead, just as no one should expect the 
-meteorological office to predict the weather six months ahead. But that is 
-not our purpose. We only desire a fair comparison for assessing parsimony of 
-the various models. 
-
-We _want_ all the models to eventually fail. The idea is to see which 
-models are more robust.
-
-If a macroeconomic model never failed than that'd only be because it's buttons 
-were constantly being tweaked. Cheating! Like a CNN/LSTM.  There is Zero 
-knowledge in such epicyclic type modelling.
 
 ## IS-LM History
 
@@ -141,37 +105,132 @@ admitted but then might not yield unique solutions.
 The Money Supply we will use is "M1" = notes, coins and bank deposits 
 (CD = "current deposits").
 
-## Beyond IS-LM
+Those are the basics. But to build a "nice" analytical model we need 
+a few equations. It turns out not to be too complicated to have an 
+open economy, so we might as well start with this most realistic 
+minimal case. A lot of undergrad textbooks might begin with a 
+closed economy, just to get the student mental balls rolling, but 
+here we do not want to retard the mind with an unideal base case, 
+not when we can go straight to an open economy form the start.
 
-We already mentioned the DSGE model, which we will discuss in a later 
-chapter.
+# Open Economy IS-LM Model: Theoretical Foundation and Implementation
 
-There is another more minimal extension of IS-LM, the AD-AS model 
-(Aggregate Demand--Aggregate Supply) but it does not significantly patch 
-any of the flaws in IS-LM, so is still a Zero Informative model.
-We will instead, after briefly looking at DSGE, jump to a more MMT-like 
-model due to the economist Dirk Ehnts --- the so-called ISMY model.
-This model was developed for analyzing the EMU (European Monetary Union) 
-system of interlinked state economies, so is not a complete MMT model. 
-MMT models would apply to single currency regions where there is a 
-monopoly fiscal authority called "the government". No such institution 
-exists for the EMU.
+You can find the python code for this model soon on the Ohanga-Pai website. 
 
-Collectively the EU governments plus the ECB act _as if_ there were a 
-monopoly government, but the fiscal space is so constrained that using 
-such an "effective government" frame is probably unwise. It obscures the 
-full fiscal space that is available to a monopoly currency issuer with 
-full legislative power and control over the central bank and all 
-commercial banks.  More importantly, for political purposes, it is just 
-a bad idea to say the EMU "has a government," since that tends to insert 
-in the mind the notion of some kind of democracy, but this is entirely 
-lacking in the EU/EMU. Where there is no democracy is is a bad thing to 
-pretend there is one, since a democracy is probably not a bad system of 
-government to have in part. So if a corrupt elite-power driven government 
-is falsely though of as having democratic elements, and the result is 
-austerity and poverty, and evisceration of the working class, then it 
-is betetr to call that institution The Oligarchy, not "the government".
-Placing fault where fault belongs.
+This documentation provides a detailed explanation of the IS-LM
+model, describing its theoretical underpinnings, mathematical formulation, 
+and computational implementation.
+
+## Theoretical Framework
+
+### Model Objectives
+
+The Open Economy IS-LM model aims to:
+- Analyze the interactions between real economic activity and monetary 
+conditions
+- Explore how changes in key macroeconomic parameters affect economic 
+equilibrium
+- Provide insights into the effects of monetary and fiscal policies 
+in an open economy context
+
+**Caveat and WARNING:** All this is based upon a flawed overly simplistic 
+set of assumptions. 
+
+
+### 2.2 Key Model Components
+
+The model comprises three primary equations:
+
+1. **Consumption Function**
+   
+   The consumption equation describes how aggregate expenditure 
+   depends on national income:
+
+   $C = C_0 + c_y \cdot Y$
+
+   Where:
+   - $C$ is total consumption
+   - $C_0$ is autonomous consumption
+   - $c_y$ is the marginal propensity to consume
+   - $Y$ is national income
+
+2. **Investment-Saving (IS) Curve**
+
+   The IS curve relates national income to the interest rate, incorporating net exports in an open economy:
+
+   $Y = C_0 + I_0 - b(r - r^*) + NX(Y, e)$
+
+   Where:
+   - $I_0$ is autonomous investment
+   - $b$ is investment sensitivity to interest rates
+   - $r$ is domestic interest rate
+   - $r^*$ is foreign interest rate
+   - $NX$ represents net exports (function of income and exchange rate)
+
+3. **Liquidity Preference-Money Supply (LM) Curve**
+
+   The LM curve describes the relationship between money demand, income, and interest rates:
+
+   $M = L(r, Y)$
+
+   Where:
+   - $M$ is money supply
+   - $L$ is money demand function
+   - $r$ is interest rate
+   - $Y$ is national income
+
+## 3. Model Assumptions
+
+The implemented model makes several simplifying assumptions:
+
+- Balanced trade (net exports set to zero)
+- Linear relationships between variables
+- Fixed exchange rate
+- Closed economy approximation with limited foreign sector interactions
+
+## 4. Computational Implementation
+
+### 4.1 Equilibrium Determination
+
+The model finds equilibrium through an iterative process:
+- Initial guesses for income and interest rate
+- Successive approximations using IS and LM curve equations
+- Convergence to a point where both curves intersect
+
+### 4.2 Scenario Analysis
+
+The implementation supports:
+- Monetary policy simulation (money supply changes)
+- Fiscal policy exploration (autonomous consumption variations)
+- International economic condition analysis (foreign interest rate modifications)
+
+## 5. Limitations and Extensions
+
+### Potential Improvements
+- Incorporate more complex net export functions
+- Add exchange rate dynamics
+- Implement non-linear relationships
+- Enhance numerical solving methods
+
+## 6. Mathematical Notation
+
+| Symbol | Description |
+|--------|-------------|
+| $Y$ | National Income/GDP |
+| $r$ | Domestic Interest Rate |
+| $r^*$ | Foreign Interest Rate |
+| $C_0$ | Autonomous Consumption |
+| $c_y$ | Marginal Propensity to Consume |
+| $M$ | Money Supply |
+| $NX$ | Net Exports |
+
+## 7. References
+
+1. Mundell-Fleming Model
+2. IS-LM Model Extensions
+3. Open Economy Macroeconomics Textbooks
+
+**Note**: This is a simplified representation intended for educational and analytical purposes.
 
 
 
@@ -187,19 +246,19 @@ Placing fault where fault belongs.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../099_1_macro_trader">Previous chapter</a></td>
+<a href="../300_1_macromodels_intro">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../999_1_quantopian_phacks">Next chapter</a></td>
+<a href="../302_3_macromodels_iii">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../099_1_macro_trader">Macrotrader I</a></td>
+<a href="../300_1_macromodels_intro">MM—I, Intro</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../301_2_macromodels_ii">MM—II, DSGE</a></td>
+<a href="../302_3_macromodels_iii">MM—III, DSGE</a></td>
 </tr>
 </table>
 
