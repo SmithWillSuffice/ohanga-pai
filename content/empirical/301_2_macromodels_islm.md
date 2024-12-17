@@ -141,9 +141,9 @@ you might consider doing the exact opposite of what the model suggests.
 
 | Symbol | Description |
 |--------|-------------|
-| $Y$ | National Income/GDP |
+| $Y$ | National Income (GDP) |
 | $r$ | Domestic Interest Rate |
-| $r^*$ | Foreign Interest Rate |
+| $r^\ast$ | Foreign Interest Rate |
 | $C_0$ | Autonomous Consumption |
 | $c_y$ | Marginal Propensity to Consume |
 | $M$ | Money Supply |
@@ -154,7 +154,7 @@ you might consider doing the exact opposite of what the model suggests.
 
 The model comprises three primary equations:
 
-1. **Consumption Function**
+**1. Consumption Function**
    
 The consumption equation describes how aggregate expenditure 
 depends on national income:
@@ -167,7 +167,7 @@ Where:
    - $c_y$ is the marginal propensity to consume
    - $Y$ is national income
 
-2. **Investment-Saving (IS) Curve**
+**2. Investment-Saving (IS) Curve**
 
 The IS curve relates national income to the interest rate, incorporating net exports in an open economy:
 $$
@@ -179,18 +179,23 @@ Where:
    - $r$ is domestic interest rate
    - $r^*$ is foreign interest rate
    - $NX$ represents net exports (function of income and exchange rate)
+and here also the investmetn function is assumed liear:
+$$
+I = I_0 - br
+$$
 
-3. **Liquidity Preference-Money Supply (LM) Curve**
+**3. Liquidity Preference-Money Supply (LM) Curve**
 
 The LM curve describes the relationship between money demand, income, and interest rates:
 $$
-   M = L(r, Y)
+   M = L(r, Y, \ell)
 $$
 Where:
    - $M$ is money supply
    - $L$ is money demand function
    - $r$ is interest rate
    - $Y$ is national income
+   - $\ell$ is the liquidity preference parameter, or 'money demand sensitivity'
 
 ## Model Assumptions
 
@@ -200,6 +205,19 @@ The implemented model makes several simplifying assumptions:
 - Linear relationships between variables
 - Fixed exchange rate
 - Closed economy approximation with limited foreign sector interactions
+
+In addition we will need to cook up some response functions. For the 
+money supply (LM curve) we will use a linear function,
+$$
+M = \ell(r{eq} + Y)
+$$
+
+For the IS curve I stuck in a balanced trade assumption somewhat 
+eggregiously!  THen the IS curve simplifies to,
+$$ 
+y_eq = (C_0 + NX + 
+                b * (r^\ast - r)) / (1 - c_y)
+$$
 
 ## Computational Implementation
 
@@ -238,7 +256,7 @@ Our OpenISLM model has 7 inputs and two outputs (not much bang for
 the bucks!)
 
 **Inputs:**
-1. `autonomous_consumption`: Baseline spending level
+1. `autonomous_consumption`: Baseline spending level, 
 2. `consumption_sensitivity`: How spending changes with income
 3. `investment_sensitivity`: Investment response to interest rates
 4. `money_demand_sensitivity`: Money demand's income responsiveness
@@ -371,6 +389,14 @@ false model, even before empirical assessment. But like good soldiers, we will
 persist in the fight, since the ISLM enemy are on little Islands in little
 bunkers thinking they are still going to win the war.
 
+Note that it might not be bad policy to lower the interest rate! So the ISLM
+analysis will not always yield bad policy, but if it yields good policy it would
+be largely by accident. A proper analysis using the MMT lens would just
+recommend permanent Zero interest rate policy and floating exchange rate, since
+this gives the government the maximum policy space for achieving full employment
+with minimal inflation bias.  Whereas there are scenarios where an ISLM analysis
+might recommend raising the interest rate. MMT would say this would be
+unnecessary if the exchange rate is on a float.
 
 ## Last Word
 
@@ -393,7 +419,7 @@ to extinction of your species.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../302_3_macromodels_iii">Next chapter</a></td>
+<a href="../302_3_macromodels_islm_2">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -401,7 +427,7 @@ to extinction of your species.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../302_3_macromodels_iii">MM—III, DSGE</a></td>
+<a href="../302_3_macromodels_islm_2">MM—III, ISLM part-2</a></td>
 </tr>
 </table>
 

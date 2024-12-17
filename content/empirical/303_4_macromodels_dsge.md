@@ -1,6 +1,6 @@
 ---
-title: "Macromodels III --- DSGE"
-weight: 8
+title: "Macromodels IV --- DSGE"
+weight: 9
 date: 2024-12-08
 toc: true
 katex: true
@@ -61,19 +61,19 @@ Oh my lord, do we really need to?
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../301_2_macromodels_islm">Previous chapter</a></td>
+<a href="../302_3_macromodels_islm_2">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../303_4_macromodels_ismy">Next chapter</a></td>
+<a href="../304_5_macromodels_ismy">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../301_2_macromodels_islm">MM—II, IS-LM</a></td>
+<a href="../302_3_macromodels_islm_2">MM—III, IS-LM part-2</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../303_4_macromodels_ismy">MM—IV, ISMY</a></td>
+<a href="../304_5_macromodels_ismy">MM—V, ISMY</a></td>
 </tr>
 </table>
 
