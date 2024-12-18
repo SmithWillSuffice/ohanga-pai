@@ -10,19 +10,22 @@ Things get a bit messy now. If you inspect the code for our OpenEconomyISLMModel
 added a time series analysis class ``TimeSeriesISLMModel``
 which will help us run some quasi-predictive tests against real world data.
 
-Recall byb"quasi-predictive" we run immediately into troubles since IS-LM is a
-static equilibrium model. The idea of bastardizing Keynes General Theory is to
+Recall by "quasi-predictive" we run immediately into troubles since IS-LM is a
+static equilibrium model. The idea of bastardizing Keynes' General Theory is to
 at least pay a little bit of homage to Keynes and try to make the ISLM model a
 moving equilibria (whatever that means!) We will take it to mean there is a lag
 somewhere between 1 and 12 months at which point the economy has "figured out"
 what Income and interest rate "should have been". We do not know the lag, so we
 just run all the lags we want and see which fits best with the empirical data.
 
-Seems reasonable? Yes, but then we need to go about fetching data, and 
-unfortunately the only economy that has decent data I am personally familiar 
-with fetching is the USA.  That is just a bias, since I've worked with the FRED API 
-before. If your country published accessible data then you can conduct a similar analysis for your country. But honestly, why bother? We are aiming to show 
-that you should never use ISLM! Maybe ISLM will turn out to be a good model for your country? Who knows!? But that would be fairly accidental and bizarre.
+Seems reasonable? Yes, but then we need to go about fetching data, and
+unfortunately the only economy that has decent data I am personally familiar
+with fetching is the USA.  That is just a bias, since I've worked with the FRED
+API before. If your country published accessible data then you can conduct a
+similar analysis for your country. But honestly, why bother? We are aiming to
+show that you should never use ISLM! Maybe ISLM will turn out to be a fit (as in
+parameter adjusted) model for your country? Who knows!? But that would be fairly
+accidental and bizarre.
 
 
 ## Data Preparation
@@ -125,6 +128,36 @@ Two measures of velocity of money can be used,
    - `M1V`: Velocity of M1 Money Stock
 
 
+## Foreign Interest Rate
+
+If you want to avoid the worry, just eliminate the foreign sector from your
+model! However, looking at the trade data the USA is still a big net importer,
+so this should have a significant effect on the macroeconomic variables and
+outputs we wish to model.  If you want to write this up for a term paper for a
+vegetative economics professor you could try this sort of little discussion to
+justify using the US 10 year bond yield as a reasonable proxy for a
+'foreignInterestRate' input.
+
+Using the US 10-Year Treasury Yield (DGS10) as a proxy for $r^*$ is a reasonable
+approach, especially for the following reasons:
+
+* Global Benchmark: The US 10-year bond yield is widely regarded as a global
+  benchmark for interest rates. It is influenced by international factors, such
+  as global demand for USD-denominated assets.
+* Foreign Holdings: Foreign investors hold significant amounts of US government
+  bonds. Changes in the 10-year yield can reflect shifts in global interest rate
+  expectations and investment preferences.
+* Avoiding Trade Weights: While a trade-weighted foreign interest rate would be
+  more precise, the US 10-year yield simplifies modeling without requiring data
+  from multiple countries.
+
+Caveats:
+
+* The US 10-year yield primarily reflects US government bond risk and liquidity
+  premia, so it may not fully capture foreign central bank or private market
+  conditions.
+* If your analysis heavily depends on exchange rate dynamics, the divergence
+  between US and global monetary policies might need finer calibration.
 
 
 

@@ -142,11 +142,13 @@ you might consider doing the exact opposite of what the model suggests.
 | Symbol | Description |
 |--------|-------------|
 | $Y$ | National Income (GDP) |
+| $G-T$ | Net government spending |
 | $r$ | Domestic Interest Rate |
 | $r^\ast$ | Foreign Interest Rate |
 | $C_0$ | Autonomous Consumption |
 | $c_y$ | Marginal Propensity to Consume |
 | $M$ | Money Supply |
+| $\ell$ | Money demand sensitivity |
 | $NX$ | Net Exports |
 
 
@@ -169,19 +171,21 @@ Where:
 
 **2. Investment-Saving (IS) Curve**
 
-The IS curve relates national income to the interest rate, incorporating net exports in an open economy:
+The IS curve relates national income to the interest rate, incorporating net
+exports in an open economy: 
+$$ 
+Y = (G-T) + C_0 + I_0 - b(r - r^*) + NX(Y, e) 
 $$
-   Y = C_0 + I_0 - b(r - r^*) + NX(Y, e)
-$$
-Where:
+   Where:
+   - $G-T$ = government net expenditure (could be negative = "surplus"). 
    - $I_0$ is autonomous investment
    - $b$ is investment sensitivity to interest rates
    - $r$ is domestic interest rate
    - $r^*$ is foreign interest rate
    - $NX$ represents net exports (function of income and exchange rate)
-and here also the investmetn function is assumed liear:
+and here also the investment function is assumed linear:
 $$
-I = I_0 - br
+I = I_0 - b(r - r^\ast)
 $$
 
 **3. Liquidity Preference-Money Supply (LM) Curve**
@@ -213,9 +217,9 @@ M = \ell(r{eq} + Y)
 $$
 
 For the IS curve I stuck in a balanced trade assumption somewhat 
-eggregiously!  THen the IS curve simplifies to,
+egregiously!  Then the IS curve simplifies to,
 $$ 
-y_eq = (C_0 + NX + 
+y_eq = (G - T + C_0 + NX + 
                 b * (r^\ast - r)) / (1 - c_y)
 $$
 
@@ -252,17 +256,18 @@ and analytical purposes.
 
 # Example --- Income and IR
 
-Our OpenISLM model has 7 inputs and two outputs (not much bang for 
+Our OpenISLM model has 8 inputs and two outputs (not much bang for 
 the bucks!)
 
 **Inputs:**
-1. `autonomous_consumption`: Baseline spending level, 
-2. `consumption_sensitivity`: How spending changes with income
-3. `investment_sensitivity`: Investment response to interest rates
-4. `money_demand_sensitivity`: Money demand's income responsiveness
-5. `money_supply`: Total money in circulation
-6. `foreign_interest_rate`: International interest benchmark
-7. `exchange_rate`: Currency valuation (simplified)
+1. `gov_expenditure`: Government spending
+2. `autonomous_consumption`: Baseline spending level 
+3. `consumption_sensitivity`: How spending changes with income
+4. `investment_sensitivity`: Investment response to interest rates
+5. `money_demand_sensitivity`: Money demand's income responsiveness
+6. `money_supply`: Total money in circulation
+7. `foreign_interest_rate`: International interest benchmark
+8. `exchange_rate`: Currency valuation (simplified)
 
 
 **Outputs:**
@@ -275,6 +280,7 @@ To test your copy of the python module is working try running this example.
 ```python
 # Define base economic parameters
 base_params = {
+    'gov_expenditure': 100,
     'autonomous_consumption': 500,
     'consumption_sensitivity': 0.6,
     'investment_sensitivity': 0.2,
@@ -302,6 +308,75 @@ for scenario, data in results.items():
     print(f"Equilibrium Income: {data['equilibrium_income']:.2f}")
     print(f"Equilibrium Interest Rate: {data['equilibrium_interest_rate']:.4f}")
 ```
+
+## A Critical Model Assessment -- Prior to Testing
+
+Here are some things for really excessive nerds to consider.
+
+Our proposed IS curve model:
+$$
+Y=(G−T) + C_0 + I_0 - b(r-r∗) + NX(Y,e)
+$$
+has a structure which is consistent with standard IS curve formulations, balancing
+consumption, investment, government spending, and trade flows. Incorporating
+$NX(Y, e)$ as a function of income and the exchange rate makes it 
+quasi-dynamic and accounts for open-economy effects.
+
+Comments on Parameters:
+
+**(a) Net Exports $NX(Y, e)$:**  
+— $Y$ dependency: Higher domestic income ($Y$) can increase imports, reducing $NX$.   
+— $e$ dependency: A weaker currency (higher $e$ in a USD/foreign currency sense) can boost exports and reduce imports, improving $NX$.
+
+**(b) Functional form of $NX$:**  For example, we could define,   
+$
+NX(Y,e) = a_1 - a_2 Y + a_3 e
+$  
+where:  
+— $a_1$ captures autonomous net exports,  
+— $a_2$ reflects the income elasticity of imports,  
+— $a_3$ measures exchange rate sensitivity.
+
+However, I prefer to just use data for NX, not a model fit, since most of 
+the input data is readily available in monthly frequency.
+
+**(c) Investment Sensitivity to Interest Rates ($b$):**
+
+— Parameter $b$ captures the sensitivity of investment to interest rate 
+spreads $(r - r^*)$. If $b$ is too low, it implies weak monetary policy 
+transmission.
+
+— Autonomous Terms ($C_0$, $I_0$):   
+    $C_0$ (autonomous consumption) and $I_0$ (autonomous investment) should be calibrated or estimated empirically. Time series data on consumption and investment are necessary to extract these constants.
+
+— Open Economy Effects:   
+    Including $r^\ast$ makes the model more robust to international capital 
+    flow effects. However, if trade flows are small relative to GDP, the 
+    $r^\ast$ term may have limited influence.
+
+#### Suggestions for Improvement:
+
+**Option:** You could consider explicitly incorporating expectations for $r$ or $r^*$. 
+For example: 
+$$
+Y = (G-T) + C_0 + I_0 - b(E\[r\] - E\[r^\ast\]) + NX(Y,e),
+$$
+where $E\[r\]$ represents the expected domestic rate.
+
+**Option:** We could add a sensitivity parameter, $d$, for $NX$: 
+$$
+Y = (G-T) + C_0 + I_0 - b(r -r^\ast) + d⋅NX(Y,e).
+$$
+which is admittedly nob-twiddling, but with a lemon you try to 
+make lemonade?
+
+**Option:** Test with alternative formulations of $NX$. For instance:
+
+* Export-Led Approach: Exports depend on $Y_\text{foreign}$ and $e$, while 
+imports depend on $Y$ and $e$.
+* Income Effects Only: Simplify $NX$ to $NX = f(Y)$ if $e$ is stable or irrelevant.
+
+
 
 ## Towards a Working Example
 
