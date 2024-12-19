@@ -213,13 +213,13 @@ The implemented model makes several simplifying assumptions:
 In addition we will need to cook up some response functions. For the 
 money supply (LM curve) we will use a linear function,
 $$
-M = \ell(r{eq} + Y)
+M = \ell(r_{eq} + Y)
 $$
 
 For the IS curve I stuck in a balanced trade assumption somewhat 
 egregiously!  Then the IS curve simplifies to,
-$$ 
-y_eq = (G - T + C_0 + NX + 
+$$
+Y_{eq} = (G - T + C_0 + NX + 
                 b * (r^\ast - r)) / (1 - c_y)
 $$
 
@@ -337,8 +337,23 @@ where:
 — $a_2$ reflects the income elasticity of imports,  
 — $a_3$ measures exchange rate sensitivity.
 
-However, I prefer to just use data for NX, not a model fit, since most of 
-the input data is readily available in monthly frequency.
+However, I prefer to just use data for NX, not a model fit, since most of the
+input data is readily available in monthly frequency. This means we can instead
+fit the parameters $a_1$, $a_2$, $a_3$ to the fetched FRED data, however this is
+_not_ and ISLM prediction, bemuse neon of the inputs $Y$, $e$ are ISLM
+predictions, so this is a pointless exercise unless you cannot find decent $NX$
+data for your country of study.
+
+Actually, I realise all the data for the USA will probably not be available for
+any country you choose. Or it might be a pain-in-the-neck to gather, if so, then
+using fits for $a_1$, $a_2$, $a_3$ from available data for a similar country can
+be an option. But the USa will not be a "similar country" in all likelihood.
+However, OECD countries ted to have sufficient published econometric data, so
+all is probably not lost.
+
+These comments apply to *_all_** macroeconomic modelling, not just ISLM. So we
+should bookmarks these tips!
+
 
 **(c) Investment Sensitivity to Interest Rates ($b$):**
 

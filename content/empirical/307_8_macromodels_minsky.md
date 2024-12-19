@@ -1,7 +1,7 @@
 ---
-title: "Macromodels VIII --- CNN-LSTM"
-weight: 13
-date: 2024-12-16
+title: "Macromodels VIII --- Minsky"
+weight: 14
+date: 2024-12-15
 toc: true
 katex: true
 ---
@@ -19,19 +19,19 @@ katex: true
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../306_7_macromodels_minsky">Previous chapter</a></td>
+<a href="../306_7_macromodels_levey">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../308_9_macromodels_sindy">Next chapter</a></td>
+<a href="../308_9_macromodels_lstm">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../306_7_macromodels_minsky">MM—VII, Minsky</a></td>
+<a href="../306_7_macromodels_levey">MM—VII, Levey</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../308_9_macromodels_sindy">MM—IX, SINDy</a></td>
+<a href="../308_9_macromodels_lstm">MM—IX, CNN-LSTM</a></td>
 </tr>
 </table>
 

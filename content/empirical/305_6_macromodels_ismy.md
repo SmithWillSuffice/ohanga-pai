@@ -1,6 +1,6 @@
 ---
-title: "Macromodels VI --- Levey"
-weight: 11
+title: "Macromodels VI --- ISMY"
+weight: 12
 date: 2024-12-12
 toc: true
 katex: true
@@ -19,19 +19,19 @@ katex: true
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../304_5_macromodels_ismy">Previous chapter</a></td>
+<a href="../304_5_macromodels_dsge">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../306_7_macromodels_minsky">Next chapter</a></td>
+<a href="../306_7_macromodels_levey">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../304_5_macromodels_ismy">MM—V, ISMY</a></td>
+<a href="../304_5_macromodels_dsge">MM—V, DSGE</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../306_7_macromodels_minsky">MM—VII, Minksy</a></td>
+<a href="../306_7_macromodels_levey">MM—VII, Levey</a></td>
 </tr>
 </table>
 
