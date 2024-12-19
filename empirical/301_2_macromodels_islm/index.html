@@ -83,11 +83,11 @@ $$
 Where:</p><ul><li>$M$ is money supply</li><li>$L$ is money demand function</li><li>$r$ is interest rate</li><li>$Y$ is national income</li><li>$\ell$ is the liquidity preference parameter, or &lsquo;money demand sensitivity&rsquo;</li></ul><h2 id=model-assumptions><a class=anchor href=#model-assumptions title='Anchor for: Model Assumptions.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Model Assumptions</h2><p>The implemented model makes several simplifying assumptions:</p><ul><li>Balanced trade (net exports set to zero)</li><li>Linear relationships between variables</li><li>Fixed exchange rate</li><li>Closed economy approximation with limited foreign sector interactions</li></ul><p>In addition we will need to cook up some response functions. For the
 money supply (LM curve) we will use a linear function,
 $$
-M = \ell(r{eq} + Y)
+M = \ell(r_{eq} + Y)
 $$</p><p>For the IS curve I stuck in a balanced trade assumption somewhat
 egregiously! Then the IS curve simplifies to,
 $$
-y_eq = (G - T + C_0 + NX +
+Y_{eq} = (G - T + C_0 + NX +
 b * (r^\ast - r)) / (1 - c_y)
 $$</p><h2 id=computational-implementation><a class=anchor href=#computational-implementation title='Anchor for: Computational Implementation.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Computational Implementation</h2><h3 id=equilibrium-determination><a class=anchor href=#equilibrium-determination title='Anchor for: Equilibrium Determination.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Equilibrium Determination</h3><p>The model finds equilibrium through an iterative process:</p><ul><li>Initial guesses for income and interest rate</li><li>Successive approximations using IS and LM curve equations</li><li>Convergence to a point where both curves intersect</li></ul><h3 id=scenario-analysis><a class=anchor href=#scenario-analysis title='Anchor for: Scenario Analysis.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Scenario Analysis</h3><p>The implementation pretends to support:</p><ul><li>Monetary policy simulation (money supply changes)</li><li>Fiscal policy exploration (autonomous consumption variations)</li><li>International economic condition analysis (foreign interest rate
 modifications)</li></ul><h3 id=limitations-and-extensions><a class=anchor href=#limitations-and-extensions title='Anchor for: Limitations and Extensions.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Limitations and Extensions</h3><p>Some things you could explore, should you care (you should not care) might be:</p><ul><li>Incorporate more complex net export functions</li><li>Add exchange rate dynamics</li><li>Implement non-linear relationships</li><li>Enhance numerical solving methods</li></ul><p><strong>Note</strong>: This is a simplified representation intended for educational
@@ -130,8 +130,18 @@ consumption, investment, government spending, and trade flows. Incorporating
 $NX(Y, e)$ as a function of income and the exchange rate makes it
 quasi-dynamic and accounts for open-economy effects.</p><p>Comments on Parameters:</p><p><strong>(a) Net Exports $NX(Y, e)$:</strong><br>— $Y$ dependency: Higher domestic income ($Y$) can increase imports, reducing $NX$.<br>— $e$ dependency: A weaker currency (higher $e$ in a USD/foreign currency sense) can boost exports and reduce imports, improving $NX$.</p><p><strong>(b) Functional form of $NX$:</strong> For example, we could define,<br>$
 NX(Y,e) = a_1 - a_2 Y + a_3 e
-$<br>where:<br>— $a_1$ captures autonomous net exports,<br>— $a_2$ reflects the income elasticity of imports,<br>— $a_3$ measures exchange rate sensitivity.</p><p>However, I prefer to just use data for NX, not a model fit, since most of
-the input data is readily available in monthly frequency.</p><p><strong>(c) Investment Sensitivity to Interest Rates ($b$):</strong></p><p>— Parameter $b$ captures the sensitivity of investment to interest rate
+$<br>where:<br>— $a_1$ captures autonomous net exports,<br>— $a_2$ reflects the income elasticity of imports,<br>— $a_3$ measures exchange rate sensitivity.</p><p>However, I prefer to just use data for NX, not a model fit, since most of the
+input data is readily available in monthly frequency. This means we can instead
+fit the parameters $a_1$, $a_2$, $a_3$ to the fetched FRED data, however this is
+<em>not</em> and ISLM prediction, bemuse neon of the inputs $Y$, $e$ are ISLM
+predictions, so this is a pointless exercise unless you cannot find decent $NX$
+data for your country of study.</p><p>Actually, I realise all the data for the USA will probably not be available for
+any country you choose. Or it might be a pain-in-the-neck to gather, if so, then
+using fits for $a_1$, $a_2$, $a_3$ from available data for a similar country can
+be an option. But the USa will not be a &ldquo;similar country&rdquo; in all likelihood.
+However, OECD countries ted to have sufficient published econometric data, so
+all is probably not lost.</p><p>These comments apply to <em><em>all</em></em>* macroeconomic modelling, not just ISLM. So we
+should bookmarks these tips!</p><p><strong>(c) Investment Sensitivity to Interest Rates ($b$):</strong></p><p>— Parameter $b$ captures the sensitivity of investment to interest rate
 spreads $(r - r^*)$. If $b$ is too low, it implies weak monetary policy
 transmission.</p><p>— Autonomous Terms ($C_0$, $I_0$):<br>$C_0$ (autonomous consumption) and $I_0$ (autonomous investment) should be calibrated or estimated empirically. Time series data on consumption and investment are necessary to extract these constants.</p><p>— Open Economy Effects:<br>Including $r^\ast$ makes the model more robust to international capital
 flow effects. However, if trade flows are small relative to GDP, the
