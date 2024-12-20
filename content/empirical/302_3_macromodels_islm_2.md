@@ -1,6 +1,6 @@
 ---
 title: "Macromodels III --- IS-LM"
-weight: 8
+weight: 10
 date: 2024-12-06
 toc: true
 katex: true
@@ -623,7 +623,10 @@ def analyze_stability(m1v, m2v, interest_rate, gdp, money_supply, window_sizes=[
     return stability_results
 ```
 
+I think that's it for data collection. This chapter has not given you the full
+code, but it is a good exercise to organize a script for this yourself. 
 
+The next thing is to run some scenarios and test the model.
 
 
 <table style="border-collapse: collapse; border=0;">

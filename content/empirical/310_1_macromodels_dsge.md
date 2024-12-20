@@ -1,6 +1,6 @@
 ---
 title: "Macromodels V --- DSGE"
-weight: 10
+weight: 12
 date: 2024-12-09
 toc: true
 katex: true
@@ -65,7 +65,7 @@ Oh my lord, do we really need to?
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../305_6_macromodels_ismy">Next chapter</a></td>
+<a href="../320_1_macromodels_ismy">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -73,7 +73,7 @@ Oh my lord, do we really need to?
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../305_6_macromodels_ismy">MM—VI, ISMY</a></td>
+<a href="../320_1_macromodels_ismy">MM—VI, ISMY</a></td>
 </tr>
 </table>
 

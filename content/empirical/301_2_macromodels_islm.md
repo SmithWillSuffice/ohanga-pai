@@ -1,6 +1,6 @@
 ---
 title: "Macromodels II --- IS-LM"
-weight: 7
+weight: 9
 date: 2024-12-06
 toc: true
 katex: true

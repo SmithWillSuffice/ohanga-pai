@@ -1,11 +1,22 @@
 ---
-title: "Macromodels IX --- CNN-LSTM"
-weight: 15
-date: 2024-12-18
+title: "NZ Macroconomic — I"
+weight: 6
+date: 2024-12-20
+cover: ""
+coverAlt: ""
 toc: true
 katex: true
+tags: []
 ---
 
+A new series on some aspect of NZ macroeconomics. Topics are just 
+whatever I bother to look at and write-up.  Today, the Real NZ government 
+surplus(deficit).
+
+## NZ Government Real Deficit
+
+This is topical whenever there is a significant inflation event, and 
+such has occurred post-COVID.
 
 
 
@@ -19,20 +30,19 @@ katex: true
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../307_8_macromodels_minsky">Previous chapter</a></td>
+<a href="../099_2_funds_flows">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../309_10_macromodels_sindy">Next chapter</a></td>
+<a href="../101_nzecon_ii">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../307_8_macromodels_minsky">MM—VIII, Minsky</a></td>
+<a href="../099_2_funds_flows">Fund sFlow</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../309_10_macromodels_sindy">MM—X, SINDy</a></td>
+<a href="../101_nzecon_ii">NZ Econ II</a></td>
 </tr>
 </table>
-
 
