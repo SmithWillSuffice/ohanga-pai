@@ -1,5 +1,5 @@
-<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>NZ Macroconomic — I | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/100_nzecon_i/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="NZ Macroconomic — I"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/100_nzecon_i/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
-<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>NZ Macroconomic — I</h1><p>Published on <time datetime=2024-12-20>2024-12-20</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#nz-government-real-deficit>NZ Government Real Deficit</a><ul><li><a href=#back-of-the-envelop-real-deficitsurplus>Back-of-the-envelop Real Deficit(Surplus)</a></li></ul></li><li><a href=#time-series-automation>Time Series Automation</a></li><li><a href=#the-usa-case>The USA Case</a></li><li><a href=#the-nz-case>The NZ Case</a><ul><li></li><li><a href=#oecd-api>OECD API</a></li></ul></li></ul></nav></details><p>A new series on some aspect of NZ macroeconomics. Topics are just
+<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>NZ Macroconomics — I | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/100_nzecon_i/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="NZ Macroconomics — I"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/100_nzecon_i/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>NZ Macroconomics — I</h1><p>Published on <time datetime=2024-12-20>2024-12-20</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#nz-government-real-deficit>NZ Government Real Deficit</a><ul><li><a href=#population-growth>Population Growth</a></li><li><a href=#avoid-confusion-with-real-goods-deficit-spend>Avoid Confusion with Real Goods Deficit Spend</a></li><li><a href=#bank-credit>Bank Credit</a></li><li><a href=#back-of-the-envelop-real-deficitsurplus>Back-of-the-envelop Real Deficit(Surplus)</a></li></ul></li><li><a href=#real-deficit-results-2016--2022>Real Deficit Results (2016&ndash;2022)</a><ul><li><a href=#sample-raw-nz-tsy-figures>Sample Raw NZ Tsy Figures</a></li></ul></li><li><a href=#pictures-tell-the-story>Pictures Tell the Story</a><ul><li><a href=#checking-flows>Checking Flows</a></li></ul></li><li><a href=#time-series-automation>Time Series Automation</a></li><li><a href=#the-usa-case>The USA Case</a></li><li><a href=#the-nz-case>The NZ Case</a><ul><li><a href=#problems>Problems</a></li><li><a href=#oecd-api>OECD API</a></li></ul></li></ul></nav></details><p>A new series on some aspects of NZ macroeconomics. Topics are just
 whatever I bother to look at and write-up. Today, the Real NZ government
 surplus(deficit).</p><h2 id=nz-government-real-deficit><a class=anchor href=#nz-government-real-deficit title='Anchor for: NZ Government Real Deficit.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>NZ Government Real Deficit</h2><p>This is topical whenever there is a significant inflation event, and
 such has occurred post-COVID.</p><p>We need a formula that can show how a nominal deficit can become a
@@ -8,44 +8,340 @@ inflation is high enough.</p><p>The question is about how inflation affects the 
 government debt. Inflation can can turn a nominal deficit into a
 real surplus! That&rsquo;s bad for an economy with a growing population.</p><p>The basic formula would be:
 $$
-\text{Real Deficit} = \text{Nominal Deficit} - (\text{Inflation Rate}\times \text{Outstanding Debt})
+\text{RealDeficit}_n = \text{NominalDeficit}<em>n - (\text{InflationRate}\times \text{GovDebt}</em>{n-1})
 $$
-For example, if:<br><strong>(i)</strong> Nominal deficit = $1 trillion<br><strong>(ii)</strong> Outstanding debt = $30 trillion<br><strong>(iii)</strong> Inflation = 5%<br>then,
+For example, if:<br><strong>(i)</strong> Nominal deficit = $1 trillion<br><strong>(ii)</strong> Outstanding debt last year = $30 trillion<br><strong>(iii)</strong> Inflation = 5%<br>then,
 $$
 \text{Real deficit} = 1T - (0.05 \times 30T) = 1T - 1.5T = -0.5T
 $$
 This would actually be a real surplus of 500 billion, despite the
-nominal deficit.</p><p>Why are we using the government debt as the adjuster?</p><p>Let&rsquo;s think this through:</p><ol><li><p>A nominal deficit of $1T means the government is injecting 1T of
-purchasing power into the non-government sector.</p></li><li><p>At the same time, inflation (say 5%) is reducing the real value
+nominal deficit. Which would be <strong><em>very bad</em></strong> if the population was
+growing, which it is in Aotearoa. We are likely to see more unemployment,
+not less.</p><p><strong>For hardline MMT:</strong> the price level is irrelevant,
+full employment is the goal & a lowest <em>real wage</em> rising the fastest
+of all wages.</p><p>Why are we using the government debt as the adjuster?</p><p>Let&rsquo;s think this through:</p><ol><li>A nominal deficit of $1T means the government is injecting 1T of
+purchasing power into the non-government sector.</li><li>At the same time, inflation (say 5%) is reducing the real value
 of all nominal assets held by the non-government sector, including
-government securities (the $30T).</p></li></ol><p>The original formula actually does capture this correctly:
-Real deficit = Nominal deficit - (Inflation Rate × Outstanding Debt)</p><p>This works because:
+government securities (the $30T).</li></ol><p>The original formula actually does capture this correctly I beleive:
+Real deficit = Nominal deficit - (Inflation Rate × Outstanding Debt).</p><p>This works because:
 <strong>(i)</strong> The nominal deficit represents new purchasing power injected
 <strong>(ii)</strong> (Inflation Rate × Outstanding Debt) represents the loss of
 real purchasing power on existing government securities held by the
-non-government sector</p><p>This negative value (real surplus) means the non-government sector is
+non-government sector.</p><p>This negative value (real surplus) means the non-government sector is
 actually losing purchasing power in real terms, despite the nominal
 deficit, because inflation&rsquo;s erosion of the value of their government
-asset holdings exceeds the new purchasing power injection.</p><h3 id=back-of-the-envelop-real-deficitsurplus><a class=anchor href=#back-of-the-envelop-real-deficitsurplus title='Anchor for: Back-of-the-envelop Real Deficit(Surplus).'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Back-of-the-envelop Real Deficit(Surplus)</h3><p><a href=https://www.treasury.govt.nz/sites/default/files/2023-10/fsgnz-2023.pdf target=_blank>NZ Treasury statement 2023</a>
-was:</p><ul><li>Net GovDebt = 18% of GDP.</li><li>GDP = $2.52175506110 USD. NZ-Tsy nominal GDP = $3.95896 NZD.</li><li>Expenditure (core)= 1,276 billion nzd.</li><li>Revenue (core) = 1.124 billion nzd.</li><li>Expenditure total = 1.61822 billion.</li><li>CPI inflation = 5.7% (average), mid-year was 5.3%.</li></ul><p>GDP agrees with <a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NZ" target=_blank>World Bank</a>
+asset holdings exceeds the new purchasing power injection.</p><h3 id=population-growth><a class=anchor href=#population-growth title='Anchor for: Population Growth.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Population Growth</h3><p>If we were going to be real meta-nerds, we should make a population
+size adjustment, since if the population shrunk then a nominal
+government surplus might still be a real deficit spending!</p><p>Here is the python for that:</p><pre tabindex=0><code class=language-pythn data-lang=pythn>pop_growth_rate = df[&#39;Population&#39;].pct_change()
+real_deficit_adjusted = df[&#39;GovExp&#39;] - df[&#39;GovRev&#39;] - (inflation_rate - pop_growth_rate) * df[&#39;NZ_GDEBT&#39;]
+</code></pre><p>I don&rsquo;t know about you, but I prefer the mathematics straight, so
+it would be:</p><p>$$
+\begin{align*}
+g_p &= \frac{P_n - P_{n-1}}{P_{n-1}}, \\
+\text{RealDeficit}_\text{adj} &= \text{NominalDeficit} - (\pi - g_p)\cdot \text{GovDebt}
+\end{align*}
+$$</p><p>where actual inflation rate $\pi$ is,
+$$
+\pi = \frac{\text{CPI}_n - \text{CPI}_{n-1}}{\text{CPI}_{n-1}}.
+$$</p><p><strong>Note:</strong> You would have to apply the ratio $\pi$ there for the CPI if it
+was the Index value (100 &ndash; 1000) or whatever. But our FRED series we
+use <code>CPGRLE01NZQ659N</code> is the percentage change, so we are ok. I call
+it &ldquo;CPI&rdquo; sometimes in my python dataframes, but I shouldn&rsquo;t, it really
+is the backwards looking rate of inflation proxy! That means it is
+also <em>not</em> today&rsquo;s rate of inflation!</p><h3 id=avoid-confusion-with-real-goods-deficit-spend><a class=anchor href=#avoid-confusion-with-real-goods-deficit-spend title='Anchor for: Avoid Confusion with Real Goods Deficit Spend.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Avoid Confusion with Real Goods Deficit Spend</h3><p>The spending power of the government deficit spending alone is a different
+sort of &ldquo;real deficit&rdquo;. It is merely the inflation adjusted raw deficit
+spending. You would compute it via,
+$$
+Deficit_\text{adjusted} = \text{NominalDeficit} \cdot \frac{\pi_{n-1}}{I\pi_n}
+$$
+where $n$ is the year, so $\pi_{n-1}$ is the inflation rate for the previous
+year.</p><p>This Deficit is always going to have the same $\pm$ sign as the
+Nominal Deficit, so does not reflect the real terms of the add from
+government deficit spending. (Obviously, since the outstanding net
+currency = total GovDebt is not in the formula anywhere.)</p><h3 id=bank-credit><a class=anchor href=#bank-credit title='Anchor for: Bank Credit.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Bank Credit</h3><p>Bank credit does not add any net currency assets into the economy, but
+it can boost circulation of the currency if the <em>private</em> household
+debt level is not too high. One should probably factor this
+into the overall Real Deficit of the whole economy, but I am not going to
+fetch all the NZ banking data, so I will leave that to PhD students.</p><p>We want to spank the government for being naughty, not private households.</p><h3 id=back-of-the-envelop-real-deficitsurplus><a class=anchor href=#back-of-the-envelop-real-deficitsurplus title='Anchor for: Back-of-the-envelop Real Deficit(Surplus).'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Back-of-the-envelop Real Deficit(Surplus)</h3><p><a href=https://www.treasury.govt.nz/sites/default/files/2023-10/fsgnz-2023.pdf target=_blank>NZ Treasury statement 2023</a>
+was:</p><ul><li>Net GovDebt = 18% of GDP.</li><li>GDP = 2.52175506110 USD. NZ-Tsy nominal GDP = 3.95896 NZD.</li><li>Expenditure (core)= 1,276 billion nzd.</li><li>Revenue (core) = 1.124 billion nzd.</li><li>Expenditure total = 1.61822 billion.</li><li>CPI inflation = 5.7% (average), mid-year was 5.3%.</li></ul><p>GDP agrees with <a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=NZ" target=_blank>World Bank</a>
 . To convert to NZD the
 effective exchange rate was 1.5699 nzd per usd. Looks about right, daily
 was around 1.55 to 1.75.</p><p>So Net GovDebt = $3.95896\times 0.18$ $= 0.7126$ billion nzd. FRED
 series <code>NZLGGXWDGG01GDPPT</code> has GrossGovDebt = 31.35% of GDP = $1.247$ billion nzd.</p><p>Nominal deficit = $1.276 - 1.124 = 0.152$ billion nzd.</p><p>Plugging this in:
 $$
-\text{Real deficit} = 0.152 - 0.057\times 1.247 = 0.081 , \text{bil. nzd}
+\text{Real deficit} = 0.152 - 0.057\times 1.247 = 0.081 \,\, \text{bil. nzd}
 $$</p><p>To validate with external data like FRED and OECD, today, at the time
-of writing, I needed
-the <a href=https://www.treasury.govt.nz/sites/default/files/2022-10/fsgnz-2022_2.pdf target=_blank>2022 Treasury Statement:</a>
-:</p><ul><li>GDP = 3.59476 billion nzd.</li><li>Net GovDebt = 0.61829872 billion nzd or 17.2% of GDP.</li><li>Gross GovDebt = 1.18986556 billion or 33.1% of GDP.</li></ul><p>Check: From OECD and FRED:</p><ul><li>FRED <code>NZLGGXWDGG01GDPPT</code>: GovDebt (total) 31.9% of GDP.</li><li>OECD: Gross GovDebt (total) 59.59% of GDP.</li></ul><p>Unfortunately, the API for Treasury data is an excel spreadsheet 🤣.
+of writing we can look at the 2021,
+<a href=https://www.treasury.govt.nz/sites/default/files/2022-10/fsgnz-2022_2.pdf target=_blank>2022</a>
+, 2023
+Treasury Statements as a representative sample.</p><p>The closet FRED series is <code>NZLGGXWDGG01GDPPT</code> and is in units %GDP, so we
+need to pull the NZ GDP numbers as well, <code>MKTGDPNZA646NWDB</code>. FRED has these
+in USD, so we have to pull the currency conversion <code>CCUSMA02NZM618N</code> series too. Unfortunately this FRED NZ GovDebt series only goes back to 2016. So we are
+only using the FRED for data validation. The clunky
+<a href=https://www.treasury.govt.nz/publications/financial-statements-government target=_blank>NZ Treasury spreadsheets</a>
+will have to be out painful data source for more historical analysis. More
+on that next chapter! It was a real mission to get those look-ups automated.</p><p><a href=https://www.treasury.govt.nz/publications/financial-statements-government target=_blank>NZ Treasury spreadsheets</a>
+report fiscal year-end, so June. But we can use the December Monthly
+statements for the calendar year.</p><ul><li><a href=https://www.treasury.govt.nz/publications/month-end/interim-financial-statements-government-new-zealand-six-months-ended-31-december-2023 target=_blank>December 2023 Statement</a></li><li><a href=https://www.treasury.govt.nz/publications/month-end/interim-financial-statements-government-new-zealand-six-months-ended-31-december-2022 target=_blank>December 2022 Statement</a></li><li><a href=https://www.treasury.govt.nz/publications/month-end/interim-financial-statements-government-new-zealand-six-months-ended-31-december-2021 target=_blank>December 2021 Statement</a></li></ul><p>I eventually got too tired of extracting the spreadsheet data. So I used
+some series from the FRED and the OECD portal to run numbers for the
+limited range allowed, 20126&ndash;2022.</p><h2 id=real-deficit-results-2016--2022><a class=anchor href=#real-deficit-results-2016--2022 title='Anchor for: Real Deficit Results (2016&ndash;2022).'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Real Deficit Results (2016&ndash;2022)</h2><img src=/ohanga-pai/images/nz_real_deficit_2017_2022.png alt="NZ Gov Real Deficit" style=width:600px;height:685px><p>Need it be said? Green bars + are government deficit = non-government
+savings. Green is good. Or, +deficit of someone else ifs good for us, it
+is our +saving.</p><hr><p>The rest of this chapter is technical mumblings and fumblings &mdash; just
+a crude journal on how I was struggling to get consistent data sources.</p><h3 id=sample-raw-nz-tsy-figures><a class=anchor href=#sample-raw-nz-tsy-figures title='Anchor for: Sample Raw NZ Tsy Figures.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Sample Raw NZ Tsy Figures</h3><p>A few series are reported as %GDP, so we need to square the GDP numbers.
+The first GDP column is direct from NZ Treasury Statements. Some years GDP
+is not easy to find reported in nominal nzd in the Treasury Statement, so in
+those case I estimate from other figures given twice, once as %GDP.</p><p>For exchange rate, (cur) means the Dec. of the last year of the FRED
+GDP data, which was 2023. I am not sure if this is the correct adjustment
+to the FRED GDP.</p><div class=scroll tabindex=0><table><thead><tr><th>Year</th><th>GDP (nzd_bil)</th><th>fred_gdp (usd)</th><th>usd:nzd</th><th>fred_GDP (nzd)</th></tr></thead><tbody><tr><td>2021</td><td>343.36</td><td>253.64</td><td>1.41 (ave)</td><td>358.6</td></tr><tr><td>2021</td><td>''</td><td>''</td><td>1.39 (jan)</td><td>352.6</td></tr><tr><td>2021</td><td>''</td><td>''</td><td>1.47 (dec)</td><td>372.8</td></tr><tr><td>2021</td><td>''</td><td>''</td><td>1.60 (cur)</td><td>405.8</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2022</td><td>359.476</td><td>246.73</td><td>1.578 (ave)</td><td>389.3</td></tr><tr><td>2022</td><td>''</td><td>''</td><td>1.575 (dec)</td><td>388.6</td></tr><tr><td>2022</td><td>''</td><td>''</td><td>1.60 (cur)</td><td>394.8</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2023 (a)</td><td>419.810</td><td>252.17</td><td>1.56 (ave)</td><td>394.3</td></tr><tr><td></td><td>''</td><td>''</td><td>1.60 (dec)</td><td>403.472</td></tr><tr><td></td><td>''</td><td>''</td><td>1.60 (cur)</td><td>403.472</td></tr><tr><td>2023 (b)</td><td>400.818</td><td></td><td></td><td></td></tr></tbody></table></div><p>The discrepancies could be due to NZ Tsy using July-to-June as
+the &ldquo;year&rdquo; (fiscal year).</p><p>The World Bank values the FRED uses are calendar year.
+See <a href=https://datahelpdesk.worldbank.org/knowledgebase/articles/201203-are-all-wdi-series-on-a-calendar-year-reporting-pe target=_blank>World Bank Helpdesk</a>
+.</p><p>FRED seems consistently on the high side of NZ Tsy, maybe they do NIPA
+accounting differently? Also, the source for the FRED series is the
+World Bank. The source data uses &ldquo;current USD&rdquo; &mdash; but I find it hard to
+know what that means, what date is &ldquo;current&rdquo;. The metadata says the WB
+uses &ldquo;single year official exchange rate&rdquo;. They have a page for that here
+<a href="https://data.worldbank.org/indicator/PA.NUS.FCRF?locations=NZ" target=_blank>Official LCU exchange to USD</a>
+which for &ldquo;current&rdquo; being 2023 was 1.63. But you see from the table that
+does not improve the agreement with NZ Tsy nominal GDP figures, which are
+not price adjusted.</p><p>We might be ok using the FRED data with a calibration. For that we want
+to look at NZ Tsy Deficits and GovDebt and compare with OECD. Working
+with the NZ Tsy Statements was a mess without some automation, since the
+figures published are monthly, or to-June fiscal year.</p><div class=scroll tabindex=0><table><thead><tr><th>Year</th><th>GovExp (bil. nzd)</th><th>GovRev (bil. nzd)</th><th>GDP (bl. nzd)</th></tr></thead><tbody><tr><td>2021</td><td>197.70 (total)</td><td>189.466 (total)</td><td>343.36</td></tr><tr><td>''</td><td>-</td><td>142.343 (tax)</td><td>''</td></tr><tr><td>''</td><td>-</td><td>152.791 (crown)</td><td>''</td></tr><tr><td>2022</td><td>225.225 (total)</td><td>207.819 (total)</td><td>359.476</td></tr><tr><td>''</td><td>-</td><td>158.551 (tax)</td><td>''</td></tr><tr><td>''</td><td>-</td><td>171.621 (crown)</td><td>''</td></tr></tbody></table></div><p>To compare NZ Tsy with OECD data (via World Bank I think) we need to
+convert to %GDP:</p><div class=scroll tabindex=0><table><thead><tr><th>Year</th><th>GovExp (%gdp)</th><th>OECD GovExp (%gdp)</th><th>GovRev (%gdp)</th><th>OECD GovRev (%gdp)</th></tr></thead><tbody><tr><td>2021</td><td>57.58 (total)</td><td>44.9</td><td>55.18 (total)</td><td>40.78</td></tr><tr><td>''</td><td>-</td><td></td><td>41.46 (tax)</td><td>-</td></tr><tr><td>''</td><td>-</td><td></td><td>44.498 (crown)</td><td>-</td></tr><tr><td>2022</td><td>62.65 (total)</td><td>42.52</td><td>57.81 (total)</td><td>40.88</td></tr><tr><td>''</td><td>-</td><td></td><td>44.11 (tax)</td><td>-</td></tr><tr><td>''</td><td>-</td><td></td><td>47.74 (crown)</td><td>-</td></tr></tbody></table></div><p><strong>Interim Status:</strong> We only get $\pm$ 10 to 30 million NZD missing here and
+there? Good enough? I do not mind that the percentage deficits are lower
+for the Tsy data then for the OECD.</p><p>The more important series to check are GovDebt, GovExp, GovRev.
+The change in GovDebt needs to be consistent with (GovRev$-$GovExp).
+But I will get the better quality NZ Treasury data in the future, time
+permitting, then e-run the RealDeficit analysis.</p><p><strong>Lesson:</strong> You never want to run serious econometric analyses with
+nominal data. You want to convert to a dimensionless ratio.</p><p>For our Real Deficit analysis what can we do? We only need to make sure
+our NominalDeficit and GovDebt numbers are based on the same year/price.
+I think although using FRED is highly convenient, if we were being serious
+we would use the NZ Treasury Statements, because the RealDeficit calculation
+is only using one year of data, so price level adjustments will be
+irrelevant.</p><p>However, when <strong><em>reporting</em></strong> the RealDeficit it would be better to convert
+to dimensionless units, like %GDP for the given year. Then the whole
+RealDeficit time series will be year-relative and dimensionless.</p><p>The purpose of data needs to be born in mind. We are interested in
+how a Nominal GovDeficit can become a RealSurplus. That is a year-by-year
+matter. We would not be looking to use a value for RealDeficit in NZD
+from 1980 to say anything about 2024, since prices changed. But we could
+say something about the &ldquo;health&rdquo; of the NZ economy by comparing the
+RealDeficit as % annual nominal GDP from 1980 to 2024. So the above
+conclusion & lesson seems justified.</p><p>For GovDebt the FRED series <code>NZLGGXWDGG01GDPPT</code> is closest, but only
+goes back to 2016. Until I get the awful spreadsheet automation work
+sorted out for the NZ Treasury Statements, I will just use the FRED
+series, so only report the RealDeficit from 2016&ndash;present.<br>I am lazy, so I will use the FRED where possible. For For this
+purpose I think it is fine the use the following series:</p><div class=scroll tabindex=0><table><thead><tr><th>Measure</th><th>Source</th><th>Code</th><th>Units</th></tr></thead><tbody><tr><td>GDP</td><td>FRED</td><td>MKTGDPNZA646NWDB</td><td>usd</td></tr><tr><td>$\pi$ (inflation)</td><td>FRED</td><td>CPGRLE01NZQ659N</td><td>-</td></tr><tr><td>GovDebt</td><td>FRED</td><td>NZLGGXWDGG01GDPPT</td><td>pct_gdp</td></tr><tr><td>USD2NZD</td><td>FRED</td><td>CCUSMA02NZM618N</td><td>-</td></tr><tr><td>GovExp</td><td>OECD portal</td><td>A.NZL.OTES13</td><td>pct_gdp</td></tr><tr><td>GovRev</td><td>OECD portal</td><td>A.NZL.OTRS13</td><td>pct_gdp</td></tr></tbody></table></div><p>In my python script <code>real_deficit_data.py</code> I only run the FRED fetch.
+The OECD data was needed for other projects, and runs separately
+saving to a CSV file. So in the RealDeficit script I just load that file.
+We then output a RealDeficit CSV time series, and a nice plotly plot.</p><h2 id=pictures-tell-the-story><a class=anchor href=#pictures-tell-the-story title='Anchor for: Pictures Tell the Story.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Pictures Tell the Story</h2><p>While we are here, it is good to look at the OECD portal NZ GovRev and GovExp,
+the difference being a nominal deficit(surplus). Hopefully this lnk here,
+<a href="https://data-explorer.oecd.org/vis?lc=en&pg=0&snb=1&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_NAAG_VI%40DF_NAAG_EXP&df[ag]=OECD.SDD.NAD&df[vs]=1.0&dq=A.NZL.OTES13%2BOTRS13..PT_B1GQ.&pd=1986%2C2023&to[TIME_PERIOD]=false&vw=tl" target=_blank>OECD NZ government deficit(surplus)</a>
+will open in your browser. In case not I took a snapshot c.2024, which
+only ran from 1986 to 2023.</p><img src=/ohanga-pai/images/oecd_snapshot_nz_gov_deficits.png alt="NZ Gov Rev.s and Exps." style=width:600px;height:356px><p>First, note tax revenues are the bulk of the Crown revenue.
+It would be nice to overlay the recession period shadows, as one does, but
+I did not bother, so apologies. However, you can see when the decline in
+percent GDP expenditures goes faster than decline in tax revenue it spells
+trouble.</p><p>When the <font style="color: indianred">red line</font> is above the
+<font style="color: #178055">green</font> = danger!</p><p>Also, the portrait on the NZ economy is dynamic, you can see tax revenues
+fall off over the financial crisis period from 2006 to 2010. Even before
+the crisis proper befell the USA and Europe, NZ was already going in a
+declining turn-over direction.</p><p>This speaks to Mosler&rsquo;s Seventh deadly innocent fraud: higher government
+deficits today means higher tax returns tomorrow. The myth is that it is a
+bad thing, when in fact it si a good thing. The NZ government does not
+need to <em>raise extra taxes</em> when it deficit spends, the tax return will
+automatically reflux higher of the economy is doing well. The government
+may <em>want</em> to raise taxes in the future to cool off inflation, but it
+does not <em>ave</em> to do so.</p><p>Cooling off inflation is one use of taxation, but it is not the primary
+use, and is not even all that essential. The primary purpose of taxes
+(the liabilities that is, not the receipts) is to create a demand for
+the currency in the non-government sector.</p><h3 id=checking-flows><a class=anchor href=#checking-flows title='Anchor for: Checking Flows.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Checking Flows</h3><p>For GDP (a flow variable) if you grab monthly data and wish to convert to
+annual YE, then it is a good idea to check your down sampling preserves
+the sum.</p><h4 id=down-sampling><a class=anchor href=#down-sampling title='Anchor for: Down Sampling.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Down Sampling</h4><p>This is easy, pandas provides a <code>resample()</code> method. For a stock
+variable we would use an average,</p><pre aria-label="Box containing code sample." tabindex=0><code>df.resample(&#39;YE&#39;).mean()
+</code></pre><p>of course, that is coarse and ignores seasonality.</p><p>For a flow variable we can use:</p><pre aria-label="Box containing code sample." tabindex=0><code>df.resample(&#39;YE&#39;).sum()
+</code></pre><p>Here is a quick copypasta snippet to use for testing:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=c1># Generate dummy date monthly 2021, 2022, and 2023</span>
+</span></span><span class=line><span class=cl><span class=n>date_range</span> <span class=o>=</span> <span class=n>pd</span><span class=o>.</span><span class=n>date_range</span><span class=p>(</span><span class=n>start</span><span class=o>=</span><span class=s1>&#39;2021-01-01&#39;</span><span class=p>,</span> <span class=n>end</span><span class=o>=</span><span class=s1>&#39;2023-12-31&#39;</span><span class=p>,</span> <span class=n>freq</span><span class=o>=</span><span class=s1>&#39;ME&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Generate random GDP values in billions</span>
+</span></span><span class=line><span class=cl><span class=n>np</span><span class=o>.</span><span class=n>random</span><span class=o>.</span><span class=n>seed</span><span class=p>(</span><span class=mi>0</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=n>gdp_values</span> <span class=o>=</span> <span class=n>np</span><span class=o>.</span><span class=n>random</span><span class=o>.</span><span class=n>rand</span><span class=p>(</span><span class=nb>len</span><span class=p>(</span><span class=n>date_range</span><span class=p>))</span> <span class=o>*</span> <span class=mi>1000</span>  <span class=c1># GDP values between 0 and 1000 billion</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Create the DataFrame</span>
+</span></span><span class=line><span class=cl><span class=n>df</span> <span class=o>=</span> <span class=n>pd</span><span class=o>.</span><span class=n>DataFrame</span><span class=p>({</span><span class=s1>&#39;Date&#39;</span><span class=p>:</span> <span class=n>date_range</span><span class=p>,</span> <span class=s1>&#39;GDP_bil&#39;</span><span class=p>:</span> <span class=n>gdp_values</span><span class=p>})</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Set the &#39;Date&#39; column as the index</span>
+</span></span><span class=line><span class=cl><span class=n>df</span><span class=o>.</span><span class=n>set_index</span><span class=p>(</span><span class=s1>&#39;Date&#39;</span><span class=p>,</span> <span class=n>inplace</span><span class=o>=</span><span class=kc>True</span><span class=p>)</span>
+</span></span></code></pre></div><p>To down-sample the flow variable:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>gdp_annual</span> <span class=o>=</span>  <span class=n>df</span><span class=o>.</span><span class=n>resample</span><span class=p>(</span><span class=s1>&#39;YE&#39;</span><span class=p>)</span><span class=o>.</span><span class=n>sum</span><span class=p>()</span>
+</span></span></code></pre></div><p>After this, the check the flow accumulation was preserved run:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=o>&gt;&gt;&gt;</span> <span class=n>gdp_annual</span> <span class=o>=</span>  <span class=n>df</span><span class=o>.</span><span class=n>resample</span><span class=p>(</span><span class=s1>&#39;YE&#39;</span><span class=p>)</span><span class=o>.</span><span class=n>sum</span><span class=p>()</span>
+</span></span><span class=line><span class=cl><span class=o>&gt;&gt;&gt;</span> <span class=n>gdp_annual</span>
+</span></span><span class=line><span class=cl>                <span class=n>GDP_bil</span>
+</span></span><span class=line><span class=cl><span class=n>Date</span>                   
+</span></span><span class=line><span class=cl><span class=mi>2021</span><span class=o>-</span><span class=mi>12</span><span class=o>-</span><span class=mi>31</span>  <span class=mf>7478.282791</span>
+</span></span><span class=line><span class=cl><span class=mi>2022</span><span class=o>-</span><span class=mi>12</span><span class=o>-</span><span class=mi>31</span>  <span class=mf>7172.599144</span>
+</span></span><span class=line><span class=cl><span class=mi>2023</span><span class=o>-</span><span class=mi>12</span><span class=o>-</span><span class=mi>31</span>  <span class=mf>5482.526794</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=o>&gt;&gt;&gt;</span> <span class=n>gdp_monthly_sum_by_year</span> <span class=o>=</span> <span class=n>df</span><span class=o>.</span><span class=n>groupby</span><span class=p>(</span><span class=n>df</span><span class=o>.</span><span class=n>index</span><span class=o>.</span><span class=n>year</span><span class=p>)</span><span class=o>.</span><span class=n>sum</span><span class=p>()</span>
+</span></span><span class=line><span class=cl><span class=o>&gt;&gt;&gt;</span> <span class=n>gdp_monthly_sum_by_year</span>
+</span></span><span class=line><span class=cl>          <span class=n>GDP_bil</span>
+</span></span><span class=line><span class=cl><span class=n>Date</span>             
+</span></span><span class=line><span class=cl><span class=mi>2021</span>  <span class=mf>7478.282791</span>
+</span></span><span class=line><span class=cl><span class=mi>2022</span>  <span class=mf>7172.599144</span>
+</span></span><span class=line><span class=cl><span class=mi>2023</span>  <span class=mf>5482.526794</span>
+</span></span></code></pre></div><p>All good.</p><h4 id=up-sampling><a class=anchor href=#up-sampling title='Anchor for: Up Sampling.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Up Sampling</h4><p>Suppose we had Annual frequency data, and wanted Monthly. For a stock
+variable we can simply interpolate linearly (again ignoring seasonality).
+For a flow variable we can distribute at random, assuming a uniform
+distribution.</p><p><strong>For Stock Variables:</strong></p><pre aria-label="Box containing code sample." tabindex=0><code>df_monthly = df_annual.resample(&#39;ME&#39;).ffill().interpolate(method=&#39;linear&#39;)
+</code></pre><p><strong>For Flow Variables:</strong></p><pre aria-label="Box containing code sample." tabindex=0><code>df_monthyl =  df_annual.resample(&#39;ME&#39;).ffill() / 12
+</code></pre><p>Here is a dummy example:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=c1># Create a DataFrame with Annual Data for three years</span>
+</span></span><span class=line><span class=cl><span class=n>data</span> <span class=o>=</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>    <span class=s1>&#39;Date&#39;</span><span class=p>:</span> <span class=p>[</span><span class=s1>&#39;2021-12-31&#39;</span><span class=p>,</span> <span class=s1>&#39;2022-12-31&#39;</span><span class=p>,</span> <span class=s1>&#39;2023-12-31&#39;</span><span class=p>],</span>
+</span></span><span class=line><span class=cl>    <span class=s1>&#39;GDP&#39;</span><span class=p>:</span> <span class=p>[</span><span class=mi>24000</span><span class=p>,</span> <span class=mi>25000</span><span class=p>,</span> <span class=mi>26000</span><span class=p>],</span>  <span class=c1># Annual GDP in billions</span>
+</span></span><span class=line><span class=cl>    <span class=s1>&#39;GovDebt&#39;</span><span class=p>:</span> <span class=p>[</span><span class=mi>100000</span><span class=p>,</span> <span class=mi>110000</span><span class=p>,</span> <span class=mi>120000</span><span class=p>]</span>  <span class=c1># Government Debt in billions</span>
+</span></span><span class=line><span class=cl><span class=p>}</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>df_annual</span> <span class=o>=</span> <span class=n>pd</span><span class=o>.</span><span class=n>DataFrame</span><span class=p>(</span><span class=n>data</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=n>df_annual</span><span class=p>[</span><span class=s1>&#39;Date&#39;</span><span class=p>]</span> <span class=o>=</span> <span class=n>pd</span><span class=o>.</span><span class=n>to_datetime</span><span class=p>(</span><span class=n>df_annual</span><span class=p>[</span><span class=s1>&#39;Date&#39;</span><span class=p>])</span>
+</span></span><span class=line><span class=cl><span class=n>df_annual</span><span class=o>.</span><span class=n>set_index</span><span class=p>(</span><span class=s1>&#39;Date&#39;</span><span class=p>,</span> <span class=n>inplace</span><span class=o>=</span><span class=kc>True</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Display the annual DataFrame</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=s2>&#34;Annual DataFrame:&#34;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>df_annual</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Upsample to Monthly Frequency</span>
+</span></span><span class=line><span class=cl><span class=n>df_monthly</span> <span class=o>=</span> <span class=n>df_annual</span><span class=o>.</span><span class=n>resample</span><span class=p>(</span><span class=s1>&#39;ME&#39;</span><span class=p>)</span><span class=o>.</span><span class=n>asfreq</span><span class=p>()</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Distribute Flow Variable (GDP) evenly across months</span>
+</span></span><span class=line><span class=cl><span class=n>df_monthly</span><span class=p>[</span><span class=s1>&#39;GDP&#39;</span><span class=p>]</span> <span class=o>=</span> <span class=n>df_annual</span><span class=p>[</span><span class=s1>&#39;GDP&#39;</span><span class=p>]</span><span class=o>.</span><span class=n>resample</span><span class=p>(</span><span class=s1>&#39;ME&#39;</span><span class=p>)</span><span class=o>.</span><span class=n>ffill</span><span class=p>()</span> <span class=o>/</span> <span class=mi>12</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Interpolate Stock Variable (GovDebt) linearly</span>
+</span></span><span class=line><span class=cl><span class=n>df_monthly</span><span class=p>[</span><span class=s1>&#39;GovDebt&#39;</span><span class=p>]</span> <span class=o>=</span> <span class=n>df_annual</span><span class=p>[</span><span class=s1>&#39;GovDebt&#39;</span><span class=p>]</span><span class=o>.</span><span class=n>resample</span><span class=p>(</span><span class=s1>&#39;ME&#39;</span><span class=p>)</span><span class=o>.</span><span class=n>ffill</span><span class=p>()</span><span class=o>.</span><span class=n>interpolate</span><span class=p>(</span><span class=n>method</span><span class=o>=</span><span class=s1>&#39;linear&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>df_monthly</span><span class=p>)</span>
+</span></span></code></pre></div><p>To double check the stock:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=o>&gt;&gt;&gt;</span> <span class=n>df_annual</span>
+</span></span><span class=line><span class=cl>              <span class=n>GDP</span>  <span class=n>GovDebt</span>
+</span></span><span class=line><span class=cl><span class=n>Date</span>                      
+</span></span><span class=line><span class=cl><span class=mi>2021</span><span class=o>-</span><span class=mi>12</span><span class=o>-</span><span class=mi>31</span>  <span class=mi>24000</span>   <span class=mi>100000</span>
+</span></span><span class=line><span class=cl><span class=mi>2022</span><span class=o>-</span><span class=mi>12</span><span class=o>-</span><span class=mi>31</span>  <span class=mi>25000</span>   <span class=mi>110000</span>
+</span></span><span class=line><span class=cl><span class=mi>2023</span><span class=o>-</span><span class=mi>12</span><span class=o>-</span><span class=mi>31</span>  <span class=mi>26000</span>   <span class=mi>120000</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=o>&gt;&gt;&gt;</span> <span class=n>debt_check</span> <span class=o>=</span> <span class=n>df_monthly</span><span class=p>[</span><span class=s1>&#39;GovDebt&#39;</span><span class=p>]</span><span class=o>.</span><span class=n>resample</span><span class=p>(</span><span class=s1>&#39;YE&#39;</span><span class=p>)</span><span class=o>.</span><span class=n>last</span><span class=p>()</span>
+</span></span><span class=line><span class=cl><span class=o>&gt;&gt;&gt;</span> <span class=n>debt_check</span>
+</span></span><span class=line><span class=cl><span class=n>Date</span>
+</span></span><span class=line><span class=cl><span class=mi>2021</span><span class=o>-</span><span class=mi>12</span><span class=o>-</span><span class=mi>31</span>    <span class=mi>100000</span>
+</span></span><span class=line><span class=cl><span class=mi>2022</span><span class=o>-</span><span class=mi>12</span><span class=o>-</span><span class=mi>31</span>    <span class=mi>110000</span>
+</span></span><span class=line><span class=cl><span class=mi>2023</span><span class=o>-</span><span class=mi>12</span><span class=o>-</span><span class=mi>31</span>    <span class=mi>120000</span>
+</span></span><span class=line><span class=cl><span class=n>Freq</span><span class=p>:</span> <span class=n>YE</span><span class=o>-</span><span class=n>DEC</span><span class=p>,</span> <span class=n>Name</span><span class=p>:</span> <span class=n>GovDebt</span><span class=p>,</span> <span class=n>dtype</span><span class=p>:</span> <span class=n>int64</span>
+</span></span></code></pre></div><p>Good.</p><p>To double check the flow:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>gdp_monthly_sum_by_year</span> <span class=o>=</span> <span class=n>df_monthly</span><span class=p>[</span><span class=s1>&#39;GDP&#39;</span><span class=p>]</span><span class=o>.</span><span class=n>groupby</span><span class=p>(</span><span class=n>df</span><span class=o>.</span><span class=n>index</span><span class=o>.</span><span class=n>year</span><span class=p>)</span><span class=o>.</span><span class=n>sum</span><span class=p>()</span>
+</span></span></code></pre></div><p>But this was &ldquo;dumb&rdquo;. It is more natural to impose a monthly
+fluctuation. Even though this will be fake, we are doing this
+pedagogically as a build-up. The &ldquo;proper&rdquo; way to up-sample would be
+to find some believe monthly correlator. Absent that sophistication,
+let&rsquo;s just do it with a simple random fluctuation.</p><h4 id=adding-monthly-fluctuations><a class=anchor href=#adding-monthly-fluctuations title='Anchor for: Adding Monthly Fluctuations.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Adding Monthly Fluctuations</h4><p>If we do not want to worry about seasonality correlation we can just
+assume uniform distributions, and add a random fluctuation. To be
+more nuanced and correlate the monthly fluctuations we could use some
+other data we think is correlated, like SPX, or monthly GovDeficit,
+or whatever econometric series is available at the higher frequency and
+which we believe might be correlated.</p><p>I have not gone to that bother in this write-up, so we&rsquo;ll just look at
+a random uniform distribution. Here I use the yearly variance to infer
+a monthly variance.</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=kn>import</span> <span class=nn>pandas</span> <span class=k>as</span> <span class=nn>pd</span>
+</span></span><span class=line><span class=cl><span class=kn>import</span> <span class=nn>numpy</span> <span class=k>as</span> <span class=nn>np</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>    
+</span></span><span class=line><span class=cl><span class=k>def</span> <span class=nf>upsample_flow_annual_to_month</span><span class=p>(</span><span class=n>df</span><span class=p>,</span> <span class=n>column</span><span class=p>):</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>    Upsample a flow variable (e.g., GDP) from annual to monthly frequency with random fluctuations.
+</span></span></span><span class=line><span class=cl><span class=s2>    &#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl>    <span class=c1># Create a date range for the monthly frequency</span>
+</span></span><span class=line><span class=cl>    <span class=n>monthly_dates</span> <span class=o>=</span> <span class=n>pd</span><span class=o>.</span><span class=n>date_range</span><span class=p>(</span><span class=n>start</span><span class=o>=</span><span class=n>df</span><span class=o>.</span><span class=n>index</span><span class=o>.</span><span class=n>min</span><span class=p>(),</span> <span class=n>end</span><span class=o>=</span><span class=n>df</span><span class=o>.</span><span class=n>index</span><span class=o>.</span><span class=n>max</span><span class=p>(),</span> <span class=n>freq</span><span class=o>=</span><span class=s1>&#39;ME&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>    <span class=n>monthly_df</span> <span class=o>=</span> <span class=n>pd</span><span class=o>.</span><span class=n>DataFrame</span><span class=p>(</span><span class=n>index</span><span class=o>=</span><span class=n>monthly_dates</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>    <span class=c1># Repeat the annual values to create a monthly average</span>
+</span></span><span class=line><span class=cl>    <span class=n>repeated_annual_values</span> <span class=o>=</span> <span class=n>np</span><span class=o>.</span><span class=n>repeat</span><span class=p>(</span><span class=n>df</span><span class=p>[</span><span class=n>column</span><span class=p>]</span><span class=o>.</span><span class=n>values</span><span class=p>,</span> <span class=mi>12</span><span class=p>)[:</span><span class=nb>len</span><span class=p>(</span><span class=n>monthly_dates</span><span class=p>)]</span>
+</span></span><span class=line><span class=cl>    <span class=c1># Calculate monthly variance based on annual variance</span>
+</span></span><span class=line><span class=cl>    <span class=n>annual_variance</span> <span class=o>=</span> <span class=n>df</span><span class=p>[</span><span class=n>column</span><span class=p>]</span><span class=o>.</span><span class=n>var</span><span class=p>()</span>
+</span></span><span class=line><span class=cl>    <span class=n>monthly_variance</span> <span class=o>=</span> <span class=n>annual_variance</span> <span class=o>/</span> <span class=mi>12</span>
+</span></span><span class=line><span class=cl>    <span class=c1># Generate monthly fluctuations around the average</span>
+</span></span><span class=line><span class=cl>    <span class=n>np</span><span class=o>.</span><span class=n>random</span><span class=o>.</span><span class=n>seed</span><span class=p>(</span><span class=mi>0</span><span class=p>)</span>  <span class=c1># For reproducibility</span>
+</span></span><span class=line><span class=cl>    <span class=n>monthly_fluctuations</span> <span class=o>=</span> <span class=n>np</span><span class=o>.</span><span class=n>random</span><span class=o>.</span><span class=n>normal</span><span class=p>(</span><span class=n>loc</span><span class=o>=</span><span class=mi>0</span><span class=p>,</span> <span class=n>scale</span><span class=o>=</span><span class=n>np</span><span class=o>.</span><span class=n>sqrt</span><span class=p>(</span><span class=n>monthly_variance</span><span class=p>),</span> <span class=n>size</span><span class=o>=</span><span class=nb>len</span><span class=p>(</span><span class=n>monthly_dates</span><span class=p>))</span>
+</span></span><span class=line><span class=cl>    <span class=c1># Distribute the annual sum across months with fluctuations</span>
+</span></span><span class=line><span class=cl>    <span class=n>monthly_df</span><span class=p>[</span><span class=n>column</span><span class=p>]</span> <span class=o>=</span> <span class=n>repeated_annual_values</span> <span class=o>/</span> <span class=mi>12</span> <span class=o>+</span> <span class=n>monthly_fluctuations</span>
+</span></span><span class=line><span class=cl>    <span class=c1># Renormalize to ensure the annual sum is preserved</span>
+</span></span><span class=line><span class=cl>    <span class=k>for</span> <span class=n>year</span> <span class=ow>in</span> <span class=n>df</span><span class=o>.</span><span class=n>index</span><span class=o>.</span><span class=n>year</span><span class=o>.</span><span class=n>unique</span><span class=p>():</span>
+</span></span><span class=line><span class=cl>        <span class=n>monthly_df_year</span> <span class=o>=</span> <span class=n>monthly_df</span><span class=p>[</span><span class=n>monthly_df</span><span class=o>.</span><span class=n>index</span><span class=o>.</span><span class=n>year</span> <span class=o>==</span> <span class=n>year</span><span class=p>]</span>
+</span></span><span class=line><span class=cl>        <span class=n>annual_total</span> <span class=o>=</span> <span class=n>df</span><span class=o>.</span><span class=n>loc</span><span class=p>[</span><span class=n>df</span><span class=o>.</span><span class=n>index</span><span class=o>.</span><span class=n>year</span> <span class=o>==</span> <span class=n>year</span><span class=p>,</span> <span class=n>column</span><span class=p>]</span><span class=o>.</span><span class=n>values</span><span class=p>[</span><span class=mi>0</span><span class=p>]</span>
+</span></span><span class=line><span class=cl>        <span class=n>monthly_total</span> <span class=o>=</span> <span class=n>monthly_df_year</span><span class=p>[</span><span class=n>column</span><span class=p>]</span><span class=o>.</span><span class=n>sum</span><span class=p>()</span>
+</span></span><span class=line><span class=cl>        <span class=n>normalization_factor</span> <span class=o>=</span> <span class=n>annual_total</span> <span class=o>/</span> <span class=n>monthly_total</span>
+</span></span><span class=line><span class=cl>        <span class=n>monthly_df</span><span class=o>.</span><span class=n>loc</span><span class=p>[</span><span class=n>monthly_df</span><span class=o>.</span><span class=n>index</span><span class=o>.</span><span class=n>year</span> <span class=o>==</span> <span class=n>year</span><span class=p>,</span> <span class=n>column</span><span class=p>]</span> <span class=o>*=</span> <span class=n>normalization_factor</span>
+</span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=n>monthly_df</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=k>def</span> <span class=nf>upsample_stock_annual_to_month</span><span class=p>(</span><span class=n>df</span><span class=p>,</span> <span class=n>column</span><span class=p>):</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>    Upsample a stock variable (e.g., GovDebt) from annual to monthly frequency with linear interpolation.
+</span></span></span><span class=line><span class=cl><span class=s2>    &#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl>    <span class=n>monthly_df</span> <span class=o>=</span> <span class=n>df</span><span class=o>.</span><span class=n>resample</span><span class=p>(</span><span class=s1>&#39;ME&#39;</span><span class=p>)</span><span class=o>.</span><span class=n>asfreq</span><span class=p>()</span>
+</span></span><span class=line><span class=cl>    <span class=n>monthly_df</span><span class=p>[</span><span class=n>column</span><span class=p>]</span> <span class=o>=</span> <span class=n>df</span><span class=p>[</span><span class=n>column</span><span class=p>]</span><span class=o>.</span><span class=n>resample</span><span class=p>(</span><span class=s1>&#39;ME&#39;</span><span class=p>)</span><span class=o>.</span><span class=n>ffill</span><span class=p>()</span><span class=o>.</span><span class=n>interpolate</span><span class=p>(</span><span class=n>method</span><span class=o>=</span><span class=s1>&#39;linear&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>    
+</span></span><span class=line><span class=cl>    <span class=c1># Renormalize to ensure the year-end stock value is preserved</span>
+</span></span><span class=line><span class=cl>    <span class=k>for</span> <span class=n>year</span> <span class=ow>in</span> <span class=n>df</span><span class=o>.</span><span class=n>index</span><span class=o>.</span><span class=n>year</span><span class=o>.</span><span class=n>unique</span><span class=p>():</span>
+</span></span><span class=line><span class=cl>        <span class=n>month_end</span> <span class=o>=</span> <span class=sa>f</span><span class=s1>&#39;</span><span class=si>{</span><span class=n>year</span><span class=si>}</span><span class=s1>-12-31&#39;</span>
+</span></span><span class=line><span class=cl>        <span class=k>if</span> <span class=n>month_end</span> <span class=ow>in</span> <span class=n>monthly_df</span><span class=o>.</span><span class=n>index</span><span class=p>:</span>
+</span></span><span class=line><span class=cl>            <span class=n>monthly_df</span><span class=o>.</span><span class=n>loc</span><span class=p>[</span><span class=n>month_end</span><span class=p>,</span> <span class=n>column</span><span class=p>]</span> <span class=o>=</span> <span class=n>df</span><span class=o>.</span><span class=n>loc</span><span class=p>[</span><span class=sa>f</span><span class=s1>&#39;</span><span class=si>{</span><span class=n>year</span><span class=si>}</span><span class=s1>-12-31&#39;</span><span class=p>,</span> <span class=n>column</span><span class=p>]</span>
+</span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=n>monthly_df</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=k>def</span> <span class=nf>upsample</span><span class=p>(</span><span class=n>df</span><span class=p>,</span> <span class=n>column</span><span class=p>,</span> <span class=n>var_type</span><span class=o>=</span><span class=s1>&#39;flow&#39;</span><span class=p>):</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;&#34;&#34;
+</span></span></span><span class=line><span class=cl><span class=s2>    Upsample a variable from annual to monthly frequency.
+</span></span></span><span class=line><span class=cl><span class=s2>    
+</span></span></span><span class=line><span class=cl><span class=s2>    Args:
+</span></span></span><span class=line><span class=cl><span class=s2>    - df: Pandas DataFrame with annual data.
+</span></span></span><span class=line><span class=cl><span class=s2>    - column: The column name to upsample.
+</span></span></span><span class=line><span class=cl><span class=s2>    - var_type: Type of the variable (&#39;flow&#39; or &#39;stock&#39;).
+</span></span></span><span class=line><span class=cl><span class=s2>    
+</span></span></span><span class=line><span class=cl><span class=s2>    Returns:
+</span></span></span><span class=line><span class=cl><span class=s2>    - A DataFrame with monthly frequency.
+</span></span></span><span class=line><span class=cl><span class=s2>    &#34;&#34;&#34;</span>
+</span></span><span class=line><span class=cl>    <span class=k>if</span> <span class=n>var_type</span> <span class=o>==</span> <span class=s1>&#39;flow&#39;</span><span class=p>:</span>
+</span></span><span class=line><span class=cl>        <span class=k>return</span> <span class=n>upsample_flow_annual_to_month</span><span class=p>(</span><span class=n>df</span><span class=p>,</span> <span class=n>column</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>    <span class=k>else</span><span class=p>:</span>
+</span></span><span class=line><span class=cl>        <span class=k>return</span> <span class=n>upsample_stock_annual_to_month</span><span class=p>(</span><span class=n>df</span><span class=p>,</span> <span class=n>column</span><span class=p>)</span>
+</span></span></code></pre></div><p>Now we can run dummy data tests:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=c1># Mock Up Dummy Example</span>
+</span></span><span class=line><span class=cl><span class=c1># Create a DataFrame with Annual Data for three years</span>
+</span></span><span class=line><span class=cl><span class=n>data</span> <span class=o>=</span> <span class=p>{</span>
+</span></span><span class=line><span class=cl>    <span class=s1>&#39;Date&#39;</span><span class=p>:</span> <span class=p>[</span><span class=s1>&#39;2021-12-31&#39;</span><span class=p>,</span> <span class=s1>&#39;2022-12-31&#39;</span><span class=p>,</span> <span class=s1>&#39;2023-12-31&#39;</span><span class=p>],</span>
+</span></span><span class=line><span class=cl>    <span class=s1>&#39;GDP&#39;</span><span class=p>:</span> <span class=p>[</span><span class=mi>24000</span><span class=p>,</span> <span class=mi>25000</span><span class=p>,</span> <span class=mi>26000</span><span class=p>],</span>  <span class=c1># Annual GDP in billions</span>
+</span></span><span class=line><span class=cl>    <span class=s1>&#39;GovDebt&#39;</span><span class=p>:</span> <span class=p>[</span><span class=mi>100000</span><span class=p>,</span> <span class=mi>110000</span><span class=p>,</span> <span class=mi>120000</span><span class=p>]</span>  <span class=c1># Government Debt in billions</span>
+</span></span><span class=line><span class=cl><span class=p>}</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=n>df_annual</span> <span class=o>=</span> <span class=n>pd</span><span class=o>.</span><span class=n>DataFrame</span><span class=p>(</span><span class=n>data</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=n>df_annual</span><span class=p>[</span><span class=s1>&#39;Date&#39;</span><span class=p>]</span> <span class=o>=</span> <span class=n>pd</span><span class=o>.</span><span class=n>to_datetime</span><span class=p>(</span><span class=n>df_annual</span><span class=p>[</span><span class=s1>&#39;Date&#39;</span><span class=p>])</span>
+</span></span><span class=line><span class=cl><span class=n>df_annual</span><span class=o>.</span><span class=n>set_index</span><span class=p>(</span><span class=s1>&#39;Date&#39;</span><span class=p>,</span> <span class=n>inplace</span><span class=o>=</span><span class=kc>True</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Upsample GDP (flow variable)</span>
+</span></span><span class=line><span class=cl><span class=n>df_monthly_gdp</span> <span class=o>=</span> <span class=n>upsample</span><span class=p>(</span><span class=n>df_annual</span><span class=p>[[</span><span class=s1>&#39;GDP&#39;</span><span class=p>]],</span> <span class=s1>&#39;GDP&#39;</span><span class=p>,</span> <span class=n>var_type</span><span class=o>=</span><span class=s1>&#39;flow&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Upsample GovDebt (stock variable)</span>
+</span></span><span class=line><span class=cl><span class=n>df_monthly_govdebt</span> <span class=o>=</span> <span class=n>upsample</span><span class=p>(</span><span class=n>df_annual</span><span class=p>[[</span><span class=s1>&#39;GovDebt&#39;</span><span class=p>]],</span> <span class=s1>&#39;GovDebt&#39;</span><span class=p>,</span> <span class=n>var_type</span><span class=o>=</span><span class=s1>&#39;stock&#39;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Combine the upsampled data</span>
+</span></span><span class=line><span class=cl><span class=n>df_monthly</span> <span class=o>=</span> <span class=n>pd</span><span class=o>.</span><span class=n>concat</span><span class=p>([</span><span class=n>df_monthly_gdp</span><span class=p>,</span> <span class=n>df_monthly_govdebt</span><span class=p>],</span> <span class=n>axis</span><span class=o>=</span><span class=mi>1</span><span class=p>)</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=c1># Display the monthly DataFrame</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=s2>&#34;</span><span class=se>\n</span><span class=s2>Monthly DataFrame with upsampled GDP and GovDebt:&#34;</span><span class=p>)</span>
+</span></span><span class=line><span class=cl><span class=nb>print</span><span class=p>(</span><span class=n>df_monthly</span><span class=p>)</span>
+</span></span></code></pre></div><p>Check the flow conservation law:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-python data-lang=python><span class=line><span class=cl><span class=n>gdp_check</span> <span class=o>=</span> <span class=n>df_monthly</span><span class=p>[</span><span class=s1>&#39;GDP&#39;</span><span class=p>]</span><span class=o>.</span><span class=n>resample</span><span class=p>(</span><span class=s1>&#39;YE&#39;</span><span class=p>)</span><span class=o>.</span><span class=n>sum</span><span class=p>()</span>
+</span></span></code></pre></div><hr><p>Older Check</p><ul><li>GDP = 3.59476 billion nzd.</li><li>Net GovDebt = 0.61829872 billion nzd or 17.2% of GDP.</li><li>Gross GovDebt = 1.18986556 billion or 33.1% of GDP.</li></ul><p>Check: From OECD and FRED:</p><ul><li>FRED <code>NZLGGXWDGG01GDPPT</code>: GovDebt (total) 31.9% of GDP.</li><li>OECD: Gross GovDebt (total) 59.59% of GDP.</li></ul><p>Unfortunately, the API for Treasury data is an excel spreadsheet 🤣.
 But I am glad I checked, since it looks like I had been using the
 wrong FRED series <code>DEBTTLNZA188A</code> instead of the series more in alignment
-with NZ Treasury which is <code>NZLGGXWDGG01GDPPT</code>.</p><p>It is probably a good thing what matters for MMT analysis is more the
+with NZ Treasury which is <code>NZLGGXWDGG01GDPPT</code>.</p><p>Given the way the GovDebt is published it is probably a good thing that
+what matters for MMT analysis is more the
 change in the GovDebt. Since the outstanding absolute debt is really just
-a price level effect, and we know the price level roughly from other data.
-Further, what matters is relative prices, price::wage ratio for necessary
-goods, and purchasing power, not the absolute price level.</p><h2 id=time-series-automation><a class=anchor href=#time-series-automation title='Anchor for: Time Series Automation.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Time Series Automation</h2><p>I thought it worthwhile automating a time series for the Real Deficit.
-It might be published somewhere, but repetition does not hurt.</p><h2 id=the-usa-case><a class=anchor href=#the-usa-case title='Anchor for: The USA Case.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The USA Case</h2><p>For empirical data input we have:</p><ol><li>MTSDS133FMS - Monthly Treasury Statement (Federal Surplus or Deficit)</li><li>PCEPI or CPI - Price indices for inflation adjustment.</li><li>Outstanding Debt Effect: the real deficit/surplus calculation should
+an <em>already established</em> price level effect, and we know the price level
+roughly from other data. Further, what matters is relative prices,
+price::wage ratio for necessary goods, and purchasing power, not the
+absolute price level.</p><h2 id=time-series-automation><a class=anchor href=#time-series-automation title='Anchor for: Time Series Automation.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Time Series Automation</h2><p>I thought it worthwhile automating a time series for the Real Deficit.
+It might be published somewhere else, but repetition does not hurt.</p><h2 id=the-usa-case><a class=anchor href=#the-usa-case title='Anchor for: The USA Case.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The USA Case</h2><p>For empirical data input we have:</p><ol><li>MTSDS133FMS - Monthly Treasury Statement (Federal Surplus or Deficit)</li><li>PCEPI or CPI - Price indices for inflation adjustment.</li><li>Outstanding Debt Effect: the real deficit/surplus calculation should
 account for how inflation erodes the real value of the existing .
 debt stock, not just the nominal deficit flow. We&rsquo;ll need:</li></ol><ul><li>Total outstanding government debt (we can use GFDEBTN from FRED).</li></ul><p>The FRED series ID&rsquo;s just given will let you run a USA analysis, but
 we are interested in the NZ analysis at Ōhanga Pai.</p><h2 id=the-nz-case><a class=anchor href=#the-nz-case title='Anchor for: The NZ Case.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The NZ Case</h2><p>I think we can fetch most stuff from the FRED, but if not the BIS portal
@@ -72,7 +368,7 @@ month. So the quarters I use are e.g.,</p><pre aria-label="Box containing code s
 </span></span><span class=line><span class=cl>    <span class=n>start_of_next_quarter</span> <span class=o>=</span> <span class=n>period</span><span class=o>.</span><span class=n>asfreq</span><span class=p>(</span><span class=s1>&#39;Q-JAN&#39;</span><span class=p>)</span><span class=o>.</span><span class=n>start_time</span> <span class=o>+</span> <span class=n>pd</span><span class=o>.</span><span class=n>DateOffset</span><span class=p>(</span><span class=n>months</span><span class=o>=</span><span class=mi>3</span><span class=p>)</span>
 </span></span><span class=line><span class=cl>    <span class=n>first_of_last_month</span> <span class=o>=</span> <span class=n>start_of_next_quarter</span> <span class=o>-</span> <span class=n>pd</span><span class=o>.</span><span class=n>DateOffset</span><span class=p>(</span><span class=n>months</span><span class=o>=</span><span class=mi>1</span><span class=p>)</span>
 </span></span><span class=line><span class=cl>    <span class=k>return</span> <span class=n>first_of_last_month</span>
-</span></span></code></pre></div><h4 id=problems><a class=anchor href=#problems title='Anchor for: Problems.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Problems</h4><p><strong>Problem 1.</strong><br>An immediate problem was that the BIS data set I choose did not look
+</span></span></code></pre></div><h3 id=problems><a class=anchor href=#problems title='Anchor for: Problems.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Problems</h3><p><strong>Problem 1.</strong><br>An immediate problem was that the BIS data set I choose did not look
 like the NZ government debt. It was some obscure banking composite. But
 it might be close to the series we ultimately want. So I had a go at
 using the OECD SDMX-JSON Rest-API.</p><p><strong>Problem 2.</strong><br>The OECD Gross GovDebt figures are ballpark 59% of GDP (2022), whereas
