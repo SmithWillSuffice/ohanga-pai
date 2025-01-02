@@ -91,6 +91,24 @@ are not bashing the garden variety working class stiff over the head with
 pseudo-woke carry-on. Intersectionality is good: there is no decent 
 social justice without working class justice.
 
+I had to add this:
+
+> BTW, I regard the proper tax driven currency story as the proper and 
+true story, and the truth matters. So you can placate an aggressive 
+marxist/socialist as much as you like by discussing commodity pegs, I have 
+no problem with that, but you are anti-socialist and anti-worker if you 
+peddle the false narrative of a pure commodity currency.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even in small localities. or feudal 
+cliques, where people literally transported metals or grains or whatever 
+around to intermediate trading of goods, it was still not a commodity 
+currency. It was a fancy poker chip. Everyone understood the debt/credit 
+relation, which is a scorepoint accounting unit relation.
+
+Don't make up white lies to placate lefties, you do not _need_ to. If they 
+are good, honest kind people they'll sooner rather than later grok MMT.
+If they are not honest and wise then there's no point fibbing to them to 
+make them happier about MMT. Realpolitik notwithstanding.
+
 This is _also_ why the TYT network pivot to the alt-right is not going 
 to help. They may gain some right-wing rich funders, and help propagate 
 a pseudo class conscious plebian right-wing sympathy for the working class, 
