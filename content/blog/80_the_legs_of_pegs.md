@@ -14,7 +14,11 @@ This week I critique Bill Mitchell's initial framing of monetary systems
 on a recent 
 [Macro and Cheese podcast](https://www.youtube.com/watch?v=S5OLxWhtGgQ) 
 episode [#308](https://www.youtube.com/watch?v=S5OLxWhtGgQ).
-
+I’ll say this is not pendantry. Once you start trying to be friends with 
+dumb-dumb marxists by saying a State currency can be a commodity, or has 
+ever been a commodity, you feed the right-wing trolls who want to return to 
+a gold standard. Which is not gold currency, it is a currency peg. Big 
+difference. Let’s not even feed these trolls. 
 
 Although Bill doesn't know me from Adam, I am Internet pals with Grumbine 
 and appreciate his efforts at Real Progressive more than any other podcast 
@@ -25,7 +29,24 @@ Just depressed.
 I also **_fully realize_** in the court of leftiepol public opinion I am 
 probably the bad guy here. No one wants to know the state currency is a 
 simple public monopoly and has never in all history been a 
-"commodity currency".
+"commodity currency".  No one on the marxist left wants to know the K. Marx 
+analysis of “falling rate of profit” is a myth.  Although, one Socialist 
+youtuber got it right, in agreement, when I pointed this out: The real 
+falling rate of profit is simply ecological pressure. So yeah, Capitalism 
+eventually leads to declining rate of growth of profit in real terms. That’s 
+not even controversial. It does not mean profits reverse. It does not mean 
+nominal profits won’t increase forever. It means the rate of accumulation 
+of real profit slows. The rich still get richer, forever, if we do not 
+actively dismantle the injustices and energy sapping excesses of rapacious 
+capitalism. If we do dismantle the excesses of capitalism the rich may 
+still get forever richer. Fixing the ecological crises can, under some 
+scenarios (dystopian), enhance the power of the rich.
+
+There is no historical materialist law that dictates it will happen justly 
+without active agitation and pressure on governments to change policy. But 
+if the ecological systems are stressed enough, that social pressure is 
+inevitable, or we die. The logic Bro “out” is to bite the bullet: “Yeah, 
+w̶e̶ ̶w̶i̶l̶l̶ ̶a̶l̶l̶ some of you’s will die.” lol.
 
 I am not even being "edgy" here. I am merely being highly autistic, since 
 that's what I am. I am not out to generate clicks and Likes or Followers. 
@@ -47,13 +68,15 @@ and _has to go!_
 This is a tad too simplistic, but I define a commodity as something that 
 gets consumed or degraded for use in production.  Gold is a commodity 
 because when used in production it _very slowly_  disintegrates. The time 
-scale is so slow that it looks like a mere intermediate. But you cannot run 
-space technology radiation shielding without microscopic loss of 
-gold atoms. 
+scale is so slow that it looks like a mere intermediate.  But you cannot 
+run space technology radiation shielding without microscopic loss of gold 
+atoms, and without limiting use of gold for other technology. Such 
+properties never apply to a unit of account.
 
 Mere semantics you say? I say not. By the end of this essay I hope you 
-realize that is is class warfare against the working class to frame the 
-State monetary systems as _ever_ having been commodities money.
+realize that it is class warfare against the working class to frame the 
+State monetary systems as _ever_ having been “commodity money”. There is 
+no such thing!  Money is always an I.O.U of the issuer.
 
 I wrote this comment:
 
@@ -154,6 +177,9 @@ to destroy capitalism. If the State stands always ready to hire you for
 public purpose at a decent living wage, then you are no longer begging for 
 private sector employment, and you've undone Capitalism.
 
+A relatively painless procedure that the physician need not even issue a 
+sticking plaster for.
+
 You can still work for a boss if you like, many will, but it is now more
 voluntary. The private firm has to make things pretty nice for you to hire 
 you out of the public sector during your 9am to 5pm. Although, if public 
@@ -205,7 +231,7 @@ in puzzle solvers.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../81_razoring_wilkerson">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -213,6 +239,6 @@ in puzzle solvers.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../81_razoring_wilkerson">Razoring Wilkerson</a></td>
 </tr>
 </table>
