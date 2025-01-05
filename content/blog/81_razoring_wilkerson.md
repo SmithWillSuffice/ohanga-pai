@@ -61,13 +61,7 @@ basic income for the rich, is interest rate maintenance operations, but the
 natural rate of interest is ZERO (money at par). Trade imbalance is better 
 handled with a floating exchange rate, not by interest rate adjustments 
 (which are never clear in causal effects, owing to interest-usury and 
-interest-income  having precisely opposite effects on the rich and the poor).  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The only purpose of bonds _other_ than 
-basic income for the rich, is interest rate maintenance operations, but the 
-natural rate of interest is ZERO (money at par). Trade imbalance is better 
-handled with a floating exchange rate, not by interest rate adjustments 
-(which are never clear in causal effects, owing to interest-usury and 
-interest-income  having precisely opposite effects on the rich and the poor). 
+interest-income  having precisely opposite effects on the rich and the poor).
 
 
 ... as if I'm some sort of underground school teacher. Same as always. The 
