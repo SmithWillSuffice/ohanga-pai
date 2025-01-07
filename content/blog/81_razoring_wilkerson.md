@@ -84,14 +84,14 @@ seem to be planting grenades which like hot potatoes just get thrown back.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../80_the_legs_of_pegs">Next post</a></td>
+<a href="../82_bat_brics">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../78_normanator_disinvertigation">Legs of Pegs</a></td>
+<a href="../80_the_legs_of_pegs">Legs of Pegs</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../82_bat_brics">Bat BRICS</a></td>
 </tr>
 </table>

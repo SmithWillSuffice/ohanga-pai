@@ -1,7 +1,7 @@
 ---
 title: "The Legs of Pegs"
 weight: 81
-date: 2025-01-022
+date: 2025-01-02
 draft: false
 katex: true
 disableTitleSeparator : true
