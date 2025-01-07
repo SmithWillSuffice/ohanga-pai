@@ -1,6 +1,6 @@
 ---
 title: "Bat BRICS"
-weight: 82
+weight: 83
 date: 2025-01-04
 draft: false
 katex: true
@@ -19,29 +19,35 @@ this and offer corrections if you think any are needed.
 
 1. It does not matter what currency a government is forced to pay in, 
 since there is always a forex rate, even for some of the poorest nations. 
-The issue is how to make the swap to make the payment, not the currency unit.  
+The issue is how to make the swap to make the payment, not the 
+currency unit.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And the seller, generally a private sector agent motivated to sell, will most often make that exchange. 
 2. The issue is the fear of inflation — but when has a payment forced in 
 USD ever been inflationary? I can't see the mechanism for inflation only 
-because USD units are being demanded.
+because USD units are being demanded.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numeraires don't cause anything. 
-3. In any case, if exports are not strong inflation can get passed through 
-if imports are desired and the government supports imports. But in this 
+3. In any case, if exports are not strong then inflation can get passed 
+through if more imports are desired and the government supports more 
+imports at an increasing rate. It is the rate of increase in this case 
+(or import price hikes) that mostly effects inflation. But in this 
 case the imported inflation is not the weaponization of the dollar, but 
-your weak economy demanding more than it can itself supply.
+your weak economy demanding more than it can itself supply.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This falls under the heading 
-of _Deficiency of noon resident savings desires._ 
+of **_Deficiency of non resident savings desires._** 
 4. The USA can weaponize payments layers in many ways, it is through the 
-payments layer, not the currency unit, e.g., by refusing payments, 
-imposing preferential prices/penalties, etc. That's the actual 
-weaponization occuring. That's the proper case to make for say a BRICS 
-payment system.
+transport layer, not the currency unit, e.g., by refusing payments, 
+imposing preferential prices/penalties, blockades, etc. That's the actual 
+weaponization occurring. That's the proper case to make for say a BRICS 
+_transport_ system$^{}ddaggaer$, but you'll need a lot more than BRICS units. 
+Proper UN trade facilitation and dismantling and reforming the WTO to be 
+not a neoliberal attack dog.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**_However_** the US would have to interfere 
-with payments between others for that to be a benefit. This is only 
+with payments between others for the BRICS payments to be a benefit. This is only 
 significant for currency-users, not currency-issuers. So the USA really have 
-no power at all through payemtns layers to cripple any nation. Nations 
-get crippled by USA "dollar hegemnony" only because they do not understand 
-the power & purpose of their own currencies.
+no power at all through payments layers to cripple any nation, they don't 
+need to do it that way. Nations get crippled by USA "dollar hegemony" 
+only because they do not understand the power & purpose of their 
+_own_ existing currencies.
 5. Ultimately a seller of US goods with a US bank account will receive USD, 
 but you cannot call this weaponization! It is called "desiring a US bank account".
 6. You say, "But what about pass through inflation?" OK, but when has that 
@@ -59,15 +65,17 @@ compassion, solidarity, honesty, trustworthiness, wisdom. Armed with
 these spiritual tools the working class can advance and defeat oligarchy. 
 MMT adds to the critical Knowledge component of Wisdom.
 
+$^{}ddagger$Did someone just say "One Belt One Road"?
 
 ## For the Global South the Problem is not the Payments Layer
 
 This reminded me of when years ago some MMT activist wanted privacy 
 respecting payments systems. I told him the means already exist, such 
 as the 
-[GNU Taler](https://taler.net/) software (for online payments only, but 
-that's a huge downside). Full buyer anonymity${}^\dagger$. The seller is however 
-not private. This is by design, so they don't escape the NIPA accounting.
+[GNU Taler](https://taler.net/) software (for online payments only for now, 
+but that's not a huge downside). Full buyer anonymity${}^\dagger$. The 
+seller is however not private. This is by design, so they don't escape 
+the NIPA accounting.
 
 "But we have to protect anonymity of exploited workers like 
 prostitutes...," came the cry.
@@ -88,7 +96,7 @@ It is the same with the UBI crowd. Giant mind worms. Appeasing people
 with scorepoints they did not have to earn is fools gold. The 
 [parallel currency folks](http://www.chiemgauer.info/) are doing things 
 infinitely better --- they understand the _purpose_ of the tax-driven 
-currency system running on top. (Mini lesson: to deliberately create 
+currency system running on top. (Mini lesson: it is to deliberately create 
 unemployment, so the state can then get rid of the unemployment.) 
 As long as the State fails to fill the unemployment gap (same as spending 
 gap), a local parallel currency can always be successful in eliminating 
@@ -100,7 +108,7 @@ It removes the bad Marxist cobwebs of "the commodity form" which was
 always brain rot. This allows what is brilliant about Marxism to 
 shine brighter.
 
-$${}^\dagger$ (Up to NSA level belligerence in brute force reverse 
+${}^\dagger$ (Up to NSA level belligerence in brute force reverse 
 engineering the flows of funds & goods to infer buyer identity. But no 
 currency can protect you from that spy craft.)
 
@@ -119,8 +127,16 @@ sold in USD with your scorepoints in your bank account.
 But  even this misses the point. The dollar is just a numeraire. Anyone will 
 accept your currency for payment. The issue is how much you must give them 
 above the fair exchange rate. If you are in the black markets or dealing with 
-a real pice of sh1t monopolist, they might demand more than the fair 
+a real piece of sh1t monopolist, they might demand more than the fair 
 exchange rate.
+
+Back in the old days when you travelled it was always handy to have a few 
+USD bills in your wallet, since everyone accepted them. But how the hell 
+did you get those greenbacks? Goodness knows... right? You musta' run a 
+counterfeit press.  "Ye godz! Dollar hegemony!" 
+
+As I say, still goldbugs colonizing your minds. Even some MMT'ers who 
+should know better.
 
 **Comment (b).** Too many lefties are placing hope in freedom from the 
 "US controlled" payments systems and "US dollar hegemony". Both these 
@@ -135,18 +151,18 @@ nevertheless seem on that verge.
 They can always pay in their domestic currency. What seller is going to 
 refuse the sale?
 
-If the purpose was to simply prevent a poor nation form getting the goods, 
-that doe snot require some evil government control of the SWIFT system 
+If the purpose was to simply prevent a poor nation from getting the goods, 
+that does not require some evil government control of the SWIFT system 
 or anything else like it. The exporters just get told to not ship. No 
 payments layer is in sight.
 
 To think it is the payments system or the currency numeraire is to have 
 a colonized goldbug mindset. MMT should free you from this. 
 
-However, I cannot sop governments from being stupid and self-imposing 
+However, I cannot stop governments from being stupid and self-imposing 
 dollar hegemmony on their people. They do so all the time. They should be 
-corralled by the worker party and ridiculed to death with the Monty Python 
-joke weapon.
+corralled by the worker party and ridiculed and taunted to death with 
+the Monty Python joke weapon.
 
 
 ## A Kiwi Lesson
@@ -154,7 +170,7 @@ joke weapon.
 Little New Zealand told the US nuclear powered vessels to find somewhere 
 else to dump their waste. A few threats were promised. Nothing bad happened.
 Sure, New Zealand has no oil or lithium etc., so we're lucky.  But that's a 
-parochial perspective. Whatever shaky foundations the Unite Nations was 
+parochial perspective. Whatever shaky foundations the United Nations was 
 laid upon, the collective nations of the world do not have to sit back idly 
 while poor mineral rich countries continue being exploited. Even then, 
 where does the exploitation arise from? It is _not_ from the USA all alone, 
@@ -184,7 +200,7 @@ this as enough of a giant middle finger to the fake democracy
 of "electorialism".)
 
 
-## Further realpolitik
+## Further Realpolitik and Inflation of Name Tags
 
 The flip side of realpolitik you can have with MMT Lens understanding is 
 that it can work the other way against the hegemon. They cannot invade 
@@ -199,7 +215,8 @@ Damn stupid. What was the big rush to develop into a high tech sophisticated
 society? They were already more sophisticated than the USA apes. They just 
 didn't know it because Hollywood and all that carry-on which feeds the 
 world false ideology that to be sophisticated you need nice new whiteware 
-in your home and a smartphone.
+in your home, stocked with CocaCola, and these days own a 
+s̶t̶a̶t̶e̶ ̶a̶p̶p̶a̶r̶a̶t̶u̶s̶ ̶s̶u̶r̶v̶e̶i̶l̶l̶a̶n̶c̶e̶ ̶d̶e̶v̶i̶c̶e̶ smartphone.
 
 A nicer looking place to store your beer. Very sophisticated.
 
@@ -218,13 +235,70 @@ Cautionary Tale though.
 Pessimistically, that's how I see the BRICS when viewed only as an 
 escape from payments blocks by the US Treasury and/or Customs/Trade 
 agencies. Yes, the USA leadership and elites are like "the evil empire" 
-but there is still a lot of that greed and materialism going round. 
+but there is still a lot of that greed and materialism going round. It 
+occupies entire lifetimes of activism contributing to slowly stamping it 
+all out a tiny bite at a time. 
 
 Don't pin your hopes on the currency system. It is not the place 
 for justice. Make it so your MMT understanding frees people's minds to 
 focus on what really matters. Our collective power, not the scorepoints. 
 Once "the people" 
-[Reclaim the State](), the scorepoints.
+[Reclaim the State](https://www.plutobooks.com/9780745337326/reclaiming-the-state/), the scorepoints can be then used wisely, instead of how they 
+are used today. Will this happen in our lifetimes? I don't know, but I 
+see enough _de facto_ Accelerationism that I think it highly likely.
+
+I still don't know if that is good or bad. It's the Mother of All 
+Bandaid Rippings Off!  Each little hair torn off in the adhesive to 
+capitalism's blood clots is an innocent dead person.  So... yeah, probably 
+better to get it ripped off sooner than later. It is a confused metaphor 
+I know, I don't know what the wound and bandaid's are analogies for, you 
+can dream that up yourself. I'm thinking the wound is capital exploitation 
+of workers clearly, most of whom today do not even see themselves as 
+exploited. So there are other Bodily symptoms too, like depressions and 
+suicides and oxycontin epidemics.  If I was Cutrone I guess I'd say the 
+bandaid and Panadol is a dictatorship of the Proletariat?
+
+I did not think this essay would come to such a bloody end!
+
+I just wanted to warn friends to be careful in what they say about BRICS. 
+If you rant too much about the "US dollar collapsing" you risk looking 
+a fool and the Boy Who Cried Wolf. Or Chicken Little. I'm not sure which. 
+
+I guess the US dollar collapsing is Boy Who Cried Wolf, since _before_ 
+the US dollar collapses, the US government might just cease to exist 
+an hour earlier. I don't know how, but it'd be in the abstract. Like 
+the GOP somehow manage complete and utter fooling of a majority under 
+fake populism, and then whoever is in the Whitehouse just plays golf 
+forever and stuffs their face with fast food, while in secret leaving 
+the entire Sate apparatus over to Musk and Co. to run as a 
+lab experiment. 
+
+In that case the USD might come and go on a bi-yearly basis as they 
+figure out whether cryptotokens can be actual currency or not, and 
+whether the the US dollar scorepoints are not in fact already cryptotokens 
+(hint: they _are_ --- ever tried to crack a Bank? You'll need at least 
+Kali-Linux for that). 
+
+I've lost track of how many people, both left-wing and right-wing claim 
+"the US dollar will collapse". The lucky thing for them the 
+Boy Who Cried Wolf parable is no longer modern era applicable. The media 
+is not holding the alt-media or the media to account for bad calls. Or when 
+they do, CNN style, it's always "We said a lie, but when on air guys, just 
+say it was miss-reporting." 24 hours later all is not forgiven, it is just 
+not remembered.
+
+Having got that bit of cynicism off my chest, I am well aware I've taken 
+the fragile side, not the anti-fragile. So it is a bad move. It always 
+pays to be the doomsayer, since no one holds you to account if nothing 
+bad happens, but if something perchance bad happens you're the Nostradamus. 
+
+Having got that bit of cynical cynicism off my other chest, who is going 
+to attack me when it happens and say I was an idiot for not seeing the 
+US dollar collapse?  Luckily probably no one. It won't matter either, 
+since I do not own any investments. I'll just work as usual to get the 
+new government scorepoints even as those libertarians refuse to call 
+themselves "big government."  What are they? "Scientists and futurologists 
+of legal dispute resolutions and Ai driven tax credit scorepoint accounting."
 
 ---
 
@@ -235,8 +309,8 @@ I love the guy. But he's such a Doomer. It does not help to say,
 
 Normally I'd shoot myself for saying this, but sometimes, just sometimes, 
 it pays to be a pollyanna. Too much digging into ecological collapse 
-forecasts and Degrowth circles I think can lead to depression. But that's 
-a killer. I know. 
+forecasts and Degrowth circle groupthink, I think, can lead to 
+depression. But that's a killer. I know. 
 
 The 𝔣𝔘ℭ𝔎ℑ𝔑𝔊 right-wing ℭ𝔘𝔑𝔗𝔰 know how to wish their world into being, they 
 never suffer from depression. They just take action... by finding a new 
@@ -246,7 +320,7 @@ is useless. So take it, but don't hold onto it, pass it along.
 
 However, as someone prone to lifelong social anxiety and depression I know 
 it is not easy to have a pollyanna outlook. Heck, why _do_ I? Everything in 
-your heart & soul begs you to be an honest realist. It think it is like 
+your heart & soul begs you to be an honest realist. I think it is like 
 the Jimmie Hendrix effect. You need to take drugs to just get 
 back to normal person mental state. The thing is, you just never fool 
 yourself into thinking you are **_not_** being a polyanna. That's the 
@@ -272,7 +346,7 @@ are already.
 One Tory 𖧳𖧥𖨚𖢧𖧥𖦪𖦧'𖨚 "collapse" is a working class stiffs daylight.
 
 But that's gedankepolitik for another day, and also fruitless speculation, 
-I only my family get to hear me rant about it.
+so only my family get to hear me rant about it.
 
 
 <table style="border-collapse: collapse; border=0;">
