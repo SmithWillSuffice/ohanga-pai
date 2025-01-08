@@ -15,7 +15,7 @@ be mainly making a critique from a dirtbag leftie perspective. Some folks who
 like the concept of BRICS might not appreciate this, but I hope you read 
 this and offer corrections if you think any are needed.
 
-**Short synopsis: (a tldr for the busy)**  
+**Short synopsis:**  
 
 1. It does not matter what currency a government is forced to pay in, 
 since there is always a forex rate, even for some of the poorest nations. 
@@ -33,7 +33,7 @@ imports at an increasing rate. It is the rate of increase in this case
 case the imported inflation is not the weaponization of the dollar, but 
 your weak economy demanding more than it can itself supply.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This falls under the heading 
-of **_Deficiency of non resident savings desires._** 
+of **_Deficiency of non resident savings desires_** (if one were to be writing a FED briefing. lol)
 4. The USA can weaponize payments layers in many ways, it is through the 
 transport layer, not the currency unit, e.g., by refusing payments, 
 imposing preferential prices/penalties, blockades, etc. That's the actual 
