@@ -109,7 +109,7 @@ deflation, while savings of the rich grow nominally compared to their costs.))
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../48_goldiblocks">Previous chapter</a></td>
+<a href="../48_goldiblocks">Previous post</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Blog</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">

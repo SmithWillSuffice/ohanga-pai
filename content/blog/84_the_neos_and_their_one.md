@@ -1,23 +1,19 @@
 ---
-title: "New New Zealand Management"
-weight: 84
-date: 2025-01-17
+title: The Neo's And Their One
+weight: 85
+date: 2025-01-31
 draft: false
 katex: true
 disableTitleSeparator : true
 toc: false
 ---
 
-We are the _Land of the Long White Managers_.
-
-
-A new substack account that promises to be goodness.
-[Morgan Edwards — New Economic Management](https://neweconomicmanagement.substack.com/)
-
-Just bookmarking it here for future.
-
-Of course, what Aotearoa really needs is Management by the Proletariat.
-
+```
+TODO:
+Had some thoughts about the Neolioberals and Fascism.
+Old story of how the former become the latter.
+New take on it?
+```
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
@@ -27,18 +23,18 @@ Of course, what Aotearoa really needs is Management by the Proletariat.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../82_bat_brics">Previous chapter</a></td>
+<a href="../83_nz_new_management">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../84_the_neos_and_their_one">Next post</a></td>
+<a href="../">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../82_bat_brics">Bat Brics</a></td>
+<a href="../83_nz_new_management">"New New Zealand Management"</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../84_the_neos_and_their_one">The Neo's And Their One</a></td>
+<a href="../">(TBD)</a></td>
 </tr>
 </table>

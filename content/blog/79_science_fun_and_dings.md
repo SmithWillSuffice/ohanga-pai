@@ -88,7 +88,7 @@ and groupthink dwarf into insignificance by comparison.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../78_normanator_disinvertigation">Previous chapter</a></td>
+<a href="../78_normanator_disinvertigation">Previous post</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">

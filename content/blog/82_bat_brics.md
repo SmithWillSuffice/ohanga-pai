@@ -357,18 +357,18 @@ so only my family get to hear me rant about it.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../81_razoring_wilkerson">Previous chapter</a></td>
+<a href="../81_razoring_wilkerson">Previous post</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../83_nz_new_management">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../79_science_fun_and_dings">Science Fun and Dings</a></td>
+<a href="../81_razoring_wilkerson">Razoring Wilkerson</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../83_nz_new_management">NZ New Managament</a></td>
 </tr>
 </table>

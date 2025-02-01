@@ -1,6 +1,6 @@
 ---
 title: "Macromodels IV --- IS-LM, part-3"
-weight: 11
+weight: 9
 date: 2024-12-09
 toc: true
 katex: true
@@ -72,7 +72,7 @@ the time and inclination to try all of these approaches.
 
 I think it is worthwhile running two methodologies,
 
-**Method-A.** Mean square errors on $(Y, r)$.
+**Method-A.** Mean square errors on $(Y, r)$ for various lags.
 
 **Method-B.** Granger cause: do the inputs Granger cause $(Y, r)$?
 
