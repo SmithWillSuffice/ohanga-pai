@@ -266,13 +266,13 @@ This is sad stuff upon editing before I hit "publish". Why so may cusswords? In
 a more civilized time I'd have written this piece with mild manner and utmost 
 politeness. But in a more civilized time there'd be no need to write this 
 essay. Also I am a mere mortal, and being above the fray is not a spiritual 
-luxury I can afford today. That is no excuse of course.. So fair warning 
+luxury I can afford today. That is no excuse of course. So fair warning 
 ok, cusswords will be typed. Don't like it? Stop reading. Yes I am writing
 in quite juvenile and puerile mode, but sorry folks, that's my mood 
 today. Today, despite my hopes Ōhanga Pai can be about spiritual 
 economics, today I do not feel like a Saint of MMT.
 
-My challenge to you if you are a nice polite person, then write this essay 
+My challenge to you if you are a nice polite person: write this essay 
 in our own words to convince a conservative. I've failed at the task.
 
 The long form would have been an essay about how people who think 
@@ -283,7 +283,7 @@ simple extrapolation.
 
 The tech bros are a weird fusion hybrid libertarian--fascist--technofeudalist--
 techno-monarchist lot. Point is, their politics are all over the place like 
-brain spew. That is because they are just banal self-serving hypocrits 
+brain spew. That is because they are just banal self-serving hypocrites 
 and idiots. But dangerous idiots. 
 
 Old Mike Norman (hardly the most woke or PC guy out there) called the 
@@ -326,7 +326,7 @@ it 𝖕𝖎𝖘𝖘𝖊𝖘 me off.
 
 Robert Sapolsky is indefensible. His story is, make no bones about it, 
 "we cannot possibly blame Elon and his fashy gamers" messing with government 
-systems since they simply had no choice in the matter. Poor them!
+systems since "they simply had no choice in the matter. Poor them!"
 
 In their worldview when the AI Singularity overlord arrives we will 
 welcome It with open arms because we have no other choice.
