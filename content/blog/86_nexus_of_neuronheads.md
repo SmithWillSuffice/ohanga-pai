@@ -312,7 +312,7 @@ for debate.
 People who think machines can think are nazi enablers. People who think 
 humans have no free will are nazi enablers. People who think humans have 
 no metaphysical soul are nazi enablers. Sam Harris might not be a 
-literal nazi, but he is a nazi enabler. Your liberal''s precious 
+literal nazi, but he is a nazi enabler. Your liberal's precious 
 Barak Obama --- dare I say it? Yes, a nazi enabler. 
 
 **Obama:**  "Bailed out Wall Street, just say 'thank you'.  For the rest 
