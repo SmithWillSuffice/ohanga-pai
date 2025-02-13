@@ -21,6 +21,8 @@ professor with that name), while not a nazi, is a nazi enabler, so is a nazi.
 By "nazi" here I mean mostly AI/tech nazi, but increasingly it seems 
 the generic usage is _apropo_.
 
+{{< tech_oligarch_overlord >}}
+
 ---
 
 Right. Got that off my chest. Now for the part I hope (in vain) nerds will 
@@ -331,7 +333,7 @@ systems since "they simply had no choice in the matter. Poor them!"
 In their worldview when the AI Singularity overlord arrives we will 
 welcome It with open arms because we have no other choice.
 
-Well, I am here to crudely tell you 𝔣𝔘ℭ𝔎 that you 𝔣𝔘ℭ𝔎ℑ𝔑𝔊 🅽🅰🆉🅸 ꕗꗇꕷꖡꗇ𐝥ꕒꕷ.
+Well, I am here to crudely tell you 𝔣𝔘ℭ𝔎 _that_ you 𝔣𝔘ℭ𝔎ℑ𝔑𝔊 🅽🅰🆉🅸 ꕗꗇꕷꖡꗇ𐝥ꕒꕷ.
 
 
 <table style="border-collapse: collapse; border=0;">
