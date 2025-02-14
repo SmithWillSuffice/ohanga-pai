@@ -17,7 +17,7 @@ the machines are not even thinking, so have zero intelligence.
 Behaviour is not intellect.
 
 Robert Sapolsky (an avatar for any free will deniers, including the 
-professor with that name), while not a nazi, is a nazi enabler, so is a nazi. 
+professor with that name), while not a nazi, is a nazi enabler. 
 By "nazi" here I mean mostly AI/tech nazi, but increasingly it seems 
 the generic usage is _apropo_.
 
@@ -60,7 +60,7 @@ point of this essay is closer to
 ## The Subthesis
 
 This one is not original, plenty of MMT'ers before me have pointed out 
-that is was the Versailles Treaty which caused hyperinflation (not the Weimar policy! it was imposed by the French Allies) --- as Keynes predicted
+that it was the Versailles Treaty which caused hyperinflation (not the Weimar policy! it was imposed by the French Allies) --- as Keynes predicted
 (_[The Economic Consequences of the Peace](https://en.wikipedia.org/wiki/The_Economic_Consequences_of_the_Peace)_). 
 The post WW-I hyperinflation was a result of war reparations, but that put 
 the willies up the next guy in power. Chanceller Brüning, who, 
@@ -84,7 +84,7 @@ then there is no doubt, your policies will be backwards with certainty.
 But the thing is, they can always ensure their people have enough 
 currency at the new price level, always. The problem is the political 
 disruption, not the financial side. It becomes a financial problem when 
-the government fails to re-gauge by issuing more currency. The Wiemar 
+the government fails to re-gauge by issuing more currency. The Weimar 
 government got it right, they issued more currency, by the truckloads. 
 Nevertheless, it was understandably highly disruptive. The currency 
 issuance was not the cause of the hyperinflation though, it was the 
@@ -99,10 +99,11 @@ German’s faced little other option but to default on the debt. In effect
 the Treaty of Lausanne was a like a default, but negotiated, and really 
 reversing the stupid Versailles Treaty.
 
-But the damage was already done, because they next guy in power had 
+But the damage was already done, because the next guy in power had 
 become so fearful of hyperinflation (for no good reason) he imposed 
-crushing austerity.  The next guy in power promised to reverse that 
-and Make Germany Great Again. The rest is history as they say.
+crushing austerity.  The next guy in power _after that_ promised to 
+reverse the austerity and Make Germany Great Again. The rest is history as 
+they say.
 
 Why was the austerity needless?
 
@@ -115,7 +116,7 @@ savagely murdered in a Holocaust.
 
 Inflation of a numeraire currency is not a financial problem, not ever! 
 The problem is political and class war related. The misunderstanding of 
-the nature of the Wiemar hyperinflation was the cause of the false mindset 
+the nature of the Weimar hyperinflation was the cause of the false mindset 
 that led to the austerity. The austerity was clearly unjust to many lumpen 
 proletariat in German, and this fueled Hitler’s rise to power. Aided by 
 one of the greatest ironies which plays out even today: 
@@ -144,11 +145,15 @@ this essay
 The point of the Weimar story is that neoliberal austerity economics 
 breeds working class resentment of the elites, and this sometimes can lead to 
 significant working class support for fascists. As we know, the fascist only 
-need about a solid 35% of the demos support. The fascists becomes seen 
+need about a solid 35% of the demos support. The fascist becomes seen 
 as their saviour. You can bleat all day long about how this is stupid 
 and self-destructive, and it is, but you cannot deny the workers are 
 correct in seeking a saviour. When the lampost is the only light around 
 you tend to look for your keys under it.
+
+Or consider Thomas Frank's _[What‘s the Matter with Kansas?](/ohanga-pai/images/)_.
+Labour Party, Greens, and Liberal partisan organizations 
+(fake progressives) have still not learned.
 
 In an orthogonal arena of politics there is a parallel in climate and 
 ecosystem catastrophe. When the liberals demand an end to coal mining 
@@ -160,7 +165,7 @@ that's _carts before horses._)
 Only MMT can tell you why it never needs to be “Jobs or the Environment” 
 but can with very simple policy be protection of jobs & the environment. 
 By “jobs” I mean fairly compensated spiritual endeavour, worthwhile 
-engagement in crafts trades and professions, not wage slavery.
+engagement in crafts, trades and professions, not wage slavery.
 
 Not to put too fine a point in it: Neoliberalism is a precursor to fascism. 
 We would not have Trump without Reagan on through Obama. We would not have 
@@ -318,7 +323,7 @@ literal nazi, but he is a nazi enabler. Your liberal's precious
 Barak Obama --- dare I say it? Yes, a nazi enabler. 
 
 **Obama:**  "Bailed out Wall Street, just say 'thank you'.  For the rest 
-of you folks on the street, we've run out of our own scorepoints folks, 
+of you folks on main street, we've run out of our own scorepoints folks, 
 sorry."
 
 IRL I am a pretty docile meek sort of peaceful dude, I never swear or 
