@@ -341,6 +341,7 @@ welcome It with open arms because we have no other choice.
 Well, I am here to crudely tell you 𝔣𝔘ℭ𝔎 _that_ you 𝔣𝔘ℭ𝔎ℑ𝔑𝔊 🅽🅰🆉🅸 ꕗꗇꕷꖡꗇ𐝥ꕒꕷ.
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -353,7 +354,7 @@ Well, I am here to crudely tell you 𝔣𝔘ℭ𝔎 _that_ you 𝔣𝔘ℭ𝔎�
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../87_the_last_mo-keynesian">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -361,6 +362,6 @@ Well, I am here to crudely tell you 𝔣𝔘ℭ𝔎 _that_ you 𝔣𝔘ℭ𝔎�
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../87_the_last_mo-keynesian">The Last Mo-Keynesian</a></td>
 </tr>
-</table>
+</table></table>

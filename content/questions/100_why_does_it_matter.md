@@ -350,7 +350,7 @@ We do not *need* to tax super rich people, we need to not have super rich people
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../027_without_government_no_unemployment">Previous Question</a></td>
+<a href="../028_the_handbook_of_extremist_mmt">Previous Question</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Q</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
@@ -358,7 +358,7 @@ We do not *need* to tax super rich people, we need to not have super rich people
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../027_without_government_no_unemployment">Without Unemployment</a></td>
+<a href="../028_the_handbook_of_extremist_mmt">Handbook of Extremist MMT</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">

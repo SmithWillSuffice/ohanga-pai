@@ -148,29 +148,30 @@ top of the heap.
 
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
-       <col span="1" style="width: 35%;">
-       <col span="1" style="width: 10%;">
-       <col span="1" style="width: 35%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../026_tradebackwards">Previous Question</a></td>
+<a href="../026_tradebackwards">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
-<a href="../">Back to Q</a></td>
+<a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../100_why_does_it_matter">Next Question</a></td>
+<a href="../028_the_handbook_of_extremist_mmt">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../026_tradebackwards">Trade Backwards</a></td>
+<a href="../026_tradebackwards">"Trade Backwards"</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../100_why_does_it_matter">Why MMT Matters</a></td>
+<a href="../028_the_handbook_of_extremist_mmt">The Handbook of Extremist MMT</a></td>
 </tr>
-</table>
+</table></table>
 
 
 
