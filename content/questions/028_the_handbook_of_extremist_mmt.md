@@ -22,7 +22,7 @@ case, the latter are all professional economists.
 MMT'ers are _not_ economists, they are legal realists and anthropologists, 
 despite whatever else they tell you.
 
-Gold has never been money, but the money has sometimes been made of gold.
+Gold has never been money, but the money has sometimes been made of gold.🤯
 
 Inflation is never a financial nor economic problem, the policy response 
 is the problem.
@@ -31,6 +31,18 @@ Inflation is an _effect_ not a cause.
 
 "Ballooning government deficits and debt" enable the non-government 
 sector to fly.
+
+"Living beyond our means and borrowing from China!" is what reactionary 
+conservatives feverishly type into social media streams all night to train 
+the LLM's. But it is also what well-educated progressives have no retort 
+or counter-response towards, which means we are all screwed and ruled over 
+by idiots.
+
+There are only about 1% of humans alive who are living beyond our means. 
+Unfortunately, when _they_ say, "We need to cut government spending because 
+we are living beyond out means!" the last clause is true.
+
+There will never be an AI Singularity with such LLM training texts.
 
 Left-wing politics is pro-worker, period. But so should be right-wing 
 politics: that the latter is not is a total moral disgrace.
@@ -54,11 +66,30 @@ When the government is "spending like a drunken sailor", the appropriate
 response is to shut-up and take their money.
 
 Inflation is a _de facto_ tax on hoarded wealth. Wait... where was the 
-aphorisms?  The aphorism is that Austrian School lunatics are not 
+aphorism?  The aphorism is that Austrian School lunatics are not 
 always wrong about everything, just about most things.
 
-Yes, oligarchs and their price mark-ups cause inflation, but it would not 
-occur with a wise government.
+Yes, oligarchs and their price mark-ups cause an undesirable form of 
+inflation through relative price adjustments, the harm is caused by 
+hysteresis in wage adjustments not by the inflation _per se_, but it 
+would not occur with a wise government.
+
+Never worry about inflation. Fully employ anyone willing to work for tax 
+credits, and give them the freedom to decide how to contribute to their 
+community if they do not despite public sector jobs.
+
+Never worry about private sector causes of inflation. Just don't allow 
+them.
+(This aphorism can only be aimed at a currency monopolist, not you or me, 
+if aimed at you or me it is a poisonous snake, in the sense of blame on 
+the victim for their inaction.)
+
+Political inaction from the demos is not the fault of the workers, they 
+are slaving to eat to survive. Any workers making just demands on their 
+government are heroes, superior to Captain American and Superman (but _only_ 
+because the latter two people are fictional🤣).
+
+One must sometimes give comic book geeks a comic... to learn MMT from. 
 
 Knowledge of MMT is not wisdom. MMT wisdom is knowing the fair and just 
 policy response available.
@@ -67,14 +98,27 @@ A wise government is by definition a strong government.
 
 A strong government does not need a large army to a first approximation, 
 because strength is in the love of the people. They will then rise to their 
-own defence, and their government's and in defence of other people of other 
+own defence, and their government's, and in defence of other people of other 
 nations, in un-numbered guerrilla ways if attacked.
 
 You people cannot rise to their own defence is you immiserate them through 
 an unemployed labour buffer scheme, or other fiscal austerity (and the rest).
 
+Cryptocurrency is a plan cooked up by compsci nerds to (sort of legally) 
+take money off silly people with their full consent. It is pretty ingenious. 
+But morally and ecologically repugnant, which means not all genius is good 
+to have.
 
+Full employment is not a conspiracy theory policy and CIA Op. 
+It is justice. The idea of a "job" however needs to be updated, to mean 
+any spiritual endeavour in a trade, craft, art or profession that serves 
+one's community.
 
+One (of sound mind and moral clarity) never compensates spiritual endeavour 
+with a pittance of a UBI.
+
+One should always _fully_  compensate spiritual endeavours if One is the 
+currency monopoly. There is no reason not to.
 
 
 
