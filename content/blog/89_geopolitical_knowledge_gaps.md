@@ -75,7 +75,7 @@ otherwise, which is ꕗꖹꝆꝆꕷꖾꕯꖡ.)
 
 We survive today because of oil. We cannot do without it near-term, 
 without oil the working class would tomorrow be living in darkness and 
-starvation. We can stop burning the stuff if the leftiepol engineering 
+starvation. We can stop burning the stuff if the engineers
 got cracking on building nuclear and geothermal power utilities. But this 
 cannot remove our modern dependence on oil. We need oil for chemical 
 feedstocks. Weaning off oil is not simple thing. The politics of oil will 
@@ -96,15 +96,17 @@ I wrote to India and Global Left:
 there is no such thing as a petrodollar. Not that it is the worst 
 myth of normie macroeconomics, but it isn't a good one either. What do you 
 even mean by the term for a start? We in New Zealand import over half our 
-oil, we mark-up the exporter's bank account in NZD. They convert to their 
-currency. Same for anyone. The Saudis desire USD because they do not 
-understand their own currency and desire extremely low taxes. With bare 
-minimum taxation they cannot use the riyal for domestic full employment 
-without incurring inflation risk. So they use the foreigners currency to 
+oil, we mark-up the exporter's bank account by having ours marked-down 
+in NZD. They convert to their currency. Same for anyone. The Saudis 
+desire USD because they do not understand their own currency and desire 
+extremely low taxes. With bare minimum taxation they cannot use the riyal 
+for domestic full employment without incurring inflation risk. So they 
+use the foreigners currency to 
 get imports etc. without politically intolerable inflation of riyal 
 denominated prices. But it is just a convoluted way to ensure 
-decent _real terms of trade_ but with all the overhead false psychology, 
-which is not good, and miss-fires people's geopolitical neurons. 
+decent _real terms of trade_ but with all the overhead false 
+psychology-of-money, which is not good, and miss-fires people's 
+geopolitical neurons. 
 
 I continued:  
 It distracts attention of activists from what US hegemony really derives 
@@ -192,8 +194,8 @@ innocuous and "innocent" does the Left harm, needlessly. It's not like
 demanding a purity test. I just don't want to hear any stupid 𖨚𖦙𖥣𖢧 from 
 people I respect and admire. 
 
-You know, because you need to prepare your heroes so when you meet them 
-they do not disappoint.
+You know, because you need to remotely prepare your heroes so when you 
+meet them they do not disappoint. I mam working on this for Neil Turok.
 
 [Hereabouts Yanis does a good take-down of cryptocurrency](https://youtu.be/YpR9tRtpz2k?t=190) 
 and libertarian general nonsense. But right at the end he slips in, 

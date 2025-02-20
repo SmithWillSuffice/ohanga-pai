@@ -25,6 +25,8 @@ despite whatever else they tell you.
 
 Gold has never been money, but the money has sometimes been made of gold.🤯
 
+Definition: Money is everywhere and always an I.O.U of the issuer.
+
 Nominal inflation is never a financial nor economic problem, the policy response 
 is the problem.
 
