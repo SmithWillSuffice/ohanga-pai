@@ -1,5 +1,5 @@
 ---
-title: "Nexus Of Neuronheads"
+title: "Nexus of Neuronheads"
 weight: 87
 date: 2025-02-12
 toc: true

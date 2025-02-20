@@ -17,6 +17,7 @@ about it is because the bit that is a lie is completely beside the point
 but will nevertheless be misconstrued by all and sundry potatoheads. In this 
 case, the latter are all professional economists. 
 
+
 ## Extremist MMT Aphorisms
 
 MMT'ers are _not_ economists, they are legal realists and anthropologists, 
@@ -24,10 +25,16 @@ despite whatever else they tell you.
 
 Gold has never been money, but the money has sometimes been made of gold.🤯
 
-Inflation is never a financial nor economic problem, the policy response 
+Nominal inflation is never a financial nor economic problem, the policy response 
 is the problem.
 
 Inflation is an _effect_ not a cause.
+
+Real inflation is a big frickin' problem, but has little to do with 
+nominal inflation. The two need not even be well correlated, and can easily 
+be anti-correlated over some time periods. That was not an aphorism, but 
+the note had to be made. The aphorism is that you comment your code, but 
+not so liberally that no one ever reads your code.
 
 "Ballooning government deficits and debt" enable the non-government 
 sector to fly.
@@ -121,6 +128,15 @@ One should always _fully_  compensate spiritual endeavours if One is the
 currency monopoly. There is no reason not to.
 
 
+---
+
+If I knew know what the human soul is, I'd be essentially like a god, and 
+would not be stuck here writing these extremist MMT aphorisms.
+
+If you say there is no soul, then you are _not even dumb_, though could 
+likely beat me at chess. Which tells you something about chess.
+
+(How did these aphorisms get onto this page dognabit!)
 
 
 
