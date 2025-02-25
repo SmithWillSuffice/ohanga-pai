@@ -181,8 +181,8 @@ one's own gain?
 (I'd be slightly more ok with the "Freud excuse" --- his daddy was a 
 total ℭ𝔘𝔑𝔗, or 90% ℭ𝔘𝔑𝔗, and instilled total ℭ𝔘𝔑𝔗 values in young Bill.
 Only 90% because the Gates neurons seem to have been trained on data 
-to realize taxes can be a good thing and not to fund government but because
-rich ℭ𝔘𝔑𝔗𝔰 are too damn ℭ𝔘𝔑𝔗-ridden.)
+to realize taxes can be a good thing and not in order to fund government 
+but because rich ℭ𝔘𝔑𝔗𝔰 are too damn ℭ𝔘𝔑𝔗-ridden.)
 
 
 ## More Tragedy from Yanis
@@ -273,6 +273,7 @@ anthropologists and weirdo dirtbags like myself). Such ignorance is one
 needless source of great suffering.
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -285,7 +286,7 @@ needless source of great suffering.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../90_ancient_fiscal_fissures">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -293,6 +294,6 @@ needless source of great suffering.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../90_ancient_fiscal_fissures">Ancient Fiscal Fissures</a></td>
 </tr>
-</table>
+</table></table>
