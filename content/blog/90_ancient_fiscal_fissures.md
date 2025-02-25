@@ -254,7 +254,7 @@ metal standard. The metal intrinsic value had to have been an impediment
 to trade efficiency I would think, not a bonus. It means people think 
 they desire the metal in the coin, but if the face value is higher the 
 metal is irrelevant, and in fact a big waste and inefficiency. Indeed, it 
-is an inherent instability. Did he Moghuls perhaps not realize this?
+is an inherent instability. Did the Moghuls perhaps not realize this?
 Seems so.
 
 It is interesting to note the 
@@ -268,8 +268,8 @@ amounted to well over half the output of a
 were paid in the well-regulated silver currency, and 
 [caused peasants and artisans to enter larger markets](https://en.wikipedia.org/wiki/Mughal_Empire#CITEREFAsherTalbot2006)."
 
-History goldbuuffer dude! Where dd the merchants get the tokens from in 
-the first place? Out their Mint 𖧥𖨚𖨚𖨚𖨚? 
+History goldbuffer dude! Where dd the merchants get the tokens from in 
+the first place? Out their Mint 𖧥𖨚𖨚𖠢𖨚? 
 
 Now, it is possible Ahkbar had some merchants mint the coins themselves, 
 but this is not clear, and I highly doubt it. The administration was known 
@@ -277,15 +277,15 @@ in high repute for excellent standardization, which means the officials
 likely closely controlled the minting. No one could get a reap of rupee 
 until the empire spent it.
 
-
 It is tragic: you have an MMT system but do not know it. How much 
 historic tragedy are we talking about now? It is not just 20th century 
 Neoliberalism causing collapse and crisis and unemployment.
 
 History records a "fiscal crisis". But it was not the lack of tax revenue 
 that was the problem, that was a symptom. The problem was over-extending 
-empire, and the need to protect trade route, because overwhelming for the 
-real resources available. 
+empire, and the need to protect trade routes, because of overwhelming 
+demand for the real resources available. Requiring extra metal resources 
+for the coins was a terrible mistake. Shoulda' used tally sticks Mr Ahkbar.
 
 When real supply is pressured, the revenues collapse. The tax revenue is 
 the _ex poste_ accounting evidence of a strong productive economy, it is 
