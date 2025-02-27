@@ -296,10 +296,11 @@ this I can have an abstract sense of optimism.
 
 ### The story in the other cases
 
-The above narrative is specific to certain initial conditions. To fully understand the 
-effect of the central bank power to set the interest rate *as they choose* we need to 
-consider other scenarios with different starting conditions. This is because how the 
-central bank voting decisions on setting the interest rate are very much determined 
+The above narrative is specific to certain initial conditions. To fully 
+understand the effect of the central bank power to set the interest 
+rate *as they choose* we need to consider other scenarios with different 
+starting conditions. This is because how the central bank voting decisions 
+on setting the interest rate are very much determined 
 by what conditions they observe.
 
 ```
@@ -309,42 +310,92 @@ CB sees sluggish economy, so lowers the IR (Japan!).
 
 ## Role of the Central Bank
 
-We should of course mention that the Central Bank is always a branch of government, 
-it is never independent. The nuance is that the central bankers do not get voted 
-into office, they are appointed by the politicians. So the electorate has to learn 
-to be a bit more wise and vote for politicians who will promise to appoint MMT economists 
-onto the central bank governing board, or even better than that, vote for people who 
-understand --- because they have lived it --- the weight of poverty, vote them onto 
+We should of course mention that the Central Bank is always a branch of 
+government, it is never independent. The nuance is that the central bankers 
+do not get voted into office, they are appointed by the politicians. So 
+the electorate has to learn to be a bit more wise and vote for politicians 
+who will promise to appoint MMT economists onto the central bank governing 
+board, or even better than that, vote for people who understand --- because 
+they have lived it --- the weight of poverty, vote them onto 
 the central bank board.
 
-It is vital that we think about not just our elected representatives, but also those 
-they are favourable to appointing. They extend the reach of democracy, but not if we 
-all ignore them!
+It is vital that we think about not just our elected representatives, but 
+also those they are favourable to appointing. They extend the reach of 
+democracy, but not if we all ignore them!
 
 In the USA it is no different. The bankers association elect the FED Boards, 
-but Congress is the authority making that rule, they can change it. I'd change it 
-so that every state Federal Reserve Bank has a board elected by the people in the 
-local state, not the bankers in that sate.
+but Congress is the authority making that rule, they can change it. I'd 
+change it so that every state Federal Reserve Bank has a board elected by 
+the people in the local state, not the bankers in that sate.
 
-In New Zealand we only have one central bank, so the RBNZ Board should be elected by 
-local government ballots: each local district gets to elect one member of the RBNZ.
-The nominees could be required to have some farming or banking experience, 
-but they do not *have* to be credentialed (at least I don't think, 
-they should be able to read and pass a test of honesty). 
-It is more important to have governors of the RBNZ who understand ordinary people, workers, 
-and the plight of the poor.
-The permanent hired staff at the RBNZ are quite capable of maintaining the payments 
-system. They do not need professors of economics telling them what to do with the software.
-They just need honest, diligent and caring people to keep them honest.
+In New Zealand we only have one central bank, so the RBNZ Board should be 
+elected by local government ballots: each local district gets to elect one 
+member of the RBNZ.  The nominees could be required to have some farming or 
+banking experience, but they do not *have* to be credentialed (at least I 
+don't think, they should be able to read and pass a test of honesty). 
+It is more important to have governors of the RBNZ who understand ordinary 
+people, workers, and the plight of the poor.
+
+The permanent hired staff at the RBNZ are quite capable of maintaining the 
+payments system. They do not need professors of economics telling them what 
+to do with the software.They just need honest, diligent and caring people 
+to keep them honest.
 
 
 ### The other MMT story
 
-The MMT view is that the interest rate has only second order effects on the economy, 
-and so the central bank should just get out of that game entirely, set a permanent 
-zero interest rate, and change their job descriptions to *guarantors of full employment*. 
-Or back off entirely from fiscal and monetary policy and simply run the payments 
+The MMT view is that the interest rate has only second order effects on 
+the economy, and so the central bank should just get out of that game 
+entirely, set a permanent zero interest rate, and change their job 
+descriptions to *guarantors of full employment*. Or back off entirely 
+from fiscal and monetary policy and simply run the payments 
 clearing system, and do proper regulation to shut down fraudulent banks.
+
+
+## The Case of Islamic Banking
+
+This is agood thing to know about in case your nation's Cetnreal Bank 
+starts claming it needs to rasie interest rates --- for whatever opurpose. 
+Because whaatever purpose they claim it is going to be fradulent. 
+
+In Islamic finace usury is 
+[forbidden by law](https://www.linkedin.com/pulse/islamic-banking-banks-dont-charge-interest-pratik-gaokar).
+
+You might then ask how do commrecial banks generate income for their 
+staff wages and operations costs?
+
+Islamic banks generate income through various Sharia-compliant methods 
+without charging interest. Here are the main ways Islamic banks make income:
+* Profit-Sharing Arrangements
+* Sale-Based Contracts
+* Service fees
+* Investment activities
+
+FOr the profit shairng, the [Mudarabah system](https://www.investopedia.com/terms/i/islamicbanking.asp) see the bank providing capital while the customer 
+manages the business. Profits are shared according to a pre-agreed ratio.
+
+With [Musharakah](https://islamic-banking.com/musharakah/) the bank and 
+customer jointly contribute capital and share profits and losses based on 
+their investment ratio.
+
+In [Murabahah operaitons](https://ijble.com/index.php/journal/article/download/266/287)] the bank purchases an asset and sells it to the customer at a 
+marked-up price, payable in installments.
+
+[Ijarah](https://aims.education/study-online/ijarah-in-islamic-banking/) is 
+similar to leasing, where the bank purchases an asset and rents it to the 
+customer.
+
+Islamic banks earn income through various fees and charges for services 
+like money transfers, account management, and advisory services.
+
+Banks also invest in Sharia-compliant securities and real estate to 
+[generate returns](https://www.linkedin.com/pulse/different-sources-fund-islamic-banks-hamze-dalha-1f).
+
+Wadiah Certificates are another income vehicle. Islamic banks may receive 
+bonuses from central banks for participating in Islamic investment programs.
+
+By using these methods, Islamic banks can generate profits without relying on interest-based transactions, adhering to Islamic principles while still 
+[operating as profit-making entities](https://www.sbp.org.pk/IB/FAQ.asp).
 
 
 <table style="border-collapse: collapse; border=0;">
