@@ -48,7 +48,7 @@ One needs strawmen or the like to make a crisp point sometimes.
 {{<political_spectra_a>}}
 
 OK, but if you insist on a one-dimensional curve for a cartoon, then at 
-least be minimally creative and been it a little.
+least be minimally creative and bend it a little.
 
 We can go Triangle spectrum.
 
@@ -145,6 +145,7 @@ I challenge you to come up with a better one that is manifest justice.
 
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -157,7 +158,7 @@ I challenge you to come up with a better one that is manifest justice.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../94_global_reserves_of_stupidity">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -165,6 +166,6 @@ I challenge you to come up with a better one that is manifest justice.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../94_global_reserves_of_stupidity">Global Reserves Of Stupidity</a></td>
 </tr>
-</table>
+</table></table>
