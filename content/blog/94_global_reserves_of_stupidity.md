@@ -15,16 +15,18 @@ government scorepoints people, used to clear payments. Nothing more. Banks
 do not lend the reserves, they can't, there is no software in place for 
 that operation (because that software would then be illegal). 
 
+{{<global_currencies>}}
+
 ## A Plea for Decolonizing Normie Minds
 
 Decolonize your mind Mountain Tui. I beg you. re: 
-<https://mountaintui.substack.com/p/amateur-hour> (a 999% good article, but 
+<https://mountaintui.substack.com/p/amateur-hour> (a 99.9% good article, but 
 with just a couple of terrible paragraphs of monetary nonsense).
 
 US＄ are not a global reserve currency, never have been, never will be. 
 Bretton-Woods is just a town in New Hampshire. But even in the 
 Bretton-Woods era it was only an agreement to maintain fixed fx w.r.t 
-the US$. Arguments get broken for pragmatic reasons all the time, for good 
+the US$. Agreements get broken for pragmatic reasons all the time, for good 
 or bad, just look around!
 
 If you (government people) have domestic unemployment, then your obligation 
@@ -54,11 +56,23 @@ This drives horrifically regressive policy, and is one of the main causes
 of domestic unemployment, in every nation. Completely needless. We never 
 need the US$. We never have, and never will. 
 
+But because powerful idiots think they need the US$ we have a situation 
+where people think they also need the US$, even if they have zero USA 
+tax liabilities, debts, fees and fines — and even if they did, they could 
+pay those liabilities with NZ$.  I did, for chrissake, from a computer 
+in Wellington New Zealand, without a single US$ in sight when the 
+Louisiana State doofuses said I’d not paid enough tax when working as a 
+postdoc in Baton Rouge LSU.
+
 We do not need to offer a NZ Tsy bond at the US FED rate either. Why not? 
-Because we are not competing the the US＄ since we tax here only in NZ＄. 
+Because we are not competing with the US＄ since we tax here only in NZ＄. 
 Moreover, we (in Aotearoa) do not need to ever issue a single NZ TSy bond = 
 _basic income, but **only** for people who already have NZ＄ and in 
 proportion to how much NZ$ they already have._ 
+
+That our Government is offering free NZ$ to rich people is a disgrace. That 
+our RBNZ might follow the FED rate policy is just a rotten little prune on 
+top of a huge stinking pile of disgrace.
 
 Remember: The government debit is our credit. There is no government debt 
 that is ever "too high" nor a "burden on the grandkids" --- that is a 
@@ -79,12 +93,35 @@ currency. When they run out, what do you think will happen, fool?
 It is not going to be the wealthy hoarders and land owners crying at the 
 (otherwise unnecessary) unemployment queue.
 
+Also, it is truly remarkable how actual honest to the devil Empires have 
+collapsed throughout history because the emperors falsely believed they 
+were using a hard currency. The madness of gold & silver. Source of so many 
+(otherwise unnecessary) collapses of empire. Not to mention colonial horrors. 
+You might say, well, that was a good thing!"  Of course it _was_ a good 
+thing. The collapse, that is.  If you have emperor type systems you 
+certainly don't want someone ignorant heading the enterprise.
+
+However, since all emperors are stupid people${}^\dagger$, it is 
+a _fait accompli_ they 
+will cause a collapse. So even though ignorance never does anyoen any good, 
+you can try telling them they've really got a fiat currency under the hood, 
+but like the current USA Mars King and Clown King, that provably does not 
+increase their IQ. They already admit they have "magic omeny computers" 
+and yet they will still impose needless austerity.
+
+Their objective is not to help you. I mean _actively_ not help you. Which 
+means deliberately harm you.  Wake-up magaheads!
+
+${}^\dagger$"Military genius" is shorthand for "complete ꗇꕷꕷⱲꕯꘝꗍ of a 
+human being."  Just remember that every so-called "history book" you ever 
+read young kids.
+
 ---
 
 Unlike the neoreactionaries, I love the "normies". It is not a derogatory 
 word. I need them on our side, not on the side of the authoritarian 
 "strong man" (that means objectively "weak man" in normal parlance, 
-a strong government is **a)** not a man, and **(b)** one beloved by 
+a strong government is **(a)** not a man, and **(b)** one beloved by 
 their people).
 
 
@@ -206,7 +243,7 @@ not a thing.
 
 This is true: 
 
-> _""Unsurprisingly Trump is destroying a century of unprecedented soft and hard power for the USA."_
+> _"Unsurprisingly Trump is destroying a century of unprecedented soft and hard power for the USA."_
 
 that's part of the 999% good in Mountain Tui's very good article. It was in 
 the paragraph sequence.
@@ -271,16 +308,16 @@ This is half-funny:
 
 > _"Most Presidents were clued in enough to understand this."_
 
-Clued-in enough to believe the myth the USD was a global reserve currency".
+Clued-in enough to believe the myth the USD was a "global reserve currency".
 Mr Presidents of the world dudes!  Banks do not lend Reserves. 
 Furrcryinoutloud! I know a high IQ is not a prerequisite for political 
 office, nor should it ever be, but simple spiritual awareness is enough to 
-get to an understanding of the source of all unemployment. You'd want to 
-know if you have a single spiritual bone in your body.
+get to an understanding of the source of all unemployment. You'd _want to 
+know_ if you have a single spiritual bone in your body.
 
 This is half-funny:
 
-> _"It’s hard to imagine how we could find a more stupid and amateurish clown show on the road."_"
+> _"It’s hard to imagine how we could find a more stupid and amateurish clown show on the road."_
 
 Like I said at the start, it is no longer a mere clown show. It is professional 
 state sponsored terrorism, mostly directed at their own domestic population.
