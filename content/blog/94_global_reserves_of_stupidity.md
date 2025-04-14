@@ -7,7 +7,76 @@ draft: false
 katex: true
 ---
 
-We have enough reserves all right. 
+
+We have enough reserves all right.${}^\ast$
+
+${}^\ast$I mean "reserves of stupidity," but while I'm footnoting, let's 
+remind ourselves the central bank reserves are special purpose 
+government scorepoints people, used to clear payments. Nothing more. Banks 
+do not lend the reserves, they can't, there is no software in place for 
+that operation (because that software would then be illegal). 
+
+## A Plea for Decolonizing Normie Minds
+
+Decolonize your mind Mountain Tui. I beg you. re: 
+<https://mountaintui.substack.com/p/amateur-hour> (a 999% good article, but 
+with just a couple of terrible paragraphs of monetary nonsense).
+
+US＄ are not a global reserve currency, never have been, never will be. 
+Bretton-Woods is just a town in New Hampshire. But even in the 
+Bretton-Woods era it was only an agreement to maintain fixed fx w.r.t 
+the US$. Arguments get broken for pragmatic reasons all the time, for good 
+or bad, just look around!
+
+If you (government people) have domestic unemployment, then your obligation 
+is to break any agreement that is imposing the spending constraint. It is a moral 
+obligation. During Bretton-Woods regime it was the same, no nation _had_ to 
+tolerate unemployment. But they did. Why? It is because they did not understand 
+fiat currencies. A fiat currency can be pegged to the US$, or to gold, of 
+course, but that does not make it a hard currency, it makes it stupid. All 
+IOU's of governments (aka. tax credits) are soft currencies, always have 
+been, always will be.
+
+What is a Reserve anyway? It is an exchange settlement balance account 
+(of government scorepoints). Banks do not lend them. They can't, there is 
+no software operation for it (if there were it'd be illegal).
+
+No foreigner who is not resident in the USA ever needed a US＄. So why the 
+insatiable demand for US＄? It is because of false psychology. When people 
+falsely think of the US$ as a "global reserve currency," as if it _were_ 
+gold, they want it. You cannot stop them wanting the tax credit from the 
+other government, if they still think of it as convertible to gold, or 
+whatever (globally accepted by Visa?🤣). 
+
+Every nation's currency is global. (Have you not travelled recently?) 
+
+The problem is, the other governments also believe this lie about the US＄. 
+This drives horrifically regressive policy, and is one of the main causes 
+of domestic unemployment, in every nation. Completely needless. We never 
+need the US$. We never have, and never will. 
+
+We do not need to offer a NZ Tsy bond at the US FED rate either. Why not? 
+Because we are not competing the the US＄ since we tax here only in NZ＄. 
+Moreover, we (in Aotearoa) do not need to ever issue a single NZ TSy bond = 
+_basic income, but **only** for people who already have NZ＄ and in 
+proportion to how much NZ$ they already have._ 
+
+Remember: The government debit is our credit. There is no government debt 
+that is ever "too high" nor a "burden on the grandkids" --- that is a 
+nonsensical and inapplicable notion. The government debt should be higher 
+(the evidence being unemployment) and it should be more equitably 
+distributed (the evidence being we have no democracy).
+ 
+---
+
+Unlike the neoreactionaries, I love the "normies". It is not a derogatory 
+word. I need them on our side, not on the side of the authoritarian 
+"strong man" (that means objectively "weak man" in normal parlance, 
+a strong government is **a)** not a man, and **(b)** one beloved by 
+their people).
+
+
+## When Normies Go bad
 
 [This piece from Mountain Tui](https://mountaintui.substack.com/p/amateur-hour) 
 was 99% good. Unfortunately the 1% that was bad was truly bad. I put it in 
@@ -21,26 +90,37 @@ a Michael Myers horror, but one of those Charlie Kaufman things where it
 becomes real life.  I still hope to wake up from the nightmare myself.... any 
 minute now... any minute... oh for heavens sake!
 
+Anyway, I do not mean to dunk here on Mountain Tui, like I said 99% goodness.
+We cannot expect journalists to get the macroeconomics right 100% of the 
+time. The professionals do not get it right, so how can any decent journalist 
+get it right? The issue is that 1% of the time that myth can be truly 
+damaging for social discourses and social policy. This is not Mountain Tui's 
+fault. It is mainstream opinion.
+ 
+
 ## Bretton-Woods is Just a Town in New Hampshire Folks
 
-Why the hell does this matter so much?  Read on McDufus.
+Why the hell does this matter so much?  Read on McDoofus.
 
 I'm going to extract five consecutive paragraphs, perhaps the only bad 
 things in Mountain Tui's post. But they are exceptionally bad. I have nothing 
 against the author of course, pretty much everyone in mainstream discourse 
-everyone thinks the same.  However, extraordinary fashy times call for 
+thinks the same.  _Everyone._  However, extraordinary fashy times call for 
 extraordinary critical examination of mainstream political economy myths.
 
 Why? Because the normie liberal (mis)comprehension of monetary systems is 
-why we got to the fascist moment in the first place! No one seems to have 
-learned from post-Wiemar history.
+why & how we got to the fascist moment in the first place! No one seems to 
+have learned from post-Wiemar history. The trouble is, the only proper 
+history of post-Wiemar Germany is via the political historian who has 
+the MMT lens firmly superglued to the bridge of their nose.
 
-A lot of myths are false, and do us insidious  harm, insidious because the 
+A lot of myths are false, and do us insidious harm, insidious because the 
 harm caused is often unseen and invisible (which is to say, the burden of 
 the lowest of the lower class, which was not a burden made of their own 
 volition).
 
-Let's put under the microscope these seemingly very mainstream paragraph:
+Let's put under the microscope these seemingly very mainstream 
+paragraphs. First is,
 
 > _"\[The USA\] traditional status as the central currency of the world means 
 that most economies follow its lead on interest rates, it’s able to borrow 
@@ -77,6 +157,11 @@ Believing the lie is true does not make it true. It just makes our central
 bank policy look like the myth is true. If you believe in fairies and unicorns 
 it will look to observers like there are invisible fairies and unicorns 
 floating around your head. 
+
+## Politcal Leaders "Getting it"...  all backwards
+
+OK, ok, "all backwards" is a bit of an exaggeration, but allow me the 
+hyperbole for dramatix effect if you please.
 
 Here is another bad take:
 
