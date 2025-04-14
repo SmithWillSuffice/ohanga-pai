@@ -7,7 +7,6 @@ draft: false
 katex: true
 ---
 
-
 We have enough reserves all right.${}^\ast$
 
 ${}^\ast$I mean "reserves of stupidity," but while I'm footnoting, let's 
@@ -67,6 +66,19 @@ nonsensical and inapplicable notion. The government debt should be higher
 (the evidence being unemployment) and it should be more equitably 
 distributed (the evidence being we have no democracy).
  
+### Never Ask for a Hard Currency
+
+The issuer can run out of the commodity backing a hard currency. You 
+never want that thing. Maybe short-run, but then you are doing nothing 
+else but trading a commodity, and if on a spot price then currency 
+price is immaterial (literally).
+
+In politics you _seriously_ never want _your_ government using a hard 
+currency. When they run out, what do you think will happen, fool? 
+
+It is not going to be the wealthy hoarders and land owners crying at the 
+(otherwise unnecessary) unemployment queue.
+
 ---
 
 Unlike the neoreactionaries, I love the "normies". It is not a derogatory 
@@ -271,7 +283,7 @@ This is half-funny:
 > _"It’s hard to imagine how we could find a more stupid and amateurish clown show on the road."_"
 
 Like I said at the start, it is no longer a mere clown show. It is professional 
-state sponsored terrorism, mostly directed at their won domestic population.
+state sponsored terrorism, mostly directed at their own domestic population.
 
 
 <table style="border-collapse: collapse; border=0;">
