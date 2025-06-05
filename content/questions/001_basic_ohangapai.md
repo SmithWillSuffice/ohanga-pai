@@ -179,7 +179,7 @@ This chapter just runs through the basic monetary operations framework,
 which I refer to as the Mosler frame. There is a very important Realpolitik 
 frame for government bonds which I have deferred to the 
 [chapter after next](../004_bond_myths) on 
-[The Bond Myths —The Mitchel Frame](../004_bond_myths#the-mitchell-frame). 
+[The Bond Myths —The Mitchell Frame](../004_bond_myths#the-mitchell-frame). 
 It should be regarded as required reading.
 
 

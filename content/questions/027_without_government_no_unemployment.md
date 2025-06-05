@@ -11,10 +11,10 @@ katex: true
 ---
 
 There is this issue libertarian nut-cases and MMT'ers might agree upon in 
-crudest form: *without government there is no unemployment*. But MMT has a 
-very different perspective. We want a good government **_and_** we want full 
-employment, and we can in fact have both. It is a political choice, not a 
-whim of natural markets.
+crudest form: *without government there is no unemployment*. But MMT, while 
+in agreement,  has a very different perspective. We want a good 
+government **_and_** we want full employment, and we can in fact have both. 
+It is a political choice, not a whim of natural markets.
 
 The (correct) MMT statement is,
 
