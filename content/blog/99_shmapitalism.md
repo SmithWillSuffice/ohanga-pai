@@ -199,6 +199,7 @@ Accelerationism meltdown. Without MMT informed policy
 we will not be getting the good work done. Though I'd be happy to be wrong.
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -211,7 +212,7 @@ we will not be getting the good work done. Though I'd be happy to be wrong.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../100_defeating_materialism_is_defeating_neoliberalism">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -219,6 +220,6 @@ we will not be getting the good work done. Though I'd be happy to be wrong.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../100_defeating_materialism_is_defeating_neoliberalism">Defeating Materialism Is Defeating Neoliberalism</a></td>
 </tr>
-</table>
+</table></table>
