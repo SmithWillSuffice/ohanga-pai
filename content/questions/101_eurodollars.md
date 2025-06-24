@@ -1,11 +1,13 @@
 ---
-title: "Eurodollars"
+title: "Eurodollarize Your Cookiedollar"
 weight: 21
 date: 2025-06-23
 toc: true
 draft: false
 katex: true
 ---
+
+## To Convert or Not to Convert, Horatio?
 
 Much like Petrodollars, the Eurodollar system is widely misunderstood, and 
 not just by people who are not using it!
