@@ -342,27 +342,28 @@ We do not *need* to tax super rich people, we need to not have super rich people
 
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
-       <col span="1" style="width: 35%;">
-       <col span="1" style="width: 10%;">
-       <col span="1" style="width: 35%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../028_the_handbook_of_extremist_mmt">Previous Question</a></td>
+<a href="../101_eurodollars">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
-<a href="../">Back to Q</a></td>
+<a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next Question</a></td>
+<a href="../101_eurodollars">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../028_the_handbook_of_extremist_mmt">Handbook of Extremist MMT</a></td>
+<a href="../101_eurodollars">Eurodollars</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../101_eurodollars">Eurodollars</a></td>
 </tr>
-</table>
+</table></table>
 
