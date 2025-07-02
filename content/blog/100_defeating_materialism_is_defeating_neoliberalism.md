@@ -2,7 +2,7 @@
 title: "Defeating Materialism Is Defeating Neoliberalism"
 weight: 101
 date: 2025-06-05
-toc: true
+toc: false
 draft: false
 katex: true
 ---
@@ -181,6 +181,7 @@ something immaterial more, which money cannot buy, like genuine love.${}^\ddagge
 ${}^\ddagger$That's in the $\aleph_{\Omega}$ chapter of Marx.
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -189,18 +190,18 @@ ${}^\ddagger$That's in the $\aleph_{\Omega}$ chapter of Marx.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../99_shmapitalism">Previous post</a></td>
+<a href="../101_battle_of_the_quasi_kings">Previous post</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../101_battle_of_the_quasi_kings">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../99_shmapitalism">Shmapitalism</a></td>
+<a href="../101_battle_of_the_quasi_kings">Battle Of The Quasi Kings</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../101_battle_of_the_quasi_kings">Battle Of The Quasi Kings</a></td>
 </tr>
-</table>
+</table></table>
