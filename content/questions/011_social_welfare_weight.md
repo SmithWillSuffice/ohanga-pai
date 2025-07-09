@@ -163,6 +163,79 @@ I would say yes.
 
 {{<sp500_v_usgovdebt>}}
 
+But is there any causal relation here? You may ask, but onyl a bunch of statistics can answer, and will never reveal metaphysical causality. But if you care to use some tools, like Granger estimates, then below are some raw -p-vlaues for you to lick up.
+
+You can get the software for this from our git repo 
+<a href="../../EPRB_fermions.py" download>[here] sp500_v_usgovdebt.py</a>
+(you will need to grab a FRED API key).
+
+
+Does US Debt Granger-cause rising SPX?
+```
+Results for US_Debt Granger-causing SP500:
+Lag 1:
+  F-test p-value: 0.0000
+  Chi-squared p-value: 0.0000
+  --> Reject null hypothesis at 5% significance: US_Debt *does* Granger-cause SP500 at lag 1
+Lag 2:
+  F-test p-value: 0.0000
+  Chi-squared p-value: 0.0000
+  --> Reject null hypothesis at 5% significance: US_Debt *does* Granger-cause SP500 at lag 2
+Lag 3:
+  F-test p-value: 0.0000
+  Chi-squared p-value: 0.0000
+  --> Reject null hypothesis at 5% significance: US_Debt *does* Granger-cause SP500 at lag 3
+Lag 4:
+  F-test p-value: 0.0000
+  Chi-squared p-value: 0.0000
+  --> Reject null hypothesis at 5% significance: US_Debt *does* Granger-cause SP500 at lag 4
+Lag 5:
+  F-test p-value: 0.0000
+  Chi-squared p-value: 0.0000
+  --> Reject null hypothesis at 5% significance: US_Debt *does* Granger-cause SP500 at lag 5
+Lag 6:
+  F-test p-value: 0.0000
+  Chi-squared p-value: 0.0000
+  --> Reject null hypothesis at 5% significance: US_Debt *does* Granger-cause SP500 at lag 6
+```
+
+
+Testing if SP500 Granger-causes US Debt:
+```
+Results for SP500 Granger-causing US_Debt:
+Lag 1:
+  F-test p-value: 0.0000
+  Chi-squared p-value: 0.0000
+  --> Reject null hypothesis at 5% significance: SP500 *does* Granger-cause US_Debt at lag 1
+Lag 2:
+  F-test p-value: 0.0013
+  Chi-squared p-value: 0.0012
+  --> Reject null hypothesis at 5% significance: SP500 *does* Granger-cause US_Debt at lag 2
+Lag 3:
+  F-test p-value: 0.0204
+  Chi-squared p-value: 0.0178
+  --> Reject null hypothesis at 5% significance: SP500 *does* Granger-cause US_Debt at lag 3
+Lag 4:
+  F-test p-value: 0.1142
+  Chi-squared p-value: 0.1020
+  --> Fail to reject null hypothesis: SP500 does NOT Granger-cause US_Debt at lag 4
+Lag 5:
+  F-test p-value: 0.0799
+  Chi-squared p-value: 0.0673
+  --> Fail to reject null hypothesis: SP500 does NOT Granger-cause US_Debt at lag 5
+Lag 6:
+  F-test p-value: 0.0692
+  Chi-squared p-value: 0.0551
+  --> Fail to reject null hypothesis: SP500 does NOT Granger-cause US_Debt at lag 6
+```
+
+So a significant bias for US Gov Debt $\rightarrow$ SP500 health, with 
+a 4 to 6 month lag.
+
+If this does not seem intuitively obvious "about right" to you then you need to 
+**hastag Learn MMT**. 🤣
+
+
 
 
 ### Better Framing: Welfare as Economic Infrastructure
