@@ -172,7 +172,7 @@ I would say yes.
 But is there any causal relation here? You may ask, but onyl a bunch of statistics can answer, and will never reveal metaphysical causality. But if you care to use some tools, like Granger estimates, then below are some raw -p-vlaues for you to lick up.
 
 You can get the software for this from our git repo 
-<a href="../../EPRB_fermions.py" download>[here] sp500_v_usgovdebt.py</a>
+<a href="../../sp500_v_usgovdebt.py" download>[here] sp500_v_usgovdebt.py</a>
 (you will need to grab a FRED API key).
 
 
