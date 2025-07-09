@@ -1,6 +1,6 @@
 ---
 title: "Big Price Smoothies"
-weight: 16
+weight: 19
 description: ""
 date: 2023-05-26
 lastmod: 2023-05-26
@@ -229,7 +229,7 @@ is indeed a choice humanity has available.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../0023_shadow_banking">Previous chapter</a></td>
+<a href="../023_shadow_banking">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Q</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
@@ -237,7 +237,7 @@ is indeed a choice humanity has available.
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../0023_shadow_banking">Shadow Banking</a></td>
+<a href="../023_shadow_banking">Shadow Banking</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">

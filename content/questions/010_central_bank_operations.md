@@ -1,13 +1,8 @@
 ---
-title: "Central Bak Operations"
-weight: 10
-description: ""
+title: "Central Bank Operations"
+weight: 12
 date: 2019-12-11
-lastmod: 2024-10-24
-cover: ""
-coverAlt: ""
 toc: true
-tags: []
 katex: true
 ---
 

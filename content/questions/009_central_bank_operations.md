@@ -1,6 +1,6 @@
 ---
 title: "Central Bak Operations"
-weight: 9
+weight: 10
 description: ""
 date: 2019-12-11
 lastmod: 2024-10-24
@@ -151,7 +151,7 @@ the monetary system.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../008_fullemployment_and_pricestability">Previous chapter</a></td>
+<a href="../009_fullemployment_and_pricestability">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Q</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
@@ -159,7 +159,7 @@ the monetary system.
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../008_fullemployment_and_pricestability">Full Employment</a></td>
+<a href="../009_fullemployment_and_pricestability">Full Employment</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">

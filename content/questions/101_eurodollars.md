@@ -1,6 +1,6 @@
 ---
 title: "Eurodollarize Your Cookiedollar"
-weight: 21
+weight: 25
 date: 2025-06-23
 toc: true
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "The Handbook Of Extremist MMT"
-weight: 20
+weight: 23
 date: 2025-02-14
 toc: true
 draft: false

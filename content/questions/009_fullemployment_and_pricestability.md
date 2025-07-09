@@ -1,6 +1,6 @@
 ---
 title: "Full Employment and Stability"
-weight: 9
+weight: 11
 description: ""
 date: 2016-07-21
 lastmod: 2016-07-21
@@ -85,7 +85,7 @@ I tidied it up and $\LaTeX$ rendered for it, you can get it
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to Q</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../010_central_bank_operations">Next chapter</a></td>
+<a href="../009_central_bank_operations">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -93,7 +93,7 @@ I tidied it up and $\LaTeX$ rendered for it, you can get it
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../010_central_bank_operations">Central Bank Operations</a></td>
+<a href="../009_central_bank_operations">Central Bank Operations</a></td>
 </tr>
 </table>
 

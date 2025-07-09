@@ -1,6 +1,6 @@
 ---
 title: "Problems with 'Sovereignty' in the Periphery Nations"
-weight: 12
+weight: 15
 description: ""
 date: 2023-01-01
 lastmod: 2023-01-01
