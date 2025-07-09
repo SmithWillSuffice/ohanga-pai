@@ -17,7 +17,13 @@ Cretins running the government will likely mean terrible social policy,
 decent people running government will likely mean decent public policy.
 That is all there is to say.
 With an MMT lens --- the number of the numeraire figures in the 
-government budget not important --- the rest is fine print.
+government budget are not important --- what matters are real resource 
+allocations and policy for or against worker share of their output, the 
+rest is fine print.
+
+Obviously, if we are all total ꕗꗇꕷꖡꗇ𐝥ꕒꕷ the "right" policy is less 
+and less worker share of their own output, those lazy dogs, wtf aren't 
+they "saving up" like a proper civilized personage. 
 
 The framing of "social welfare as a dead weight" is one of the most deeply 
 ideological and poorly examined assumptions in mainstream (neoclassical) 
@@ -101,7 +107,7 @@ today.
 Let's spit put more of the crassness! Why not? The econ nerds gotta feed.
 
 Economists like James Galbraith, Mariana Mazzucato, and dumb-dumb 
-sociologist Guy Standing ---  none of whom understand MMT -- have 
+sociologist Guy Standing ---  none of whom understand MMT --- 
 have argued that:
 
 * Social spending creates future productivity by reducing precarity, 
