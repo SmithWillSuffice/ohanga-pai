@@ -153,6 +153,7 @@ ${}^\dagger$If tankies and ultranationalists disagree then I'm going to
 go with _well, that only helps prove my case._
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -165,7 +166,7 @@ go with _well, that only helps prove my case._
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../102_peekaboo_inflation_scare_mongering_prelude">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -173,6 +174,6 @@ go with _well, that only helps prove my case._
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../102_peekaboo_inflation_scare_mongering_prelude">Bogeyman Prelude</a></td>
 </tr>
-</table>
+</table></table>
