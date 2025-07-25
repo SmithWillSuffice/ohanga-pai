@@ -1,12 +1,16 @@
 <!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>MMT-ODES Working Models — I | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/200_00_mmtodes_working_models/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="MMT-ODES Working Models — I"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/200_00_mmtodes_working_models/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
-<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>MMT-ODES Working Models — I</h1><p>Published on <time datetime=2025-07-24>2025-07-24</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#methodology>Methodology</a></li><li><a href=#model-0>Model-0</a></li><li><a href=#getting-to-pro-models>Getting to Pro Models</a><ul><li><a href=#time-periods>Time Periods</a></li><li><a href=#fetching-data>Fetching Data</a></li></ul></li></ul></nav></details><p>In this series I am going to indulge in some pedagogy. We will show all
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>MMT-ODES Working Models — I</h1><p>Published on <time datetime=2025-07-24>2025-07-24</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#assumptions>Assumptions</a></li><li><a href=#methodology>Methodology</a></li><li><a href=#model-0>Model-0</a><ul><li><a href=#refinement---01>Refinement&mdash;0.1</a></li><li><a href=#remarks-on-mmm-0>Remarks on MMM-0</a></li><li><a href=#running-the-simulation>Running the Simulation</a></li></ul></li><li><a href=#mmm-1-----slightly-monetary>MMM-1 &mdash; Slightly Monetary</a></li><li><a href=#getting-to-pro-models>Getting to Pro Models</a><ul><li><a href=#time-periods>Time Periods</a></li><li><a href=#fetching-data>Fetching Data</a></li></ul></li></ul></nav></details><p>In this series I am going to indulge in some pedagogy. We will show all
 the mistakes and bugs (or at least one high-level view of them) &mdash; the
 purpose being educational. I make no claim to be an expert on macroeconomics
 modelling, so the models we develop should be in every case regarded as Toys.
 (But see <a href=#getting-to-pro-models>notes at the end</a>
 for what you might
-do to build a serious model kit.)</p><h2 id=methodology><a class=anchor href=#methodology title='Anchor for: Methodology.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Methodology</h2><p>The ODES is completely specified by a toml file. My software system
-automatically generates Julia sovlers for the toml. We get a cmdl version
+do to build a serious model kit.)</p><h2 id=assumptions><a class=anchor href=#assumptions title='Anchor for: Assumptions.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Assumptions</h2><p>Will will build up in complexity from a Sectoral Balance Model to eventually
+a full Credit&ndash;Debt monetary model.</p><ul><li>Government is the currency monopolist.</li><li>No geopolitics considerations.</li><li>Treat the <strong>MMT</strong> models as like a Weather system &mdash; nonlinear, so only
+short run simulations have any predictive meaning. Long-run simulations are
+&ldquo;not even <em>Economic Climate</em>&rdquo; since the government policy parameters will
+likely change.</li></ul><h2 id=methodology><a class=anchor href=#methodology title='Anchor for: Methodology.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Methodology</h2><p>The ODE System is completely specified by a toml file. My software system
+automatically generates Julia solvers from the toml. We get a cmdl version
 and a version that should work with a GUI (I use dearpygui for speed and
 the cool retro look).</p><p>Here is an example for a damped pendulum**:</p><pre tabindex=0><code class=language-tomlrm data-lang=tomlrm>model_name = &#34;pendulum&#34;
 
@@ -50,8 +54,122 @@ time_series = [&#34;theta&#34;, &#34;omega&#34;]
 [[plots.phase]]
 vars = [&#34;theta&#34;, &#34;omega&#34;]      # 2D plot
 aspect = [1.0, 1.0]        # Optional: scaling for x:y
-</code></pre><h2 id=model-0><a class=anchor href=#model-0 title='Anchor for: Model-0.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Model-0</h2><p>Description: The stupidest model I could think of, without any serious
-literature research.</p><h2 id=getting-to-pro-models><a class=anchor href=#getting-to-pro-models title='Anchor for: Getting to Pro Models.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Getting to Pro Models</h2><p>Just a quick note on what to do if you are a salaried professional, but
+</code></pre><p>You can ignore the plotting, I use a plotly script to post-process the
+results, but will not be teaching that today.</p><h2 id=model-0><a class=anchor href=#model-0 title='Anchor for: Model-0.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Model-0</h2><p><strong>Description:</strong> The stupidest model I could think of, without any serious
+literature research.</p><p>For our first Model we will start with a pretty crappy ODES, it is
+nothing more than a crude attempt to put some words into the form of ODE&rsquo;s.
+I literally did next to no thinking for this.</p><p><strong>MMM</strong> refers to Monetary Minsky Model. Although this one for starters
+does not have much money, we have no Godley Tables.</p><p>The toml spec. is:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>model_name</span> <span class=p>=</span> <span class=s2>&#34;mmm_model_0&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>parameters</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=nx>K</span> <span class=p>=</span> <span class=mf>100.0</span>              <span class=c># Total capital</span>
+</span></span><span class=line><span class=cl><span class=nx>nu</span> <span class=p>=</span> <span class=mf>2.5</span>               <span class=c># Capital-output ratio (Y = K / nu)</span>
+</span></span><span class=line><span class=cl><span class=nx>alpha</span> <span class=p>=</span> <span class=mf>0.02</span>           <span class=c># Productivity growth (A = A0 * exp(alpha * t))</span>
+</span></span><span class=line><span class=cl><span class=nx>N</span> <span class=p>=</span> <span class=mf>100.0</span>              <span class=c># Total labor force</span>
+</span></span><span class=line><span class=cl><span class=nx>J</span> <span class=p>=</span> <span class=mf>0.5</span>                <span class=c># JG share of buffer policy (0 = BI-only, 1 = JG-only)</span>
+</span></span><span class=line><span class=cl><span class=nx>J_u</span> <span class=p>=</span> <span class=mf>0.7</span>              <span class=c># JG wage as share of normal wage (u)</span>
+</span></span><span class=line><span class=cl><span class=nx>gamma</span> <span class=p>=</span> <span class=mf>0.05</span>           <span class=c># Phillips-like inflation responsiveness</span>
+</span></span><span class=line><span class=cl><span class=nx>i_G</span> <span class=p>=</span> <span class=mf>0.0</span>              <span class=c># Policy interest rate (govt)</span>
+</span></span><span class=line><span class=cl><span class=nx>i_S</span> <span class=p>=</span> <span class=mf>0.03</span>             <span class=c># Bank spread above govt rate</span>
+</span></span><span class=line><span class=cl><span class=nx>monopoly</span> <span class=p>=</span> <span class=mf>0.2</span>         <span class=c># Markup percentage on firm costs</span>
+</span></span><span class=line><span class=cl><span class=nx>theta</span> <span class=p>=</span> <span class=mf>0.1</span>            <span class=c># Sensitivity of inflation to utilization (Y / Y_max)</span>
+</span></span><span class=line><span class=cl><span class=nx>r_T</span> <span class=p>=</span> <span class=mf>0.25</span>             <span class=c># Effective tax rate</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>variables</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=nx>names</span> <span class=p>=</span> <span class=p>[</span><span class=s2>&#34;Pi&#34;</span><span class=p>,</span> <span class=s2>&#34;Y&#34;</span><span class=p>,</span> <span class=s2>&#34;u&#34;</span><span class=p>,</span> <span class=s2>&#34;lambda&#34;</span><span class=p>]</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>initial_conditions</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=nx>Pi</span> <span class=p>=</span> <span class=mf>1.0</span>
+</span></span><span class=line><span class=cl><span class=nx>Y</span> <span class=p>=</span> <span class=mf>50.0</span>
+</span></span><span class=line><span class=cl><span class=nx>u</span> <span class=p>=</span> <span class=mf>0.6</span>
+</span></span><span class=line><span class=cl><span class=nx>lambda</span> <span class=p>=</span> <span class=mf>0.9</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>equations</span><span class=p>.</span><span class=nx>auxiliary</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=nx>A</span> <span class=p>=</span> <span class=s2>&#34;exp(alpha * t)&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>K_r</span> <span class=p>=</span> <span class=s2>&#34;K * lambda&#34;</span>                  <span class=c># Capital used in regular sector</span>
+</span></span><span class=line><span class=cl><span class=nx>K_j</span> <span class=p>=</span> <span class=s2>&#34;K * (1 - lambda)&#34;</span>            <span class=c># JG sector gets remaining capital</span>
+</span></span><span class=line><span class=cl><span class=nx>Y_r</span> <span class=p>=</span> <span class=s2>&#34;K_r / nu&#34;</span>                    <span class=c># Regular sector output</span>
+</span></span><span class=line><span class=cl><span class=nx>Y_j</span> <span class=p>=</span> <span class=s2>&#34;J * (1 - lambda) * N * J_u * u * A&#34;</span>  <span class=c># JG sector output, scaled by JG wage</span>
+</span></span><span class=line><span class=cl><span class=nx>Y_total</span> <span class=p>=</span> <span class=s2>&#34;Y_r + Y_j&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nx>capacity_utilization</span> <span class=p>=</span> <span class=s2>&#34;Y / Y_total&#34;</span>  <span class=c># For inflation term</span>
+</span></span><span class=line><span class=cl><span class=nx>interest_rate</span> <span class=p>=</span> <span class=s2>&#34;i_G + i_S&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>equations</span><span class=p>.</span><span class=nx>ode</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=c># Price pressure from demand + monopoly power.</span>
+</span></span><span class=line><span class=cl><span class=nx>f_Pi</span> <span class=p>=</span> <span class=s2>&#34;gamma * (Y - Y_total) / Y_total + monopoly * u * A * lambda + theta * capacity_utilization + 0.5 * (1 - J) * (1 - lambda)&#34;</span>
+</span></span><span class=line><span class=cl><span class=c># Nominal output expands with productivity and labor</span>
+</span></span><span class=line><span class=cl><span class=nx>f_Y</span> <span class=p>=</span> <span class=s2>&#34;alpha * Y + u * A * lambda * N&#34;</span>
+</span></span><span class=line><span class=cl> <span class=c># Wage increases if labor market tight</span>
+</span></span><span class=line><span class=cl><span class=nx>f_u</span> <span class=p>=</span> <span class=s2>&#34;gamma * (lambda - 0.95) * u&#34;</span>
+</span></span><span class=line><span class=cl><span class=c># Adjust employment rate toward output-labor ratio</span>
+</span></span><span class=line><span class=cl><span class=nx>f_lambda</span> <span class=p>=</span> <span class=s2>&#34;0.1 * ((Y / (A * N)) - lambda)&#34;</span> 
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>tspan</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=nx>t0</span> <span class=p>=</span> <span class=mf>0.0</span>
+</span></span><span class=line><span class=cl><span class=nx>t1</span> <span class=p>=</span> <span class=mf>50.0</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>solver</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=nx>dt</span> <span class=p>=</span> <span class=mf>0.1</span>
+</span></span><span class=line><span class=cl><span class=nx>method</span> <span class=p>=</span> <span class=s2>&#34;Tsit5&#34;</span>
+</span></span></code></pre></div><p><strong>Notes:</strong><br>The model is structurally similar to a simple Goodwin model. We have, $\dot{u}$ (which is <code>f_u</code> in the spec. file), and $\dot{\lambda}$ (which is <code>f_lambda</code>)
+written in the Goodwin forms:
+$$
+\begin{align*}
+\dot{u} & = -c u + u f(\lambda) \\
+\dot{\lambda} & = a \lambda - \lambda g(u)
+\end{align*}
+$$</p><p><strong>Exercise: (Sanity Check)</strong> For a start, examine this model and check it
+makes sense. I do not even recall if I had all $\pm$ signs correct, so you
+can really treat this specification as total raw and ready for pounding.</p><p><strong>Exercise: (Asymptotics):</strong> Now check that appropriate asymptotic
+dependence is being modelled. Nothing should be &ldquo;blowing up&rdquo;. Note: the
+exponential grow for $A(t)$ is blowing up, but at a slow rate. You could
+replace the exponential with a sigmoidal function. Try this and see if the
+short run output significantly differs.</p><h3 id=refinement---01><a class=anchor href=#refinement---01 title='Anchor for: Refinement&mdash;0.1.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Refinement&mdash;0.1</h3><p>As an exercises, create your own model that adds an Investment
+function $I(t)$. From this we can use the price model which gives $\Pi$,
+so derive Savings and Investment in nominal terms. With no Foreign Sector
+yet (to come much later). Then in turn we will have a way to enforce
+Sectoral Balance.</p><p>In my Goodwin model from about a decade ago, I saw that I wrote an
+investment function. It used a depreciation parameter $\delta$, but this was
+not automatically guaranteeing sectoral balance consistent. So today I am
+trying a different way to get an investment function. Since $I$ is in the
+Sectoral Balance, we can simply make it a dependent variable. Drop the
+depreciation parameters $\delta$, and instead us a savings desires
+parameter $s$ (same thing, from a different point of view&mldr; well, roughly).
+I think this is advantageous, since savings desires are measurable, while
+depreciation is a dodgy parameter (possibly reasonably constant, but hard
+to quantify).</p><p>You recall what this is? <em>Sectoral balances always sum to zero.</em></p><span id=two_sector_balance>$$
+\text{(Two Sector Balance)} \quad (G-T) + (I - S) = 0.
+$$</span>
+Go ahead and wite a toml spec for this revised model.<pre aria-label="Box containing code sample." tabindex=0><code>TODO
+Investment function, and Savings.
+</code></pre><p>One option which increases to code complexity is to run a loop inside
+the solver to enforce Sector Balance. But a cleaner solution, I think,
+is to make one of the terms a dependent variable:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=p>[</span><span class=nx>parameters</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=nx>s</span> <span class=p>=</span> <span class=mf>0.2</span>    <span class=c># Savings desires</span>
+</span></span><span class=line><span class=cl><span class=c># ... other parameters as before</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>auxiliary</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=nx>I</span> <span class=p>=</span> <span class=s2>&#34;s * Y - (G - T)&#34;</span>
+</span></span><span class=line><span class=cl><span class=c># ... other auxiary functions as before</span>
+</span></span></code></pre></div><p>We&rsquo;re not finished, because we need to get $I$ into the ODE system.
+How would <em>you</em> do this?</p><p>I think that&rsquo;s it, I think, for MMM.0.1. Try and see if it compiles and runs.</p><hr><p><strong>Exercise:</strong> Have a think about the need for a Foreign Sector? Is there
+a need?</p><p>Hint: The MMT lens is perfectly good for &ldquo;highly macro&rdquo;, meaning we can
+have Two Sector Balance, just Government and Non-Government. What is the
+loss in using a Two Sector model?</p><p><strong>Reflections:</strong> In MMT unemployment is <em>defined</em> by:</p><blockquote><p><strong>(Unemployment)</strong> <em>People seeking to exchange their labour or goods
+for tax credits.</em></p></blockquote><p>But wat&mldr; that means we do not need a Foreign Sector. Foreigners needing our government scorepoints are unemployed in our currency, which is a waste
+of human lives (or at least some sort of dopiness needing elimination &mdash;
+maybe the Aussies borrowed some NZD off us, for whatever silly reason).</p><p>Unemployment of NZ dollars is pointless, so we can really regard foreigners
+as part of our economy, they are &ldquo;Kiwis who do not live in NZ and do
+not own NZ things.&rdquo; You can add, &ldquo;&mldr; and who do not pay NZ taxes.&rdquo;
+Big deal, whoop-dee-doo.</p><p>What&rsquo;s the downside then?</p><p>Obviously we will not have any iodea about international fincial flows,
+and FOREX and sop forth can be a source of parasitic wasteful human
+activity, so it might be nice to use a Three Sector model. But if we are
+not too worried about those flows, then we should not care.</p><h3 id=remarks-on-mmm-0><a class=anchor href=#remarks-on-mmm-0 title='Anchor for: Remarks on MMM-0.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Remarks on MMM-0</h3><h3 id=running-the-simulation><a class=anchor href=#running-the-simulation title='Anchor for: Running the Simulation.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Running the Simulation</h3><h2 id=mmm-1-----slightly-monetary><a class=anchor href=#mmm-1-----slightly-monetary title='Anchor for: MMM-1 &mdash; Slightly Monetary.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>MMM-1 &mdash; Slightly Monetary</h2><p>The next job is the modify MMM-0 to at least have some stock&ndash;flow
+consistency. We will do this by merely ensuring Sectoral balance.
+No banking needs to be developed.</p><p>This should actually be ok. The bankig system in part plays a vitalrole
+in clearing payments, but if we are not too concerned with household debt crises, then a simpel Sectoral Balance model shoul be ok for short run simualtions.</p><h2 id=getting-to-pro-models><a class=anchor href=#getting-to-pro-models title='Anchor for: Getting to Pro Models.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Getting to Pro Models</h2><p>Just a quick note on what to do if you are a salaried professional, but
 have no experience in building ODES models.</p><ol><li>Take the Toy model and add whatever features you think necessary for
 more realism, which will not be computational no-gos; and remove bits of
 the model you think are superfluous.</li><li>Fetch relevant real world data for the government of interest. My minimum
