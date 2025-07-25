@@ -1,11 +1,13 @@
 ---
-title: "Macromodels XL.0 --- Minsky"
-weight: 9
+title: "Macromodels XL.0 — Minsky"
+weight: 16
 date: 2024-12-09
 toc: true
 katex: true
 ---
 
+We covered ODES models in the 
+[MMT-ODES](../200_00_mmtodes_working_models) series of chapters.
 
 
 
