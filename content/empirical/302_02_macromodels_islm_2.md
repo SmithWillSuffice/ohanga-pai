@@ -637,19 +637,19 @@ The next thing is to run some scenarios and test the model.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../302_3_macromodels_islm_2">Previous chapter</a></td>
+<a href="../301_01_macromodels_islm_2">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../303_4_macromodels_islm_3">Next chapter</a></td>
+<a href="../303_03_macromodels_islm_3">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../302_3_macromodels_islm_2">MM—II, Intro</a></td>
+<a href="../301_01_macromodels_islm">MM—I, IS-LM</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../303_4_macromodels_islm_3">MM—IV, ISLM part-3</a></td>
+<a href="../303_03_macromodels_islm_3">MM—III, ISLM </a></td>
 </tr>
 </table>
 

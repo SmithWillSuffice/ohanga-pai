@@ -93,7 +93,7 @@ an MMT monetary economy.))
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../999_1_quantopian_phacks">Next chapter</a></td>
+<a href="../100_nzecon_i">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -101,7 +101,7 @@ an MMT monetary economy.))
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../999_1_quantopian_phacks">Quantopian Series</a></td>
+<a href="../100_nzecon_i">NZ ECON—I</a></td>
 </tr>
 </table>
 

@@ -505,19 +505,19 @@ to extinction of your species.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../300_1_macromodels_intro">Previous chapter</a></td>
+<a href="../300_00_macromodels_intro">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../302_3_macromodels_islm_2">Next chapter</a></td>
+<a href="../302_03_macromodels_islm_2">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../300_1_macromodels_intro">MM—I, Intro</a></td>
+<a href="../300_00_macromodels_intro">MM—0, Intro</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../302_3_macromodels_islm_2">MM—III, ISLM part-2</a></td>
+<a href="../302_03_macromodels_islm_2">MM—III, ISLM</a></td>
 </tr>
 </table>
 

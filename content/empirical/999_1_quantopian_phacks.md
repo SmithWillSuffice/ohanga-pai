@@ -181,28 +181,29 @@ using maximum values) and consider using a different type of hypothesis test,
 e.g., one that scores maximum values, not the medians or means.
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 10%;">
-       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../099_2_funds_flows">Previous chapter</a></td>
+<a href="../350_01_macromodels_lstm">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
-<a href="./">Back to</a></td>
+<a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next chapter</a></td>
+<a href="../">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../099_2_funds_flows">Funds Flow</a></td>
+<a href="../350_01_macromodels_lstm">Macromodels L.0 — LSTM</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
-<a href="./">TOC</a></td>
+<a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../">(TBD)</a></td>
 </tr>
-</table>
+</table></table>
 
 

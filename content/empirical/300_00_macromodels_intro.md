@@ -127,19 +127,19 @@ continues working.
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../099_2_funds_flows">Previous chapter</a></td>
+<a href="../299_mmtodes_working_models_IC">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../301_2_macromodels_islm">Next chapter</a></td>
+<a href="../301_02_macromodels_islm">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../099_2_funds_flows">Funds Flows</a></td>
+<a href="../299_mmtodes_working_models_IC">MMT Macro — IC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../301_2_macromodels_islm">MM—II, IS-LM</a></td>
+<a href="../301_02_macromodels_islm">MM—II, IS-LM</a></td>
 </tr>
 </table>
 
