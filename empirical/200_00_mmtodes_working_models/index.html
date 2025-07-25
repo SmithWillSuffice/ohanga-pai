@@ -1,0 +1,79 @@
+<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>MMT-ODES Working Models — I | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/200_00_mmtodes_working_models/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="MMT-ODES Working Models — I"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/200_00_mmtodes_working_models/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>MMT-ODES Working Models — I</h1><p>Published on <time datetime=2025-07-24>2025-07-24</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#methodology>Methodology</a></li><li><a href=#model-0>Model-0</a></li><li><a href=#getting-to-pro-models>Getting to Pro Models</a><ul><li><a href=#time-periods>Time Periods</a></li><li><a href=#fetching-data>Fetching Data</a></li></ul></li></ul></nav></details><p>In this series I am going to indulge in some pedagogy. We will show all
+the mistakes and bugs (or at least one high-level view of them) &mdash; the
+purpose being educational. I make no claim to be an expert on macroeconomics
+modelling, so the models we develop should be in every case regarded as Toys.
+(But see <a href=#getting-to-pro-models>notes at the end</a>
+for what you might
+do to build a serious model kit.)</p><h2 id=methodology><a class=anchor href=#methodology title='Anchor for: Methodology.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Methodology</h2><p>The ODES is completely specified by a toml file. My software system
+automatically generates Julia sovlers for the toml. We get a cmdl version
+and a version that should work with a GUI (I use dearpygui for speed and
+the cool retro look).</p><p>Here is an example for a damped pendulum**:</p><pre tabindex=0><code class=language-tomlrm data-lang=tomlrm>model_name = &#34;pendulum&#34;
+
+[parameters]
+mass = 1.0
+length = 1.0
+damping = 0.1
+g = 9.81
+
+[variables]
+names = [&#34;theta&#34;, &#34;omega&#34;]
+
+[initial_conditions]
+theta = 0.785398
+omega = 0.0
+
+[equations.auxiliary]
+# none for this model
+
+[equations.ode]
+# dy/dt = f(y, t)
+# Use Julia-like syntax here
+f_theta = &#34;omega&#34;
+f_omega = &#34;-damping * omega - (g / length) * sin(theta)&#34;
+
+[tspan]
+t0 = 0.0
+t1 = 100.0
+
+[solver]
+dt = 0.01
+method = &#34;Tsit5&#34;  # or &#34;DP5&#34;, &#34;RK4&#34;, &#34;Rodas5&#34;, etc.
+
+[plots]
+
+# Optional: restrict which time series to show (omit to show all)
+time_series = [&#34;theta&#34;, &#34;omega&#34;]
+
+# Optional: phase plots, list of variable pairs or triples
+# Each entry is a list of 2 or 3 variable names
+[[plots.phase]]
+vars = [&#34;theta&#34;, &#34;omega&#34;]      # 2D plot
+aspect = [1.0, 1.0]        # Optional: scaling for x:y
+</code></pre><h2 id=model-0><a class=anchor href=#model-0 title='Anchor for: Model-0.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Model-0</h2><p>Description: The stupidest model I could think of, without any serious
+literature research.</p><h2 id=getting-to-pro-models><a class=anchor href=#getting-to-pro-models title='Anchor for: Getting to Pro Models.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Getting to Pro Models</h2><p>Just a quick note on what to do if you are a salaried professional, but
+have no experience in building ODES models.</p><ol><li>Take the Toy model and add whatever features you think necessary for
+more realism, which will not be computational no-gos; and remove bits of
+the model you think are superfluous.</li><li>Fetch relevant real world data for the government of interest. My minimum
+set currently is: (1) Unemployment (U6); (2) wage share; (3) output,
+(4) price level (CPI is only a rough approximant). Then we need the policy
+parameters: (5) interest rates (at least two); (6) tax rate (effective average).</li><li>Use parameter fitting tools, like Monte Carlo nonlinear regressions to
+get fits to your other model parameters and structural constants.</li><li>Needless to say, if you fitting was for 2023-Q1 data, then your
+testing needs to be for 2024-Q1, and then your forecasting can be made
+for 2025-Q1.</li></ol><h3 id=time-periods><a class=anchor href=#time-periods title='Anchor for: Time Periods.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Time Periods</h3><p>I have no idea yet, but I think it&rsquo;d be unwise to run an MMT model for
+more than a quarter of the next year. But the idea would be the model has all
+four quarterly parameter adjustments. So we&rsquo;d be able to in a single
+run integrate the ODE for 12 months. Any longer is mere <strong>policy analysis</strong>
+(the &ldquo;what if&rsquo;s&rdquo;), not <strong>not forecasting</strong>.</p><h3 id=fetching-data><a class=anchor href=#fetching-data title='Anchor for: Fetching Data.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Fetching Data</h3><p>The USA is the best studied case, since the FRED have all the empirical data
+you would need to get a nice fit. Maybe also the EU as a whole? Maybe also
+the UK? But I have not looked into other nations. Fetching time series
+from the OECD and BIS portals can be automated, just not as smoothly as
+with the FRED.</p><p>For NZ I could not find good Treasury Statements except form the NZ Treasury
+XLS spreadsheets. StatsNZ is too cumbersome, and does not have the Treasury
+data in any convenient form I can find.</p><p>If you want to develop some neural net predictors in parallel with ODES
+models then banking sector data can be useful, but again our RBNZ does not
+have a seamless portal for fetching this data from what I can tell.</p><p>Part of the problem here is that I am only doing this as an unpaid
+volunteer, working &ldquo;for the community&rdquo; (I am my own boss, and I raise my
+pay by 100% every year). If some pro time were devoted to the effort then
+perhaps we could build a nice MMT data portal for NZ.</p><table style="border-collapse:collapse;border=0"><col span=1 style=width:20%><col span=1 style=width:20%><col span=1 style=width:20%><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../100_00_nzecon>Previous chapter</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=../>Back to</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../>Next chapter</a></td></tr><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../100_00_nzecon>NZ ECON — 0</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=../>TOC</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../>(TBD)</a></td></tr></table></article></main></div><footer><div class=req-js><button class=outline-dashed title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#adjust"/></svg></button><input class=outline-dashed type=color list=presets value=#1585d5 title="Change accent color." aria-label="Change accent color."><datalist id=presets><option value=#1f676b><option value=#1585d5><option value=#225670><option value=#dd587c><option value=#902b37><option value=#f3a530><option value=#754e85><option value=#7fc121><option value=#a8314a><option value=#ff7433><option value=#3e6728><option value=#c063bd><option value=#805080><option value=#9d629d><option value=#a064a0><option value=#7daa50><option value=#284531><option value=#285790><option value=#F5A83D><option value=#88aa33><option value=#015660><option value=#bf274e><option value=#bf4242><option value=#51b37c></datalist></div><noscript><p class=noscript>Unable to execute JavaScript. Some features were disabled.</p></noscript></footer><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.6950e59dbd8dfddd111390d85888bb5f9dc2e9c334da7ac1c3bacc92a695610d.css integrity="sha256-aVDlnb2N/d0RE5DYWIi7X53C6cM02nrBw7rMkqaVYQ0=" crossorigin=anonymous><script defer src=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.4268ce940bc6faa510d7b638acc3f08a63501d9504dd3155bfc48d6838ade320.js integrity="sha256-QmjOlAvG+qUQ17Y4rMPwimNQHZUE3TFVv8SNaDit4yA=" crossorigin=anonymous></script>
+<script defer src=https://smithwillsuffice.github.io/ohanga-pai/js/katex-custom-render.min.cdeaf561a454e015b169c385f95c72d57d41f906a9bc4100636b18e1e4c15da3.js integrity="sha256-zer1YaRU4BWxacOF+Vxy1X1B+QapvEEAY2sY4eTBXaM=" crossorigin=anonymous></script></body></html>
