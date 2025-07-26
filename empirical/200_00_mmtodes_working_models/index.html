@@ -1,5 +1,5 @@
 <!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>MMT-ODES Working Models — I | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/200_00_mmtodes_working_models/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="MMT-ODES Working Models — I"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/200_00_mmtodes_working_models/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
-<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>MMT-ODES Working Models — I</h1><p>Published on <time datetime=2025-07-24>2025-07-24</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#assumptions>Assumptions</a></li><li><a href=#methodology>Methodology</a></li><li><a href=#model-0>Model-0</a><ul><li><a href=#refinement---01>Refinement&mdash;0.1</a></li><li><a href=#remarks-on-mmm-0>Remarks on MMM-0</a></li><li><a href=#running-the-simulation>Running the Simulation</a></li></ul></li><li><a href=#mmm-1-----slightly-monetary>MMM-1 &mdash; Slightly Monetary</a></li><li><a href=#getting-to-pro-models>Getting to Pro Models</a><ul><li><a href=#time-periods>Time Periods</a></li><li><a href=#fetching-data>Fetching Data</a></li></ul></li></ul></nav></details><p>In this series I am going to indulge in some pedagogy. We will show all
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>MMT-ODES Working Models — I</h1><p>Published on <time datetime=2025-07-24>2025-07-24</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#assumptions>Assumptions</a></li><li><a href=#methodology>Methodology</a></li><li><a href=#model-0>Model-0</a><ul><li><a href=#refinement--01>Refinement&ndash;0.1</a></li><li><a href=#the-production-function-yk-l>The Production Function $Y(K, L)$</a></li><li><a href=#a-puzzle-----closing-the-ode>A Puzzle &mdash; Closing the ODE</a></li><li><a href=#refinement--02>Refinement&ndash;0.2</a></li><li><a href=#refinement--03>Refinement&ndash;0.3</a></li><li><a href=#remarks-on-mmm-0>Remarks on MMM-0</a></li><li><a href=#running-the-simulation>Running the Simulation</a></li></ul></li><li><a href=#mmm-1-----slightly-monetary>MMM-1 &mdash; Slightly Monetary</a></li><li><a href=#getting-to-pro-models>Getting to Pro Models</a><ul><li><a href=#time-periods>Time Periods</a></li><li><a href=#fetching-data>Fetching Data</a></li></ul></li></ul></nav></details><p>In this series I am going to indulge in some pedagogy. We will show all
 the mistakes and bugs (or at least one high-level view of them) &mdash; the
 purpose being educational. I make no claim to be an expert on macroeconomics
 modelling, so the models we develop should be in every case regarded as Toys.
@@ -59,77 +59,332 @@ results, but will not be teaching that today.</p><h2 id=model-0><a class=anchor 
 literature research.</p><p>For our first Model we will start with a pretty crappy ODES, it is
 nothing more than a crude attempt to put some words into the form of ODE&rsquo;s.
 I literally did next to no thinking for this.</p><p><strong>MMM</strong> refers to Monetary Minsky Model. Although this one for starters
-does not have much money, we have no Godley Tables.</p><p>The toml spec. is:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>model_name</span> <span class=p>=</span> <span class=s2>&#34;mmm_model_0&#34;</span>
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>parameters</span><span class=p>]</span>
-</span></span><span class=line><span class=cl><span class=nx>K</span> <span class=p>=</span> <span class=mf>100.0</span>              <span class=c># Total capital</span>
-</span></span><span class=line><span class=cl><span class=nx>nu</span> <span class=p>=</span> <span class=mf>2.5</span>               <span class=c># Capital-output ratio (Y = K / nu)</span>
-</span></span><span class=line><span class=cl><span class=nx>alpha</span> <span class=p>=</span> <span class=mf>0.02</span>           <span class=c># Productivity growth (A = A0 * exp(alpha * t))</span>
-</span></span><span class=line><span class=cl><span class=nx>N</span> <span class=p>=</span> <span class=mf>100.0</span>              <span class=c># Total labor force</span>
-</span></span><span class=line><span class=cl><span class=nx>J</span> <span class=p>=</span> <span class=mf>0.5</span>                <span class=c># JG share of buffer policy (0 = BI-only, 1 = JG-only)</span>
-</span></span><span class=line><span class=cl><span class=nx>J_u</span> <span class=p>=</span> <span class=mf>0.7</span>              <span class=c># JG wage as share of normal wage (u)</span>
-</span></span><span class=line><span class=cl><span class=nx>gamma</span> <span class=p>=</span> <span class=mf>0.05</span>           <span class=c># Phillips-like inflation responsiveness</span>
-</span></span><span class=line><span class=cl><span class=nx>i_G</span> <span class=p>=</span> <span class=mf>0.0</span>              <span class=c># Policy interest rate (govt)</span>
-</span></span><span class=line><span class=cl><span class=nx>i_S</span> <span class=p>=</span> <span class=mf>0.03</span>             <span class=c># Bank spread above govt rate</span>
-</span></span><span class=line><span class=cl><span class=nx>monopoly</span> <span class=p>=</span> <span class=mf>0.2</span>         <span class=c># Markup percentage on firm costs</span>
-</span></span><span class=line><span class=cl><span class=nx>theta</span> <span class=p>=</span> <span class=mf>0.1</span>            <span class=c># Sensitivity of inflation to utilization (Y / Y_max)</span>
-</span></span><span class=line><span class=cl><span class=nx>r_T</span> <span class=p>=</span> <span class=mf>0.25</span>             <span class=c># Effective tax rate</span>
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>variables</span><span class=p>]</span>
-</span></span><span class=line><span class=cl><span class=nx>names</span> <span class=p>=</span> <span class=p>[</span><span class=s2>&#34;Pi&#34;</span><span class=p>,</span> <span class=s2>&#34;Y&#34;</span><span class=p>,</span> <span class=s2>&#34;u&#34;</span><span class=p>,</span> <span class=s2>&#34;lambda&#34;</span><span class=p>]</span>
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>initial_conditions</span><span class=p>]</span>
-</span></span><span class=line><span class=cl><span class=nx>Pi</span> <span class=p>=</span> <span class=mf>1.0</span>
-</span></span><span class=line><span class=cl><span class=nx>Y</span> <span class=p>=</span> <span class=mf>50.0</span>
-</span></span><span class=line><span class=cl><span class=nx>u</span> <span class=p>=</span> <span class=mf>0.6</span>
-</span></span><span class=line><span class=cl><span class=nx>lambda</span> <span class=p>=</span> <span class=mf>0.9</span>
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>equations</span><span class=p>.</span><span class=nx>auxiliary</span><span class=p>]</span>
-</span></span><span class=line><span class=cl><span class=nx>A</span> <span class=p>=</span> <span class=s2>&#34;exp(alpha * t)&#34;</span>
-</span></span><span class=line><span class=cl><span class=nx>K_r</span> <span class=p>=</span> <span class=s2>&#34;K * lambda&#34;</span>                  <span class=c># Capital used in regular sector</span>
-</span></span><span class=line><span class=cl><span class=nx>K_j</span> <span class=p>=</span> <span class=s2>&#34;K * (1 - lambda)&#34;</span>            <span class=c># JG sector gets remaining capital</span>
-</span></span><span class=line><span class=cl><span class=nx>Y_r</span> <span class=p>=</span> <span class=s2>&#34;K_r / nu&#34;</span>                    <span class=c># Regular sector output</span>
-</span></span><span class=line><span class=cl><span class=nx>Y_j</span> <span class=p>=</span> <span class=s2>&#34;J * (1 - lambda) * N * J_u * u * A&#34;</span>  <span class=c># JG sector output, scaled by JG wage</span>
-</span></span><span class=line><span class=cl><span class=nx>Y_total</span> <span class=p>=</span> <span class=s2>&#34;Y_r + Y_j&#34;</span>
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl><span class=nx>capacity_utilization</span> <span class=p>=</span> <span class=s2>&#34;Y / Y_total&#34;</span>  <span class=c># For inflation term</span>
-</span></span><span class=line><span class=cl><span class=nx>interest_rate</span> <span class=p>=</span> <span class=s2>&#34;i_G + i_S&#34;</span>
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>equations</span><span class=p>.</span><span class=nx>ode</span><span class=p>]</span>
-</span></span><span class=line><span class=cl><span class=c># Price pressure from demand + monopoly power.</span>
-</span></span><span class=line><span class=cl><span class=nx>f_Pi</span> <span class=p>=</span> <span class=s2>&#34;gamma * (Y - Y_total) / Y_total + monopoly * u * A * lambda + theta * capacity_utilization + 0.5 * (1 - J) * (1 - lambda)&#34;</span>
-</span></span><span class=line><span class=cl><span class=c># Nominal output expands with productivity and labor</span>
-</span></span><span class=line><span class=cl><span class=nx>f_Y</span> <span class=p>=</span> <span class=s2>&#34;alpha * Y + u * A * lambda * N&#34;</span>
-</span></span><span class=line><span class=cl> <span class=c># Wage increases if labor market tight</span>
-</span></span><span class=line><span class=cl><span class=nx>f_u</span> <span class=p>=</span> <span class=s2>&#34;gamma * (lambda - 0.95) * u&#34;</span>
-</span></span><span class=line><span class=cl><span class=c># Adjust employment rate toward output-labor ratio</span>
-</span></span><span class=line><span class=cl><span class=nx>f_lambda</span> <span class=p>=</span> <span class=s2>&#34;0.1 * ((Y / (A * N)) - lambda)&#34;</span> 
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>tspan</span><span class=p>]</span>
-</span></span><span class=line><span class=cl><span class=nx>t0</span> <span class=p>=</span> <span class=mf>0.0</span>
-</span></span><span class=line><span class=cl><span class=nx>t1</span> <span class=p>=</span> <span class=mf>50.0</span>
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>solver</span><span class=p>]</span>
-</span></span><span class=line><span class=cl><span class=nx>dt</span> <span class=p>=</span> <span class=mf>0.1</span>
-</span></span><span class=line><span class=cl><span class=nx>method</span> <span class=p>=</span> <span class=s2>&#34;Tsit5&#34;</span>
+does not have much money, we have no Godley Tables.</p><p><strong>Exercise (a bad model):</strong> First have a look at
+<a href=../../files/bad_mmm_0.toml download>this toml file here</a>,
+and see if you can figure out why it is a bit dopey. Hint: the dynamical
+variables should be independent.</p><p><strong>Solution:</strong> Well, I did write that file, but I knew it was bad, because
+I did not think about it, and there might even be some dimensional
+inconsistencies. However, the thing which struck me next was that Price $P$
+labour $\lambda$, and wages $u$, determine output $Y$. So we can turn that
+ODES into a $(P, u, \lambda)$ model, I reckon. Just using a few definitions.</p><p><strong>Modifications:</strong> for pedagogical purposes I am going to display some
+toml files I&rsquo;ve not generated code for, you can bother about code
+generation, but I&rsquo;d counsel not to waste your time. This first chapter
+is just theory. We will get to some models we trust in theory enough to
+bother generating and running the code later on. &lsquo;and for this first fix
+we need some definitions.</p><p>The new toml spec. is:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>TODO</span>
 </span></span></code></pre></div><p><strong>Notes:</strong><br>The model is structurally similar to a simple Goodwin model. We have, $\dot{u}$ (which is <code>f_u</code> in the spec. file), and $\dot{\lambda}$ (which is <code>f_lambda</code>)
 written in the Goodwin forms:
-$$
+<span id=eq_GoodwinDesai_model>$$
 \begin{align*}
 \dot{u} & = -c u + u f(\lambda) \\
 \dot{\lambda} & = a \lambda - \lambda g(u)
 \end{align*}
-$$</p><p><strong>Exercise: (Sanity Check)</strong> For a start, examine this model and check it
+$$</span></p><p><strong>Exercise: (Sanity Check)</strong> For a start, examine this model and check it
 makes sense. I do not even recall if I had all $\pm$ signs correct, so you
 can really treat this specification as total raw and ready for pounding.</p><p><strong>Exercise: (Asymptotics):</strong> Now check that appropriate asymptotic
 dependence is being modelled. Nothing should be &ldquo;blowing up&rdquo;. Note: the
 exponential grow for $A(t)$ is blowing up, but at a slow rate. You could
 replace the exponential with a sigmoidal function. Try this and see if the
-short run output significantly differs.</p><h3 id=refinement---01><a class=anchor href=#refinement---01 title='Anchor for: Refinement&mdash;0.1.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Refinement&mdash;0.1</h3><p>As an exercises, create your own model that adds an Investment
-function $I(t)$. From this we can use the price model which gives $\Pi$,
+short run output significantly differs.</p><hr><p>In pedagogical spirit I thought we could proceed as follows:</p><ul><li>mmm-0.1 Add an investment function $\mathcal{I}(u)$, but using
+&ldquo;primitive debt&rdquo; (no accounting variables) but with a price level.</li><li>mmm-0.2 Try to enforce sectoral balance some way.</li><li>mmm-0.3 Add the banking sector and accounts, so we can model
+sectoral balances correctly, and debt &\ credit will be treated
+monetarily, instead of primitively.</li></ul><p>What do I mean by &ldquo;primitive credit/debt&rdquo;? I do not really know, it
+is just a model choice before we get the proper Godley tables. But I
+guess you can think of it in monetary terms, just without accounting
+records?</p><h3 id=refinement--01><a class=anchor href=#refinement--01 title='Anchor for: Refinement&ndash;0.1.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Refinement&ndash;0.1</h3><p>As an exercises, create your own model that adds an Investment
+function $I(t)$. From this we can use the price model which gives $P$,
 so derive Savings and Investment in nominal terms. With no Foreign Sector
 yet (to come much later). Then in turn we will have a way to enforce
-Sectoral Balance.</p><p>In my Goodwin model from about a decade ago, I saw that I wrote an
+Sectoral Balance. But what is sectoral balance with just a closed economy?
+What two sectors are there?</p><p>(Well, you can see where this must lead: in the later refinement we will
+need to include government variables, $(G, T, \tau_r, i_G)$ &mdash; for
+spending, tax return, tax rate, policy interest rate. Or some similar
+minimum set.)</p><p>In the one I develop next I will us <em>primitive debt.</em> And the model
+dynamic variables will be $(P, D, u, \lambda)$.</p><p>Or $(P, D, u, \lambda, A, N)$ for longer runs when productivity and
+population, $A(t)$, $N(t)$, advance.</p><p>Crucially, &ldquo;debt&rdquo; will be private debt (we&rsquo;re ignoring government for
+now, recall! &mldr; while we remove our toddlers wheels). This is bad of us.
+We will not have <code>mmm-1.0</code> until we get a government.</p><p><em>Rate of change of Debt</em> (flow) is Investment
+less Profits from sales,
+$$
+\frac{dD}{dt} = I - \Pi
+$$</p><p><strong>Profit equation:</strong> What about this? It will depend on sales less
+interest on debt and labour costs,
+$$
+\Pi = Y - w\cdot L - i_d\cdot D
+$$
+To avoid the pedants piling upon us, at this stage &ldquo;Labour&rdquo; means
+workers plus energy. But we&rsquo;re not going to worry for now about where
+energy comes from! It&rsquo;s &ldquo;free&rdquo;, maybe from the Sun. This is of course
+terrible modelling, since oil prices for starters are a huge source
+of price instability (not so much production, since the lights will
+still go on, you just increase the price, but maybe an add to
+unemployment if import energy prices go up). We&rsquo;ll say domestic energy,
+like food, is just part of output $Y$.</p><p>You can suppose there are primitive banks charging the interest
+$i_d$ fee.</p><h4 id=investment-curve-mathcali><a class=anchor href=#investment-curve-mathcali title='Anchor for: Investment Curve ($\mathcal{I}$).'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Investment Curve ($\mathcal{I}$)</h4><p>This is getting into some deep Keynes! But we can keep it simple.
+To model an upwards (Minsky) instability we want Debt to grow with
+investment if investment gets too wild, but we have that already. What
+we need next is an investment response function that depends on profit
+to the capitalist/investor class.</p><p><strong>Power Law Model:</strong><br>A prototype model is,
+<span id=eq_investment_func>$$
+\begin{equation}
+\mathcal{I}(\pi) = \frac{I}{Y} = \frac{a_i}{(b_i + c_i\cdot\pi)^{\gamma_i}} - d_i.
+\end{equation}
+$$</span>
+This defines the <em>reduced investment function</em> $\mathcal{I}$. In our simple
+model it is a function of a single variable, the <em>reduced profit rate</em>,
+$\pi$, defined by,
+<span id=eq_profit_reducedrate>$$
+\begin{equation}
+\pi = \frac{I}{Y} = \frac{\Pi}{\nu Y} = \frac{\Pi}{K}
+\end{equation}
+$$</p><p>That&rsquo;s a lot of new free parameters above in $\mathcal{I}$! But I have
+not found ways to
+derive investment&ndash;profit relations theoretically yet, so I will suck
+this up.</p><p>We probably should not regard the exponent $\gamma_i$ as a parameter,
+since the power law is a structural constant, which likely could be
+theoretically fixed by macroeconomics theory, no modelling or data
+fitting required, a lot like a critical exponent for phase transitions.
+But to my knowledge no one has ever done this, and probably no one ever
+needs to, since empirical uncertainty swamps most such nuances. We can
+take the exponent to be $\gamma_i = 2$, without too much debate.</p><p>But if you have any objection do let me know.</p><p><strong>General Exponential Model:</strong><br>As an alternative to the power law, we can use tamer asymptotics
+by using a General Exponential response function:
+<span id=eq_investment_genexp_func>$$
+\begin{equation}
+\text{GenExp}(x) \quad =
+(b - m) \exp\left[ \frac{s(x - a)}{b - m}\right] + m
+\end{equation}
+$$</span>
+I sometimes write this $\text{GenExp}(x; a,b,s,m)$ to emphasize the
+independent vaiable $x$ and the four parameters. The <em>function definition</em>
+(not the function itself) is a function of the parameters and $x$.
+What values of the constant four parameters you choose is a model decision.
+Both can be fit to empirical data.</p><p>You select the constants $(a,b,s,m)$ then you have yourself a particular
+function $\text{MyGenExp}(x)$.</p><p>We can use this general form for both Phillips curve and Investment
+function responses, since both are upwards curving monotonic functions
+of their single argument.</p><p>Even at this early stage you thus might wonder if we are not building
+a Ptolemaic Epicycles ODE system?</p><p>My defences is that we are not, provided the relations we model are
+based on real world institutional arrangements. It is not out fault in this
+regard that we are unaware of all the structural constants. But think about
+it! Political economy is not like the Weather or Celestial Mechanics, or even
+the carbon atom. It is far more complex, and human beings have socially
+constructed our economic systems with oodles of these parameters! All the
+multitude of parameters are in fact real. You can see how many there are by
+browsing the legal Statutes.</p><p>So we are in fact building a highly parsimonious model, becuas ee we
+will use far fewer arbitrary constants than there are in the real world
+macroeconomy. To a physicists, this is just one of the annoying things
+about macroeconomics. It&rsquo;s a hot mess of Rube&ndash;Goldberg knobs and dials.</p><p><strong>Capital Growth Function ($\Gamma$):</strong><br>Sometimes it is nicer to think of investment in terms of capital growth,
+$\Gamma$, which is <em>defined</em> as,
+<span id=eq_capital_growth_rate>$$
+\Gamma = \frac{\dot K}{K}
+$$</span>
+Introducing capital depreciation, $\delta$, a linear response function
+for this is,
+$$
+\Gamma = \frac{1-u}{\nu} - \delta
+$$
+You can also try a different nonlinear parameterization using two
+different constants, $\omega_K $ and $\bar{u}$, as follows
+$$
+\Gamma(u) = \omega_K \ln\left[ \frac{\bar{u} - u}{1 - u} \right] - \delta
+$$
+I got this one off <a href=https://www.sciencedirect.com/science/article/abs/pii/S0165188905001818 target=_blank>Desai et al (2006)</a>
+or try <a href=https://discovery.ucl.ac.uk/id/eprint/2575/1/2575.pdf target=_blank>pdf (here)</a>
+.</p><h4 id=price-function><a class=anchor href=#price-function title='Anchor for: Price function.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Price function</h4><p>The price level is determined by government, but
+before we try to get government into the model we can begin with a
+simpler mode of &ldquo;cost + markup&rdquo;. The markup uses a monopoly parameter,
+but expressed instead as a <em>monopolists share</em> parameter $\sigma$.
+The more the monopoly power, the more the markup, the less the wage
+share, the worker share being $(1-\sigma)$. For the
+rate of change we use a time constant, $\tau_P$.</p><p>How to use it? Well, wages $w$, and wage share is $u = w/A$. Equilibrium
+is when worker share equals wage share,
+$$
+(1-\sigma) P - u = 0
+$$
+so that will be proportional to $(1-\sigma) \dot{P}$ for deviations away
+from equilibrium. But what is the proportionality factor? Well, since $u$
+and $P$ are currency units, or at least implied to be so, we need to divide
+by a time period. This will be the out-of-equilibrium time constant, which
+is typically a year to six months adjustment, though it can be empirically
+fitted later if need be, so that&rsquo;s our parameter, $0.5 \le \tau_P \lt 1$.
+Putting this together,
+<span id=eq_price_markup_func>$$
+\begin{equation}
+\frac{dP}{dt} = \frac{1}{\tau_P}\left(\frac{u}{ 1- \sigma } - P\right)
+\end{equation}
+$$</span>
+Empirical studies might suggest $\sigma \approx 0.2$.</p><p><strong>Exercise ($\Delta P$ sign):</strong> You might wish to check the sign is
+correct. What happens if the capitalist takes everything?</p><p><strong>Capitalist takes all:</strong> $\Rightarrow$ $\sigma = 1$, and $\dot P \to +\infty$.
+Correct. That&rsquo;s easier to understand in reverse cause: if the price is
+set to $\infty$ the workers gets zilch. Of course this never happens
+because capitalists want to sell at least something.</p><p><strong>Worker takes all:</strong> $\Rightarrow$ $\sigma = 0$, implies the price was
+so low the workers could afford it all (this is all &ldquo;in the macro&rdquo; you
+appreciate, not a single firm or anything). Then what happens?<br><strong>When $u &lt; P$ :</strong> then there is downwards price pressure, due to workers
+unable to buy all the goods. Correct.<br><strong>When $u > P$ :</strong> the sales $P$ is a upwards price pressure, $\dot P > 0$,
+due to high effective demand from $u$. Correct again.</p><p>In a market economy with government the currency monopoly, the
+sectoral balance will be needed to get a proper price function. That&rsquo;s
+because it is government spending $G$ which sets the price level.
+We will leave this as a TODO later. (Especially because I&rsquo;ve never come
+across dynamical models where this has been taken into considerations, and
+I&rsquo;m still thinking about how best to model this.)</p><h4 id=phillips-curve-phi><a class=anchor href=#phillips-curve-phi title='Anchor for: Phillips Curve ($\Phi$).'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Phillips Curve ($\Phi$)</h4><p>Without explicit accounting systems, a Phillips Curve
+is practically necessary in the model because we need some way to enforce
+the constraint $0 \gt \lambda &lt; 1$. One way is to have a Phillips Curve
+$\Phi(u)$ which diverges at $\lambda = 1$. The conventional form is,</p><span id=eq_phillips_curve>$$
+\Phi(\lambda) = \frac{d}{(1 - \lambda)^\gamma} - c
+$$</span>
+A numerical problem with this form is that unlike an exponential, it
+requires careful tuning of the constants, since they have dimensions, so
+if you use arbitrary constants you risk ODE instability. That just means it
+can be a little painful trial and error to get good constants.<p>How does this asymptotics work? Well, we need one of the derivatives to
+also diverge at $\lambda = 1$. Which one? It is not going to be Debt or
+Output ($Y$) right? A finite $L=N$ number of workers cannot generate
+diverging output or debt for investors. Thus (in the present modelling) it
+has to be in $\dot u$, in the wage share.</p><p><strong>Warning!</strong> One thing computationally you need to worry about is if you choose
+a fractional $\gamma_p$, say $\gamam_p = 1.3$ and you do not have good
+asymptotics for $\lambda$, since of $\lambda > 1$ you will get a root of
+a negative number for the power law Phillips curve. While python can
+handle that, the usual solvers from numpy, scipy or gnuScienceLib probably
+do not work with complex functions, Julia would need a complex package,
+but in both languages this is unlikely to play well with your ODE solver.
+This is why $]\gamma_p = 2.0$ is &ldquo;numerically safe&rdquo; even if not perfectly
+empirically accurate.</p><p>If you scroll back, you see we already had this correct
+functional response in the wage share ODE $\dot u$,
+(<a href=#eq_GoodwinDesai_model>see above</a>
+) we just re-write it now using the
+more suggestive symbol $\Phi$ for $f$ (they&rsquo;re the same thing):
+$$
+\dot{u} = u \cdot\bigl( c - \Phi(\lambda) \bigr)
+$$</p><p><strong>Exercise:</strong> No need to write toml for this just yet, but have a think
+about what you need to change to introduce a Job Guarantee labour
+buffer?, hence full employment $\lambda = 1$ permanently. Hint: we still
+need to use the Phillips curve with that divergence, otherwise we have
+no buffer mechanics.</p><h4 id=employment-and-output><a class=anchor href=#employment-and-output title='Anchor for: Employment and Output.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Employment and Output</h4><p>Recall(?) these are not independent, so our model dynamical variables are
+either $(\lambda, u, P, D)$ or $(Y, u, P, D)$. I usually go for $\lambda$
+and think of output $Y$ as dependent on labour. But what is the substitution?</p><p>It is easiest for me to begin with a reasonable definition of output:
+$$
+Y = \lambda A N
+$$
+For <em>macroeconomics</em> that is a pretty hard & fast definition. Differentiating
+using the product and quotient rules, we see,
+$$
+\begin{align*}
+\frac{\dot Y}{Y} & = \frac{\dot \lambda}{\lambda} + \frac{\dot A}{A} + \frac{\dot N}{N} \\
+& = \frac{\dot \lambda}{\lambda} + \alpha + \beta\\
+\therefore\qquad \frac{\dot \lambda}{\lambda}& =
+\frac{\dot Y}{Y} - \alpha - \beta
+\end{align*}
+$$
+The second line there is a short run model $A(t)$and $N(t)$ where can be
+regarded as slow exponentials,
+so basically linear. We really want them sigmoidal, but in all honesty who
+knows where the inflexion point is? Even a linear function will suffice
+from an empirical fit 0&mdash; which is because we never inted to run our MMT
+models for more than a year or two. Why? I told you earlier: because it
+would be silly to do so, every bit as silly as using a two week weather
+forecast to extrapolate out to a year.</p><p>Anyhow, exponentials make it easier in this case since then
+$\dot{A}/A = \alpha$, the productivity growth rate. Same for
+$\dot N/N = \beta$, the population growth rate. Heck dude! You just manually
+tweak these year-to-year as census data comes in. What else are you going
+to do? Predict female birth propensity? Predict scientific innovation?
+(No, and No.)</p><p>Now looking back at the
+<a href=#eq_capital_growth_rate>capital growth rate</a>
+, $\Gamma$, and noting
+$Y = K/\nu$, we have $\dot Y/Y = \dot K/K$, hence can write,
+<span id=eq_goodwin_lambda_ode>$$
+\begin{align*}
+\frac{\dot \lambda}{\lambda} &= \Gamma(u) - \alpha - \beta \\
+\therefore\qquad \frac{d\lambda}{dt} &= \lambda\cdot\left(\Gamma(u) - \alpha - \beta\right)
+\end{align*}
+$$</span>
+Because we&rsquo;ve already defined $\Gamma(u)$ this is all, for now, for
+the $\lambda$ equation. Later refinements will come when we consider
+more complicated models.</p><h3 id=the-production-function-yk-l><a class=anchor href=#the-production-function-yk-l title='Anchor for: The Production Function $Y(K, L)$.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Production Function $Y(K, L)$</h3><p>The Leontief function is widely regarded as the simplest of the physically
+well-justified models, assuming $L$ is labour + energy. This beggars
+belief a bit, since energy adds to costs, hence price, but we&rsquo;re going to
+ignore that for now. Note that presently our ODES does not incorporate
+the Price ODE, even though we have one. It is autonomous, purely dependent
+on the mechanics of the Cycle. This is because we have not incorporate
+Government into the model yet, despite this being our grand ultimate
+objective!</p><p>Anyhow,
+$$
+\text{Leontief:}\quad Y = \text{min} \left\{\frac{K(t)}{\nu}, A(t)L(t)\right\}
+$$
+but we&rsquo;ve been assuming $Y = K\nu$. This is justified as the
+assumption of full utilization of capital: $K/\nu \approx L N$.</p><p><strong>Exercise:</strong> What can you do if empirically you know this is not the case?
+Say $K/\nu &lt; L N$? Doesn&rsquo;t that just mean you can redefine $\nu$?</p><p>In which case, you aught not lie about it, and you say we have a <em>structurally
+effective</em> $\nu_\text{eff} &lt; \nu$, such that $LN=K/\nu_\text{eff}$. If you
+are a policy person you might then
+wish to research into why this is so, if you think the Leonteif model is ok.
+But seriously, are you going to put research resources into this? The
+macroeconomy is far too messy and gnarly to worry with this, I would say.</p><blockquote><p>What matters is full employment and decent livelihoods for all people.</p></blockquote><p>The MMT dynamics, and especially what the Price level is doing, are nothing
+compared to this objective. And no ODE solver analysis is going to help you
+achieve this objective. Hence, no, I don&rsquo;t care if the Leontief model is a
+bit unrealistic.</p><p>That all said, I am going to save this Goodwin Model and run it to check
+the software system is working.</p><h3 id=a-puzzle-----closing-the-ode><a class=anchor href=#a-puzzle-----closing-the-ode title='Anchor for: A Puzzle &mdash; Closing the ODE.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>A Puzzle &mdash; Closing the ODE</h3><p>While writing the first draft I had got to this point:
+$$
+\begin{align*}
+\dot u &= u \cdot(c - \Phi(\lambda)) \\
+\dot \lambda & = \lambda \cdot ( \Gamma(u) - \alpha - \beta ) \\
+\dot D &= I - \Pi \\
+\dot P &= \frac{1}{\tau_P} \cdot \left(\frac{u}{1 - \sigma} - P\right).
+\end{align*}
+$$
+The price equation is nicely <em>in your face</em> there in large fractions! Sort
+of perversely fitting, since it is the odd one out, it can be dropped and
+we&rsquo;d still have a valid ODES. But I&rsquo;ve left it alone since maybe it is
+nice to track &ldquo;inflation&rdquo; in simulation real-time.</p><p>Is this a well-defined ODES?
+This is a nice student exercise.</p><p><strong>Exercise:</strong> Close the ODE system, that is, find the substitutions needed
+to get all dynamical variables on the left in terms of known functions
+of time $t$ or the current variables at time $t$, $\lambda(t), u(t)$ etc.
+Hint: $\Gamma(u)$ is fine, that&rsquo;s a response function we have defined.</p><p><strong>Solution?:</strong> The difficulty I had was an apparent inconsistency, since
+in back-tracking to compute investment $I$ and profit $\Pi$ for the $\dot D$
+response, I had two different solutions. So I had to do some algebra
+detective work to avoid a circularity or over-determination.</p><p>We had, I believe,
+$$
+I(\pi) = Y \cdot \mathcal{I}(\pi)
+$$
+which seems ok, since $\mathcal{I}(\pi)$ was that power law, or the GenExp
+response function, it just depends on $\pi$. OK, but what is $\pi$?
+We had,
+$$
+\pi = \frac{\Pi}{Y} = \frac{\Pi}{\lambda A N}
+$$
+that&rsquo;s ok. But I&rsquo;ve dropped the independent variables, since I forgot what
+$\Pi$ depends upon. All we see there is $\pi = \pi(\lambda)$ which would be ok.
+So what is $\Pi$? We had a practical definition,
+$$
+\begin{align*}
+\Pi &= Y - uAL - i_d D \\
+&= Y - uA^2 \lambda - i_d D
+\end{align*}
+$$
+I think that&rsquo;s all, the end of the line. All three terms are now
+consistently determined by $(u, \lambda, P, D)$, or really in this
+simple model by $(u, \lambda, D)$.</p><p><strong>Exercise:</strong> Check this is so. If it is not then fix it!</p><p>I myself will quit at this point and declare victory since life is too short.
+Plus, my feelings for full employment do not care about my mathematics.</p><h4 id=productivity-squared><a class=anchor href=#productivity-squared title='Anchor for: Productivity Squared.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Productivity Squared</h4><p>This was the first time I noticed this modified Goodwin system depends
+on $A^2$. A little nonlinearity. Where&rsquo;&rsquo;s the turning point I wondered?
+Since $A(t)$ is growing slowly it is not too important, but I did wonder
+if I&rsquo;d got the dimensions correct? That&rsquo;s hard to check without some Typing
+(<em>data types</em>, not keyboard bashing).</p><p><strong>Exercise:</strong> Is the $A^2$ dependence correct there?</p><p>Should we spell out the $\dot D$ equation? Well, we now understand,
+$$
+\pi = \pi (\lambda, D)
+$$
+so we have got,
+$$
+\begin{align*}
+\frac{dD}{dt} & = \lambda A N \mathcal{I}(\lambda, D) -\Bigl( \lambda A N - u A^2 \lambda - i_d D \Bigr)\\
+& = \lambda A N \cdot\bigl( \mathcal{I}(\lambda, D) - 1\bigr) + u A^2 \lambda + i_d D
+\end{align*}
+$$
+where,
+$$
+\mathcal{I}(\pi) = \frac{a_i}{(b_i + c_i \pi(\lambda, D))} - d_i.
+$$
+Is the full stop for real now?</p><p>Well, I doubt there are any cancellations to be made or anything, so yeah, I
+think that&rsquo;s it for now.</p><h4 id=simulation-game-01><a class=anchor href=#simulation-game-01 title='Anchor for: Simulation Game-0.1.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Simulation Game-0.1</h4><p>This model <code>mmm-0.1</code> is worth running through the software package.</p><h3 id=refinement--02><a class=anchor href=#refinement--02 title='Anchor for: Refinement&ndash;0.2.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Refinement&ndash;0.2</h3><p><strong>Issue 1.</strong>
+The clear issue I have with the above model is no clear sectoral balance,
+since it is a One Sector model (a closed PK circuit).</p><p><strong>Issue 2.</strong> I want the government as currency monopolist to get a proper
+MMT system. So we need to change the Price equation, and put the price level
+into the dynamics somehow, at a minimum as a policy response pressure.</p><p><strong>Issue 3.</strong> In my Goodwin model from about a decade ago, I saw that I wrote an
 investment function. It used a depreciation parameter $\delta$, but this was
 not automatically guaranteeing sectoral balance consistent. So today I am
 trying a different way to get an investment function. Since $I$ is in the
@@ -149,12 +404,19 @@ is to make one of the terms a dependent variable:</p><div class=highlight><pre a
 </span></span><span class=line><span class=cl><span class=nx>s</span> <span class=p>=</span> <span class=mf>0.2</span>    <span class=c># Savings desires</span>
 </span></span><span class=line><span class=cl><span class=c># ... other parameters as before</span>
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>auxiliary</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=p>[</span><span class=nx>equations</span><span class=p>.</span><span class=nx>auxiliary</span><span class=p>]</span>
 </span></span><span class=line><span class=cl><span class=nx>I</span> <span class=p>=</span> <span class=s2>&#34;s * Y - (G - T)&#34;</span>
 </span></span><span class=line><span class=cl><span class=c># ... other auxiary functions as before</span>
 </span></span></code></pre></div><p>We&rsquo;re not finished, because we need to get $I$ into the ODE system.
-How would <em>you</em> do this?</p><p>I think that&rsquo;s it, I think, for MMM.0.1. Try and see if it compiles and runs.</p><hr><p><strong>Exercise:</strong> Have a think about the need for a Foreign Sector? Is there
+How would <em>you</em> do this?</p><h3 id=refinement--03><a class=anchor href=#refinement--03 title='Anchor for: Refinement&ndash;0.3.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Refinement&ndash;0.3</h3><p>We&rsquo;d rather not write an arbitrary Investment function, right? The level
+of investment should be determined by the interest rates. But in a
+government centred economy &mdash; like every nation today- &mdash; the interest
+rate is a policy parameter. So we can just look-it-up from the FRED or
+wherever. The banker only needs a credit-worthy customer. This is good
+for us, it means we do not need to solve some awful market equilibrium
+problem.</p><pre aria-label="Box containing code sample." tabindex=0><code>TODO
+Use my PDFLaTeX notes.
+</code></pre><p>I think that&rsquo;s it, I think, for MMM.0.1. Try and see if it compiles and runs.</p><hr><p><strong>Exercise:</strong> Have a think about the need for a Foreign Sector? Is there
 a need?</p><p>Hint: The MMT lens is perfectly good for &ldquo;highly macro&rdquo;, meaning we can
 have Two Sector Balance, just Government and Non-Government. What is the
 loss in using a Two Sector model?</p><p><strong>Reflections:</strong> In MMT unemployment is <em>defined</em> by:</p><blockquote><p><strong>(Unemployment)</strong> <em>People seeking to exchange their labour or goods
