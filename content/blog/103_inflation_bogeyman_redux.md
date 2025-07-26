@@ -158,6 +158,7 @@ Rumsfeld space you are in can be a headache at 4am in the morning
 writing a blog)
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -170,14 +171,14 @@ writing a blog)
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../104_botanical_keynesianism">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../102_peekaboo_inflation_scare_mongering_prelude">Bogeyman Prelude</a></td>
+<a href="../102_peekaboo_inflation_scare_mongering_prelude">Peekaboo: Inflation Scare Mongering Prelude</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../:">(TBD)</a></td>
+<a href="../104_botanical_keynesianism">Botanical Keynesianism</a></td>
 </tr>
-</table></table>
+</table></table></table>
