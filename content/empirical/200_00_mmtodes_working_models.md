@@ -841,7 +841,8 @@ the NG sector, i.e. Credit of the NG sector.
 Can we just then drop the old equation for $\dot D$? Since that previous 
 model is no longer applicable?
 
-I think I convinced myself, but here is some furtehr reaosning in case you need convincing --- but do write to me if you disagree.
+I think I convinced myself, but here is some further reasoning in case 
+you need convincing --- but do write to me if you disagree.
 
 > The meaning of “debt” has changed in our new model, and so 
 the dynamics that determine it must change accordingly.  
