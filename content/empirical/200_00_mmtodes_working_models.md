@@ -83,7 +83,7 @@ You can ignore the plotting, I use a plotly script to post-process the
 results, but will not be teaching that today.
 
 
-## Model-0
+## Model MMM-0
 
 **Description:** The stupidest model I could think of, without any serious 
 literature research.
@@ -200,9 +200,11 @@ $$
 
 **Profit equation:** What about this? It will depend on sales less 
 interest on debt and labour costs,
+<span id=eq_profit_equation_single_sector>
 $$
 \Pi = Y - w\cdot L - i_d\cdot D
 $$
+</span>
 To avoid the pedants piling upon us, at this stage "Labour" means 
 workers plus energy. But we're not going to worry for now about where 
 energy comes from! It's "free", maybe from the Sun. This is of course 
@@ -522,35 +524,42 @@ the software system is working.
 While writing the first draft I had got to this point:
 $$
 \begin{align*}
-\dot u \&= u \cdot(c - \Phi(\lambda)) \\\\
-\dot \lambda \& = \lambda \cdot ( \Gamma(u) - \alpha - \beta ) \\\\
+\dot u \&= u \cdot\bigl(c - \Phi(\lambda)\bigr) \\\\
+\dot \lambda \& = \lambda \cdot \bigl( \Gamma(u) - \alpha - \beta \bigr) \\\\
 \dot D \&= I - \Pi \\\\
 \dot P \&= \frac{1}{\tau_P} \cdot \left(\frac{u}{1 - \sigma} - P\right).
 \end{align*}
 $$
 The price equation is nicely _in your face_ there in large fractions! Sort 
-of perversely fitting, since it is the odd one out, it can be dropped and 
-we'd still have a valid ODES. But I've left it alone since maybe it is 
-nice to track "inflation" in simulation real-time.
+of perversely fitting, since it seems the odd one out, it looks like it 
+can be dropped and we'd still have a valid ODES. But you might in cany case 
+leave it alone since maybe it is nice to track "inflation" in simulation 
+real-time.
 
 Is this a well-defined ODES?
 This is a nice student exercise.
+
+
+**Exercise:** Show that the price level $P$ is actually fed-back into the 
+other ODE's. Hint: Is output $Y$ nominal or real?
 
 **Exercise:** Close the ODE system, that is, find the substitutions needed 
 to get all dynamical variables on the left in terms of known functions 
 of time $t$ or the current variables at time $t$, $\lambda(t), u(t)$ etc.
 Hint: $\Gamma(u)$ is fine, that's a response function we have defined.
 
-**Solution?:** The difficulty I had was an apparent inconsistency, since 
-in back-tracking to compute investment $I$ and profit $\Pi$ for the $\dot D$ 
-response, I had two different solutions. So I had to do some algebra 
-detective work to avoid a circularity or over-determination.
+**Solution?:** The difficulty I had was an apparent inconsistency on my 
+scrap paper workings, since in back-tracking to compute investment $I$ and 
+profit $\Pi$ for the $\dot D$ response, I had two different solutions. So I 
+had to do some algebra detective work to avoid a circularity or 
+over-determination. Unfortunately I trashed the scrap paper so cannot 
+reproduce my error.
 
-We had, I believe,
+We had, which is I believe a mere _definition_ of $\mathcal{I}$,
 $$
 I(\pi) = Y \cdot \mathcal{I}(\pi)
 $$
-which seems ok, since $\mathcal{I}(\pi)$ was that power law, or the GenExp 
+which seems ok, and $\mathcal{I}(\pi)$ was that power law, or the GenExp 
 response function, it just depends on $\pi$. OK, but what is $\pi$?
 We had,
 $$
@@ -573,7 +582,9 @@ simple model by $(u, \lambda, D)$.
 **Exercise:** Check this is so. If it is not then fix it! 
 
 I myself will quit at this point and declare victory since life is too short.
-Plus, my feelings for full employment do not care about my mathematics.
+Plus, my feelings for full employment do not care about my mathematics. Plus
+I don't like this model, since the price level $P$, is not fed-back into 
+employment $\dot \lambda$ directly, but I think it should be.
 
 #### Productivity Squared
 
@@ -608,8 +619,17 @@ think that's it for now.
 
 #### Simulation Game-0.1
 
-This model `mmm-0.1` is worth running through the software package.
-
+This model `mmm-0.1`, although unrealistic, is worth running through 
+the software package. If for no other reason than to see what happens to 
+the price level when it has _minimal_ feed-back effect, since you can call 
+this _inflation neutral policy setting._ Which in my mind is a good policy 
+regime. No one should ever care about the price level, it's just the 
+numeraire.  What matters is real distribution of the **real** output --- or, 
+how much your whole income can buy, not what $1 can purchase.
+```
+TODO
+Could I be bothered?
+```
 
 
 
@@ -641,7 +661,8 @@ since it is a One Sector model (a closed PK circuit).
 
 **Issue 2.** I want the government as currency monopolist to get a proper 
 MMT system. So we need to change the Price equation, and put the price level 
-into the dynamics somehow, at a minimum as a policy response pressure.
+into the wage dynamics _directly_ somehow, to provide stronger policy response 
+pressure, not just passively via nominal output $Y = Y_r P$.
 
 **Issue 3.** In my Goodwin model from about a decade ago, I saw that I wrote an 
 investment function. It used a depreciation parameter $\delta$, but this was 
@@ -654,6 +675,20 @@ I think this is advantageous, since savings desires are measurable, while
 depreciation is a dodgy parameter (possibly reasonably constant, but hard 
 to quantify).
 
+
+### Sectoral Balance
+
+We now want to think about at just Two Sectors: Government and 
+Non-Government. 
+
+There is an option from here to go to a closed economy but with a 
+banking sector and two other sectors, Firms and Workers. But I consider 
+this to be too "libertarian" (zero government) and completely unrealistic, 
+so no better than the previous Goodwin model.  So instead in my development 
+I wanted to at least try to have a go at getting a simplified 
+Two Sector model.
+
+
 You recall what this is? _Sectoral balances always sum to zero._ 
 
 <span id=two_sector_balance>
@@ -661,37 +696,425 @@ $$
 \text{(Two Sector Balance)} \quad (G-T) + (I - S) = 0.
 $$
 </span>
-Go ahead and wite a toml spec for this revised model.
+Go ahead and wite a toml spec for this revised model. Below I will go 
+through my reasoning, so you should try it on your own first to compare.
 
+We had _rate of change_ of private debt already $\dot D$, where $D$ is the 
+stock, so $\dot D$ the flow, and so what we need for two-sector 
+balance is $(G-T) = \dot D$.
+
+
+### Prices and Wages
+
+We had a minimally coupled price equation before. It is really not too hard 
+to incorporate the price level more explicitly into the previous 
+Goodwin+Debt model. We just need to think about the effect of changes in 
+the price level on wages share $u$ and employment rate $\lambda$.
+
+Lets tackle raw wages first, $w = uA$. 
+* Employment effect: same as before, the Phillips curve, $\dot w \sim w \Phi$.
+* Rate of change of employment pressure: we can use,
+$$
+\dot w \sim \varpi w \frac{d\lambda}{dt}
+$$
+which introduces a new parameter $\varpi \approx 0.1$ (empirically).
+* Price pressure: direct proportionality is reasonable here, but with a 
+logarithmic dependence:
+$$
+\dot w \sim w \frac{d}{dt} \log (P(t)) = w \frac{1}{P} \frac{dP}{dt}
+$$
+
+These are the only three sensitivities I think we need worry about.
+(Unless you have others in mind?)
+
+**Exercise:** Convert the above into a new DE for $\dot u$.
+
+Hint: use the identity:
+$$
+\frac{\dot u}{u} = \frac{\dot w}{w} - \frac{\dot A}{A} =  \frac{\dot w}{w} - \alpha 
+$$
+
+**Solution:**  
+Beginning with a DE for wages, $w$, as in the Goodwin model, but with the 
+price pressure, and employment pressure:
+$$
+\begin{align*}
+\dot w \& = w\cdot \left\[ \Phi(\lambda)+ \varpi \frac{\dot\lambda}{\lambda} + \frac{\dot P}{P}\right] \\\\
+\therefore\quad \dot u  = \frac{d (w/A)}{dt} \&=  u\cdot \left\[ \Phi(\lambda)+ \varpi \frac{\dot\lambda}{\lambda} + \frac{\dot P}{P} - \alpha\right] 
+\end{align*}
+$$
+
+### Employment
+
+Do we need any changes? I think we only change the Investment function, but 
+we do not need to write that out explicitly, so we still have:
+$$
+\dot\lambda = \lambda\cdot \left\[\frac{\mathcal{I}(\pi)}{\nu} -\delta - \alpha -\beta \right]
+$$
+The investment function will change, see below.
+
+
+### Investment
+
+The investment function _will change_ because or "debt" will change sectors!
+
+### Profit and Output
+
+The new profit equation is an accounting identity:
+$$
+\begin{align*}
+\pi \& =\frac{\Pi}{K} = \frac{\Pi}{P\cdot K_r} \\\\
+\& = \frac{P\cdot Y_r - W\cdot L - i_L\cdot F_L + i_d\cdot F_D}{P\cdot K_r}
+\end{align*}
+$$
+but that is for zero government, Two-Sector Firm + Workers. For our more 
+MMT model we want a consolidated non-government sector, so want to net 
+private sector credit and debt.
+$$
+\begin{align*}
+\pi \& =\frac{\Pi}{K} = \frac{\Pi}{P\cdot K_r} \\\\
+\& = \frac{P\cdot Y_r - W\cdot L + i_g\cdot D_g}{P\cdot K_r}
+\end{align*}
+$$
+
+**An Interesting Model:** 
+Why? Because in this model you should note $i_g D_g$ adds to NG sector 
+profit. How? It is because with only two sides to the ledger we are 
+saying this "debt" is the government debt, or the accumulated $(G - T)$. 
+That is by accounting identity NG sector savings.
+
+This is so important I think I will come back to it in the next section.
+
+I suspect this is the opposite to how mainstream economists might think, 
+although I do not really know what they think, nor does it interest me, 
+since whatever they think their overall framework is backwards and hence wrong, 
+in so many horrific ways.
+
+
+**The Question:** 
+Can we write a simple Two-Sector (G--NG) model that is stock-flow 
+consistent, without using Godley Tables?
+
+Surely we can. We just need to ensure the sectoral balance equation.
+
+
+
+### Government Sector
+
+To close the new ODE system we need, in my mind, the following:
+* Set $(G - T) = \dot D = (I - S)$, so we can _ex poste_ compute net 
+savings-flow $S$, which is the rate of change of savings per anum. (It 
+should really be called 'Surplus' and $\dot S$, but I will stick with 
+standard usage).
+* Use an effective tax rate on consumption, or on output: that's a model 
+choice, perhaps consumption $C$ is roughly proportional to output $Y$ (a 
+discount/ for inventory growth/decline), so we can just note that we're 
+absorbed that into the constant $r_T$, 
+which is a policy parameter, if you want, call it "effective" and use the 
+symbol $r^\ast_T$, 
+$$
+T = r^\ast_Y \cdot Y
+$$
+
+
+New Zealand has an equivalent effective flat tax rate of about 
+$r_T \approx 0.34$. I'll check this in real time using data 
+pulls later, using GDP$\approx Y$, and the published tax returns, or if 
+it is available use the OCED time series.
+
+(There is 
+[quite a range in the OECD](https://www.oecd.org/content/dam/oecd/en/topics/policy-sub-issues/global-tax-revenues/revenue-statistics-new-zealand.pdf?utm_source=chatgpt.com), 
+from $0.17$ to $0.44$.)
+
+
+What else?
+
+
+Well, is there not a potential inconsistency to resolve? We cannot have 
+$(G-T) + (I-S) = 0$ or 
+$\dot D = (S - I)$, together with an independent equation 
+$\dot D = I - \Pi$. How can these possibly be the same?
+The thing is, here we've changed the meaning of the Debt. It is now the 
+consolidated debt _of the government_, so it is interest-income for 
+the NG sector, i.e. Credit of the NG sector.
+
+Can we just then drop the old equation for $\dot D$? Since that previous 
+model is no longer applicable?
+
+I think I convinced myself, but here is some furtehr reaosning in case you need convincing --- but do write to me if you disagree.
+
+> The meaning of “debt” has changed in our new model, and so 
+the dynamics that determine it must change accordingly.  
+**Old Model: Private Debt**  
+In many Keen-style models (e.g. Minskyan/Post-Keynesian ones), you'd' have:
+$$
+\dot{D} = I - \Pi
+$$
+where $D$=private debt (owed by firms to banks); $I$: investment spending 
+(funded via borrowing); $\Pi$: profits (used to repay debt). This equation 
+represents net new borrowing by firms --- they borrow when $I > \Pi$, and 
+repay when $\Pi > I$. It reflects firm-level internal finance versus 
+reliance on credit.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This makes sense in 
+**private credit models**, where the banking sector expands money and credit.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Our New Model:** Government Debt. We now 
+define: $D$=**public debt** (government liabilities), so $D$ is now the 
+asset of the non-government sector, i.e., their **net financial wealth**. 
+And we assume:
+$$
+\dot{D}_g = G - T.
+$$
+This is the fiscal budget identity: the government increases its debt 
+when it runs a deficit. So now $D$ is **not** private borrowing for 
+investment. It's public injection (or net spending les tax return), and 
+plays an entirely different accounting role.
+
+The conclusion I reach is that the previous $\dot D$ equation is 
+incompatible with our revised model. The old equation $\dot{D} = I - \Pi$ 
+assumed **D is firm debt**, a **liability** of the non-government sector.
+Our new meaning of $D_g$ is **government debt**, an **asset** of the 
+non-government sector.
+
+Hence, using both equations simultaneously would create a **logical inconsistency**. So we will drop the old equation $\dot{D} = I - \Pi$, and 
+Instead, now use:
+$$
+\dot{D}_g = G - T
+$$
+and re-interpret $-D\to +D_g$ as consolidated public debt, and therefore 
+the _accumulated net financial wealth_ of the non-government sector.
+
+
+**What happens to investment now?**  
+If we're not modelling private credit, and if firms invest from 
+_retained earnings_ and/or government demand, then can investment $I$ 
+still be made a function of the profit rate $\pi$?
+
+I think yes, since we have one degree of freedom, since we have no equation 
+for Savings (or Surplus) $S$.
+
+**It is a modelling Choice:** do you want to model an Investment function, 
+or a Savings functions?
+
+Since in the MMT/PK analysis _savings are the accounting records of past 
+investment_ --- one person's spending is another's income, therefore I think 
+it is fine to go with the choice of modelling $I$ or $\mathcal{I}$ roughly as 
+before. Then Savings $S$ will be computed _ex poste_ from the sectoral balance.
+
+**Exercise:** You want to check the previous Investment function is still consistent.
+
+**Solution:** It is not, we need at least one change, $D \to -D_g$. Let's 
+trace back:
+$$
+\text{Investment function:}\quad \mathcal{I} = \frac{I}{Y} = \frac{a_i}{b_i + c_i\pi} - d_i
+$$
+then trace back again:
+<span id=eq_profit_equation_twosector>
+$$
+\Pi = Y - w\cdot L + i_g\cdot D_g
+$$
+</span>
+where as noted above we've flipped the sign on $i_g D_g$ compared to the 
+[previous function](#eq_profit_equation_single_sector), 
+to reflect our inversion of the ledger side on which we score $D$. It is 
+now interest-income, asset of thee NG sector, not a liability as we had 
+before.
+
+This should be good, since when public expenditure expands we certainly 
+should see investment expand. This is the MMT Lens, not the neoclassical 
+backwards lens. _Government net spending crowds-in investment, not out._
+
+
+**Lesson Point:**   
+This is worth pausing upon. Mainstream macro models 
+might go wrong at precisely these $\pm$ choice junctures. They might 
+otherwise agree with MMT diagnostics, which might lead to completely 
+opposite government policy responses. Remarkable things may happen when 
+policy makers realize the tax return is not funding the government.
+
+
+**Have we Closed the Revised ODES?**  
+What about the function for $G$?
+
+This is a hard one for me, there are many choices. Let's try to figure out 
+present NZ Government policy? Maybe with a more progressive government too.
+1. One option is a fixed public sector desire --- for schools, healthcare, 
+social services: hence maybe the Government is basically choosing to "take" 
+a fixed chunk of **real** output:
+$$
+G = c_G Y_r \cdot P = c_G Y.
+$$
+2. Constant spending (fiscal rules approach):
+$$
+G = G_0
+$$
+3. Inflation adjusted spending, fixed public sector but in **nominal terms**:
+$$
+G = P\cdot G_r
+$$
+with $G_r$ the spending constant.
+
+So I guess you should try all three, and see which better fits 
+empirical data. It is hard to read government policy and Statutes to 
+clearly make either call. Though on the Treasury statements we certainly 
+never see option 2, not in New Zealand anyway. We are a growing economy 
+(even if possibly on an unsustainable path).
+
+I might go with Option **1**, government takes a fixed chunk of the 
+real Pie.
+To answer the question, yes, I think we have a well-defined model now. 
+Investment is still a function we can compute, 
+same as before, except with the different sign on the "debt" term.
+We would compute savings as before, but now having a sectoral meaning, it 
+is the NG sector savings rate,
+$$
+S = (G-T) + I.
+$$
+
+Before Savings rate and Debt were endogenous, just a shuffling of currency 
+within the single sector system. Now we have proper savings in the NG sector, 
+since the Government is exogenous to the _post-Keynesians circuit._
+Basically, we've now got the first and most rudimentary MMT system. 
+Achieved without Godley Tables by consolidating the NG sector.
 
 ```
 TODO
-Investment function, and Savings.
+Run the model.
+Save the plots.
+Show the plots.
 ```
-One option which increases to code complexity is to run a loop inside 
-the solver to enforce Sector Balance. But a cleaner solution, I think, 
-is to make one of the terms a dependent variable:
-```toml
-[parameters]
-s = 0.2    # Savings desires
-# ... other parameters as before
 
-[equations.auxiliary]
-I = "s * Y - (G - T)"
-# ... other auxiary functions as before
-```
-We're not finished, because we need to get $I$ into the ODE system. 
-How would _you_ do this?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Refinement--0.3
 
+**Issue 1.** While I think the Two-Sector model is worth refining, and is 
+a good one to use, it does not reveal much about the all important aspects 
+of a nominal "democracy", which is the Firm vs Worker conflict. It is a 
+vitally nasty bit of the present neoliberal capitalist system. Bosses do 
+not need to work to eat, Workers do. So,
+
+> _The labour market is an unfair game._
+
+One might even say grossly unfair, and it is not even a game, it is 
+life & death stuff.  Hence important to model you might think?
+
+I do so think.
+
+Unfortunately, the painfulness of model complexity starts to rare its 
+ugly time-sucking head. I need Godley Tables at this stage if for no 
+other reason that to avoid $\pm$ sign mistakes. But also to ensure 
+stock-flow consistency. 
+
+Our Model is now **(Three+1)**-Sector Model (sounds a bit Minkowski! Have 
+we gone relativistic?), 
+but still closed, or if you prefer:
+
+> **Workers** = All workers domestic and foreign, but wages in NZD.  
+**Firms**  = All firms domestic and foreign, dealing in NZD.  
+**Government** = NZ Government.  
+**Banks** = agents of the state, but still in the Godley Tables.
+
+So the Bank sector is the "+1".
+
+This way we do not need to worry about imports and exports, they are taken 
+into account.
+
+Although our Government does not explicitly insure _all_ bank deposits, 
+they have a track record in propping up commercial banks, so _for all 
+intents and purposes_ the banks are in the Government Sector, which is why 
+I'd call this a (3+1) model.
+
+
+### Investment (3+1) Sectors
+
+The investment function can now be more complicated. We considered 
+split private debt + loans. If we had two sectors suffering different 
+interest rates they would just split the term into Loan and Debts,
+$$
+\begin{align*}
+\mathcal{I}(\pi, D) \& = \mathcal{I}(\pi) - i_d D + i_g D_g\\\\
+\text{into},\qquad \mathcal{I} \&= \mathcal{I}(\pi) - i_L F_L - i_d F_D + i_g D_g \\\\
+\end{align*}
+$$
+where $F_L$ are the Firm loans, and $F_D$ are the Firm debts. But this 
+would very soon almost necessitate introducing Godley Tables to keep the 
+loan and debt ledgers balanced, which means banking. I want to delay this 
+modelling for now, so we will bookmark it as something to do.
+
+As before, $D_g$ is government debt, so is the interest-earning asset of 
+the Firms and Workers now. Though I was not sure if all of $D_g$ should go 
+to Investment. Probably we should split this using a savings propensity, 
+$s_g$. Then,
+$$
+\begin{align*}
+\Delta \mathcal{I} \&\sim  (1 -s_g) i_g D_g \\\\
+\Delta S \&\sim  s_g i_G D_g
+\end{align*}
+$$
+and so,
+$$
+\mathcal{I}(\pi, D_g) = \mathcal{I}(\pi) - i_L F_L - i_d F_D +
+(1-s_g) i_gD_g 
+$$
+
+### Justifying No Foreign Sector
+
+As regards impact on the NZ economy, we are only concerned with NZ$. 
+But all trade balances can be converted to NZD, and New Zealand operates 
+a floating exchange rate. So we care not about foreign flows of finance. 
+They are part of the NZ economy at large.
+
+
+**What we Lose?**  
+With this **Three+1** model we cannot model the impact of foreign capital flows 
+on the government policy and price level. This is a major flaw in the event 
+of a foreign monopolist marking-up their price, especially today Crude Oil.
+
+OK, but we'd have to manually adjust the Foreign Import price variable 
+anyway, it's not a market reaction function easily modelled. Thus I'm going 
+to put off modelling the Foreign Sector and the exchange rate 
+entirely until much later on.
+
+Also, note we do not have a single exchange rate, the NZD floats with 
+respect to all currencies. So this external sector modelling truly is 
+a nightmare. It's just worth noting what analysis we lose as a result.
+* No response to forex movements.
+* No response to import prices, especially crude oil.
+* No response to capital flows.
+So we will have to try to capture such variables in some other fashion, by 
+using empirical data, just like the Meteorological Office uses weather 
+balloon and satellite data as inputs to revise weather forecasts.
+
+One way to kludge this is to have an arbitrary factor adjustment in the 
+price level that does an "all-in-one" adjustment to all three above 
+factors. Supposing we do this by just looking at the CPI, or PCE, then 
+our model would be empirical and would be only "good" to a few weeks out.
+
+
+
+
+
+**Issue 2.** 
 We'd rather not write an arbitrary Investment function, right? The level 
 of investment should be determined by the interest rates. But in a 
-government centred economy --- like every nation today- --- the interest 
-rate is a policy parameter. So we can just look-it-up from the FRED or 
-wherever. The banker only needs a credit-worthy customer. This is good 
-for us, it means we do not need to solve some awful market equilibrium 
+government centred economy --- like every nation today --- the interest 
+rate is a policy parameter. So we can just look-it-up from the RBNZ or 
+FRED or wherever. The banker only needs a credit-worthy customer. This is 
+good for us, it means we do not need to solve some awful market equilibrium 
 problem.
 
 
@@ -709,7 +1132,14 @@ Use my PDFLaTeX notes.
 
 
 
-I think that's it, I think, for MMM.0.1. Try and see if it compiles and runs.
+
+
+
+
+
+
+
+I think that's it, I think, for `mmm_0.3`. Try and see if it compiles and runs.
 
 ---
 
@@ -743,22 +1173,32 @@ activity, so it might be nice to use  a Three Sector model. But if we are
 not too worried about those flows, then we should not care.
 
 
-### Remarks on MMM-0
+### Remarks on mmm-0.3
 
 ### Running the Simulation
 
+```
+TODO
+```
 
 
-## MMM-1 --- Slightly Monetary
 
-The next job is the modify MMM-0 to at least have some stock--flow 
-consistency. We will do this by merely ensuring Sectoral balance.
-No banking needs to be developed.
+## MMM-1.0 --- Slightly More Monetary
 
-This should actually be ok. The bankig system in part plays a vitalrole 
-in clearing payments, but if we are not too concerned with household debt crises, then a simpel Sectoral Balance model shoul be ok for short run simualtions.
+The next job is the modify `mmm_0.3` to include an explicit Foreign Sector
+and a Job Guarantee.  Maybe I will go for the JG first. The Job Guarantee 
+is the superior automatic stabilizer. We want to understand that this is 
+indeed "as advertised".
 
+If not? Well, then either our model is bad, or our model is good but 
+the JG does not function as advertised. That'd be important to know!
 
+I see it as a model test. You may not? As a model test the JG works by 
+**pure logic**, so if our model does not produce an automatic stabilizer 
+effect then our model will be wrong, and will need debugging.
+
+Once we have confidence in the model, then the last task (for this course 
+of study) will be to compare policies, like full JG versus full UBI.
 
 
 
