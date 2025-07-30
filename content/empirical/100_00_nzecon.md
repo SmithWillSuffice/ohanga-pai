@@ -814,6 +814,58 @@ df = pd.concat([pd.read_csv(url) for url in urls])
 ```
 
 
+## Bank Data (RBNZ)
+
+The RBNZ [publish series (here)](https://www.rbnz.govt.nz/statistics/series/registered-banks/banks-liabilities-deposits-by-sector) 
+in xls spreadsheets.
+There is an **R** [package ‘rdrr’ (here)](https://rdrr.io/cran/RBNZ/f/README.md).
+We will probably need to build historical values for earlier years in some 
+other way.
+
+Why? Because the bank liabilities **S40** table I want used to be **C17**, 
+and the bank assets **S34** used to be **S9**. The 
+[full list is (here)](https://rdrr.io/cran/RBNZ/man/)
+
+**NPISHs* = 'Non-Profit Institutions Serving Households'.
+
+There are two access options [explained here](https://github.com/rntq472/RBNZ/blob/master/vignettes/Overview.Rmd):
+1. Get and IP address white-listed by the RBNZ (send them an email).
+2. Download the xls spreadsheets first. The **rdrr** can access them, 
+as explained [here](https://github.com/rntq472/RBNZ/blob/master/vignettes/Overview.Rmd).
+
+I think we'll build a python script to fetch the xls and then run an **R** 
+script via subprocess.
+
+**Loans:** ('hs10-long-run.xlsx') 
+Start: Dec 2008 - last qtr
+
+**Deposits (household):** ('hs40-long-run.xlsx') 
+Start: Dec 1998 -last qtr.
+
+**Deposits (total):** ('hs41.xlsx') 
+Start: Dec 2016 -last qtr.
+
+Pity the records are not more complete for a CNN-LSTM model. But this will 
+be fine for our PukahaPai ODES simulation project.
+
+
+## NZ Credit Data 
+
+FRED: Total credit to Households and NPISHs 'QNZHAM770A' (%GDP) 
+BIS: Q.NZ.H.A.M.770.A
+
+FRED: Total credit to Nonfinancial Corporations 'QNZNAM770A' (%GDP)
+BIS: Credit from All sectors to Non-financial corporations (%GDP) <https://data.bis.org/topics/TOTAL_CREDIT/BIS,WS_TC,2.0/Q.NZ.N.A.M.770.A> 
+
+To get the RBNZ PVD_LS rough equivalent sum the above two? But the only 
+way I could see to check these had anything to do with the **S40** 'Deposits 
+by sector' was to plot them and look.
+
+
+
+
+
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 25%;">

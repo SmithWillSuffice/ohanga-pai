@@ -1002,13 +1002,26 @@ Show the plots.
 
 ### Refinement--0.3
 
-**Issue 1.** While I think the Two-Sector model is worth refining, and is 
+
+
+**Issue 1.** 
+We'd rather not write an arbitrary Investment function, right? The level 
+of investment should be determined by the interest rates. But in a 
+government centred economy --- like every nation today --- the interest 
+rate is a policy parameter. So we can just look-it-up from the RBNZ or 
+FRED or wherever. The banker only needs a credit-worthy customer. This is 
+good for us, it means we do not need to solve some awful market equilibrium 
+problem.
+
+
+**Issue 2.** While I think the Two-Sector model is worth refining, and is 
 a good one to use, it does not reveal much about the all important aspects 
 of a nominal "democracy", which is the Firm vs Worker conflict. It is a 
 vitally nasty bit of the present neoliberal capitalist system. Bosses do 
 not need to work to eat, Workers do. So,
 
-> _The labour market is an unfair game._
+
+> <div style="text-align: center; font-style: italic; margin-left: 10%; margin-right: 10%; margin: 10px 0px;">The labour market is an unfair game.</div>
 
 One might even say grossly unfair, and it is not even a game, it is 
 life & death stuff.  Hence important to model you might think?
@@ -1072,6 +1085,68 @@ $$
 (1-s_g) i_gD_g 
 $$
 
+OK, but this means we have to put $s_gi_GD_g$ somewhere else. Obviously in 
+Firm and Worker deposits, $F_D$, $W_D$. But how much of the share? Should 
+we just use the monopoly parameter $\sigma$ from before? Or add another 
+knob to twiddle? Well, this depends on thee size of the firm I guess, so 
+it will require a new parameter. But is is something we should have 
+empirical data to guide us.
+
+From the [IMF datamapper](https://www.imf.org/external/datamapper/profile/NZL) 
+we can get $D_g$ and the interest paid on $D_g$. 
+But not the sector breakdown, for which we might need to dig into RBNZ data.
+But in lieu of that, there is a split of all 
+"private debt, loans and securities". That might include Tsy securities, 
+I am not sure, but the indicator or ratio aught to be a fair proxy for the 
+share of government interest-income.
+
+| Year | Debt, loans, securities | % GDP |
+| --- | --- | --- |
+| 2023 | Private | 161.32 |
+|  | Household | 91.61 |
+|  | Nonfinancial |  60.71 |
+
+Let's conjure up a symbol for this ratio, say 
+$$
+\sigma_G = 0.37
+$$
+for "share of government interest-income (to firms)".
+
+**Note:** I will need to automate downloading these indicators. They are 
+our "weather data". I have not fetched from the IMF before. But is seems a simple API, just a URL that gets a JSON file, [instructions here](https://www.imf.org/external/datamapper/api/help). For the indicator codes see: <https://www.imf.org/external/datamapper/api/v1/indicators>
+```
+TODO:
+Automate these downloads (annual cron job). 
+
+# "Total stock of loans and debt securities issued by households and nonfinancial corporations as a share of GDP."
+https://www.imf.org/external/datamapper/api/v1//PVD_LS/NZL
+
+# "Total stock of loans and debt securities issued by households as a share of GDP."
+https://www.imf.org/external/datamapper/api/v1//HH_LS/NZL
+```
+Since the IMF table is two years behind, ut the variation smooth, I think 
+a simple cubic spline extrapolation is ok.
+
+The ratio has changed over time:
+
+{{<PVD_LS_NZ>}}
+
+
+#### Other Data (Could be Good)
+
+Let's not clog up this chapter. I have another chapter on how to get 
+some NZ economic data.  A few series we will like are bank deposits, 
+loans, and money aggregates. The RBNZ publishes these as xls 
+spreadsheets. There is an **R** [package ‘rdrr’ (here))(https://rdrr.io/cran/RBNZ/f/README.md) for retrieving these, which I will 
+test over on the [data chapter](/ohanga-pai/empirical/100_00_nzecon/#bank-data-rbnz). 
+
+There are lots of nice looking series there, like Consumption (**M2** table) 
+and Investment (**M3** table), and **M9**=labour market. **M5**=GDP. For 
+our Godley Tables: bank liabilities=**S40**, which used to be **C17** 
+before 2017 I think? and the bank assets=**S34** used to be **S9**.
+
+
+
 ### Justifying No Foreign Sector
 
 As regards impact on the NZ economy, we are only concerned with NZ$. 
@@ -1108,17 +1183,6 @@ our model would be empirical and would be only "good" to a few weeks out.
 
 
 
-
-**Issue 2.** 
-We'd rather not write an arbitrary Investment function, right? The level 
-of investment should be determined by the interest rates. But in a 
-government centred economy --- like every nation today --- the interest 
-rate is a policy parameter. So we can just look-it-up from the RBNZ or 
-FRED or wherever. The banker only needs a credit-worthy customer. This is 
-good for us, it means we do not need to solve some awful market equilibrium 
-problem.
-
-
 ```
 TODO
 Use my PDFLaTeX notes.
@@ -1140,7 +1204,7 @@ Use my PDFLaTeX notes.
 
 
 
-I think that's it, I think, for `mmm_0.3`. Try and see if it compiles and runs.
+I think that's it, I think, for `mmm_0_3`. Try and see if it compiles and runs.
 
 ---
 
@@ -1174,9 +1238,7 @@ activity, so it might be nice to use  a Three Sector model. But if we are
 not too worried about those flows, then we should not care.
 
 
-### Remarks on mmm-0.3
-
-### Running the Simulation
+#### Running the Simulation
 
 ```
 TODO
@@ -1186,7 +1248,7 @@ TODO
 
 ## MMM-1.0 --- Slightly More Monetary
 
-The next job is the modify `mmm_0.3` to include an explicit Foreign Sector
+The next job is the modify `mmm_0_3` to include an explicit Foreign Sector
 and a Job Guarantee.  Maybe I will go for the JG first. The Job Guarantee 
 is the superior automatic stabilizer. We want to understand that this is 
 indeed "as advertised".
