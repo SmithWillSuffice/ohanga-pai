@@ -977,12 +977,156 @@ since the Government is exogenous to the _post-Keynesians circuit._
 Basically, we've now got the first and most rudimentary MMT system. 
 Achieved without Godley Tables by consolidating the NG sector.
 
+#### Model mmm-0.2 toml
+
+Here was an early version, not bug-free, so students should not expect 
+this to run out-of-the-box. I just wanted to stick it in here to note 
+how long winded the full toml specification is getting, even for a 
+simple model. This is not to scare you, but just to let you know further 
+adventures in MMT modelling will require reading quite a few lines of math.
+
+**Snapshot of the Model** <br>
+
+**Warning!** This was a very 'beta' version, almost no careful code analysis.
+So please do not use this professionally or even semi-professionally. I'm 
+just posting the snapshot here for developers, not end-users:
+
+Here is the  <a href="../../files/mmm_model_0_2.toml" download>mmm_model_0_2 toml</a>. 
+<br>
+The <a href="../../files/generate_julia_odesolver_beta_0.1.py" download>generator script</a>.
+<br>
+The <a href="../../files/ode_dae_solver_cmdl.jl.template" download>julia template</a>.
+<br>
+The <a href="../../files/plots4model_beta_0.1.py" download>plotly plotting script</a>.
+
+That's the full snapshot for a cmdl package. Without all the PyPi 
+and Julia dependencies of course, that's for you to sort out on your own.
+
+Place the template under your project folder (cwd) `'./templates/' folder.'`
+Place the toml under the `./models/` folder. The python scripts in the cwd.
+Then in a bash terminal run,
+```bash
+./generate_julia_odesolver.py mmm_model_0_2
+julia models/mmm_model_0_2
+./plots4model.py mmm_model_0_2
 ```
-TODO
-Run the model.
-Save the plots.
-Show the plots.
+
+**Waring:** I actually had a bad early experience with this model using a more 
+primitive Julia ODE solver, I think it was because we now have the derivatives 
+interdependent, but I was using the previous time step derivative in the 
+current time step. I was producing an instability at about $t=45$, where wage 
+share $u$ suddenly dropped to beyond 100, and employment went super 
+negative (so unphysical). 
+
+I fixed this by changing the software entirely to a new type of algebraic 
+ODE solver, the `DifferentialEquation` Julia package.
+
+Along the way, I found I cannot use a variable `u`, so changed my toml wage 
+share symbol to `u_s`. This avoids a name clash with the Julia DAE package.
+
+The output with the default parameters is ok, clear cycles: 
+
+{{<mmm_model_0_2_results>}}
+
+There is still a nice interesting instability (of sorts) 
+around $t=45$, and I have not got to the bottom of this. The wage 
+share $u_s$ starts to get very step-like in response. Unsurprising while 
+the price function gets the sharp kink, and $d\ln P/dt$ is a term in $du_s/dt$.
+It suggests our crude post-Keynesian price model is a bit unrealistic.
+
+
+One thing is the Debt which is now $(G-T)$ feeds into $P$ linearly, but 
+it enters back nonlinearly in the investment function, so I'd expect 
+more variation. But also, not so surprised it flatlines. Can you see 
+or guess why?
+
+If $D$ is fixed, this suggest so is $Y$, but $Y=Y(P,\lambda,A,N)$, so 
+should not be constant. To plot derived variables to check such things 
+you can add a section at the bottom of the toml file, like,
+```toml
+[plots]
+# Optional: restrict which time series to show (omit to show all)
+time_series = ["P", "D", "lambda", "u_s", "Y"]
 ```
+
+I ran this plot and $Y$ is ok, it does vary with the cycle. So something 
+about our model for debt $D_g$ is a bit weird somewhere else. After head 
+scratching a bit I looked at the parameters, and like an idiot I'd set the 
+two rates equal! $i_G = r_T$.  But that was an interesting lesson nonetheless, 
+since you might want to think about how a government would choose the 
+policy rates.
+
+
+#### The Challenge
+
+**?** Maybe you could try writing a response function for the rates 
+that prevents the increasing oscillation amplitude in the price level? 
+(But also, why bother? If in our model a time unit is one year, then 45 
+years out seems a bit too far to give a damn?) Hence, the key thing we'd 
+want to suppress is the cycle in the first place.
+ 
+Well, you should bother since it's a good learning opportunity. We at 
+least know damn well we have not used a significant degree of freedom, 
+the government debt $D_g$. Why not use it to counter the cycle?
+
+This makes it at least a mildly interesting observation that having 
+$\dot D =0$ by policy design is not too destabilizing, but not terrific 
+either. The cycle period lengthens, but the price level swings are 
+intolerable, one must say. The price level never goes down so badly 
+in he real world, and deflation is a real killer --- exacerbates 
+inequality badly (our model cannot see this yet, since we are not 
+tracking sectoral savings).
+
+A sure sign of a wrecking economy is **Deflation**. You want the 
+price level always going mildly upwards, forever.
+
+For more serious usage I'd just fit the rates to empirical data, in lieu of 
+knowing what goes on in government official head spaces. This is modelling 
+on Keynes' dictum: the best guide to the future is the near past.
+
+OK, but how would you write some sort of stone cold mathematical ersatz 
+for the approximation to policy psychology rate setting by government?
+
+I'm not up for tweaking the modelling at this stage, I'm just getting 
+software development done, so I'll leave this issue alone for now.
+This brings up the issue of the whole point of the exercise.
+
+**Overall Nastiness:** This toy economy has some bad positive eigenvalues, 
+this is what makes the cycle amplitude grow, and at late times 
+horrific unemployment. As a policy wonk seeing anything similar you'd 
+be thinking I need some negative eigenvalues to tame the cycles.
+
+If I had the time, I'd numerically compute the Jacobian matrix every 
+few time steps, and compute the eigenvalues and plot them (add to the CSV). 
+(Not every time step, since it's compute intensive.)
+
+### Point of the Modelling?
+
+Even this simple model could be useful. The art of it would be to find 
+tweaks to the model that make just the government policy variables the 
+only things that generate movements in prices. a bit of a hard task, 
+for sure, but it's the Holy Grail of macroeconomics. Price stability 
+with Full employment, and decent output per capita.
+
+You might stand a better chance of doing this with a simpler model? 
+It would then by policy wonk instructive, I'd imagine.
+ 
+**For Policy:** well, we know the model is too primitive, but at least it 
+shows why a monetary economy can be cyclical even with mild government 
+support.  What this implies is that government support needs to be 
+stronger, not so mild.
+
+Why? Well, I have not bothered reproducing the PK closed circuit model, 
+but ProfKeen did that decades ago, and we know it is severely unstable, 
+and has a clear Minksy Moment, that is unrecoverable.  It is essentially 
+a money hoarders model, and ends in total greed and disaster for workers, 
+hence ultimately disaster for everyone, even the hoarders (a zillion 
+dollars buys zero if output is zero). 
+
+This is because the model has no government sector at all. It's pure 
+libertarian. It ends in dystopia, and you'd have to imagine people 
+somehow pick themselves up from the ashes of severe unemployment --- by 
+forming a government!
 
 
 
@@ -1124,7 +1268,7 @@ https://www.imf.org/external/datamapper/api/v1//PVD_LS/NZL
 # "Total stock of loans and debt securities issued by households as a share of GDP."
 https://www.imf.org/external/datamapper/api/v1//HH_LS/NZL
 ```
-Since the IMF table is two years behind, ut the variation smooth, I think 
+Since the IMF table is two years behind, but the variation smooth, I think 
 a simple cubic spline extrapolation is ok.
 
 The ratio has changed over time:
@@ -1132,13 +1276,13 @@ The ratio has changed over time:
 {{<PVD_LS_NZ>}}
 
 
-#### Other Data (Could be Good)
+#### Other Deposit and Loan Data (could be good)
 
 Let's not clog up this chapter. I have another chapter on how to get 
 some NZ economic data.  A few series we will like are bank deposits, 
 loans, and money aggregates. The RBNZ publishes these as xls 
-spreadsheets. There is an **R** [package ‘rdrr’ (here))(https://rdrr.io/cran/RBNZ/f/README.md) for retrieving these, which I will 
-test over on the [data chapter](/ohanga-pai/empirical/100_00_nzecon/#bank-data-rbnz). 
+spreadsheets. I will write some python scripts for retrieving these, which 
+I will test over on the [data chapter](/ohanga-pai/empirical/100_00_nzecon/#bank-data-rbnz). 
 
 There are lots of nice looking series there, like Consumption (**M2** table) 
 and Investment (**M3** table), and **M9**=labour market. **M5**=GDP. For 
@@ -1181,7 +1325,31 @@ factors. Supposing we do this by just looking at the CPI, or PCE, then
 our model would be empirical and would be only "good" to a few weeks out.
 
 
+### Government Debt
 
+
+To model government bonds, or $D_g$ we could simplify a bit, since 
+we really only need to increase the effects of $i_B$ and $i_g$ to an 
+equivalent effective $i^\ast_B$=interest 
+on bank deposits. What I mean is,
+
+> $i_B^\ast\cdot (F_D + W_D)$ is functionally the same as $i_B\cdot(F_D+W_D) + i_g\cdot D_g$.
+
+This is an extreme form of what Mosler says: banks are agents of the State.
+
+This is because it is functionally the same whenever the 
+government insures bank deposits, which maybe despite neoliberal threats, is 
+typically the case these days post-GFC. The government bond is only 
+different in that it gets booked as "Government Debt" rather than 
+Bank Liabilities. In a stable country like NZ there is a legal and 
+psychological difference, but no practical difference (except in behavioural 
+response functions, which of course do matter, but we will not worry since we have 
+no clue what the behaviours will be, yet).
+
+The psychological difference is that government bonds are considered more 
+secure, less risky. All the risk is at the margins for traders, and who 
+cares for them? Not me. They're not the people feuling the real economy. 
+()Actually we might care, since they are the parasites. But I will care later.)
 
 ```
 TODO

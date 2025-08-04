@@ -836,17 +836,46 @@ as explained [here](https://github.com/rntq472/RBNZ/blob/master/vignettes/Overvi
 I think we'll build a python script to fetch the xls and then run an **R** 
 script via subprocess.
 
-**Loans:** ('hs10-long-run.xlsx') 
+**Loans:** ('hs10-long-run.xlsx') <br>
 Start: Dec 2008 - last qtr
 
-**Deposits (household):** ('hs40-long-run.xlsx') 
+**Loans (total):** 'BSCA.MAC1A4.A' in 'hs30.xlsx') <br>
+Start: Dec 2016 - last qtr
+
+**Loans (household):** 'BSCA.MAC1A4.AR8' in ('hs30.xlsx') <br>
+Start: Dec 2016 - last qtr
+
+**Loans (nonfinancial):** 'BSCA.MAC1A4.AR05' in ('hs30.xlsx') <br>
+Start: Dec 2016 - last qtr
+ 
+**Deposits (household):** ('hs40-long-run.xlsx')  <br>
 Start: Dec 1998 -last qtr.
 
-**Deposits (total):** ('hs41.xlsx') 
+**Deposits (total):** ('hs41.xlsx') <br>
 Start: Dec 2016 -last qtr.
+
 
 Pity the records are not more complete for a CNN-LSTM model. But this will 
 be fine for our PukahaPai ODES simulation project.
+
+Here is a sample of the data visualization. You can see there are hints 
+at cycles that have some weak correlation, suggesting this data is probably 
+fair quality for a CNN-LSTM.
+
+{{<loans_deposits_vs_unemployment_rbnz>}}
+
+What's interesting is the COVID pandemic showed up a few impulse 
+response functions that we'd not have seen otherwise. Tricky to know if 
+the CNN-LSTM should be feed such abnormal data, huh? I'd err to the side of 
+_do use_ those responses, since banking behaviour responds to economic 
+fundamentals, not the flu virus.
+
+
+🤣 I probably won't do that again in these pages. What I will do is make 
+up a separate OhangaPai dashboard which collects all the MMT empirical 
+data visualizations we may want. I will not share the scripts for generating 
+these plots for now, since I cannot guarantee their robustness. But if you 
+send me a polite email, promising never to complain, I'll post them to you.
 
 
 ## NZ Credit Data 
@@ -861,7 +890,30 @@ To get the RBNZ PVD_LS rough equivalent sum the above two? But the only
 way I could see to check these had anything to do with the **S40** 'Deposits 
 by sector' was to plot them and look.
 
+As another check, these values should be comparable, though not the same, 
+to "Debts, Loans + Securities" from the IMF datamapper:
+```
+# "Total stock of loans and debt securities issued by households and nonfinancial corporations as a share of GDP."
+https://www.imf.org/external/datamapper/api/v1//PVD_LS/NZL
 
+# "Total stock of loans and debt securities issued by households as a share of GDP."
+https://www.imf.org/external/datamapper/api/v1//HH_LS/NZL
+```
+
+**Robust Fetch?:** <br>
+The RBNZ bank data is more up-to-date, but we can only automate if the 
+XLXS URl is constant. I'll be assuming it is until it isn't.
+The quarterly cron job will then need a fail report too email. Provided I 
+remember how to set-up postmail, it's been a while.
+
+In any case, eye-balling the series is always good. I also want rates of 
+change, say year-over-year, for the CNN-LSTM. The flows are more important 
+for comparing with correlation to unemployment.
+
+For basic Visuals I always want to compare with unemployment, which can 
+be gathered from 
+[Stats-NZ](https://www.stats.govt.nz/indicators/unemployment-rate/) but 
+the same data fro longer period is also at the FRED 'LRUNTTTTNZQ156S'. 
 
 
 

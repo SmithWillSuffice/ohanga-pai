@@ -1,0 +1,53 @@
+model_name = "bad_mmm_model_0"
+
+[parameters]
+K = 100.0              # Total capital
+nu = 2.5               # Capital-output ratio (Y = K / nu)
+alpha = 0.02           # Productivity growth (A = A0 * exp(alpha * t))
+N = 100.0              # Total labor force
+J = 0.5                # JG share of buffer policy (0 = BI-only, 1 = JG-only)
+J_u = 0.7              # JG wage as share of normal wage (u)
+gamma = 0.05           # Phillips-like inflation responsiveness
+i_G = 0.0              # Policy interest rate (govt)
+i_S = 0.03             # Bank spread above govt rate
+monopoly = 0.2         # Markup percentage on firm costs
+theta = 0.1            # Sensitivity of inflation to utilization (Y / Y_max)
+r_T = 0.25             # Effective tax rate
+
+[variables]
+names = ["Pi", "Y", "u", "lambda"]
+
+[initial_conditions]
+Pi = 1.0
+Y = 50.0
+u = 0.6
+lambda = 0.9
+
+[equations.auxiliary]
+A = "exp(alpha * t)"
+K_r = "K * lambda"                  # Capital used in regular sector
+K_j = "K * (1 - lambda)"            # JG sector gets remaining capital
+Y_r = "K_r / nu"                    # Regular sector output
+Y_j = "J * (1 - lambda) * N * J_u * u * A"  # JG sector output, scaled by JG wage
+Y_total = "Y_r + Y_j"
+
+capacity_utilization = "Y / Y_total"  # For inflation term
+interest_rate = "i_G + i_S"
+
+[equations.ode]
+# Price pressure from demand + monopoly power.
+f_P = "gamma * (Y - Y_total) / Y_total + monopoly * u * A * lambda + theta * capacity_utilization + 0.5 * (1 - J) * (1 - lambda)"
+# Nominal output expands with productivity and labor
+f_Y = "alpha * Y + u * A * lambda * N"
+ # Wage increases if labor market tight
+f_u = "gamma * (lambda - 0.95) * u"
+# Adjust employment rate toward output-labor ratio
+f_lambda = "0.1 * ((Y / (A * N)) - lambda)" 
+
+[tspan]
+t0 = 0.0
+t1 = 50.0
+
+[solver]
+dt = 0.1
+method = "Tsit5"
