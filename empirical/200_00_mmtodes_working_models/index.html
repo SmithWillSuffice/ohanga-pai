@@ -1,5 +1,5 @@
 <!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>MMT-ODES Working Models — I | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/200_00_mmtodes_working_models/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="MMT-ODES Working Models — I"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/200_00_mmtodes_working_models/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
-<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>MMT-ODES Working Models — I</h1><p>Published on <time datetime=2025-07-24>2025-07-24</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#assumptions>Assumptions</a></li><li><a href=#methodology>Methodology</a></li><li><a href=#model-mmm-0>Model MMM-0</a><ul><li><a href=#refinement--01>Refinement&ndash;0.1</a></li><li><a href=#the-production-function-yk-l>The Production Function $Y(K, L)$</a></li><li><a href=#a-puzzle-----closing-the-ode>A Puzzle &mdash; Closing the ODE</a></li><li><a href=#refinement--02>Refinement&ndash;0.2</a></li><li><a href=#sectoral-balance>Sectoral Balance</a></li><li><a href=#prices-and-wages>Prices and Wages</a></li><li><a href=#employment>Employment</a></li><li><a href=#investment>Investment</a></li><li><a href=#profit-and-output>Profit and Output</a></li><li><a href=#government-sector>Government Sector</a></li><li><a href=#refinement--03>Refinement&ndash;0.3</a></li><li><a href=#investment-31-sectors>Investment (3+1) Sectors</a></li><li><a href=#justifying-no-foreign-sector>Justifying No Foreign Sector</a></li><li><a href=#remarks-on-mmm-03>Remarks on mmm-0.3</a></li><li><a href=#running-the-simulation>Running the Simulation</a></li></ul></li><li><a href=#mmm-10-----slightly-more-monetary>MMM-1.0 &mdash; Slightly More Monetary</a></li><li><a href=#getting-to-pro-models>Getting to Pro Models</a><ul><li><a href=#time-periods>Time Periods</a></li><li><a href=#fetching-data>Fetching Data</a></li></ul></li></ul></nav></details><p>In this series I am going to indulge in some pedagogy. We will show all
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>MMT-ODES Working Models — I</h1><p>Published on <time datetime=2025-07-24>2025-07-24</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#assumptions>Assumptions</a></li><li><a href=#methodology>Methodology</a></li><li><a href=#model-mmm-0>Model MMM-0</a><ul><li><a href=#refinement--01>Refinement&ndash;0.1</a></li><li><a href=#the-production-function-yk-l>The Production Function $Y(K, L)$</a></li><li><a href=#a-puzzle-----closing-the-ode>A Puzzle &mdash; Closing the ODE</a></li><li><a href=#refinement--02>Refinement&ndash;0.2</a></li><li><a href=#sectoral-balance>Sectoral Balance</a></li><li><a href=#prices-and-wages>Prices and Wages</a></li><li><a href=#employment>Employment</a></li><li><a href=#investment>Investment</a></li><li><a href=#profit-and-output>Profit and Output</a></li><li><a href=#government-sector>Government Sector</a></li><li><a href=#point-of-the-modelling>Point of the Modelling?</a></li><li><a href=#refinement--03>Refinement&ndash;0.3</a></li><li><a href=#investment-31-sectors>Investment (3+1) Sectors</a></li><li><a href=#justifying-no-foreign-sector>Justifying No Foreign Sector</a></li><li><a href=#government-debt>Government Debt</a></li></ul></li><li><a href=#mmm-10-----slightly-more-monetary>MMM-1.0 &mdash; Slightly More Monetary</a></li><li><a href=#getting-to-pro-models>Getting to Pro Models</a><ul><li><a href=#time-periods>Time Periods</a></li><li><a href=#fetching-data>Fetching Data</a></li></ul></li></ul></nav></details><p>In this series I am going to indulge in some pedagogy. We will show all
 the mistakes and bugs (or at least one high-level view of them) &mdash; the
 purpose being educational. I make no claim to be an expert on macroeconomics
 modelling, so the models we develop should be in every case regarded as Toys.
@@ -583,15 +583,93 @@ $$</p><p>Before Savings rate and Debt were endogenous, just a shuffling of curre
 within the single sector system. Now we have proper savings in the NG sector,
 since the Government is exogenous to the <em>post-Keynesians circuit.</em>
 Basically, we&rsquo;ve now got the first and most rudimentary MMT system.
-Achieved without Godley Tables by consolidating the NG sector.</p><pre aria-label="Box containing code sample." tabindex=0><code>TODO
-Run the model.
-Save the plots.
-Show the plots.
-</code></pre><h3 id=refinement--03><a class=anchor href=#refinement--03 title='Anchor for: Refinement&ndash;0.3.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Refinement&ndash;0.3</h3><p><strong>Issue 1.</strong> While I think the Two-Sector model is worth refining, and is
+Achieved without Godley Tables by consolidating the NG sector.</p><h4 id=model-mmm-02-toml><a class=anchor href=#model-mmm-02-toml title='Anchor for: Model mmm-0.2 toml.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Model mmm-0.2 toml</h4><p>Here was an early version, not bug-free, so students should not expect
+this to run out-of-the-box. I just wanted to stick it in here to note
+how long winded the full toml specification is getting, even for a
+simple model. This is not to scare you, but just to let you know further
+adventures in MMT modelling will require reading quite a few lines of math.</p><p><strong>Snapshot of the Model</strong><br></p><p><strong>Warning!</strong> This was a very &lsquo;beta&rsquo; version, almost no careful code analysis.
+So please do not use this professionally or even semi-professionally. I&rsquo;m
+just posting the snapshot here for developers, not end-users:</p><p>Here is the <a href=../../files/mmm_model_0_2.toml download>mmm_model_0_2 toml</a>.<br>The <a href=../../files/generate_julia_odesolver_beta_0.1.py download>generator script</a>.<br>The <a href=../../files/ode_dae_solver_cmdl.jl.template download>julia template</a>.<br>The <a href=../../files/plots4model_beta_0.1.py download>plotly plotting script</a>.</p><p>That&rsquo;s the full snapshot for a cmdl package. Without all the PyPi
+and Julia dependencies of course, that&rsquo;s for you to sort out on your own.</p><p>Place the template under your project folder (cwd) <code>'./templates/' folder.'</code>
+Place the toml under the <code>./models/</code> folder. The python scripts in the cwd.
+Then in a bash terminal run,</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>./generate_julia_odesolver.py mmm_model_0_2
+</span></span><span class=line><span class=cl>julia models/mmm_model_0_2
+</span></span><span class=line><span class=cl>./plots4model.py mmm_model_0_2
+</span></span></code></pre></div><p><strong>Waring:</strong> I actually had a bad early experience with this model using a more
+primitive Julia ODE solver, I think it was because we now have the derivatives
+interdependent, but I was using the previous time step derivative in the
+current time step. I was producing an instability at about $t=45$, where wage
+share $u$ suddenly dropped to beyond 100, and employment went super
+negative (so unphysical).</p><p>I fixed this by changing the software entirely to a new type of algebraic
+ODE solver, the <code>DifferentialEquation</code> Julia package.</p><p>Along the way, I found I cannot use a variable <code>u</code>, so changed my toml wage
+share symbol to <code>u_s</code>. This avoids a name clash with the Julia DAE package.</p><p>The output with the default parameters is ok, clear cycles:</p><img src=/ohanga-pai/images/mmm_model_0_2_results.png alt="mmm 0_02 default ouput" style=width:700px><p>There is still a nice interesting instability (of sorts)
+around $t=45$, and I have not got to the bottom of this. The wage
+share $u_s$ starts to get very step-like in response. Unsurprising while
+the price function gets the sharp kink, and $d\ln P/dt$ is a term in $du_s/dt$.
+It suggests our crude post-Keynesian price model is a bit unrealistic.</p><p>One thing is the Debt which is now $(G-T)$ feeds into $P$ linearly, but
+it enters back nonlinearly in the investment function, so I&rsquo;d expect
+more variation. But also, not so surprised it flatlines. Can you see
+or guess why?</p><p>If $D$ is fixed, this suggest so is $Y$, but $Y=Y(P,\lambda,A,N)$, so
+should not be constant. To plot derived variables to check such things
+you can add a section at the bottom of the toml file, like,</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=p>[</span><span class=nx>plots</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=c># Optional: restrict which time series to show (omit to show all)</span>
+</span></span><span class=line><span class=cl><span class=nx>time_series</span> <span class=p>=</span> <span class=p>[</span><span class=s2>&#34;P&#34;</span><span class=p>,</span> <span class=s2>&#34;D&#34;</span><span class=p>,</span> <span class=s2>&#34;lambda&#34;</span><span class=p>,</span> <span class=s2>&#34;u_s&#34;</span><span class=p>,</span> <span class=s2>&#34;Y&#34;</span><span class=p>]</span>
+</span></span></code></pre></div><p>I ran this plot and $Y$ is ok, it does vary with the cycle. So something
+about our model for debt $D_g$ is a bit weird somewhere else. After head
+scratching a bit I looked at the parameters, and like an idiot I&rsquo;d set the
+two rates equal! $i_G = r_T$. But that was an interesting lesson nonetheless,
+since you might want to think about how a government would choose the
+policy rates.</p><h4 id=the-challenge><a class=anchor href=#the-challenge title='Anchor for: The Challenge.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Challenge</h4><p><strong>?</strong> Maybe you could try writing a response function for the rates
+that prevents the increasing oscillation amplitude in the price level?
+(But also, why bother? If in our model a time unit is one year, then 45
+years out seems a bit too far to give a damn?) Hence, the key thing we&rsquo;d
+want to suppress is the cycle in the first place.</p><p>Well, you should bother since it&rsquo;s a good learning opportunity. We at
+least know damn well we have not used a significant degree of freedom,
+the government debt $D_g$. Why not use it to counter the cycle?</p><p>This makes it at least a mildly interesting observation that having
+$\dot D =0$ by policy design is not too destabilizing, but not terrific
+either. The cycle period lengthens, but the price level swings are
+intolerable, one must say. The price level never goes down so badly
+in he real world, and deflation is a real killer &mdash; exacerbates
+inequality badly (our model cannot see this yet, since we are not
+tracking sectoral savings).</p><p>A sure sign of a wrecking economy is <strong>Deflation</strong>. You want the
+price level always going mildly upwards, forever.</p><p>For more serious usage I&rsquo;d just fit the rates to empirical data, in lieu of
+knowing what goes on in government official head spaces. This is modelling
+on Keynes&rsquo; dictum: the best guide to the future is the near past.</p><p>OK, but how would you write some sort of stone cold mathematical ersatz
+for the approximation to policy psychology rate setting by government?</p><p>I&rsquo;m not up for tweaking the modelling at this stage, I&rsquo;m just getting
+software development done, so I&rsquo;ll leave this issue alone for now.
+This brings up the issue of the whole point of the exercise.</p><p><strong>Overall Nastiness:</strong> This toy economy has some bad positive eigenvalues,
+this is what makes the cycle amplitude grow, and at late times
+horrific unemployment. As a policy wonk seeing anything similar you&rsquo;d
+be thinking I need some negative eigenvalues to tame the cycles.</p><p>If I had the time, I&rsquo;d numerically compute the Jacobian matrix every
+few time steps, and compute the eigenvalues and plot them (add to the CSV).
+(Not every time step, since it&rsquo;s compute intensive.)</p><h3 id=point-of-the-modelling><a class=anchor href=#point-of-the-modelling title='Anchor for: Point of the Modelling?.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Point of the Modelling?</h3><p>Even this simple model could be useful. The art of it would be to find
+tweaks to the model that make just the government policy variables the
+only things that generate movements in prices. a bit of a hard task,
+for sure, but it&rsquo;s the Holy Grail of macroeconomics. Price stability
+with Full employment, and decent output per capita.</p><p>You might stand a better chance of doing this with a simpler model?
+It would then by policy wonk instructive, I&rsquo;d imagine.</p><p><strong>For Policy:</strong> well, we know the model is too primitive, but at least it
+shows why a monetary economy can be cyclical even with mild government
+support. What this implies is that government support needs to be
+stronger, not so mild.</p><p>Why? Well, I have not bothered reproducing the PK closed circuit model,
+but ProfKeen did that decades ago, and we know it is severely unstable,
+and has a clear Minksy Moment, that is unrecoverable. It is essentially
+a money hoarders model, and ends in total greed and disaster for workers,
+hence ultimately disaster for everyone, even the hoarders (a zillion
+dollars buys zero if output is zero).</p><p>This is because the model has no government sector at all. It&rsquo;s pure
+libertarian. It ends in dystopia, and you&rsquo;d have to imagine people
+somehow pick themselves up from the ashes of severe unemployment &mdash; by
+forming a government!</p><h3 id=refinement--03><a class=anchor href=#refinement--03 title='Anchor for: Refinement&ndash;0.3.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Refinement&ndash;0.3</h3><p><strong>Issue 1.</strong>
+We&rsquo;d rather not write an arbitrary Investment function, right? The level
+of investment should be determined by the interest rates. But in a
+government centred economy &mdash; like every nation today &mdash; the interest
+rate is a policy parameter. So we can just look-it-up from the RBNZ or
+FRED or wherever. The banker only needs a credit-worthy customer. This is
+good for us, it means we do not need to solve some awful market equilibrium
+problem.</p><p><strong>Issue 2.</strong> While I think the Two-Sector model is worth refining, and is
 a good one to use, it does not reveal much about the all important aspects
 of a nominal &ldquo;democracy&rdquo;, which is the Firm vs Worker conflict. It is a
 vitally nasty bit of the present neoliberal capitalist system. Bosses do
-not need to work to eat, Workers do. So,</p><blockquote><p><em>The labour market is an unfair game.</em></p></blockquote><p>One might even say grossly unfair, and it is not even a game, it is
+not need to work to eat, Workers do. So,</p><blockquote><div style="text-align:center;font-style:italic;margin-left:10%;margin-right:10%;margin:10px 0">The labour market is an unfair game.</div></blockquote><p>One might even say grossly unfair, and it is not even a game, it is
 life & death stuff. Hence important to model you might think?</p><p>I do so think.</p><p>Unfortunately, the painfulness of model complexity starts to rare its
 ugly time-sucking head. I need Godley Tables at this stage if for no
 other reason that to avoid $\pm$ sign mistakes. But also to ensure
@@ -627,7 +705,41 @@ and so,
 $$
 \mathcal{I}(\pi, D_g) = \mathcal{I}(\pi) - i_L F_L - i_d F_D +
 (1-s_g) i_gD_g
-$$</p><h3 id=justifying-no-foreign-sector><a class=anchor href=#justifying-no-foreign-sector title='Anchor for: Justifying No Foreign Sector.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Justifying No Foreign Sector</h3><p>As regards impact on the NZ economy, we are only concerned with NZ$.
+$$</p><p>OK, but this means we have to put $s_gi_GD_g$ somewhere else. Obviously in
+Firm and Worker deposits, $F_D$, $W_D$. But how much of the share? Should
+we just use the monopoly parameter $\sigma$ from before? Or add another
+knob to twiddle? Well, this depends on thee size of the firm I guess, so
+it will require a new parameter. But is is something we should have
+empirical data to guide us.</p><p>From the <a href=https://www.imf.org/external/datamapper/profile/NZL target=_blank>IMF datamapper</a>
+we can get $D_g$ and the interest paid on $D_g$.
+But not the sector breakdown, for which we might need to dig into RBNZ data.
+But in lieu of that, there is a split of all
+&ldquo;private debt, loans and securities&rdquo;. That might include Tsy securities,
+I am not sure, but the indicator or ratio aught to be a fair proxy for the
+share of government interest-income.</p><div class=scroll tabindex=0><table><thead><tr><th>Year</th><th>Debt, loans, securities</th><th>% GDP</th></tr></thead><tbody><tr><td>2023</td><td>Private</td><td>161.32</td></tr><tr><td></td><td>Household</td><td>91.61</td></tr><tr><td></td><td>Nonfinancial</td><td>60.71</td></tr></tbody></table></div><p>Let&rsquo;s conjure up a symbol for this ratio, say
+$$
+\sigma_G = 0.37
+$$
+for &ldquo;share of government interest-income (to firms)&rdquo;.</p><p><strong>Note:</strong> I will need to automate downloading these indicators. They are
+our &ldquo;weather data&rdquo;. I have not fetched from the IMF before. But is seems a simple API, just a URL that gets a JSON file, <a href=https://www.imf.org/external/datamapper/api/help target=_blank>instructions here</a>
+. For the indicator codes see: <a href=https://www.imf.org/external/datamapper/api/v1/indicators target=_blank>https://www.imf.org/external/datamapper/api/v1/indicators</a></p><pre aria-label="Box containing code sample." tabindex=0><code>TODO:
+Automate these downloads (annual cron job). 
+
+# &#34;Total stock of loans and debt securities issued by households and nonfinancial corporations as a share of GDP.&#34;
+https://www.imf.org/external/datamapper/api/v1//PVD_LS/NZL
+
+# &#34;Total stock of loans and debt securities issued by households as a share of GDP.&#34;
+https://www.imf.org/external/datamapper/api/v1//HH_LS/NZL
+</code></pre><p>Since the IMF table is two years behind, but the variation smooth, I think
+a simple cubic spline extrapolation is ok.</p><p>The ratio has changed over time:</p><img src=/ohanga-pai/images/PVD_LS_NZ.png alt="Private debt, loans and securities" style=width:800px><h4 id=other-deposit-and-loan-data-could-be-good><a class=anchor href=#other-deposit-and-loan-data-could-be-good title='Anchor for: Other Deposit and Loan Data (could be good).'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Other Deposit and Loan Data (could be good)</h4><p>Let&rsquo;s not clog up this chapter. I have another chapter on how to get
+some NZ economic data. A few series we will like are bank deposits,
+loans, and money aggregates. The RBNZ publishes these as xls
+spreadsheets. I will write some python scripts for retrieving these, which
+I will test over on the <a href=/ohanga-pai/empirical/100_00_nzecon/#bank-data-rbnz>data chapter</a>
+.</p><p>There are lots of nice looking series there, like Consumption (<strong>M2</strong> table)
+and Investment (<strong>M3</strong> table), and <strong>M9</strong>=labour market. <strong>M5</strong>=GDP. For
+our Godley Tables: bank liabilities=<strong>S40</strong>, which used to be <strong>C17</strong>
+before 2017 I think? and the bank assets=<strong>S34</strong> used to be <strong>S9</strong>.</p><h3 id=justifying-no-foreign-sector><a class=anchor href=#justifying-no-foreign-sector title='Anchor for: Justifying No Foreign Sector.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Justifying No Foreign Sector</h3><p>As regards impact on the NZ economy, we are only concerned with NZ$.
 But all trade balances can be converted to NZD, and New Zealand operates
 a floating exchange rate. So we care not about foreign flows of finance.
 They are part of the NZ economy at large.</p><p><strong>What we Lose?</strong><br>With this <strong>Three+1</strong> model we cannot model the impact of foreign capital flows
@@ -643,16 +755,22 @@ using empirical data, just like the Meteorological Office uses weather
 balloon and satellite data as inputs to revise weather forecasts.</li></ul><p>One way to kludge this is to have an arbitrary factor adjustment in the
 price level that does an &ldquo;all-in-one&rdquo; adjustment to all three above
 factors. Supposing we do this by just looking at the CPI, or PCE, then
-our model would be empirical and would be only &ldquo;good&rdquo; to a few weeks out.</p><p><strong>Issue 2.</strong>
-We&rsquo;d rather not write an arbitrary Investment function, right? The level
-of investment should be determined by the interest rates. But in a
-government centred economy &mdash; like every nation today &mdash; the interest
-rate is a policy parameter. So we can just look-it-up from the RBNZ or
-FRED or wherever. The banker only needs a credit-worthy customer. This is
-good for us, it means we do not need to solve some awful market equilibrium
-problem.</p><pre aria-label="Box containing code sample." tabindex=0><code>TODO
+our model would be empirical and would be only &ldquo;good&rdquo; to a few weeks out.</p><h3 id=government-debt><a class=anchor href=#government-debt title='Anchor for: Government Debt.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Government Debt</h3><p>To model government bonds, or $D_g$ we could simplify a bit, since
+we really only need to increase the effects of $i_B$ and $i_g$ to an
+equivalent effective $i^\ast_B$=interest
+on bank deposits. What I mean is,</p><blockquote><p>$i_B^\ast\cdot (F_D + W_D)$ is functionally the same as $i_B\cdot(F_D+W_D) + i_g\cdot D_g$.</p></blockquote><p>This is an extreme form of what Mosler says: banks are agents of the State.</p><p>This is because it is functionally the same whenever the
+government insures bank deposits, which maybe despite neoliberal threats, is
+typically the case these days post-GFC. The government bond is only
+different in that it gets booked as &ldquo;Government Debt&rdquo; rather than
+Bank Liabilities. In a stable country like NZ there is a legal and
+psychological difference, but no practical difference (except in behavioural
+response functions, which of course do matter, but we will not worry since we have
+no clue what the behaviours will be, yet).</p><p>The psychological difference is that government bonds are considered more
+secure, less risky. All the risk is at the margins for traders, and who
+cares for them? Not me. They&rsquo;re not the people feuling the real economy.
+()Actually we might care, since they are the parasites. But I will care later.)</p><pre aria-label="Box containing code sample." tabindex=0><code>TODO
 Use my PDFLaTeX notes.
-</code></pre><p>I think that&rsquo;s it, I think, for <code>mmm_0.3</code>. Try and see if it compiles and runs.</p><hr><p><strong>Exercise:</strong> Have a think about the need for a Foreign Sector? Is there
+</code></pre><p>I think that&rsquo;s it, I think, for <code>mmm_0_3</code>. Try and see if it compiles and runs.</p><hr><p><strong>Exercise:</strong> Have a think about the need for a Foreign Sector? Is there
 a need?</p><p>Hint: The MMT lens is perfectly good for &ldquo;highly macro&rdquo;, meaning we can
 have Two Sector Balance, just Government and Non-Government. What is the
 loss in using a Two Sector model?</p><p><strong>Reflections:</strong> In MMT unemployment is <em>defined</em> by:</p><blockquote><p><strong>(Unemployment)</strong> <em>People seeking to exchange their labour or goods
@@ -664,8 +782,8 @@ not own NZ things.&rdquo; You can add, &ldquo;&mldr; and who do not pay NZ taxes
 Big deal, whoop-dee-doo.</p><p>What&rsquo;s the downside then?</p><p>Obviously we will not have any iodea about international fincial flows,
 and FOREX and sop forth can be a source of parasitic wasteful human
 activity, so it might be nice to use a Three Sector model. But if we are
-not too worried about those flows, then we should not care.</p><h3 id=remarks-on-mmm-03><a class=anchor href=#remarks-on-mmm-03 title='Anchor for: Remarks on mmm-0.3.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Remarks on mmm-0.3</h3><h3 id=running-the-simulation><a class=anchor href=#running-the-simulation title='Anchor for: Running the Simulation.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Running the Simulation</h3><pre aria-label="Box containing code sample." tabindex=0><code>TODO
-</code></pre><h2 id=mmm-10-----slightly-more-monetary><a class=anchor href=#mmm-10-----slightly-more-monetary title='Anchor for: MMM-1.0 &mdash; Slightly More Monetary.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>MMM-1.0 &mdash; Slightly More Monetary</h2><p>The next job is the modify <code>mmm_0.3</code> to include an explicit Foreign Sector
+not too worried about those flows, then we should not care.</p><h4 id=running-the-simulation><a class=anchor href=#running-the-simulation title='Anchor for: Running the Simulation.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Running the Simulation</h4><pre aria-label="Box containing code sample." tabindex=0><code>TODO
+</code></pre><h2 id=mmm-10-----slightly-more-monetary><a class=anchor href=#mmm-10-----slightly-more-monetary title='Anchor for: MMM-1.0 &mdash; Slightly More Monetary.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>MMM-1.0 &mdash; Slightly More Monetary</h2><p>The next job is the modify <code>mmm_0_3</code> to include an explicit Foreign Sector
 and a Job Guarantee. Maybe I will go for the JG first. The Job Guarantee
 is the superior automatic stabilizer. We want to understand that this is
 indeed &ldquo;as advertised&rdquo;.</p><p>If not? Well, then either our model is bad, or our model is good but
