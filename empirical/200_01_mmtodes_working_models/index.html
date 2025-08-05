@@ -1,0 +1,164 @@
+<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>MMT-ODES Working Models — II | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/200_01_mmtodes_working_models/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="MMT-ODES Working Models — II"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/200_01_mmtodes_working_models/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>MMT-ODES Working Models — II</h1><p>Published on <time datetime=2025-07-24>2025-07-24</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><ul><li><a href=#refinement--03>Refinement&ndash;0.3</a></li><li><a href=#investment-31-sectors>Investment (3+1) Sectors</a></li><li><a href=#justifying-no-foreign-sector>Justifying No Foreign Sector</a></li><li><a href=#government-debt>Government Debt</a></li></ul></li><li><a href=#mmm-10-----slightly-more-monetary>MMM-1.0 &mdash; Slightly More Monetary</a></li><li><a href=#getting-to-pro-models>Getting to Pro Models</a><ul><li><a href=#time-periods>Time Periods</a></li><li><a href=#fetching-data>Fetching Data</a></li></ul></li></ul></nav></details><p>Preparing for a mmm-0.3 model, with Godley Tables, I wanted to also take a
+breif excursion into fetching empirical data, specifically for New Zealand,
+since I do not see much point i =n making the effort to model the banking
+operations without some realistic empirical inputs.</p><p>This turns out to be painful, since NZ does not have a nice facility like
+the St Louuis FED. In fact at presetn I get some betetr quality NZ data
+from the FRED.</p><h3 id=refinement--03><a class=anchor href=#refinement--03 title='Anchor for: Refinement&ndash;0.3.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Refinement&ndash;0.3</h3><p><strong>Issue 1.</strong>
+We&rsquo;d rather not write an arbitrary Investment function, right? The level
+of investment should be determined by the interest rates. But in a
+government centred economy &mdash; like every nation today &mdash; the interest
+rate is a policy parameter. So we can just look-it-up from the RBNZ or
+FRED or wherever. The banker only needs a credit-worthy customer. This is
+good for us, it means we do not need to solve some awful market equilibrium
+problem.</p><p><strong>Issue 2.</strong> While I think the Two-Sector model is worth refining, and is
+a good one to use, it does not reveal much about the all important aspects
+of a nominal &ldquo;democracy&rdquo;, which is the Firm vs Worker conflict. It is a
+vitally nasty bit of the present neoliberal capitalist system. Bosses do
+not need to work to eat, Workers do. So,</p><blockquote><div style="text-align:center;font-style:italic;margin-left:10%;margin-right:10%;margin:10px 0">The labour market is an unfair game.</div></blockquote><p>One might even say grossly unfair, and it is not even a game, it is
+life & death stuff. Hence important to model you might think?</p><p>I do so think.</p><p>Unfortunately, the painfulness of model complexity starts to rare its
+ugly time-sucking head. I need Godley Tables at this stage if for no
+other reason that to avoid $\pm$ sign mistakes. But also to ensure
+stock-flow consistency.</p><p>Our Model is now <strong>(Three+1)</strong>-Sector Model (sounds a bit Minkowski! Have
+we gone relativistic?),
+but still closed, or if you prefer:</p><blockquote><p><strong>Workers</strong> = All workers domestic and foreign, but wages in NZD.<br><strong>Firms</strong> = All firms domestic and foreign, dealing in NZD.<br><strong>Government</strong> = NZ Government.<br><strong>Banks</strong> = agents of the state, but still in the Godley Tables.</p></blockquote><p>So the Bank sector is the &ldquo;+1&rdquo;.</p><p>This way we do not need to worry about imports and exports, they are taken
+into account.</p><p>Although our Government does not explicitly insure <em>all</em> bank deposits,
+they have a track record in propping up commercial banks, so <em>for all
+intents and purposes</em> the banks are in the Government Sector, which is why
+I&rsquo;d call this a (3+1) model.</p><h3 id=investment-31-sectors><a class=anchor href=#investment-31-sectors title='Anchor for: Investment (3+1) Sectors.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Investment (3+1) Sectors</h3><p>The investment function can now be more complicated. We considered
+split private debt + loans. If we had two sectors suffering different
+interest rates they would just split the term into Loan and Debts,
+$$
+\begin{align*}
+\mathcal{I}(\pi, D) & = \mathcal{I}(\pi) - i_d D + i_g D_g\\
+\text{into},\qquad \mathcal{I} &= \mathcal{I}(\pi) - i_L F_L - i_d F_D + i_g D_g \\
+\end{align*}
+$$
+where $F_L$ are the Firm loans, and $F_D$ are the Firm debts. But this
+would very soon almost necessitate introducing Godley Tables to keep the
+loan and debt ledgers balanced, which means banking. I want to delay this
+modelling for now, so we will bookmark it as something to do.</p><p>As before, $D_g$ is government debt, so is the interest-earning asset of
+the Firms and Workers now. Though I was not sure if all of $D_g$ should go
+to Investment. Probably we should split this using a savings propensity,
+$s_g$. Then,
+$$
+\begin{align*}
+\Delta \mathcal{I} &\sim (1 -s_g) i_g D_g \\
+\Delta S &\sim s_g i_G D_g
+\end{align*}
+$$
+and so,
+$$
+\mathcal{I}(\pi, D_g) = \mathcal{I}(\pi) - i_L F_L - i_d F_D +
+(1-s_g) i_gD_g
+$$</p><p>OK, but this means we have to put $s_gi_GD_g$ somewhere else. Obviously in
+Firm and Worker deposits, $F_D$, $W_D$. But how much of the share? Should
+we just use the monopoly parameter $\sigma$ from before? Or add another
+knob to twiddle? Well, this depends on thee size of the firm I guess, so
+it will require a new parameter. But is is something we should have
+empirical data to guide us.</p><p>From the <a href=https://www.imf.org/external/datamapper/profile/NZL target=_blank>IMF datamapper</a>
+we can get $D_g$ and the interest paid on $D_g$.
+But not the sector breakdown, for which we might need to dig into RBNZ data.
+But in lieu of that, there is a split of all
+&ldquo;private debt, loans and securities&rdquo;. That might include Tsy securities,
+I am not sure, but the indicator or ratio aught to be a fair proxy for the
+share of government interest-income.</p><div class=scroll tabindex=0><table><thead><tr><th>Year</th><th>Debt, loans, securities</th><th>% GDP</th></tr></thead><tbody><tr><td>2023</td><td>Private</td><td>161.32</td></tr><tr><td></td><td>Household</td><td>91.61</td></tr><tr><td></td><td>Nonfinancial</td><td>60.71</td></tr></tbody></table></div><p>Let&rsquo;s conjure up a symbol for this ratio, say
+$$
+\sigma_G = 0.37
+$$
+for &ldquo;share of government interest-income (to firms)&rdquo;.</p><p><strong>Note:</strong> I will need to automate downloading these indicators. They are
+our &ldquo;weather data&rdquo;. I have not fetched from the IMF before. But is seems a simple API, just a URL that gets a JSON file, <a href=https://www.imf.org/external/datamapper/api/help target=_blank>instructions here</a>
+. For the indicator codes see: <a href=https://www.imf.org/external/datamapper/api/v1/indicators target=_blank>https://www.imf.org/external/datamapper/api/v1/indicators</a></p><pre aria-label="Box containing code sample." tabindex=0><code>TODO:
+Automate these downloads (annual cron job). 
+
+# &#34;Total stock of loans and debt securities issued by households and nonfinancial corporations as a share of GDP.&#34;
+https://www.imf.org/external/datamapper/api/v1//PVD_LS/NZL
+
+# &#34;Total stock of loans and debt securities issued by households as a share of GDP.&#34;
+https://www.imf.org/external/datamapper/api/v1//HH_LS/NZL
+</code></pre><p>Since the IMF table is two years behind, but the variation smooth, I think
+a simple cubic spline extrapolation is ok.</p><p>The ratio has changed over time:</p><img src=/ohanga-pai/images/PVD_LS_NZ.png alt="Private debt, loans and securities" style=width:800px><h4 id=other-deposit-and-loan-data-could-be-good><a class=anchor href=#other-deposit-and-loan-data-could-be-good title='Anchor for: Other Deposit and Loan Data (could be good).'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Other Deposit and Loan Data (could be good)</h4><p>Let&rsquo;s not clog up this chapter. I have another chapter on how to get
+some NZ economic data. A few series we will like are bank deposits,
+loans, and money aggregates. The RBNZ publishes these as xls
+spreadsheets. I will write some python scripts for retrieving these, which
+I will test over on the <a href=/ohanga-pai/empirical/100_00_nzecon/#bank-data-rbnz>data chapter</a>
+.</p><p>There are lots of nice looking series there, like Consumption (<strong>M2</strong> table)
+and Investment (<strong>M3</strong> table), and <strong>M9</strong>=labour market. <strong>M5</strong>=GDP. For
+our Godley Tables: bank liabilities=<strong>S40</strong>, which used to be <strong>C17</strong>
+before 2017 I think? and the bank assets=<strong>S34</strong> used to be <strong>S9</strong>.</p><h3 id=justifying-no-foreign-sector><a class=anchor href=#justifying-no-foreign-sector title='Anchor for: Justifying No Foreign Sector.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Justifying No Foreign Sector</h3><p>As regards impact on the NZ economy, we are only concerned with NZ$.
+But all trade balances can be converted to NZD, and New Zealand operates
+a floating exchange rate. So we care not about foreign flows of finance.
+They are part of the NZ economy at large.</p><p><strong>What we Lose?</strong><br>With this <strong>Three+1</strong> model we cannot model the impact of foreign capital flows
+on the government policy and price level. This is a major flaw in the event
+of a foreign monopolist marking-up their price, especially today Crude Oil.</p><p>OK, but we&rsquo;d have to manually adjust the Foreign Import price variable
+anyway, it&rsquo;s not a market reaction function easily modelled. Thus I&rsquo;m going
+to put off modelling the Foreign Sector and the exchange rate
+entirely until much later on.</p><p>Also, note we do not have a single exchange rate, the NZD floats with
+respect to all currencies. So this external sector modelling truly is
+a nightmare. It&rsquo;s just worth noting what analysis we lose as a result.</p><ul><li>No response to forex movements.</li><li>No response to import prices, especially crude oil.</li><li>No response to capital flows.
+So we will have to try to capture such variables in some other fashion, by
+using empirical data, just like the Meteorological Office uses weather
+balloon and satellite data as inputs to revise weather forecasts.</li></ul><p>One way to kludge this is to have an arbitrary factor adjustment in the
+price level that does an &ldquo;all-in-one&rdquo; adjustment to all three above
+factors. Supposing we do this by just looking at the CPI, or PCE, then
+our model would be empirical and would be only &ldquo;good&rdquo; to a few weeks out.</p><h3 id=government-debt><a class=anchor href=#government-debt title='Anchor for: Government Debt.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Government Debt</h3><p>To model government bonds, or $D_g$ we could simplify a bit, since
+we really only need to increase the effects of $i_B$ and $i_g$ to an
+equivalent effective $i^\ast_B$=interest
+on bank deposits. What I mean is,</p><blockquote><p>$i_B^\ast\cdot (F_D + W_D)$ is functionally the same as $i_B\cdot(F_D+W_D) + i_g\cdot D_g$.</p></blockquote><p>This is an extreme form of what Mosler says: banks are agents of the State.</p><p>This is because it is functionally the same whenever the
+government insures bank deposits, which maybe despite neoliberal threats, is
+typically the case these days post-GFC. The government bond is only
+different in that it gets booked as &ldquo;Government Debt&rdquo; rather than
+Bank Liabilities. In a stable country like NZ there is a legal and
+psychological difference, but no practical difference (except in behavioural
+response functions, which of course do matter, but we will not worry since we have
+no clue what the behaviours will be, yet).</p><p>The psychological difference is that government bonds are considered more
+secure, less risky. All the risk is at the margins for traders, and who
+cares for them? Not me. They&rsquo;re not the people feuling the real economy.
+()Actually we might care, since they are the parasites. But I will care later.)</p><pre aria-label="Box containing code sample." tabindex=0><code>TODO
+Use my PDFLaTeX notes.
+</code></pre><p>I think that&rsquo;s it, I think, for <code>mmm_0_3</code>. Try and see if it compiles and runs.</p><hr><p><strong>Exercise:</strong> Have a think about the need for a Foreign Sector? Is there
+a need?</p><p>Hint: The MMT lens is perfectly good for &ldquo;highly macro&rdquo;, meaning we can
+have Two Sector Balance, just Government and Non-Government. What is the
+loss in using a Two Sector model?</p><p><strong>Reflections:</strong> In MMT unemployment is <em>defined</em> by:</p><blockquote><p><strong>(Unemployment)</strong> <em>People seeking to exchange their labour or goods
+for tax credits.</em></p></blockquote><p>But wat&mldr; that means we do not need a Foreign Sector. Foreigners needing our government scorepoints are unemployed in our currency, which is a waste
+of human lives (or at least some sort of dopiness needing elimination &mdash;
+maybe the Aussies borrowed some NZD off us, for whatever silly reason).</p><p>Unemployment of NZ dollars is pointless, so we can really regard foreigners
+as part of our economy, they are &ldquo;Kiwis who do not live in NZ and do
+not own NZ things.&rdquo; You can add, &ldquo;&mldr; and who do not pay NZ taxes.&rdquo;
+Big deal, whoop-dee-doo.</p><p>What&rsquo;s the downside then?</p><p>Obviously we will not have any iodea about international fincial flows,
+and FOREX and sop forth can be a source of parasitic wasteful human
+activity, so it might be nice to use a Three Sector model. But if we are
+not too worried about those flows, then we should not care.</p><h4 id=running-the-simulation><a class=anchor href=#running-the-simulation title='Anchor for: Running the Simulation.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Running the Simulation</h4><pre aria-label="Box containing code sample." tabindex=0><code>TODO
+</code></pre><h2 id=mmm-10-----slightly-more-monetary><a class=anchor href=#mmm-10-----slightly-more-monetary title='Anchor for: MMM-1.0 &mdash; Slightly More Monetary.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>MMM-1.0 &mdash; Slightly More Monetary</h2><p>The next job is the modify <code>mmm_0_3</code> to include an explicit Foreign Sector
+and a Job Guarantee. Maybe I will go for the JG first. The Job Guarantee
+is the superior automatic stabilizer. We want to understand that this is
+indeed &ldquo;as advertised&rdquo;.</p><p>If not? Well, then either our model is bad, or our model is good but
+the JG does not function as advertised. That&rsquo;d be important to know!</p><p>I see it as a model test. You may not? As a model test the JG works by
+<strong>pure logic</strong>, so if our model does not produce an automatic stabilizer
+effect then our model will be wrong, and will need debugging.</p><p>Once we have confidence in the model, then the last task (for this course
+of study) will be to compare policies, like full JG versus full UBI.</p><h2 id=getting-to-pro-models><a class=anchor href=#getting-to-pro-models title='Anchor for: Getting to Pro Models.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Getting to Pro Models</h2><p>Just a quick note on what to do if you are a salaried professional, but
+have no experience in building ODES models.</p><ol><li>Take the Toy model and add whatever features you think necessary for
+more realism, which will not be computational no-gos; and remove bits of
+the model you think are superfluous.</li><li>Fetch relevant real world data for the government of interest. My minimum
+set currently is: (1) Unemployment (U6); (2) wage share; (3) output,
+(4) price level (CPI is only a rough approximant). Then we need the policy
+parameters: (5) interest rates (at least two); (6) tax rate (effective average).</li><li>Use parameter fitting tools, like Monte Carlo nonlinear regressions to
+get fits to your other model parameters and structural constants.</li><li>Needless to say, if you fitting was for 2023-Q1 data, then your
+testing needs to be for 2024-Q1, and then your forecasting can be made
+for 2025-Q1.</li></ol><h3 id=time-periods><a class=anchor href=#time-periods title='Anchor for: Time Periods.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Time Periods</h3><p>I have no idea yet, but I think it&rsquo;d be unwise to run an MMT model for
+more than a quarter of the next year. But the idea would be the model has all
+four quarterly parameter adjustments. So we&rsquo;d be able to in a single
+run integrate the ODE for 12 months. Any longer is mere <strong>policy analysis</strong>
+(the &ldquo;what if&rsquo;s&rdquo;), not <strong>not forecasting</strong>.</p><h3 id=fetching-data><a class=anchor href=#fetching-data title='Anchor for: Fetching Data.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Fetching Data</h3><p>The USA is the best studied case, since the FRED have all the empirical data
+you would need to get a nice fit. Maybe also the EU as a whole? Maybe also
+the UK? But I have not looked into other nations. Fetching time series
+from the OECD and BIS portals can be automated, just not as smoothly as
+with the FRED.</p><p>For NZ I could not find good Treasury Statements except form the NZ Treasury
+XLS spreadsheets. StatsNZ is too cumbersome, and does not have the Treasury
+data in any convenient form I can find.</p><p>If you want to develop some neural net predictors in parallel with ODES
+models then banking sector data can be useful, but again our RBNZ does not
+have a seamless portal for fetching this data from what I can tell.</p><p>Part of the problem here is that I am only doing this as an unpaid
+volunteer, working &ldquo;for the community&rdquo; (I am my own boss, and I raise my
+pay by 100% every year). If some pro time were devoted to the effort then
+perhaps we could build a nice MMT data portal for NZ.</p><table style="border-collapse:collapse;border=0"><col span=1 style=width:20%><col span=1 style=width:20%><col span=1 style=width:20%><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../200_00_mmtodes_working_models>Previous chapter</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=../>Back to</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../>Next chapter</a></td></tr><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../200_00_mmtodes_working_models>MMT ODE Models — I</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=../>TOC</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../>(TBD)</a></td></tr></table></article></main></div><footer><div class=req-js><button class=outline-dashed title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#adjust"/></svg></button><input class=outline-dashed type=color list=presets value=#1585d5 title="Change accent color." aria-label="Change accent color."><datalist id=presets><option value=#1f676b><option value=#1585d5><option value=#225670><option value=#dd587c><option value=#902b37><option value=#f3a530><option value=#754e85><option value=#7fc121><option value=#a8314a><option value=#ff7433><option value=#3e6728><option value=#c063bd><option value=#805080><option value=#9d629d><option value=#a064a0><option value=#7daa50><option value=#284531><option value=#285790><option value=#F5A83D><option value=#88aa33><option value=#015660><option value=#bf274e><option value=#bf4242><option value=#51b37c></datalist></div><noscript><p class=noscript>Unable to execute JavaScript. Some features were disabled.</p></noscript></footer><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.6950e59dbd8dfddd111390d85888bb5f9dc2e9c334da7ac1c3bacc92a695610d.css integrity="sha256-aVDlnb2N/d0RE5DYWIi7X53C6cM02nrBw7rMkqaVYQ0=" crossorigin=anonymous><script defer src=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.4268ce940bc6faa510d7b638acc3f08a63501d9504dd3155bfc48d6838ade320.js integrity="sha256-QmjOlAvG+qUQ17Y4rMPwimNQHZUE3TFVv8SNaDit4yA=" crossorigin=anonymous></script>
+<script defer src=https://smithwillsuffice.github.io/ohanga-pai/js/katex-custom-render.min.cdeaf561a454e015b169c385f95c72d57d41f906a9bc4100636b18e1e4c15da3.js integrity="sha256-zer1YaRU4BWxacOF+Vxy1X1B+QapvEEAY2sY4eTBXaM=" crossorigin=anonymous></script></body></html>
