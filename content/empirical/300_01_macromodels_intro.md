@@ -1,6 +1,6 @@
 ---
 title: "Macromodels I --- Introduction"
-weight: 9
+weight: 10
 date: 2024-12-08
 toc: true
 katex: true

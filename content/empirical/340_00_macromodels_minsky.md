@@ -1,6 +1,6 @@
 ---
 title: "Macromodels XL.0 — Minsky"
-weight: 16
+weight: 17
 date: 2024-12-09
 toc: true
 katex: true

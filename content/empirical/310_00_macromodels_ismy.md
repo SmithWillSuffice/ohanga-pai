@@ -1,6 +1,6 @@
 ---
 title: "Macromodels X.0 — IS-MY"
-weight: 13
+weight: 14
 date: 2024-12-09
 toc: true
 katex: true

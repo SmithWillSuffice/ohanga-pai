@@ -1,6 +1,6 @@
 ---
 title: "Macromodels XX.0 — DSGE"
-weight: 14
+weight: 15
 date: 2024-12-09
 toc: true
 katex: true

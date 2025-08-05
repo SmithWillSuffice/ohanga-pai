@@ -1,6 +1,6 @@
 ---
 title: "Macromodels I.3 — IS-LM"
-weight: 12
+weight: 13
 date: 2024-12-09
 toc: true
 katex: true
@@ -177,7 +177,7 @@ Possibly leading to extinction of your species.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../310_00_macromodels_dsge">Next chapter</a></td>
+<a href="../320_00_macromodels_dsge">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -185,7 +185,7 @@ Possibly leading to extinction of your species.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../310_00_macromodels_dsge">MM—X.0, DSGE</a></td>
+<a href="../320_00_macromodels_dsge">MM—X.0, DSGE</a></td>
 </tr>
 </table>
 
