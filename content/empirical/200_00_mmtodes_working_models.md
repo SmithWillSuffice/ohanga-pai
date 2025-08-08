@@ -1145,20 +1145,163 @@ all = true
 But you have to recompile the Julia, and get new CSV files
 ```bash
 ./generate_julia_odesolver.py mmm_0_2
-
 ```
 This should generate an additional CSV file `./models/<model_mame>_eigen.csv`, 
 so in our case, I have a little custom `htail` bash script:
+```bash
+htail models/mmm_0_2_eigen.csv
 ```
-$ htail models/mmm_0_2_eigen.csv
+(you just do a: `head $1; echo "..."; tail $1;`).
+
+Alright. Now for the homework. Did you do any?
+
+Where's my army of grad students?
 
 
-```
+### Homework mmm-0.2
+
+Seriously, I really hate to muck around with toy models. Can't we just 
+get a move along? On the other hand, I always feel under-educated... in 
+_everything_ dammit! Because I never dig deep into homework exercises.
+So maybe this time?
+
+What I wanted to do is just have at least one go at stabilizing the mmm-0.2 
+system.  But there are so many modification choices, and I'm far too lazy to 
+look at the equations and figure out what causes the large eigenvalues.
+Oh yeah, for total n000bs, I guess I should mention why the project software 
+saves the eignevalues every dozen or som time steps.
+
+In ODE systems the eigenvalues you might compute are those of the Jacobian 
+matrix --- the matrix of partial derivatives.
+
+#### Stability analysis
+
+In the context of ordinary differential equation (ODE) systems, the Jacobian 
+is the matrix of partial derivatives of the vector field defining the system, 
+with respect to the state variables --- not with respect to time. For a system:
+$$
+\frac{d\mathbf{x}}{dt} = \mathbf{f}(\mathbf{x}, t)
+$$
+the Jacobian $$J$$ is defined as:
+$$
+J_{ij} = \frac{\partial f_i}{\partial x_j}
+$$
+This matrix summarizes how small changes in each variable affect the 
+instantaneous rate of change of the others. This might (hopefully) tell you 
+fairly intuitively that:
+- **If all the real parts of the eigenvalues are negative at all times**, the system is locally stable at each instant (linear stability).
+- **If any eigenvalue crosses such that its real part becomes positive**, instability is present at those times.
+
+**Where to Draw "Stability Threshold" Lines?**<br>
+For continuous-time ODE systems, the _stability threshold_ is at 
+$\text{Re}(\lambda) = 0$. We thus draw a horizontal line at zero on the 
+real axis of the eigenvalue plot to mark this boundary: eigenvalues above the 
+left ($\text{Re}(\lambda) =0$) indicate trajectory "growth" (instability).
 
 
+What Does This Imply? Well, _negative real parts_ of eigenvalues mean that 
+any small disturbance away from the current position will 
+decay back toward that point_ over time. More mathematically, for a linear 
+(or linearized) ODE system near an equilibrium point, solutions behave like
+$$
+  \mathbf{x}(t) \sim e^{\lambda t}
+$$
+where $$\lambda$$ are the eigenvalues of the Jacobian. If 
+$\text{Re}(\lambda) < 0$, $e^{\lambda t}$ shrinks to zero as $t$ increases, 
+so perturbations die out.
+
+**Connection to the Phase Space Trajectory $(y_i, t)$**<br>
+
+- **Boundedness**: If you start near the equilibrium, the trajectory will 
+not spiral out to infinity. Instead, it will be attracted back toward the 
+equilibrium point --- possibly spiraling or oscillating inward, depending 
+on the eigenvalues’ imaginary parts.
+- **Local, not global**: This conclusion is strictly local --- it applies 
+in a neighborhood where the linear approximation by the Jacobian is valid. 
+Nonlinearities away from the point could allow other behaviors far from 
+equilibrium.
+
+**Physical Intuition**<br>
+You can picture the phase space like a landscape: when all eigenvalues’ 
+real parts are negative, the equilibrium is like a bowl --- if you nudge 
+the system, it slides back into the bowl. The actual path taken (the 
+$(y_i, t)$ trajectory) will always tend toward the equilibrium, and small 
+deviations don’t grow but shrink, keeping the phase space paths 
+bounded near the equilibrium.
+
+**In summary:** <br>
+The sign of the real parts of the Jacobian’s eigenvalues determines whether trajectories near an equilibrium are _pulled back_ (negative: stable, bounded) 
+or _pushed away_ (positive: unstable, possibly unbounded). All negative 
+real parts means locally, trajectories are attracted back, and the system 
+is locally bounded around that equilibrium.
+
+#### Stability for mmm-0.2
+
+THis is not a general stability analysis, I would not know how to do that 
+for a system of even this simplicity. A real nerd is needed for that. All 
+someone (the "we") of "our" ability can probably do within a human day is 
+got some numerical results to peek at for fixed parameters. So "the model" 
+is here not the ODE system, but the **ODE's + Specific Initial Conditions!**
+
+FOr my (perhaps silly) defaults --- since i have not thought much about sensible values --- I get eignevalue plots as shown:
+
+{{<mmm_0_2_stability_defaults>}}
+
+Apologies for the small fonts there. 
+The <font style="color: indianred">red dashed line</font> is the threshold, 
+so this model is very unstable. No chance it will equilibriate. 
+Don't tell the Prime Minister!
+
+In the real world, this means government will have to "meddle" and fiddle 
+around to make domestic policy adjustments. C'mon bro! As if the Tories 
+don't really do that all the time.
+
+But you'll see at proper magnification, the maximum real eigenvalue is 
+below 1.0 up until around $t=33.0$ time units. I think we can say that's 
+_years_ since our flows are \$ per year.  However, supposing some sort of 
+scale invariance, I guess with a squint of your eyes you could imagine we 
+re-parameterized time to weeks or months. The time scale is still fairly 
+comfy for government policy responses to avoid the cycles, if the politicians 
+wanted to do so. 
+
+The real world political issue is they seem to never want to, and have become 
+trained Monkeys, lassez faire is the only item on the buffet menu for our 
+generation's X-Gen and Boomer hold-out nasties in Parliament.  So if we imagine 
+convincing them our model is a little bit of a hint, do you think they'd 
+reduce tax and raise spending? (Like they aught to... I mean morally so.)
+
+Speaking of time reparameterization: in the next upgrade to mmm-0.3 we will introduce proper banking flows and some time constants, so these will be 
+implictly dimensioned by empirical fitting. For example, you should find 
+I introduce $\tau_P$ as a price response characteristic time, and a few 
+other time constants. The numeric values of these parameters have to be 
+given a unit. Although I am not using model Typing, we'll just claim the 
+units will be in _years_ I think.  So $\tau_P = 0.25$ is (will be) a quarterly 
+(4-month) response time. 
 
 
+Hence, in this light, our silly model is only midly horrific.  After 2 years 
+we reach 46% unemployment.
 
+I guess you might say, yeah, but that's realistic, since in the real world 
+40% of all jobs are ꕗꖹꝆꝆꕷꖾꕯꖡ.  And I probably would not argue. Today with 
+U6 around 6% or whatever, we probably _are_ at 44% unemployment effectively.
+(This is just an ideological remark.)
+
+We do not have proper $\lambda$ cycles in NZ, nor anywhere in any nation 
+I know of, since government policy variables are strnger than in our model 
+(many automatic stabilizers), and are always being adjusted. But 
+here's a recent time series:
+
+{{<nz_unemployment_statsnz_2025_07>}}
+
+We have to stabilize our model in any case, or at least try for 
+educational purposes. 
+
+#### Homework Problem
+
+What to do? Look, I'm no expert on MMT models just yet, I don't have that 
+Ramanujan mystical feel for them --- _A Friend of the Dynamical Variables._ 
+I doubt anyone in the world is really.
 
 
 
