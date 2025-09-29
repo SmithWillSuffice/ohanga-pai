@@ -23,19 +23,22 @@ and half serious 𝓐𝓕.
 
 🤖 
 
-In related: I’ve read nominal lefities recently tout “Ai” as a human boon, 
+In related: I’ve read nominal lefties recently tout “Ai” as a human boon, 
 claiming we are just not getting tech right because of “techno conservatism”. 
 Sure, sure, bro. But nah. 
 
-I am not afraid of technology,I am afraid of what people can do when they 
-hoard power. I guess techno conservatives exist. But these are not luddites. 
+I am not afraid of technology, I am afraid of what people can do to us 
+“little people” when they hoard power.  (Lilliputians/Jonathan Swift, all 
+that classic metaphor hitting us in the face still, a century later).
+
+I guess techno conservatives exist. But these are not luddites. 
 Many so-called 
 [Luddites](https://www.historic-uk.com/HistoryUK/HistoryofBritain/The-Luddites/) 
 broke equipment mainly for protest, not because they feared technological 
 change. It was the “boss” forcing them into dehumanizing work that was the 
 issue, not “the machines”.
 
-The pomo/modernist dumb-dumb leftie use of "Luddite" as a term for 
+The pomo/modernist dumb-dumb liberal-normie use of "Luddite" as a term for 
 technophobes misrepresents the original movement; the historical Luddites 
 were skilled individuals who understood technology but resisted its use 
 to disenfranchise workers. 
@@ -119,6 +122,7 @@ you are no less 𝘤🅁🅴𝙩ⓘ𝕟ous than Burrhus F. Skinner. Does anyone 
 that ꖀ𐝥ꗍꖡꕯꖦ? Seems memory is short among the techno-optimists.
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -131,7 +135,7 @@ that ꖀ𐝥ꗍꖡꕯꖦ? Seems memory is short among the techno-optimists.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../107_bondage_and_dissdafins">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -139,6 +143,6 @@ that ꖀ𐝥ꗍꖡꕯꖦ? Seems memory is short among the techno-optimists.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../107_bondage_and_dissdafins">Bondage And Dissdafins</a></td>
 </tr>
-</table>
+</table></table>
