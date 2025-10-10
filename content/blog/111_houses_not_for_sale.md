@@ -101,6 +101,12 @@ but if they can conjure up nice houses for all people, then that is what we all
 can have. I would say in New Zealand, that is a pretty nice home, better 
 than what I've ever had.
 
+Private construction firms can compete openly for the public contracts, and 
+all that stuff. There's still a market underneath where it needs to be. 
+Has to open so political favourtism shenanigans do not ensue. (Or, just 
+organize to get decent people into government... but... you know... they'd 
+keep it open and transparent anyway.)
+
 No permits for McMansions then, unless everyone can get an energy sustainable 
 McMansion. But the government can always permit very nice homes, maybe 
 apartment block (let's keep it real), but, you know, apartment block can be 
