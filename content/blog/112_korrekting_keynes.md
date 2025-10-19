@@ -7,7 +7,7 @@ draft: false
 katex: true
 ---
 
-What's wrong with mmT?
+What's wrong with MMT?
 
 Nothing _per se_.
 
@@ -187,6 +187,19 @@ gold, if you don’t then you will appear unfathomably 𖨚𖢧ꚶ𖡮𖥣𖦧�
 I do understand the source of your 𖨚𖢧ꚶ𖡮𖥣𖦧𖥣ity, so maybe not completely 
 unfathomable.
 
+What does all this apparent nihilism mean?
+
+Not sure about you, but to me it means anti-nihilism is paramount, it means 
+we can never give up on MMT education, because it is a cold hard unemotional 
+detached lens needed to inform wise and caring policy. 
+But we may not get wise policy even if the power elites comprehend MMT, 
+because out of diseased greedy minds no good policy will bubble.
+
+We can do good things. We have. I was just listening to U Thant's son the 
+other day talking about how the United Nations almost used to function pretty 
+well, like actually preventing wars. 
+
+
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
@@ -200,7 +213,7 @@ unfathomable.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../113_murph_turf">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -208,6 +221,6 @@ unfathomable.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../113_murph_turf">Murph Turf</a></td>
 </tr>
-</table>
+</table></table>
