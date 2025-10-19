@@ -7,12 +7,12 @@ draft: false
 katex: true
 ---
 
-There is a nice Spahghetti Leftist Trilogy from Richard Murphy. 
+There is a nice Spaghetti Leftist Trilogy from Richard Murphy. 
 I will add just a few margin comments for the record. Please do check out his monologues for yourself and for reference, they are good.
 
 1. [The Neoliberal Bubble Bust](https://www.youtube.com/watch?v=VIdhnKskSh8)
-2. [The AI/Crypoto Bubbles](https://www.youtube.com/watch?v=9oP9HPhB-VI)
-3. [The Trump Poltiiical Bubble](https://www.youtube.com/watch?v=tNTnh32nvGQ)
+2. [The AI/Crypto Bubbles](https://www.youtube.com/watch?v=9oP9HPhB-VI)
+3. [The Trump Political Bubble](https://www.youtube.com/watch?v=tNTnh32nvGQ)
 
 
 ## Comments on the Trump Bubble
@@ -84,14 +84,14 @@ Some things are illegal for a reason.
 
 I can understand regulating recreational drugs. It makes a more peaceful 
 subculture, young rich kids no longer supporting South American and 
-Asian murder catels.  But some drugs should not be legal.
+Asian murder cartels.  But some drugs should not be legal.
 
-In a liberal demcoracy or social democracy, I think we have to tolerate 
+In a liberal democracy or social democracy, I think we have to tolerate 
 the propensity of some people to do ꕷꖡꖹꘝꕯꕒ things.  We do not have to 
 encourage and endorse them!  If a King or Emperor tries too regulate all 
 behaviour under the pretense of "protecting the common good" then I call 
 that a spiritual death. It's not living. You are not truly alive if you have 
-no capacity for trungin ꕷꖡꖹꘝꕯꕒ thoughts into ꕷꖡꖹꘝꕯꕒ deeds.  The whole point 
+no capacity for turning ꕷꖡꖹꘝꕯꕒ thoughts into ꕷꖡꖹꘝꕯꕒ deeds.  The whole point 
 of spiritual growth is to learn to have betetr thoughts, as well as better 
 deeds, the latter will follwo from the former. If you have no such capacity 
 your are either dead, or a robot.
@@ -162,7 +162,7 @@ We already run MMT systems. The correct reich-wing framing is that they
 want *fiscal flows* in–out of Gov to net to zero.  Totally different to 
 "balancing the books".
 
-He mentioend that we can design an economy that gorws wages, not just empty 
+He mentioned that we can design an economy that gorws wages, not just empty 
 statements about growing GDP".  I wrote,
 
 > @5:14 no, no no, — _no_ to "growing wages".  Yes to "growing **real** wages". 
@@ -172,7 +172,7 @@ A follow-up:
 
 > Inflation is neither good nor bad, it all depends on how it was generated. 
 It can be good by design  — increase the floor wage with a Job Guarantee 
-continual upwards adjustment. This achieves what all soi dissant lefties say 
+continual upwards adjustment. This achieves what all _soi dissant_ lefties say 
 they want — a wealth tax on hoarded tax credits.  Are they prepared to back 
 it for real then, even if it is "too easy" being by de facto ?  Or are they 
 all going to become right wing Thatcherites again and cry about inflation? 
@@ -188,17 +188,17 @@ I'm just here to promote true knowledge, nto false psychology. But my all
 means, if you think it serves justice then continue to spew lies.
 
 In my corner of spiritual geekdom, a lie is never going to lead to justice. 
-There is some sort of metaphirical principle behind that, no dout wrapped up 
-in why and how we are conscious snetient Beings. But that's a whole different 
-blog site.  **SPiritual econmics** is what Richard Murphy preaches, and it is 
-good. All it means is promoting and acting for love, compoasison, kindness, 
+There is some sort of metaphorical principle behind that, no doubt wrapped up 
+in why and how we are conscious sentient Beings. But that's a whole different 
+blog site.  **Spiritual econmics** is what Richard Murphy preaches, and it is 
+good. All it means is promoting and acting for love, compassion, kindness, 
 honesty, wisdom and justice... and yes, mercy even for the "wicked" (a 
 relative concept, glass houses, stones, and all that).
 
 Richard is one of the few MMT'ers I know who promote spiritual economics, 
-and that's what Ōhanga Pai was suppsoed to be about. You have to however take 
-some liguistic turpentine, isopropal, waterjet, &c., to cleanse my blogs of 
-the cusswords to reveal the gems.  Richard is nmore striahgt-up and boring, 
+and that's what Ōhanga Pai was supposed to be about. You have to however take 
+some syntactic turpentine, isopropal, waterjet, &c., to cleanse my blogs of 
+the cusswords to reveal the gems.  Richard is more straight-up and boring, 
 the Monty Chartered Accountant of Dirtbag spiritual MMT. It's a good thing. 
 
 
