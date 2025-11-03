@@ -17,7 +17,7 @@ your bank account when you pay the tax due.</font>
 Our central bank, the RBNZ, mediates inter-bank payments clearing, so your 
 local supermarket does not have to care your bank is different to theirs.
 
-**Is it signifantly different to other countries?** <br>
+**Is it signifantly different to other countries system?** <br>
 <font style="color: palegreen">No.</font>
 
 
