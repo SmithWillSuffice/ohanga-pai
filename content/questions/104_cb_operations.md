@@ -44,7 +44,7 @@ goes away.</font>
 **Do local councils still need to impose rates and levies?**<br>
 <font style="color: palegreen">Yes. For now, since the NZ central government 
 is not block grant funding the councils, They should be block grant funding 
-the counciks though --- to remove all the waste of effort fighitng the rate 
+the councils though --- to remove all the waste of effort fighting the rate 
 payers who are being gutted in order to fund scorepoint impoverished 
 councils </font><font style="color: tomato">--- to eliminate the need for 
 local council fees, fines and levies, which serve no 
