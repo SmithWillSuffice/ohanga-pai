@@ -70,10 +70,10 @@ Here is Morgan's response: ---
 
 ---
 
-I’ve attached Callaghan 2023 (apologies - cocked up the the title: 
-[How the Reserve Bank Implements Monetary Policy]()) and the LSAP review 
-Note that the review is just a crock of shit (as you’ll see) and that 
-Karen Silk’s speech (Monetary Policy Implementation in New Zealand) is good too.
+I’ve attached Callaghan 2023, 
+[How the Reserve Bank Implements Monetary Policy](https://www.rbnz.govt.nz/-/media/project/sites/rbnz/files/publications/bulletins/2023/how-the-reserve-bank-implements-monetary-policy.pdf) and the LSAP Review Note that the review is just a 
+crock of shit (as you’ll see) and that Karen Silk’s speech (Monetary Policy 
+Implementation in New Zealand) is good too.
  
 Frazer 2004 is the best you’ll find on ‘software implementation’ (i.e., 
 mechanics of government finance) – although I think there is a slight mistake 
@@ -93,7 +93,7 @@ position must remain positive). Note here too that departmental and Crown
 bank accounts at the Westpac Government Branch are on the Treasury’s balance 
 sheet --- not Westpac’s (I’ll come back to this soon). 
 
-> The CSA are the Crown Cash Settlement Accounts.
+> The CSA are the Crown Settlement Accounts.
 
 Our left-brain-only friends have been duped by New Public Financial 
 Management --- they’re ignoring the complicated institutional processes that 
