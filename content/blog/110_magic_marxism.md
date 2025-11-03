@@ -347,6 +347,40 @@ They are not nice people. That is the crux of it. It is not a macroeconomics
 or political economy issue _per se_.  **It is a moral issue, a spiritual issue.**
 
 
+## How to Raise Class Consciousness?
+
+For most leftists, I would imagine, the lack of class consciousness among 
+workers (people who for whatever reason need or want to sell their labour 
+time, but do not own the business aka. "means of production")  is the major 
+problem with modern political economy. The power elite and the general petite 
+bourgeois actively try to prevent this conscisouness from being raised, in 
+all manner of ways, from schools to lobyists and think tank whitepapers, to 
+right-wing NGO's to (fake)left-wing-centrist NGO's, to advertising, to the 
+media and entertainment cartels.
+
+Reed points out Magic Marxists are not helping, since they all think 
+‘scientific’ forces (magical thinking)will automatically raise class 
+consciousness via historical materialist necessity or dynamics. In this 
+sense, most Marxists (who are materialists)) share more in common with the 
+Silicon valley NerdReich than with myself. ("We are just wetware machines, 
+so machines can also be conscious.")
+
+Reed asks, "How does consciousness arise form class position?"
+
+He implicitly is saying that this requires acts of human will, organization, 
+education, mobilization.  He accuses Magic marxists (scientific socialists) 
+of failing to grasp these hard cold concrete realities. 
+
+Whether actual people who conform to Reed's stereotypical Magic Marxists 
+exist around us is, to me, a moot point. Whether such people are polluting 
+the discourse or not, when you hear them, then maybe take it upon yourself 
+as a public duty to debunk them --- for the purpose of actively raising class 
+consciousness!  Neoliberal rentiers never miss a chance to profit from a 
+crisis.  A good leftipol should never miss an opportunity to help others profit 
+from a magical thinker.
+ 
+
+
 ## Last Words
 
 I'll let Reed have the last words, and spare you needing to read his whole 
@@ -355,7 +389,7 @@ long-winded can-you-plz-get-to-the-point essay. It wraps things up, and his
  
 It's just that _one of the weaponized lies_ is a critical one that Reed 
 has missed, the myth of mainstream macroeconomics, that the government 
-<font style="color: #ff6347">"Needs to find the money, so has to either tax or borrow."</font>  Unless that myth is busted --- in the minds of the workers 
+<font style="color: #a0785a">"Needs to find the money, so has to either tax or borrow."</font>  Unless that myth is busted --- in the minds of the workers 
 who are prepared to organize --- the efforts Reed urges us undertake could be utterly in vain. Not only is 
 <font style="color: #3cb371 ">grass roots labour organization</font> needed, but an educational layer 
 needs laying first --- or in parallel, since why wait for the learning, we 

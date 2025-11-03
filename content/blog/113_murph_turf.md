@@ -203,6 +203,7 @@ the Monty Chartered Accountant of Dirtbag spiritual MMT. It's a good thing.
 
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -215,7 +216,7 @@ the Monty Chartered Accountant of Dirtbag spiritual MMT. It's a good thing.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../114_fuuundamentality_of_technology">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -223,6 +224,6 @@ the Monty Chartered Accountant of Dirtbag spiritual MMT. It's a good thing.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../114_fuuundamentality_of_technology">Fuuundamentality Of Technology</a></td>
 </tr>
-</table>
+</table></table>
