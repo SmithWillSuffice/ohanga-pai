@@ -76,7 +76,7 @@ crock of shit (as you’ll see) and that Karen Silk’s speech (Monetary Policy
 Implementation in New Zealand) is good too.
  
 Frazer 2004 is the best you’ll find on ‘software implementation’ (i.e., 
-mechanics of government finance) – although I think there is a slight mistake 
+mechanics of government finance) --- although I think there is a slight mistake 
 in the settlement cash box (box 2, p. 6). Primarily, the end of day balance of 
 the Treasury’s ESAS account (equivalent to the daily sum of consolidated 
 cash flows in accounts at Westpac Government Branch minus whatever else NZDM 
