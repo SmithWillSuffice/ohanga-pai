@@ -7,7 +7,8 @@ draft: false
 katex: true
 ---
 
-So much to write, so few keystrokes to spare. 
+So much to write, so few keystrokes to spare. Main thing today to get off 
+the mind is USAID. Read onwards...
 
 ## The Tangled Webbs of Transparent Deceit
 
@@ -16,14 +17,37 @@ several more, but let's not name drop) will know of how the
 US deep state is a misnomer. There is a state within a state, just as 
 Angleton's CIA within the CIA. But it is global in span. The US empire is 
 global. The USA is a convenient geographic hub because it is the ideal place 
-to run organized crime and criminal sub-government enterprises.
+to run organized crime and criminal sub-government enterprises. Liberal 
+society free from democratic constraint, bought judges, bought cops, a terrific 
+open ground for mafia deep state apparatus to gain purchase. Literally, given 
+the real estate opportunities, as well as the drug-taking purchase from the 
+USA upper-middle class, and the real estate bonanzas ---  all _beside_ all 
+the oil & coal and gambling.
+
+The best mafia playgrounds are these, the superficial liberal societies 
+where "freedom" is touted as superior to justice, and justice is a thin 
+to nonexistent veneer.
 
 I've got a message though for good honest people in government positions, 
 which is; do not feel you are complicit, speak out, whistle blow, don't shy 
 away from exposing the corruption in the system you are a part of, and do not 
 fear for losing your salary. I'd cite 
 [Sibel Edwards](https://sibeledmonds.com/) as a good exemplar, she 
-only spent about one year in the FBI before realizing she had to whistleblow.
+only spent about one year in the FBI before realizing she had to whistleblow. 
+She's not living on homeless row as a result.
+
+When you are working for a State within a state within a state you'd be 
+mad for thinking you are somehow "aiding and abetting". No. You can easily 
+be part of the good, by warning of the bad, and in all sorts of ways can act 
+as a canary in a proverbial coal mine, or even more courageous efforts. If 
+you have fond an honest calling in government, i say stick with it, but stop pretending there is no rot underneath. In particular, know that neoliberalism 
+is open transparent rot, so you can always work on destroying that crud. 
+Totally positive effort if you succeed in whatever small way you can.
+
+Start with educating your constituents that their tax dollar is funding the 
+private sector, not the government sector, and so they've previously 
+misunderstood the nature of state currency, and had it all completely 
+backwards. (A source of untold great suffering in the past and to this very day.)
 
 Although Edmonds and Aaron have a lot of content behind paywalls, those with 
 the means aught to support them because they trickle out a bit of free tier 
@@ -151,9 +175,106 @@ spokespeople, always, nothing more.
 The best thing about Jeremy Corbyn (2016 version), was not Corbyn, it was 
 the idea of enabling worker cooperatives. 
 
+## Is Mr X an Intelligence Plant?
+
+There's a good little moment on [The Devil’s Chessclub](https://youtu.be/ePP6Koc9KPM?t=1730) where Aaron points out that it does not matter whether some mainstream 
+media stooge or liberal-leftist leader is a CIA plant or not. Sometimes it'd 
+be better if they were, since it is harder to fathom why anyone of their own 
+free will would be such a traitor to the working class.
+
+Think of Joy-Ann Reed --- everyone crying over how she was viciously ousted 
+from MSNBC. But what was Reed doing back in the day when Bernie had a chance 
+to get assassinated?${}^\dagger$  She _did not have to_ get the CIA drug money, 
+she was doing a freebie for the deep state. Very generous of her aye Mr Gorka, 
+don't you think?  (Gorka just popped into my head, a pathetic pawn, it's hard 
+(for me) to say who is among the top dogs of the deeper deep state within the 
+deep state. The Afghan drug lord Kazai's, whichever Rockefeller's are still 
+alive, then the unnamed Netanyahu puppet masters, and the Saudi 
+MBS's are right "up there" though, but you know damn well they're playing 
+second fiddles to US and European aristocrats.)
+
+Even the Adelson's and Koch brothers --- to my mind far too prominent in 
+the headlines to be the real powers of the deep state within the deep state.
+The real psychopaths are not of the such narcissistic brand name needs as the 
+humdrum billionaire psycopaths. Though I guess I could be wrong, perhaps 
+there is just a natural tendency to want one's name known?  Leslie Wexner 
+did give some interviews.
+
+And of course, I doubt there is a central King Pin. What most of the 
+journalism I've read tends to point to is just a diffuse network of aristocrats 
+and pseudo-aristocrats (like Tony Blair, the Clinton's, Trump, Putin, the EU 
+leadership, all that crowd, some made of money, some made by money).  Even 
+Yanis Varoufakis --- he's at least a useful idiot for this crowd, stocking fear 
+of "Cloud capital" and "rising government debt" rather than sparking hope in 
+the inherent value of our own labour, or the fatc government debt is a good 
+thing, not a bad thing. 
+
+Julian Assange too. He's not a labour organizer, he's a clown. A clown who 
+did some good, but he is being persecuted for petty revenge, and to be made 
+"an example." If you realize the guy Assange was not the mastermind 
+of a free society ia document releases, you won't have any fear.
+
+Most people do not need to even read Wikileaks. You can tell most ordinary 
+people, "There's some high corruption dude." They'll believe you.
+
+I'm not asking you to agree with my take on such things, the wider point to 
+make is to free ourselves from cults of personality, because the activist/
+online "tiktok liberals" is as bad at this as are the Ayn Randy libertarian 
+right-wingnut authoritarian-philes (a complicated stew that one🤣).
+
+Speaking of social media platforms, why the heck are people still using the 
+fascist Mars King's platform formerly known as Twitter? You're helping the 
+guy. Same with TiKTok. Boycott that, it got bought by zionist fascists. 
+Don't give them your content. (Get your children to wipe that App from their 
+phones. They never needed it.) Such minimalist little things can be done. No 
+promise it'll "change the world" but tokenism and brand boycott is the least 
+you can do, so at least do the least.
+
+If you cannot be buggered after a tough day at work, every damn day, to engage 
+in organized labour activity, then these minimalist token things are really 
+the best you can do perhaps, _so at least do them._
+
+${}^\dagger$Not Joking. Chances are higher than 10% I reckon if Bernie had 
+made it to the Oval Office he'd have been "offed" somehow.
+
+Not entirely joking about Reed. The global mafia deep state probably would've 
+got rid of Bernie had he defeated Clinton or Biden. Or it might've just been 
+boring old Red Scare come the electoral college rigging. Same result either 
+way, since Bernie the guy is not the power, so he does not need to be made 
+a martyr. The neocon planners only need to instill hopelessness in the 
+supporting masses who loved Bernie.
+
+**How to Inoculate yourself:**  never have hope in a "Bernie."  Have hope in 
+yourself and your dumb lazy comrades, just don't be _too_ lazy. 
+
+"Get back to _real_ work after work you working class scum!" --- FDR left-wing 
+aristocrat mob, begging workers to spare some time off work, after being 
+utterly exhausted by "Obey" at work, to force them aristocrats to do the 
+good thing. Yeah, because the aristocrat who supports the working class is 
+such a nice gosh darn übermensch their life is clearly worth far more 
+than ours. 
+
+As you might guess, I think Nietzsche was a ꖀ𐝥ꗍꖡꕯꖦ. If you take the generous 
+interpretation of Nietzsche's philosophy --- namely that the main idea is to 
+"overcome base selfishness" and be a good person, by sublimating material 
+desires and fancies, to be more "authentic" (whatever that means🤣, 
+nonsense mostly) --- then all of that good derived from Nietzsche is just 
+good old religion by any other name, it is recognition of a God (source 
+of The Good, and of course an absolutely unknowable essence). If Nietzsche 
+was saying, "Overcome your self so you can work towards social justice" then 
+call me a fan. But his brain was too diseased for me to ever be a fan.  I know 
+far better philosophers and actual saints, thanks very much.  Moreover, if a 
+Nazi can find sustenance in your philosophy, no matter how well-intentioned 
+you were, your philosophy is worthless. You have not made you point clear.
+
+A good philosopher always makes their point clear. No obscurantism. No 
+mystical woowoo (unless the topic is _actual_ mysticism, which is usually 
+not today, not immediately, an important topic).
+
+
 ## The Polyarchy
 
-One thing I wanted to get off my chest todya is MMT related, and concerns 
+One thing I wanted to get off my chest today is MMT related, and concerns 
 USAID, and I am grateful to Aaron Good and his guest [Ben Thomason](https://www.youtube.com/watch?v=ePP6Koc9KPM) on [The Devil’s Chessboard podcat](https://www.youtube.com/watch?v=ePP6Koc9KPM).
 
 I've read and heard far too many liberals attacking DJT and DOGE for 
@@ -189,15 +310,26 @@ the topic of how corporatist propaganda spreads through soft neocolonialism,
 corporate philanthropy (fake 𝕒𝕗) and all that crud, I am glad to have found 
 Ben Thomason has done that hard work.
 
-That interview with ben is where I first heard the term Polyarchy. 
-That's "rule by a whole blend of neocons, neoliberals, zionist-christian, 
+That interview with Ben is where I first heard the term Polyarchy. I'd read 
+C Wright Mills before, but had skipped that phrase. It's a good word.
+What is Polyarchy?  I'd say it is rule by a whole blend of neocons, 
+neoliberals, zionist-christian, 
 right-wingnuts, coopted leftist rubes, liberal moralists (anti-moral people), 
 mafia bosses,union bosses, and all the rest.
 
-By the way, am I saying it is a _)good thing_ DJT and his cronies shut 
+By the way, am I saying it is a _good thing_ DJT and his cronies shut 
 down USAID?
 
-I think so, yes. It's a normie establishment liberal hair-on-fire reaction to 
+I think so, yes. 
+
+But I would have not shut down USAI _that_ way, you could warn the UN 
+first. But wait a minute... did DJT _not_ warn the UN first? I think the UN 
+had plenty of warning. So the deaths of millions are on the hands of the UN, 
+not in this instance DJT and his DOGE cronies. The Whitehouse and DOGE are 
+not the workers producing the real goods the victims of genocide and 
+ethnic cleansing need.
+
+It's a normie establishment liberal hair-on-fire reaction to 
 think closing down USAID "killed millions." The starving of the real aid 
 probably did kill millions. But that was not the fault of DJT. Every country 
 where people were starving and dying from the local genocides and ethnic 
@@ -210,7 +342,9 @@ does not need the US dollar for funding, any currency will suffice.
 
 New Zealand should just drop a trillion dollar NZD coin in the bank account 
 of the UN.  Then people will have the precious NZD to buy stuff with for the 
-UN deployment. What are they gonna buy?  If it's not for sale in New Zealand 
+UN deployment. What are they gonna buy? The UN cannot buy more lamb from us, 
+or pine wood form us, than our farmers or our forestry corp is willing to 
+sell. If it's not for sale in New Zealand 
 they're going to have to buy from somewhere else. They could always do so 
 with the NZD. It would not weaken the NZD. The forex lines are not the source 
 of the NZD price level. What else can I tell you?
