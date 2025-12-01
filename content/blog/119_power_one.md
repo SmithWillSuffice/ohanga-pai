@@ -8,7 +8,14 @@ katex: true
 ---
 
 So much to write, so few keystrokes to spare. Main thing today to get off 
-the mind is USAID. Read onwards...
+the chest is USAID. Read onwards...
+
+The gist is the Superman as Christ/Savior mythos. Heck, even Batman.  ꕒꗍꖀ𐝥ꗍꘝꕯꖡ Power of One stuff. We do not need the USA as a world savior or dark knight to protect anything. We do need protection from the USA saviors. We did not need USAID.  No one ever needed the US dollar. Agree?  No need to read further.
+
+These days I am so sick of superhero and celebrity culture that I’ll actively wait 🤣 for the next Marvel movie to appear on TPB and download it just so I can not watch it. When I need a good meme or two for blogging about superhero nonsense I then have some screenshots ready.  The Mandalorian will also do nicely. 
+
+Din Djarin: “MMT describes monetary operations today.”  Armorer: “It is the Way.” \[bangs a trillion dollar symbol into some baskar steel.\]  “Wait, it was supposed to be 10 trillion. Doh! We'll have to whip some workers to get more fuel for the furnace to melt that down again and re-stamp.” 
+Mandalorian culture huh?  Lot’s going for it. Built-in COVID virus protection society.
 
 ## The Tangled Webbs of Transparent Deceit
 
@@ -31,23 +38,28 @@ to nonexistent veneer.
 I've got a message though for good honest people in government positions, 
 which is; do not feel you are complicit, speak out, whistle blow, don't shy 
 away from exposing the corruption in the system you are a part of, and do not 
-fear for losing your salary. I'd cite 
+fear for losing your salary. You are not corrupt just because the deep state you service (to some extent) is corrupt.  I'd cite 
 [Sibel Edwards](https://sibeledmonds.com/) as a good exemplar, she 
 only spent about one year in the FBI before realizing she had to whistleblow. 
-She's not living on homeless row as a result.
+She's not living on homeless row or in political asylum in Russia as a result.
+Unlike Snowdon & Assange grandstanders, she's a smart one.
 
 When you are working for a State within a state within a state you'd be 
-mad for thinking you are somehow "aiding and abetting". No. You can easily 
+mad for thinking you are somehow "aiding and abetting." No. You can easily 
 be part of the good, by warning of the bad, and in all sorts of ways can act 
-as a canary in a proverbial coal mine, or even more courageous efforts. If 
-you have fond an honest calling in government, i say stick with it, but stop pretending there is no rot underneath. In particular, know that neoliberalism 
+as a canary in a proverbial coal mine, or any number of the ways act with 
+even more courageous efforts. If 
+you have found an honest calling in government, I say stick with it, but stop pretending there is no rot underneath. And don't just "do nuttin' about it." 
+In particular, know that neoliberalism 
 is open transparent rot, so you can always work on destroying that crud. 
 Totally positive effort if you succeed in whatever small way you can.
 
 Start with educating your constituents that their tax dollar is funding the 
 private sector, not the government sector, and so they've previously 
 misunderstood the nature of state currency, and had it all completely 
-backwards. (A source of untold great suffering in the past and to this very day.)
+backwards. (A source of untold great suffering in the past and to this 
+very day.) This will empower your constituents to support you even more, 
+knowing that _your government salary is funding them!_ 
 
 Although Edmonds and Aaron have a lot of content behind paywalls, those with 
 the means aught to support them because they trickle out a bit of free tier 
@@ -55,13 +67,13 @@ content for us plebs, and it is good stuff to know. At least be aware about.
 
 ((Huge Boooo! _otherwise_ to paywalled websites. I mean, 
 what are you doing guys? Asking us to pay for honest reportage. I'll donate 
-more than most people would fro their income to such Indie reporting, but I 
+more than most people would from their income to such Indie reporting, but I 
 refuse to go via a paywall like Patreon, who are taking a gross cut of the 
 donations. Always conduct due diligence on the payments platform. I believe 
 KoFi is ok, and a few others, make sure you are not accidentally donating 
-to corporate fascists=ic outfits.  This is also why I specifically ask 
-readers _not_ to subscribe to my substack, stay of the free tier, you won't 
-miss anything form me.'))
+to corporate fascistic-lite outfits like Patreon.  This is also why I 
+specifically ask readers _not_ to pay-subscribe to my substack, if you stay on the 
+free tier you won't miss anything from me.'))
 
 
 ## Anti-government Government
@@ -72,13 +84,17 @@ keystrokes to get the point across.
 * We need government (not for survival or anything, but just for a 
 civil society). We do not need corrupt government.
 * We should desire democracy. we have never had a democracy.
+* Yes, the Reaganites and libertarian bros are anti-government government, 
+but I don't mean that kind of anti-government government, I mean the other 
+anti-government government. (Polar opposites. New Zealand could have been 
+in the “Northern” hemisphere, had we made the first maps, yaddah yaddah.)
 * We need to be anti-_that_-government, and we need to be 
 pro-_this_-government. (You get the drift of what `_this_`' and '_that_' 
 mean I trust.... it will be government that holds the JEE and organized 
 crime bosses to account in one way or another, if ever they are held to 
 account. It will not be our consumer boycotts.)
 * Refugees and victims of ethnic cleansing did need **_the resources_** 
-provided by USAID. But [the world did not need USAID](https://www.youtube.com/watch?v=ePP6Koc9KPM).
+provided by USAID. But [the world did not need USAID](https://www.youtube.com/watch?v=ePP6Koc9KPM), should I add a 𝕗𝕗𝕤? Ooops, too late.
 * Government must do big fiscal. Government must be frugal about _real resources_. 
 But that means fully employing available sustainable resources. But not in a 
 wage-slavery manner.
@@ -90,10 +106,10 @@ prostitution (aka. "hospitality"), gambling and sex trafficking to get funded.
 That branch of government _is_ 
 "tax payer funded." The only branch that really is. 
 * Stop funding that branch of government. It's a better reason to stop using 
-drugs or gambling etc than anything Topper Gore ever said.
+drugs or gambling etc than anything Tipper Gore ever said.
 * Having noted all that, US Congress is enabling fascism through Its 
 neoliberalism, so even the good folks in Congress and parliaments around the 
-world are not speaking out enough, and arre far too naïve. Guys and gals in 
+world are not speaking out enough, and are far too naïve. Guys and gals in 
 the seats, it's ok to lift-up rocks now and again to see what is underneath. 
 The criminal enterprises are not boogeymen when you expose them to the sunlight. 
 * On a darker note, if you are an honest person desiring to enter into 
@@ -182,9 +198,9 @@ media stooge or liberal-leftist leader is a CIA plant or not. Sometimes it'd
 be better if they were, since it is harder to fathom why anyone of their own 
 free will would be such a traitor to the working class.
 
-Think of Joy-Ann Reed --- everyone crying over how she was viciously ousted 
+Think of Joy-Ann Reid --- everyone crying over how she was viciously ousted 
 from MSNBC. But what was Reed doing back in the day when Bernie had a chance 
-to get assassinated?${}^\dagger$  She _did not have to_ get the CIA drug money, 
+to get assassinated?${}^\dagger$ She _did not have to_ get the CIA drug money, 
 she was doing a freebie for the deep state. Very generous of her aye Mr Gorka, 
 don't you think?  (Gorka just popped into my head, a pathetic pawn, it's hard 
 (for me) to say who is among the top dogs of the deeper deep state within the 
@@ -193,10 +209,13 @@ alive, then the unnamed Netanyahu puppet masters, and the Saudi
 MBS's are right "up there" though, but you know damn well they're playing 
 second fiddles to US and European aristocrats.)
 
+${}^\dagger$Not Joking. Chances are higher than 10% I reckon if Bernie had 
+made it to the Oval Office he'd have been "offed" somehow.
+
 Even the Adelson's and Koch brothers --- to my mind far too prominent in 
 the headlines to be the real powers of the deep state within the deep state.
 The real psychopaths are not of the such narcissistic brand name needs as the 
-humdrum billionaire psycopaths. Though I guess I could be wrong, perhaps 
+humdrum billionaire psychopaths. Though I guess I could be wrong, perhaps 
 there is just a natural tendency to want one's name known?  Leslie Wexner 
 did give some interviews.
 
@@ -212,7 +231,7 @@ thing, not a bad thing.
 Julian Assange too. He's not a labour organizer, he's a clown. A clown who 
 did some good, but he is being persecuted for petty revenge, and to be made 
 "an example." If you realize the guy Assange was not the mastermind 
-of a free society ia document releases, you won't have any fear.
+of a free-society-via-document-releases, you won't have any fear.
 
 Most people do not need to even read Wikileaks. You can tell most ordinary 
 people, "There's some high corruption dude." They'll believe you.
@@ -234,15 +253,20 @@ If you cannot be buggered after a tough day at work, every damn day, to engage
 in organized labour activity, then these minimalist token things are really 
 the best you can do perhaps, _so at least do them._
 
-${}^\dagger$Not Joking. Chances are higher than 10% I reckon if Bernie had 
-made it to the Oval Office he'd have been "offed" somehow.
-
-Not entirely joking about Reed. The global mafia deep state probably would've 
-got rid of Bernie had he defeated Clinton or Biden. Or it might've just been 
-boring old Red Scare come the electoral college rigging. Same result either 
-way, since Bernie the guy is not the power, so he does not need to be made 
-a martyr. The neocon planners only need to instill hopelessness in the 
-supporting masses who loved Bernie.
+Not entirely joking about Reid, btw. The global mafia deep state probably 
+would’ve got rid of Bernie had he defeated Clinton or Biden.  Or it might’ve 
+just been boring old Red Scare come the electoral college rigging time. The 
+infamous phone call to Obama (liberal Superman saving us from Red Bernie) 
+was an interesting glimpse though into the ruling class panic button, don’t 
+you think?  Same result either way, no?  Panic button then or sniper trigger 
+later.  But as a wee counter to that alternative counterfactual history, 
+since Bernie the guy is not the power, he does not need to be made a martyr. 
+The martyr is not desired, but nevertheless is more powerful than the 
+relatively powerless guy left alive, and I think the ruling elite know this. 
+The neocon planners only need to instill hopelessness in the supporting 
+masses who loved Bernie. So the Obama panic button was really their optimal 
+play. Maximal defeatism met upon the working class. No nasty mess to clean 
+up after.
 
 **How to Inoculate yourself:**  never have hope in a "Bernie."  Have hope in 
 yourself and your dumb lazy comrades, just don't be _too_ lazy. 
@@ -252,7 +276,8 @@ aristocrat mob, begging workers to spare some time off work, after being
 utterly exhausted by "Obey" at work, to force them aristocrats to do the 
 good thing. Yeah, because the aristocrat who supports the working class is 
 such a nice gosh darn übermensch their life is clearly worth far more 
-than ours. 
+than ours. \[Wipes the dripping sarcasm off the computer keyboard with a 
+few (probably fash-owned firm) packaged baby wipes.\]
 
 As you might guess, I think Nietzsche was a ꖀ𐝥ꗍꖡꕯꖦ. If you take the generous 
 interpretation of Nietzsche's philosophy --- namely that the main idea is to 
@@ -300,12 +325,12 @@ international banking swaplines --- spreadsheet operations which from my end
 only _ever_ concern NZ dollars.
 
 If I'd have had a few billion NZD I could have funded everything good that 
-USAID were supposed to be doing, but minus the propaganda.
+USAID were supposed to be doing, but minus the propaganda (fewer middlemen and hangers-on do-gooder rapporteurs to pay-off and bribe).
 
 When not overt CIA fronts, these organizations are low-key propagandists 
-for American capitalist corporate values --- "greed is good" stuff. "Being rich 
-makes you virtuous" stuff.  "Venture philanthropy" stuff. "Profit make to 
-do good" stuff.  Since I cannot devote much time to researching 
+for "American" capitalist corporate values --- "greed is good" stuff. "Being rich 
+makes you virtuous" stuff.  "Venture philanthropy" stuff. "Profit-make to 
+do-good" stuff.  Since I cannot devote much time to researching 
 the topic of how corporatist propaganda spreads through soft neocolonialism, 
 corporate philanthropy (fake 𝕒𝕗) and all that crud, I am glad to have found 
 Ben Thomason has done that hard work.
@@ -322,7 +347,8 @@ down USAID?
 
 I think so, yes. 
 
-But I would have not shut down USAI _that_ way, you could warn the UN 
+But I would have not shut down USAID _that_ way, if I were supreme emperor 
+Emmemmtee the 1st.  You could warn the UN 
 first. But wait a minute... did DJT _not_ warn the UN first? I think the UN 
 had plenty of warning. So the deaths of millions are on the hands of the UN, 
 not in this instance DJT and his DOGE cronies. The Whitehouse and DOGE are 
@@ -343,7 +369,7 @@ does not need the US dollar for funding, any currency will suffice.
 New Zealand should just drop a trillion dollar NZD coin in the bank account 
 of the UN.  Then people will have the precious NZD to buy stuff with for the 
 UN deployment. What are they gonna buy? The UN cannot buy more lamb from us, 
-or pine wood form us, than our farmers or our forestry corp is willing to 
+or pine wood from us, than our farmers or our forestry corp is willing to 
 sell. If it's not for sale in New Zealand 
 they're going to have to buy from somewhere else. They could always do so 
 with the NZD. It would not weaken the NZD. The forex lines are not the source 
@@ -360,9 +386,9 @@ political will to spend, not the scorepoint capacity.
 
 ---
 
-Back to the global mafia-government worldwide empire
+Back to the global mafia-government worldwide empire ...
 
-Yeah, so our governments are not a global mafia state network.  This is not 
+Are our governments a global mafia state network? No.  That would not be 
 the message you should be receiving. Many parts of our governments are part 
 of a global fascist mafia world state. It's a very messy thing. 
 
@@ -373,7 +399,7 @@ say so. I prefer my fascist with their swastika on
 their sleeve, preferably their proud forehead.
 
 The governments have been infected with fascist-zionism-mafiosi, that's just 
-a fact. This does not make the government inherently corrupt institutions. It 
+a fact. This does not make the governments inherently corrupt institutions. It 
 means you aught to be very wary of any government policy that smells a bit 
 fishy and reeks of the "privatization of public services" meme, since that's 
 the stuff that is revealing the infection. That's what needs laser surgery 
@@ -381,20 +407,33 @@ removal.
 
 ### Where to point the laser beams?
 
-Well, I do not think that's a hard question to answer, you only need to do a 
+Well, I do not think that’s a hard question to answer, you only need to do a 
 tiny bit of research, and often the crooked politicians are just saying the 
-quiet part out loud. Any "user pays" or "efficiency of the private sector" 
-or "we're wastin' tax payer dollars" rhetoric is self-revealing the cancer that 
-needs to be zapped.
+quiet part out loud. Any “user pays” or “efficiency of the private sector” 
+or “we’re wastin’ tax payer dollars” rhetoric is self-revealing the cancer 
+that needs to be zapped. You might even have some in your brain yourself? 
+Worth getting an MMT scanner (aka.  read Bill Mitchell’s blog).
 
-And yes, even TYT, Krystal & Kyle, and the Majority Report and all the rest 
-of the liberal media are part of the rot, they're all about the "wastin' of 
-the tax payer dollars." That has to to be zapped. Let me be clear once more: 
-when you buy your drugs for your partying, _you are the tax payer funder._ 
-And that's the _only_ time you are the proverbial "tax payer funder".
-You are funding the extra-governmental syndicates of criminal global 
-governance, the non-government government. The tax payer funds the 
-private sector. 
+And yes, even TYT, Breaking Points, Krystal & Kyle, and the Majority Report 
+and all the rest of the Indie liberal media are part of the rot, they’re all 
+about the “wastin' of the tax payer dollars.” That has to to be zapped.
+
+((There is no mainstream liberal media anymore, if there ever was, hope you 
+all realize. If it is not centrist neolib propaganda, it's just right-wing. 
+But neolibs are already right-wing in all but honest self-identification. 
+It is sad to say so, but even here in New Zealand, our RadioNZ is full of 
+right-wing talking points, "tax payer funded " myths, and even more-so on 
+the liberal Op-Ed talkshow segments.  I say more so because it's doubly 
+depressing when neoliberal spew is vomited up by otherwise anti-fash minded white 
+collar but still working class people.))
+
+Let me be clear once more: 
+when you buy your drugs (coke or _coke_ both I'd say, or 'shrooms) for your 
+partying, _you are the tax payer funder._ 
+And that's the _only_ time you _are_ the proverbial "tax payer funder".
+You are funding the extra-governmental syndicates of criminal global deep
+governance, the non-government government. The fully privatized government. 
+The tax payer funds the private sector. 
 
 The whole point is to stop having our governments being run by the 
 private sector. Because when they are run by the private sector they 
@@ -404,7 +443,8 @@ tax payer funded.
 The deep state, the particularly criminal branch of it, is in the private 
 sector. That is whom you are funding when you consume slop, like Coca Cola,
 Nestlé, Spotify, Netflix, AppleInc., and all the rest. Have a cut-back on 
-some of that stuff, is what I'd suggest. Its a minimal least effort.
+some of that stuff, is what I'd suggest. Its a minimal least effort.  (For 
+computing, migrate to GNU+Linux.)
 
 Does this mean buying a few bananas from the grocery store shipped by some 
 global fascist mafia-like run fruit-grower worker exploitation corporation 
@@ -414,12 +454,15 @@ things you can live without, and it is a good thing to try to live without
 for a while. 
 
 But do we instead say, regarding government terrorism: "Ok, it is so infected 
-now, it just has to be euthanized, the hole lot!"
+now, it just has to be euthanized, the whole lot!"
 
-No. I do not think we are there yet. I guess we coudl get there, but there 
+No. I do not think we are there yet. I guess we could get there, but there 
 are still too many good people in government, they are not the prominent 
-headline names of curse, but it si a baby & bath water situation, from what 
-I can tell.
+headline names of course, but it is a baby & bath water situation, from what 
+I can tell. (In any case, who, pray tell, is going to perform that 
+euthanization? Just saying, "But, but, we _aught_ to euthanize government" 
+is not helping one damn jot.  I _aught_ to not grow old nor suffer grey 
+hairs and wrinkles as well. I guess you can help me with that too?)
 
 What is one to do?
 
@@ -427,14 +470,19 @@ My first answer is to at least not be a dupe, a rube, deliberately ignorant
 doomers or boomers (neither!), and educate yourself. Just do what little you 
 can to fight back. 
 Best to join a pro-worker pro-justice organization somewhere, one with 
-good organic leaders, not an unelected hierarchy.
-But it cannot be anarchist, it has to be well-organized or you are wasting your effort. (If in doubt, learn this from 
+good organic leaders, not an unelected or salaried hierarchy.
+But it cannot be anarchist, it has to be well-organized or you are wasting 
+your effort. (If in doubt, learn this from 
 [Vincent Bevin (“If We Burn”)](https://en.wikipedia.org/wiki/If_We_Burn).)
 You maybe shouldn't love Bernie, but he was more organic than Obama. Obama 
-came from a neoliberal lab experiment.
+came from a neoliberal lab experiment. But definitely do not invest any hope 
+in a Superman or Superwoman. Invest in your community.
 
+---
 
 Sorry, I've run out of  keystrokes.🤣
+
+
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
@@ -448,7 +496,7 @@ Sorry, I've run out of  keystrokes.🤣
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../120_merican_expletivevism">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -456,6 +504,6 @@ Sorry, I've run out of  keystrokes.🤣
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../120_merican_expletivevism">Merican Expletivevism</a></td>
 </tr>
-</table>
+</table></table>
