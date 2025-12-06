@@ -560,6 +560,7 @@ that many people are too easily fooled into thinking is "intelligent."
 Once again, I seem to have run out of gold-plated engraved keystrokes, so no more piling abuse via  ḟảήƈƴ ḟǫήƫś on possibly but possibly not fake leftists today.
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -572,7 +573,7 @@ Once again, I seem to have run out of gold-plated engraved keystrokes, so no mor
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../121_if_i_were_a_poliscibro">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -580,6 +581,6 @@ Once again, I seem to have run out of gold-plated engraved keystrokes, so no mor
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../121_if_i_were_a_poliscibro">If I Were A Poliscibro</a></td>
 </tr>
-</table>
+</table></table>
