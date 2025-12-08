@@ -241,9 +241,24 @@ above, it is nothing like "Capitalism" and never has been.)
 
 Just say "thank you" and send me the royalties when you can, ok?
 
-
 But you know, I'd produce the show deadly seriously, without actors. Except 
 for the dead guys and Thatchers/Adelsons/Clintons. 
+
+### Stipulations
+
+* Not a kangaroo court. Send letters to invite the defendants --- in the 
+documentary film we'd be acknowledging we do not expect responses, since 
+that's almost an admission of guilt, but also most politicians would just 
+say they we already tired in the court of public opinion (and either won 
+re-election or lost) which the letter would point out is missing the point.
+* No actors. All the participants are real life lawyers, judges etc. All 
+the audience are from the public. The jury is public.
+(It does not matter whether conspiracy theorists suspect it is all mock! --- 
+since it is only a Reality TV show.)
+* ...?
+
+
+### Pitching
 
 
 I will be pitching this to film studios and writer--producers, but if 

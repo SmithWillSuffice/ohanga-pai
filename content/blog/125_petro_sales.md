@@ -7,11 +7,11 @@ draft: false
 katex: true
 ---
 
-There is no such thing as a "petrodollar."" There is no such thing as 
+There is no such thing as a "petrodollar." There is no such thing as 
 a "global reserve currency".
 
 These are right-wing/neoliberal myth-makings, so do not fall for them, they 
-skew discourse and limit people's imaginations about how the wokring class 
+skew discourse and limit people's imaginations about how the working class 
 can gain real effective power.
 
 ## Aaron Good Bad Again
@@ -56,7 +56,7 @@ sole source of most of our ills. "Capitalism" is in a sense and idealist myth,
 which I would say is set-up to be a convenient target for "the Left" to 
 waste ammo at attacking. I do think for certain it is vital to have a class 
 critique, and hence a critique of capitalism, but the problem is far worse 
-than normal marxists will say or write abut. Aaron's thesis is the correct 
+than normal marxists will say or write about. Aaron's thesis is the correct 
 critique of capitalism, because it peels away the facade of power, and 
 reveals the true rot.
 
@@ -70,17 +70,18 @@ of time magnitude.
 
 **Also, also, don't read this one:** <br>
 The basic injustice is aristocracy. Capitalism is just a slicker modern form 
-of a nest of flies of aristocrats. So it must be done away with. But 
+of a nest of diseased flies of aristocrats. So it must be done away with. But 
 Capitalism was not the cause of this nest of flies, it just allowed more 
 of them the breed.  Socialists who hate me might say I am not being 
 socialist or revolutionary enough. But I would say I am far more 
 anti-capitalist than they are. I do not need to defend myself though, it is 
 all plain to see if you open your eyes.
 
+{{<gold_price_vs_minimum_wage>}}
 
-## The Betetr Critique of Capitalism
+## The Better Critique of Capitalism
 
-I think I jsut did this.
+I think I just did this.
 
 So let's move now to a little critique of Aaron and Kiriakou, which I 
 beleive would better inform their critique of prevailing political economy 
@@ -99,9 +100,10 @@ The gold/oil “currency” pretense is exchange: only foreign governments and c
 
    A labour standard occurs when the State exchanges the tax credits for labour, and does not redeem for anything but tax liabilities. It is not so easy to exploit, since now you are asking real people to be the actual “units” being exchanged, their labour time. This is the proper “labour theory of value” —- the monopolist tells you the price. This creates the secondary labour market for those who cannot create the currency by keystrokes. It is in unfair market without State support for private sector labour (a job guarantee).
 
-   There is also no such thing as a petrodollar nor a "global reserve currency". Those are myths fabricated by the power elites — I would argue sometimes not deliberately! But when deliberate and knowing they are control over the ignorant masses, entrenching policies on top of it all that impose austerity on the working class, and rents trickling up to the rich & powerful, underworld and overworld. The "tax payer" always funds the private sector, not the public sector. Government net spending funds the tax payer. 
+There is also no such thing as a petrodollar nor a "global reserve currency". Those are myths fabricated by the power elites — I would argue sometimes not deliberately! But when deliberate and knowing they are control over the ignorant masses, entrenching policies on top of it all that impose austerity on the working class, and rents trickling up to the rich & powerful, underworld and overworld. The "tax payer" always funds the private sector, not the public sector. Government net spending funds the tax payer. 
 
-   If you re-analyze Aaron's basic thesis from this point of view, it is even more sinister and I would claim so it is!
+If you re-analyze Aaron's basic thesis from this point of view, it is even 
+more sinister and I would claim so it is!
 
 
 ## Using Your Imagination
@@ -126,6 +128,46 @@ Wouldn't you realize it was a fruitless quixotic quest? So would you
 not _first_ build a massive well-educated (not by fake neoliberal schooling) 
 working class base across the pomo cultural 
 divides that forge only pointless hate and disunity?
+
+
+## Oil and Currency
+
+I wanted to stop above, but [this episode](https://youtu.be/p_WghNGPgqo)
+of _[American Exception](https://youtu.be/p_WghNGPgqo?)_ is worth making a 
+note or two on, for a longer write-up some other day.
+
+With an Oil & Currency analysis the political facade and propagandist 
+efforts melt away into plastic cheese and popcorn laughs. (Which is not to 
+say it is not all evil 𝕒𝕗.)  The NATO rhetoric 
+that Russia has evil designs on conquering Europe, et cetera, are not only 
+laughable, they are barely deflection. 
+
+But why is it that most media, even Indie media, fail to point out the real 
+causes of these wars?
+
+Even those who know it is over oils and profits, seem to me to not advance 
+the deeper truth that trade is always a way for a nation to get what it 
+needs of which it cannot produce domestically. So there is no cause for war. 
+The wars are due to greed, not due to naïve militarism. They are due to 
+oligarchs refusing to pay a fair price, and of course wanting the capture 
+the profits for themselves.
+
+A government never has a need to turn a profit (except socially --- social 
+profit, enhanced standards of living &c.) and so may always nationalize essential 
+industries. Failure to nationalize essential industries is a cause of so 
+much suffering. A government never needs to care what price it must pay for 
+importing foreign goods, including oil & food. It has international rights to 
+expect a fair price. But that price may always be paid --- this is because 
+even inflation is not a real constraint. That is all.
+
+When  a government fails to nationalize such essential industry or imports, 
+this is a root cause of war, because it out-sources energy supply to the 
+rapacious criminal private sector.
+
+The State sector may have criminogenic elements too, but it at least does 
+not need to engage in piracy. But which Indie media outlets are pointing out 
+this is the case? It is a massively important point to make. For it seems to 
+me this is a critical way to overcome entrenched realpolitik.
 
 
 <table style="border-collapse: collapse; border=0;">
