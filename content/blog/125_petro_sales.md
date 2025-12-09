@@ -170,6 +170,7 @@ this is the case? It is a massively important point to make. For it seems to
 me this is a critical way to overcome entrenched realpolitik.
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -182,7 +183,7 @@ me this is a critical way to overcome entrenched realpolitik.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../126_leftrightleft_spewage">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -190,6 +191,6 @@ me this is a critical way to overcome entrenched realpolitik.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../126_leftrightleft_spewage">Leftrightleft Spewage</a></td>
 </tr>
-</table>
+</table></table>
