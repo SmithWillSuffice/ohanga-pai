@@ -8,7 +8,7 @@ katex: true
 ---
 
 If we expect tariffs to improve our economy then we are praying for a miracle 
-plot intervention. It only happens in SciFi (so practiclalyevery Far Right 
+plot intervention. It only happens in SciFi (so practically every Far Right 
 economic policy set?🤣).
 
 Received [this question session](https://share.google/aimode/0RQulRj5TRxI9Ko8t) 
@@ -185,11 +185,11 @@ If imports (for critical goods) ever drop-off a proverbial cliff then what
 you cannot now import opens up reindustrialization.  Those investments can 
 always be made. But why expect an instant reindustrialization overnight? You 
 have to be sanguine about it and cope with the lags.  But the point is, 
-throughout all such transitonal eras, no single worker ever needs top go 
+throughout all such transitional eras, no single worker ever needs top go 
 unemployed and starving.
 
 One major critical good is energy. So in this light it is thoroughly remarkable 
-few goverments are seriously enough investing in sustainable domestic 
+few governments are seriously enough investing in sustainable domestic 
 renewable energy and promoting energy conservation and a greener economy. 
 It's not only be nicer, less polluting, but a slower pace of life, so more 
 peaceful. Will we be deprived of race cars, McMansions, jet transportation, 
@@ -350,8 +350,8 @@ still more valuable than 100% of a market that doesn't exist elsewhere.
 The point noted is correct, the issue is rebalancing the economy, not 
 hoarding currency.  Economies run on spending, not saving.
 
-What the LLM has missed is that this is a proper responsibility, an **_active responsibilty_** of government policy _repsonse_. 
-No "laissez faire"ꕗꖹꝆꝆꕷꖾꕯꖡ please!
+What the LLM has missed is that this is a proper responsibility, an **_active responsibilty_** of government policy _response_. 
+No "laissez faire" ꕗꖹꝆꝆꕷꖾꕯꖡ please!
 
 The government response has to be to employ anyone unemployed by the trade 
 regime shifts.
@@ -380,7 +380,7 @@ and careful. (Rather then later degenerating into Green Fascism.)
 
 
 **On the USA leverage** --- this is because people are greedy. It is not 
-because  of any marcoeconmic essentialism. You (merchant) want to sell 
+because  of any macroeconomic essentialism. You (merchant) want to sell 
 to China and the USA, because you just want to sell!:---  M-C-M${}^\prime$. 
 It's madness. We desperately need to escape from the raw capitalistic (qua. 
 Marx) mindset of  M-C-M${}^\prime$.
@@ -467,8 +467,8 @@ the payments clear (SWIFT restrictions) or (ii) cannot get the goods shipped
 even in the payments clear, are exemplars of why imports are good if you 
 can get them.
 
-**On the need for recylcing.** --- the USD is peculiar in this way in that it 
-does _not_ need much recylcing, since 
+**On the need for recycling.** --- the USD is peculiar in this way in that it 
+does _not_ need much recycling, since 
 the [eurodollar system](https://en.wikipedia.org/wiki/Eurodollar) permits 
 foreigners to accumulate more nominal US dollars than they would otherwise 
 _not in US banks_ (not exchange settlement balances at the FED), 
@@ -539,6 +539,13 @@ need to.  Instead of pathetic tariffs the US Administration could simply
 enforce capital shipment constraints, not sell off things in the US national 
 interest, and the same goes for every other nation.
 
+And yes, many “want the assets.”  I am not one of them. No one needs to 
+own US assets.  It does not produce happiness or babies (I think not).  “They” 
+just want, want, want, more, more, more.  It’s a rich ℭ𝔘𝔑𝔗𝔰  game and mindset. 
+Government trade policy should not be catering to their wants. 
+
+I’d delete their nest eggs with a keystroke.
+
 What permissive selling to foreigners does is it strengthens and enhances 
 the parasitic global oligarchy, the only people who effectively "have no borders." 
 
@@ -563,8 +570,9 @@ to rebalance the flow of real goods if it gets out-of-whack, and use
 "security" minded capital controls rather than current account considerations 
 (do not ever sell your land to foreigners, do not have any tourism industry, 
 except sports visitors? At least do not ever actively support tourism since it 
-is a great way to cook the planet). Just ignore the current account, it is not 
-a number worth worrying about, it is only of academic interest
+is a great way to cook the planet).  Just ignore the current account if you 
+are not an fx trader, it is not a number worth worrying about, it is only of 
+academic interest.
 
 If your exports cannot pay for the imports your nation desires you risk fx 
 depreciation if you still get the goods shipped, but that is perfectly fine, 
