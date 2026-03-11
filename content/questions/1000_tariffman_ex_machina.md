@@ -72,7 +72,7 @@ If they are eager to export to U.S. why the need for deals. Is the US trying to 
 
 ---
 
-## My reply (bijou)
+### My reply (bijou)
 
 **On dependency:** you should always imagine the USA did not exist. We have 
 path-dependent dependencies (institutional inertia, etc.) But in fact we 
@@ -149,7 +149,7 @@ which seems like a great deal.
 
 ---
 
-## My reply (bijou)
+### My reply (bijou)
 
 Yes.
 
@@ -174,7 +174,7 @@ take on more debt to foreigners.
 
 ---
 
-## My reply (bijou)
+### My reply (bijou)
 
 Bollocks. Shifts to production off-shore and importing instead are still good. 
 No one should care at all about those domestic producers. No "hollowing-out" 
@@ -345,7 +345,7 @@ still more valuable than 100% of a market that doesn't exist elsewhere.
 
 ---
 
-## My reply (bijou)
+### My reply (bijou)
 
 The point noted is correct, the issue is rebalancing the economy, not 
 hoarding currency.  Economies run on spending, not saving.
@@ -358,7 +358,7 @@ regime shifts.
 
 Tariffs are just messing things up, creating a need for government policy 
 active response which would not have otherwise been needed. A disaster, 
-because who is going to claim the government policy repsonse is not totally 
+because who is going to claim the government policy response is not totally 
 backwards and regressive! 
 
 It is best to not have government make any response. 
@@ -407,31 +407,114 @@ trade balances out.
 Here is why the trade deficit translates into foreign-owned assets and debt:
 
 ###  1. The Balance of Payments Identity
-In global accounting, the Current Account (trade in goods/services) and the Capital Account (investment/assets) must balance to zero. 
-If the U.S. has a $1 trillion trade deficit, it means Americans gave foreigners 1 trillion more dollars than they received. Those foreigners now hold 1 trillion "claims" on the U.S. economy. They generally only do three things with those dollars: 
 
-    Buy U.S. Treasuries: This is the "taking on debt" part. Foreigners lend the dollars back to the U.S. government.
-    Buy U.S. Assets: They buy stocks (Apple/Microsoft), real estate (NY penthouses), or entire companies.
-    Hold Cash/Reserves: This is essentially an interest-free loan to the U.S. 
+In global accounting, the Current Account (trade in goods/services) and 
+the Capital Account (investment/assets) must balance to zero. 
+If the U.S. has a $1 trillion trade deficit, it means Americans gave 
+foreigners 1 trillion more dollars than they received. Those foreigners now 
+hold 1 trillion "claims" on the U.S. economy. They generally only do three 
+things with those dollars: 
+
+1. Buy U.S. Treasuries: This is the "taking on debt" part. Foreigners lend 
+the dollars back to the U.S. government.
+2. Buy U.S. Assets: They buy stocks (Apple/Microsoft), real estate (NY 
+penthouses), or entire companies.
+3. Hold Cash/Reserves: This is essentially an interest-free loan to the U.S. 
+
+
+---
+
+### My reply (bijou)
+
+Fourth, they can swap their USD for any other currency with an fx rate.
+Typically this is what exporters to the USA do, so they can extinguish 
+domestic tax liabilities (in the macro).
+
+---
 
 ### 2. Why can't we just "Print the Difference"?
 
-While the Fed can create reserves to pay for internal domestic programs, it cannot "create" the trade balance away without consequences in the international market: 
+While the Fed can create reserves to pay for internal domestic programs, 
+it cannot "create" the trade balance away without consequences in the 
+international market: 
 
-    Currency Depreciation: If the U.S. simply printed money to "pay" for the deficit rather than allowing foreigners to invest in our assets, the global supply of dollars would vastly outstrip demand. The dollar's value would plummet. While this would eventually fix the trade deficit (by making imports too expensive for Americans), it would cause massive imported inflation.
-    The Need for "Recycling": For the global trade system to stay stable, those dollars must flow back into the U.S. financial system. If foreign nations stop wanting to hold U.S. debt or assets, they will sell their dollars for Euros or Gold. This would end the "Exorbitant Privilege" of the U.S. dollar, as we would no longer be able to buy foreign goods using a currency we alone control. 
+* **Currency Depreciation:** If the U.S. simply printed money to "pay" for the 
+deficit rather than allowing foreigners to invest in our assets, the global 
+supply of dollars would vastly outstrip demand. The dollar's value would 
+plummet. While this would eventually fix the trade deficit (by making imports 
+too expensive for Americans), it would cause massive imported inflation.
+* **The Need for "Recycling":** For the global trade system to stay stable, 
+those dollars must flow back into the U.S. financial system. If foreign 
+nations stop wanting to hold U.S. debt or assets, they will sell their dollars 
+for Euros or Gold. This would end the "Exorbitant Privilege" of the U.S. 
+dollar, as we would no longer be able to buy foreign goods using a currency 
+we alone control. 
+
+---
+
+### My reply (bijou)
+
+These are ok responses from the LLM. Also, every other nation can do the 
+same, so it's a pointless race to the bottom to have such heavily unjustified 
+import biased foreign dependency policy. But it's hardly a danger, no 
+government seems to be aware this sort of extreme policy is possible. 
+
+Your "exports pay for your imports in real terms" --- means you really just 
+want stable fx rates to avoid a lot of volatility. 
+
+Ironically/sadly, countries heavily sanctioned who either (i) cannot make 
+the payments clear (SWIFT restrictions) or (ii) cannot get the goods shipped 
+even in the payments clear, are exemplars of why imports are good if you 
+can get them.
+
+**On the need for recylcing.** --- the USD is peculiar in this way in that it 
+does _not_ need much recylcing, since 
+the [eurodollar system](https://en.wikipedia.org/wiki/Eurodollar) permits 
+foreigners to accumulate more nominal US dollars than they would otherwise 
+_not in US banks_ (not exchange settlement balances at the FED), 
+say for AUD or CND or Yen equivalent trading. It is a crazy system.  The 
+rich Europeans benefit from the dollar hoarding in terms of social influence, 
+and the US importers benefit form getting the real goods. No decent European 
+should want it, but plenty of indecent Europeans do. 
+
+It's highly regressive, not at all towards European public benefit.
+In this regard,always think the economy runs on spending, not saving. And what 
+are eurodollar accounts? (Massive savings.)
+
+---
+
 
 ### 3. The "Wealth Transfer" Argument
 
-This is where the political friction lies. Critics of the trade deficit (including the Trump administration) argue that even if we can "print" the money: 
+This is where the political friction lies. Critics of the trade deficit 
+(including the Trump administration) argue that even if we can "print" the money: 
 
-    Ownership shifts: Over decades, a trade deficit means foreigners own an increasing percentage of U.S. farmland, corporations, and government debt.
-    Rent/Interest extraction: Eventually, the U.S. has to pay interest on those Treasuries and dividends on those stocks. This creates a permanent "leakage" where U.S. wealth flows outward to service the people who funded our past consumption. 
+* Ownership shifts: Over decades, a trade deficit means foreigners own an 
+increasing percentage of U.S. farmland, corporations, and government debt.
+* Rent/Interest extraction: Eventually, the U.S. has to pay interest on 
+those Treasuries and dividends on those stocks. This creates a permanent 
+"leakage" where U.S. wealth flows outward to service the people who funded 
+our past consumption. 
+
+
+---
+
+### My reply (bijou)
+
+I disagree.
+
+**(a)** What allows foreigners to purchase USA assets? Not the currency supply!
+
+**(b)** The Tsy/FED can offer permanent Zero Interest Rate. There is no 
+"Debt burden" that is not voluntarily self-imposed.
+
+---
+
 
 ### 4. The Geopolitical "Hook"
 
 The reason countries like China or Japan make deals to keep selling to the 
-U.S.—despite these complexities—is because they want those assets. 
+U.S. --- despite these complexities --- is because they want those assets. 
 
 Exporting to the U.S. is how they build up their "nest egg" of 
 dollar-denominated wealth. It’s their national savings account. If they stop 
@@ -447,11 +530,53 @@ imports. Does this distinction between "government solvency" and
 trade deficit?
 
 
-## My overview reply (bijou):
+---
 
+### My reply (bijou)
 
+Yes. But the USA is _voluntarily_ offering Its assets for sale. It does not 
+need to.  Instead of pathetic tariffs the US Administration could simply 
+enforce capital shipment constraints, not sell off things in the US national 
+interest, and the same goes for every other nation.
 
+What permissive selling to foreigners does is it strengthens and enhances 
+the parasitic global oligarchy, the only people who effectively "have no borders." 
 
+**On the summary:** not a good summary, it is too half-arsed.  Trade is 
+highly dynamics, and a long prolonged currency devaluation like that has 
+never occurred, because when the balance between importers and exporters shifts
+it is highly dynamics, it never does so catastrophically, except for extreme 
+Black Swan type events (which are usually transitory). 
+
+No government needs to borrow. Private sector importers who desire more than 
+they can afford need to borrow. A government that does not understand the 
+purpose of a floating exchange rate might borrow a foreign currency, but I 
+think in all circumstances that is an unwise policy. Instead they should 
+take what critical imports they can get shipped, take the pass-through 
+inflation hit and adjust domestic policy accordingly.
+
+Under such sane conditions trade agreements are incredibly useful, so the 
+respective importers and exporters have contracts they can "bank on." 
+In all cases I would say, a firm trade agreement is always better than a 
+tariff or the like. Instead of a tariff consider renegotiating trade agreements 
+to rebalance the flow of real goods if it gets out-of-whack, and use 
+"security" minded capital controls rather than current account considerations 
+(do not ever sell your land to foreigners, do not have any tourism industry, 
+except sports visitors? At least do not ever actively support tourism since it 
+is a great way to cook the planet). Just ignore the current account, it is not 
+a number worth worrying about, it is only of academic interest
+
+If your exports cannot pay for the imports your nation desires you risk fx 
+depreciation if you still get the goods shipped, but that is perfectly fine, 
+you are saying that is exactly what you wish for, and again it is normally 
+transitory, say during rebuilding after a war in the event the international 
+community of nations is not very helpful. 
+
+If your nation is a real pariah, or way too greedy, the foreigners will 
+more likely just stop shipping if they cannot get a rapid enough fx swap to 
+avoid a loss on the payment.
+
+---
 
 
 
