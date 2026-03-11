@@ -7,6 +7,95 @@ draft: false
 katex: true
 ---
 
+## Preface
+
+Yikes! A preface, 𝕨𝕥𝕗 dirtbag?!
+
+This article needs a vigorous re-write and culling, but I'm leaving it 
+here for now, and will do the trim-job some other time, some other post.
+
+**NB2S:**  I wanted to be more clear up-front about how the prevailing 
+groupthink and "gold/fixed exchange rate" mindset did (and still does) 
+have the imbalancing effect the USA-Western power elites/oligarchy desire. 
+But also, they probably still do not know how it works, or how it is 
+fragile, because they listen only to the likes of Michael Hudson, who 
+is 𖥐𖦪𖠢𖢧𖥣ꛘ𖥕ꚶ𖨚, or at least 𖥐𖦪𖠢𖢧𖥣ꛘ𖥕ꚶ𖨚-by-ommission. This is risky to write, 
+since it'll alienate many pseudo-marxists (fake-marxists the lot of you!)
+
+((K. Marx told you to update your critique upon new evidence, not to follow 
+his book like (anti)religious zealots.))
+
+Thus I think the lead-in should be to both state the thesis and the 
+anti-thesis tightly beside each other. basically a "TLDR".
+
+**Thesis:---** the USA has never been the only nation with a privilege of 
+being able to run a large current account deficit (and nor a large domestic 
+fiscal deficit).
+
+**Thesis:---** "Getting off Bretton-Woods" has also not reduced the USA 
+tendencies towards neocolonialism, soft imperialism, piracy and plunder. 
+If the idea of moving to a floating exchange rate was to release the deficit 
+or balance of payments "constraints" then why does the USA still pillage and 
+plunder for oil?  (Instead of just paying the fair price.) It has nothing to do with the monetary arrangement, it has 
+everything to do with Aaron Good's main these of the deep state forces, the 
+plutocratic overworld.
+
+**Thesis:---** the fact most people do not understand the monetary systems, 
+means that the USA was (and still is) able to be the only nation able to 
+run large current account deficits for essentially evil purposes, without 
+suffering significant pass-through inflation. It never 
+had to be this way. It just was this way.
+
+Why? Many reasons, but it boils down to the insatiable desires to save 
+in USD means the inflation pass-through is little to non-existent, and 
+most baseline inflation is coming from either oil price setting at the 
+margin, or from the US Treasury bond interest rate floor support.
+
+M. Hudson never says this clearly, even if he knows it, which is why 
+he is a 𖥐𖦪𖠢𖢧𖥣ꛘ.
+
+M. Varoufakis never says this clearly, even if he knows it, which is why 
+he is also a 𖥐𖦪𖠢𖢧𖥣ꛘ.
+
+Of course, we are all 𖥐𖦪𖠢𖢧𖥣ꛘ𖨚 but some are more 𖥐𖦪𖠢𖢧𖥣ꛘ𖥕ꚶ𖨚 than others.
+
+## Preface to the Introduction
+
+What's this? More pre-face. This one I hope you read an appreciate.
+
+The problem with my MMT analysis is that we are open to the attack of 
+"sloppy slosh-of-money spending liking a drunken sailor" attacks. For all 
+such austerity-minded critics, please keep in my, the government needs to 
+have the discretion top spend to employ _any_ available unemployed 
+resource. Why?
+
+> Because this is how we _guarantee_ public healthcare, public education, 
+public utilities (water, electricity, internet, postal service, &c.).  All 
+at "free" zero "$" cost to the citizens. 
+
+The **Real cost** is we thus need to pull workers out of the private sector 
+and into the public sector. It is a real cost to the private sector. But 
+the compensation is the monetary flow is *into* the private sector. That is 
+fair compensation.
+
+How does the government guarantee pulling workers out of the private sector? 
+The answer is by imposing tax liabilities.  This creates willing takers of 
+tax credits, who otherwise have no reason to accept government scorepoints 
+(compliance costs of enforcing legal tender are totally untenable in a 
+large nation.) The government spending is then what allows the private sector 
+to extinguish their tax liabilities.
+
+Understanding this, if you then tell me we need governments to be 
+monetarily constrained in order to prevent military spending, you are also 
+telling me we cannot have free public healthcare and education.  So stop 
+being that 𖥐𖦪𖠢𖢧𖥣ꛘ.
+
+The way to stop war is to not vote for war, and vote for diplomacy. Period.
+
+
+
+## Introduction
+
 Been writing a series on Tripartite government (nominal democratic 
 state--security state--dual deep state)
 and hoping to not encounter too much nonsense, but I was unable to stumble 
@@ -269,6 +358,24 @@ can be that severe.
 
 We have to up the stakes just so, because austerity policy does, in fact, 
 kill people.
+
+Speaking of murder and "saving face". One can make a case that part of 
+the motives behind the Neocon push for the Afghanistan and Iraq wars was 
+about the ꕗꖹꝆꝆꕷꖾꕯꖡ need to project strength.  A form of militaristic 
+face-saving. Denis Fritz (hardly a raging ultra-leftist) details a lot of 
+this in his book 
+[Deadly Betrayal](https://www.currentaffairs.org/news/why-did-the-us-invade-iraq) --- I do not have a copy, but that interview with Current Affairs is a good substitute.
+
+There were many Neocon motives for the post 9/11 wars, but the Greater 
+Israel zionist project, oil, and soft power projection were chief among 
+them. But as ambient background there is always the M.I.C. war-is-profit 
+too, but that goes without saying. All the first three motives are closely 
+connected too --- a client state of Israel in the Middle East expanded to a 
+Greater Israel protects US oil oligarch interests. These have merged into 
+"national security interests.." The latter being art and parcel of the 
+Dale-Scott/Good Deep State system. Instead of nationalizing basic energy 
+supply, the energy oligarchs simply do not want to pay a fair price. (Or that 
+_and_ the fact the Great Game is probably a perverse aphrodisiac to them all.)
 
 **Lesson 1.** Always remember, the mostly automatic fiscal adjustment 
 (normally increased government spending) aka. the stabilizers, 
@@ -536,7 +643,11 @@ the gold price.  It is almost crypto. What use has a bar of gold metal ever
 been to you that a government scorepoint or hundred was not of more use?
 
 **Little Summary:**
-* Pegging to gold is a (highly regressive) price anchor, it is distinct from commodity currency.
+* Pegging to gold is a (highly regressive) price anchor, it is distinct from 
+commodity currency.
+* Redeeming for gold is unnecessary, even when the gold peg is the price 
+anchor. Mostly the USA did _not_ redeem for gold bullion. They only lost 
+50% of the gold.
 * The modern price anchor is Labour, and that is the natural anchor.
 * Having a gold peg when the currency naturally "wants to be" a 
 labour value anchor is a cause of massive destruction, mainly in the form 
@@ -545,6 +656,233 @@ of involuntary unemployment via austerity policies.
 their real resources, so will not have the public healthcare and housing 
 and transport and water/electricity the people justly deserve --- justly 
 deserve for tolerating a government, period. (Any government of any variety.)
+
+#### Some Official Accounts
+
+(Not a PhD thesis, ok, just some crumbs.)
+
+**Finding the Money**
+
+To put not to fine a point on it all, we can 
+[extend simple MMT](https://criticalfinance.org/2019/11/22/mmt-history-theory-and-politics/) 
+by noting that the minimum base case is that a government (in this case 
+the USA) cannot ever default on a payment in USD, but can be forced to 
+default in gold promises.  Now to extend this:---
+
+> **From**: government will never face a situation in which it cannot 
+find the money to pay the interest on its debt, to hire workers, or to 
+purchase goods and services.
+
+> **To:** ... and this includes "finding the money" to service _any_ Treasury security interest promised imaginable. Which means, extending MMT, the 
+government can tolerate _any inflation rate imaginable_. Which means, extending 
+MMT, the government can always provide for full employment even when promising 
+to peg to gold, in the gold peg case it is just the inflation that needs to 
+be accommodated. It can always be accommodated. The constraint is the false 
+political psychology (gets you voted out of office).
+
+> **With the inevitable conclusion:** It is far better to _not_ peg to gold, 
+_and **not** peg either to anything except your labour_ (i.e., use a floating 
+exchange rate and permanent zero-interest rate policy),  so we can enjoy full employment **_and_** price stability. It is a no brainer. You do not want 
+the false psychology of the Cross of Gold as a constraint, because although 
+false, it has real effects (gets you voted out of office).
+
+We also cannot let these purely monetary polices obscure the far more 
+important point:
+
+> **The purpose of the currency:** should be to maintain hard full 
+employment. For if not, then a nation is squandering their most precious 
+resources (if we may be so crass to word it this way for short!), _their 
+people_, and will be suffering (unseen, invisible) lost output over future 
+years that far exceed the lost outputs due to all wars in human history. 
+
+This is so, even if the Job Guarantee is perfectly liberal and 
+loosey goosey --- let people do whatever the heck they wanna do within 
+the law. The _stoppage_ of the loses of unemployment in this maximally liberal 
+JG case still far more benefit humanity than getting us Doctor Who time 
+travellers to return us back all the real loses from all wars ever. 
+
+
+**JFK Thought Goldbug**
+
+Smart people can still think dumb thoughts. Such was the Cross of Gold that 
+even after the USA domestically had long ago abandoned gold redemption, JFK still thought 
+he needed to find the gold to fund the wars, specifically Vietnam. It is hard 
+to know if this was why he turned to peace. One might rosey-eyed hope 
+generously this was not the case, and that he was rather intrinsically 
+committed to peace, not just to preserving a supply of a relatively 
+_intrinsically_ useless metal. (I am not denying having lots of gold is 
+extrinsically un-useful, for trade purposes, since people who do not _truly_ 
+need gold seem to want to hold the stuff, to some ridiculous proportions, as 
+an inflation hedge.)
+
+In any case, not having the gold reserves to cover the certificate claims 
+did not prevent the war. So what was the point in worrying? The US dollar 
+could still not be devalued easily, and up to available real oil and military 
+resources the USA could have fought any war the Congress was not prepared 
+to stop.
+
+It is true ramping up war beyond industrial capacity would lead to inflation, 
+but we already know a fiat currency issuing government can tolerate any 
+inflation rate desired. It is not inflation that prevents war either. It is 
+loss of the real goods needed to fight the war, which includes the "good" 
+of public opinion. 
+
+This and the fact people also prefer to see unemployment than inflation 
+(a 𖥐𖦪𖠢𖢧𖥣ꛘ𖥕ꚶ𖨚 people that would be, but that's the harsh reality today).
+I believe it was this combination (anti-war and anti-inflation hysteria due 
+to the OPEC embargo${}^\dagger$ and price fixing) which stopped the 
+Vietnam war. But you can say the false psychology about needing to 
+"find the gold" helped, a "noble white lie" perhaps.
+
+${}^\dagger$I am being deliberately a little hazy (and lazy) on the time 
+sequencing there. The OPEC embargo came a year later, October 1973. Withdraw 
+from Vietnam began around 1973, but there was overlap, and you cannot tell 
+me the deep-state/security state was not anticipating the embargo, the USA 
+was partly complicit in the embargo. The Paris Peace accords were not signed 
+until January 27, 1974.
+
+Only I say no. It was an _effective_ lie, but not noble, because by the same 
+logic a nation cannot ever enjoy full decent employment and "free" 
+healthcare, eduction, housing, and electricty &c. If you cannot fight a 
+hot war, you also cannot fully fight a a war on poverty and war on oligarchy 
+either. Plus you must keep in mind, _always_, that the real cots of 
+unemployment over time far exceed the real costs of all wars in human history.
+
+Nevertheless, it is still far better to trade at fair prices for goods you 
+cannot produce domestically, instead of pillaging and plundering. 
+A god peg motivates pillaging and plundering. Because even though when on 
+a gold peg you might not redeem for gold, you might fake-promise to do so
+since you may have no tolerance for inflation. Is that a paradox? 
+You thought gold pegs were deflationary? Yes, but only if you are in 
+fact redeeming. If instead you offer Treasury securities, then the price 
+is inflation. The inflation is infinitely sustainable in operational terms, 
+but politically damaging psychologically, so there is a socially acceptable 
+limit to such a peg.
+
+Note however that say Turkey${}^\ast$, was not killing people in the street with 
+hyperinflation spurts. All this meant to first-order was that people tended 
+to spend all their income, since "tomorrow" the cash in their pocket was a 
+pittance --- yes, but equally their past debt was now insignificant. The rich hoarders of Turkish Lira similarly found themselves merely "well-off" the 
+next day, not super rich. There is clearly a constituency which might 
+favour such deliberate inflationary policy.
+
+${}^\ast$Typically averaging around 50% CPI index over 50 years. That's not 
+technically inflation, but a backwards looking correlation with base 
+inflation. So a fair proxy. The actual rate of inflation is hard to measure, 
+but the best measure of currency inflation --- absent crony capitalism 
+corruptions --- is the government interest rate policy (aka. merely crony 
+capitalism). Point is, look at the Turkish society: it is hardly 
+a "basket case." Subtract off a bit of authoritarianism and it'd be a nice 
+place to live.'
+
+The MMT lessons is you can fight any war you want --- up to available real 
+resources (including public good will).
+
+**The BIS**
+
+The Bank of International Settlements began as a nazi enterprise. These 
+days... who knows. But they at least have some legitimate data entry 
+operations, which are nazi-neutral.  Probably their staff are not nazis. 
+Anyway, they have a few papers that help peel back somewhat some of the myths.
+
+First though, there is no doubt,
+1. a gold peg is a deflationary bias --- hence horrific for the poor, 
+fantastic for the rich. But this is the same as the fixed exchange rate 
+mindset whereby government needlessly issue Treasury bonds = basic income 
+only for people who already have money, in proportion to how much they already have.
+2. If you do happen to have gold, it is a commodity to trade, like copper 
+or steel. Since the desire for gold is mainly psychological, it has a fairly 
+stable price. Very little of the gold gets leaked away into opto-electronics 
+and chemistry uses. So it functions as an effective peg, if you want your 
+government to be 𖥐𖦪𖠢𖢧𖥣ꛘ𖥕ꚶ𖨚Ꝇꔇ austere, for no good reason, that's a good way 
+to do it.
+
+Note that since fiat currency is gauge, the gold peg is very much outcome-wise 
+the same as the obscenely regressive Treasury bond operations. In the 
+deflationary bias case the hoarded savings increase purchasing power of the 
+wealthy, and cripple the poor who are in bank debt.  In the inflationary bias 
+case the government bonds only benefit those who already have money, so in 
+relative terms these two policy regimes, one deflationary, one inflationary, 
+are the same. You need to use a gauge analysis fo course to see why.
+
+Here is the [BIS commenting (here)](https://www.bis.org/publ/work684.pdf) 
+upon the myth of Triffin:
+
+> Triffin gained enormous influence by reviving the interwar story that 
+gold scarcity threatened deflation. In particular, he held that central 
+banks needed to accumulate claims on the United States to back money growth. 
+But the claims would eventually surpass the US gold stock and then central 
+banks would inevitably stage a run on it. He feared that the resulting high 
+US interest rates would cause global deflation. However, we show that the 
+US gold position after WWII was no worse than the UK position in 1900. Yet 
+it took WWI to break sterling’s gold link. And better and feasible US policies 
+could have kept Bretton Woods going.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This history serves as a backdrop to our 
+critical review of two later extensions of
+Triffin. One holds that the dollar’s reserve role required US current account 
+deficits. This current account Triffin is popular, but anachronistic, and 
+flawed in logic and fact. Nevertheless, it pops up in debates over the euro’s 
+and the renminbi’s reserve roles. A fiscal Triffin holds that global demand 
+for safe assets will either remain dangerously unsatisfied, or force excessive 
+US fiscal debt. Less flawed, this story posits implausibly inflexible demand 
+for and supply of safe assets. Thus, these stories do not convince in their 
+own terms. Moreover, each lacks Triffin’s clear cross-over point from a 
+stable system to an unstable one.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Triffin’s seeming predictive success leads 
+economists to wrap his brand around dissimilar stories. Yet Triffin’s dilemma 
+in its most general form correctly points to the conflicts and difficulties 
+that arise when a national currency plays a role as an international public good.
+
+
+Sorry about all that, just wanted to display the mainstream thinking. What's 
+wrong with this?
+
+* The Triffin trade deficit "problem" is not a problem. That's the essential 
+myth (that is is a problem). A currency account deficit means you 
+ware _winning_!  The problem is to try to keep it going, the goose laying 
+the golden eggs. Which the USA was able to do, quite effectively. That was a 
+good reason to get off gold". To keep the real goose laying the golden eggs 
+paying them. So like ... actual yummy eggs you could say, the foreign factory 
+workers working for your people. Historians will writ about this period of 
+history from 4000 BC to the present as a gloriously barking mad time in monetary history. All government fiscal policy, just about, being backwards.
+* They get the interest rate dynamic correct. After the gold supply is over-subscribed, to avoid a gold run the government must offer Treasury securities. 
+That leads directly to an inflation story. If exports do not grow, that can 
+turn into a hyperinflation story. Shortly thereafter the government comes 
+off the gold peg or the (pretense of) gold redemptions, both.
+* The note, "And better and feasible US policies could have kept 
+Bretton-Woods going" is fair, but what would be "better"?  The original 
+J.M. Keynes Bancor probably, an international currency for simpler 
+swap line maintenance. No pretenses in other words, just transparent honesty.
+* a floating exchange rate system is even better, not Bretton-Woods 
+maintenance operations needed. Frees up the accountants to do better things. 
+The BIS people seem to not comprehend this?
+* They still think the USD was a "global reserve currency". There is no such 
+thing. The notion a government can reserve their own scorepoints is completely inapplicable. The desire fo holding US Treasury Securities is based upon all 
+sorts of institutional factors and the strength of the US economy. The USA 
+still has the highest GDP.  Trader of currency do not worry about the 
+relative terms like GDP per Capita Growth --- for which China has always 
+been superior since around 1950.
+* Domestically the USD can never "collapse", since the IRS still issues 
+tax liabilities. But it could be the case in future US citizens prefer to 
+gold a foreign currency. If there is plentiful supply of that foreign 
+currency they may do so, meaning the foreign nation will have to run 
+persistent deficits. This cannot "collapse" the USD though, for the 
+obvious reasons just stated. The exchange rate can depreciate of course, and 
+so what? It does not prevent the US government from running full employment.
+* The note that when a national currency "plays a role as an international 
+good" is I think the most pertinent point. On a floating exchange rate no 
+one should care.  So _why do they care_?
+
+For further reading you could look at:
+* [Mosler ＆ Forstater (1999) “A general framework for the analysis of currencies and commodities”](http://moslereconomics.com/wp-content/uploads/2018/04/A-General-Analytical-Framework.pdf)
+* [Forstater (20004) “Tax-Driven Money: Additional Evidence from the History of Thought, Economic History, and Economic Policy”](https://tools.bard.edu/wwwmedia/resources/files/1238/WP%2035%20-%20Tax-Driven%20Money%20-%20Forstater.pdf)
+
+That's the important thing: why **_do_** people care about a thing we should care 
+less about?
+
+Caring anxiety-filled for things we should care less about (e.g., paying a 
+fair price for oil or whatever) is a cause of massive banana-brain government 
+policy and massive needless human suffering.
 
 
 #### The Real BW Lesson

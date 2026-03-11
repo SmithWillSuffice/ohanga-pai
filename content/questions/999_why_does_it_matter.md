@@ -1,6 +1,6 @@
 ---
 title: "Why does all this matter?"
-weight: 18
+weight: 31
 description: ""
 date: 2023-02-19
 lastmod: 2023-02-19
@@ -342,27 +342,31 @@ We do not *need* to tax super rich people, we need to not have super rich people
 
 
 
+
+
+
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
-       <col span="1" style="width: 35%;">
-       <col span="1" style="width: 10%;">
-       <col span="1" style="width: 35%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 20%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../027_without_government_no_unemployment">Previous Question</a></td>
+<a href="../1000_tariffman_ex_machina">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
-<a href="../">Back to Q</a></td>
+<a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">Next Question</a></td>
+<a href="../1000_tariffman_ex_machina">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../027_without_government_no_unemployment">Without Unemployment</a></td>
+<a href="../1000_tariffman_ex_machina">Tariffman Ex Machina</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="./">(TBD)</a></td>
+<a href="../1000_tariffman_ex_machina">Tariffman Ex Machina</a></td>
 </tr>
-</table>
+</table></table></table></table></table>
 

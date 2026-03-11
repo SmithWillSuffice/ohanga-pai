@@ -202,6 +202,7 @@ no debating skills, but the upside of it could be that it means you are an
 empathetic person. That's not a bad consolation prize.
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -214,7 +215,7 @@ empathetic person. That's not a bad consolation prize.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next chapter</a></td>
+<a href="../105_marxism_and_materialism">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -222,6 +223,6 @@ empathetic person. That's not a bad consolation prize.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../105_marxism_and_materialism">Marxism And Materialism</a></td>
 </tr>
-</table>
+</table></table>
