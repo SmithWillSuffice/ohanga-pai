@@ -7,7 +7,8 @@ draft: false
 katex: true
 ---
 
-Due to Iran--Israel war flooding indie media [[FN-1]](#fn_1), I escaped into some based 
+Due to Iran--Israel war flooding indie media [[FN-1]](#fn_1), I escaped into 
+some based 
 history today with Michael Parenti.
 _[The Assassination of Julius Caesar](https://www.youtube.com/watch?v=3APlDlgZZ9k)_
 
@@ -75,6 +76,46 @@ value --- as an investor.  If they make stuff like BBQ burgers or hand woven
 baskets in their spare time, then during that time interval they are not 
 investors, and so are perhaps darn good people. I want to make then darn 
 good people _all the time_ not just some of the time.
+
+
+## Mini Epistle to Parenti
+
+Huge mistake of epic proportions @9:50 the government *_creates the currency by fiat_* when it spends (marking up bank accounts with a computer). This does 
+not come from a  tax payer" — that'd be counterfeit. It is also a reich-wing Thatcherite-Reaganite neoliberal myth, so stop parroting it like 𖡮𖦙ꚶ𖥐𖢉𖥣ꛘꛪ ꕯꕒꕯꗞꖡs.   Nor do governments "borrow" their own currency from a banker. You never borrow 
+your own I.O.U. The tax credit is an I.O.U.of the State ("We owe you 
+redemption for extinguishing one unit of your tax liabilities." The government always redeems.) Hence tax return ('revenir' ~ "to return back to the issuer" 
+is not a funding operation.  The _*purpose* of tax liability is to create unemployment_ *by design* (people seeking to exchange their labour for tax credits). The purpose of bonds is interest rate maintenance plus _basic income but *only for people who already have money* and in proportion to how much money they already have_  ~ obscenely regressive pro-inflationary policy.
+
+But far worse is leaving a single worker unemployed when your tax liabilities 
+caused their unemployment, and cause _all_ unemployment in that currency. It 
+is an epic tragic crime against humanity governments routinely perpetrate, 
+the real social pathological costs of unemployment and the lost output in a 
+mere decade today exceeding the real costs of all wars in all human history.
+    
+Government can _always_ fully employ everyone they unemployed-by-design, 
+without inflation pressure, since the private sector bid for unemployed labour 
+is by definition ZERO. It is an epic policy mistake of biblical proportions to 
+leave even a single person unemployed when they might otherwise be working 
+towards public good purpose, a crime against humanity.   Government spending 
+(unless insanely corrupt) never has caused hyperinflation in all history — and 
+that's a finding from a reich-wing institute! (CATO bros.) ⇐ they _wanted_ to 
+find a causal link to inflation from government deficit, they could not find 
+any.  The government deficit is just the private surplus, it accommodates 
+insatiable savings desires. Savers do not cause inflation.  Monopoly price 
+power, supply shocks, and the wage bid cause inflation.
+
+Private firms never hire the long-term unemployed, they bid for already 
+employed workers. The government has no such competition when hiring the 
+unemployed. 
+
+Hyperinflation is always a supply shock (famine, pestilence, war, etc) and 
+the government deficit expands as an effect, not the cause. Otherwise people 
+will die in the street. This expansion is always at the economic base, so 
+alleviates somewhat some inequality, until supply is restored. But that should 
+tell you deliberate pro-inflationary policy even when supply is plentiful is a 
+good policy if there is political tolerance, it reduces the burden of past 
+debt and erodes the purchasing power of hoarded government scorepoints (the 
+currency).  So helps reduce inequality. 
 
 
 ## Don't Power Shame Me
@@ -228,6 +269,7 @@ Natural Evolution at a cultural level.
 
 
 
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -240,7 +282,7 @@ Natural Evolution at a cultural level.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../131_caused_pearls">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -248,6 +290,6 @@ Natural Evolution at a cultural level.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../131_caused_pearls">Caused Pearls</a></td>
 </tr>
-</table>
+</table></table>
