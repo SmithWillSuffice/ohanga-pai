@@ -71,7 +71,7 @@ the customer must repay with interest at a due date or dates.
 non-convertible fiat currency with floating exchange rate, and no foreign 
 denominated debt. Note that having foreign denominated debt is a political 
 choice, unnecessary, and is completely pointless if the government understands 
-their monetary system. A government that issues their own currency holding 
+their monetary system. For a government that issues their own currency holding 
 on to foreign reserves is also pointless if the domestic currency is on a 
 float --- provided the government understands the floating exchange rate 
 mechanism and uses that understanding to inform policy choices, which is 
@@ -84,21 +84,36 @@ many sectors as one likes, the sectoral balances still sum to zero.
 * **Private sector** means 'non-government' including all foreigners.
 
 
-**Comment:** Some folks call a currency issuing government the "monetary sovereign," but that can be a
-misleading term, since *full sovereignty* is widely recognized in MMT circles as connoting a whole
-raft of powers, such as food self-sufficiency, energy self-sufficiency and legislative sovereignty, and perhaps more. 
-All forms of 'sovereignty' are desirable, but currency issuing authority is the
-minimum necessary and sufficient for an economic region to be considered well-described by MMT.
+**Comment:** Some folks call a currency issuing government the "monetary 
+sovereign," but that can be a
+misleading term, since *full sovereignty* is widely recognized in MMT circles 
+as connoting a whole raft of powers, such as food self-sufficiency, energy 
+self-sufficiency and legislative sovereignty, and perhaps more. 
+All forms of 'sovereignty' are desirable, but currency issuing authority is 
+the minimum necessary and sufficient for an economic region to be considered 
+well-described by MMT, and most importantly it means the government can always 
+eliminate all unemployment whatsoever, in perpetuity, without inflation bias.
 
 **Comment:** When people first encounter fiat money they usually ask, 
 since it is not gold mined out of the Earth, "where does the government 
-get this money from?" The answer is the government does not get money from 
-anywhere, the NZ dollar is a unit of account, the government neither has 
+get this money from?"  Or if they are marginally more sophisticated they 
+might ask, "But what backs this currency?"  The answer is the government does 
+not get money from anywhere, and the enormous might & power of the state to 
+viciously enforce tax liabilities, fees and fines, is what backs the currency, 
+as well as the quality of all the labour the government hires. 
+
+The NZ dollar is a unit of account, the government neither has 
 this stuff nor doesn’t have the stuff, when they want to spend they 
 mark-up someone's bank account with a computer, and when they tax they 
 mark-down the person’s account, and that's all that happens. No gold is 
 lost, no one’s grandchild is put at risk, no "borrowing from China," occurs 
-at all.
+at all.  The might & power of the state is more secure than holdings of gold.
+
+I wrote, "... and that's all that happens...," but this is only at the software 
+level. At the political level a whole lot of absolutely 𖥐𖦪𖠢𖢧𖥣ꛘ𖥕ꚶ𖨚 things 
+happen, because the government officials and lobbyists have no clue, or by 
+wilful class war volition refuse to have a clue, refuse to learn, refuse to 
+insert principles justice before accounting entry self-imposed rules.
 
 Another way of putting this is that the NZD is the State's unit of account. 
 Like a kilogram is a unit of measure for mass. 
