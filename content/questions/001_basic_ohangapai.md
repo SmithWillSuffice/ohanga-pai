@@ -674,11 +674,12 @@ employment in the private sector, so the NAIRU is at best just an artifact
 of stupid government policy --- governments who think (or act as if) the 
 private sector is supposed to be responsible for full employment.
 
-Today Australia, New Zealand, Japan, and the USA are all examples of MMT 
-systems. This does not mean their politicians understand MMT, and typically 
-they will not, so bad policy choices that MMT would tell you are harmful to 
-workers can often result --- this is no fault of the MMT system that exists 
-in these countries.
+Today Australia, New Zealand, Canada, Japan, the UK, the USA, and most other 
+nations are all examples of MMT systems. For the EU, only the entire EMU as a 
+whole is an MMT system, not the individual states in the EMU.  This does not 
+mean our politicians understand MMT, and typically they will not, so bad 
+policy choices that MMT would tell you are harmful to workers can often 
+result --- this is no fault of the MMT system that exists in these countries.
 
 It is a fault of political misunderstandings and power plays by oligarchs 
 who desire to see workers in debt (desperation for a job means the wage 
