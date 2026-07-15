@@ -21,7 +21,7 @@ My quick review: nerds who try to capture the infinite are doomed ... to
 receiving too many government scorepoints they did not deserve, and all the 
 consequences thereof. 
 
-One thing the reviewers, Aronow and Sävje., get right is close to my beef, 
+One thing the reviewers, Aronow and Sävje, get right is close to my beef, 
 but they couch it in humbler terms, they note Pearl himself is not claiming 
 his "casual revolution" has solved the problem of _causal discovery_.
 
@@ -36,7 +36,8 @@ causal discovery was much more difficult and perhaps impossible."
 This is good.
 
 It means even Pearl recognizes there is a possibly insoluble problem, which 
-in my mind reveals a faint trace of The infinite.  Aronow and Sävje rightfully 
+in my mind reveals a faint trace of The infinite. [FN-1](#fn_1)
+  Aronow and Sävje rightfully 
 do not go there, because their audience is the fellow geek, who probably subscribes 
 to materialism.
 
@@ -119,7 +120,7 @@ These days I do not routinely track MMT whitepapers, but there is still a gap
 I think in causal modelling in MMT scholastic studies.  The issue being you 
 cannot take the MMT principles as the basis, since what MMT is claiming is 
 that most of the causality is _in the human beings_ making policy decisions. 
-So you need to model their mental models! [FN-1](#fn_1) 
+So you need to model their mental models! [FN-2](#fn_2) 
  They are not using MMT knowledge! 
 So the MMT Base Case is not in today's real world a causal model. It is a 
 model of what might have been, and what could be. Something many of my 
@@ -155,9 +156,15 @@ latter will be collateral damage.
 **Footnotes:**
 
 <div style="margin-left: 20px">
-<span id=fn_1 style="font-weight: bold; margin-left: -20px">(1)&nbsp;&nbsp;&nbsp;</span>One reason Nathan Tankus browses FED Board minutes, or Bill Mitchell reads JCB minutes in Kanzi (probably).</div>
+<span id=fn_1 style="font-weight: bold; margin-left: -20px">(1)&nbsp;&nbsp;&nbsp;</span>More than a faint trace. Every finite problem is soluble. For we mere 
+mortals the issue then would only be whether the problem is in NP or higher 
+complexity class, which is a “do you have a enough time” issue, not an impossibility issue <i>per se</i>.</div>
+
+<div style="margin-left: 20px">
+<span id=fn_2 style="font-weight: bold; margin-left: -20px">(2)&nbsp;&nbsp;&nbsp;</span>One reason Nathan Tankus browses FED Board minutes, or Bill Mitchell reads JCB minutes in Kanzi (probably).</div>
 
 <br>
+
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
@@ -171,7 +178,7 @@ latter will be collateral damage.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../132_toxic_green">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -179,6 +186,6 @@ latter will be collateral damage.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../132_toxic_green">Toxic Green</a></td>
 </tr>
-</table>
+</table></table>

@@ -31,6 +31,18 @@ face no purely financial constraints. To learn why this is a legal reality
 see [What is Money.](../003_what_is_money/)
 3. Sectoral balances sum to zero.
 
+However, a better _definition_ of "MMT" is:
+
+> **MMT** is just an understanding the currency is a simple public monopoly
+ and _all of the consequences thereof._
+
+The reason one can blog forever on MMT macroeconomics is because those 
+consequences are vast. And failure to appreciate them is a cause of 
+needless human suffering beyond your comprehension, certainly beyond mine. 
+Hence, horrific, tragic suffering and atrocities of epic biblical 
+proportions. And that is just in one decade today.  We live in proverbially 
+biblical times.
+
 A few supporting definitions and operational realities:
 * **Real resources:**  material goods, workers, capital machinery, natural 
 resources, water, sunlight, land,...
