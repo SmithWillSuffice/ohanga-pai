@@ -52,8 +52,12 @@ defined as "that which is accepted for redemption of tax liabilities, fees
 or fines of the state." The most efficient modern forms of fiat currency 
 are electronic digits in a bank account, which is indeed the most common 
 form of NZD currency. 
-* **Bank reserves:** banks use reserve accounts (held at the central bank) to 
-facilitate payments clearing. Bank reserves are not used to make loans, nor 
+* **Bank "reserves":** banks use reserve accounts (held at the central bank) to 
+facilitate payments clearing.  They should not be called "reserves". Nothing 
+is being reserved. They are exchange settlement balance accounts and could be 
+allowed to go negative.  It is a scorekeeping system. The important thing is 
+if they go negative the accountants should not change the sign to $+$.
+Bank reserves are not used to make loans, nor 
 are deposits. In fact, deposits are liabilities of a bank, and debts owed by 
 customers are the bank’s assets. Reserve accounts are just spreadsheets at the 
 central bank and are for payments clearing operations.
