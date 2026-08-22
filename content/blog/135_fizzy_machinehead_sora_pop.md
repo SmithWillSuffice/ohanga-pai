@@ -42,14 +42,36 @@ far off. Their theory will say what is left over is a whole lot of medium
 sized firms all competing healthily for the consumer's "tax dollar" (that's 
 right, the tax payer funds the private sector. Their government
 scorepoints that might otherwise have been used to extinguish their tax 
-liabilities.)
+liabilities.) But in the real world the tendency is towards monopoly. Is 
+three to ten big firms colluding & cooperating on price gouging the same as 
+lots of medium sized firms in competition?
+
+(When we do get to such monopoly consolidation in a vital sector (so not 
+underwear manufacture, say)  I think it should be practically a biding Law 
+of the Land that the big monopoly firms become properly publicly owned, not 
+by stock-holders, but by the State.  Of course, this is impossible under 
+neoliberalism when the State is practically owned by oligarchs. But under 
+some form of actual democracy I think it should be the Law —if we are to 
+permit private ownership at all. Maybe it should all be worker-owned, all 
+firms, without exception, and hence also a binding law, but also impossible 
+under neoliberalism.)
+
+Also, not that I care one iota for naïve tech investors getting screwed by 
+the oligarchs. Maybe do not put your life savings into libertarian fever 
+dream promises?  (Why do people still invest in crypto, by the way? What’s 
+that gambling all about? Not enough local Casinos to sink your savings in 
+helping the mafia launder their dirty money?)  I just do not want the 
+epidemic of balance sheet degradation to cause my rents to soar as the ᖇᓵⓒᕼ 
+ꕗ𖧥𖨚𖢧𖧥𖦪𖦧𖨚  seek to return to their usual five 60 day vacations a year 
+normality.
 
 ## Prophecies of Madness
 
 The prophets who were predicting superintelligence have egg-on-face ... 
 but still will not admit it. Like cold fusion, or even blistering solar 
 temperature hot fusion, the breakthrough is always "just a decade away."
-
+(To be fair, Ray MachinePerv Kurzweil still has 14 years left.)
+ 
 Only in hot fusion I think one year it will be true. 
 It is the height of hubris to think we can build a virtual friggin' star 
 on the Earth. But this is possible hubris. Hence fantastically good 
@@ -78,12 +100,17 @@ have lived in
 our time --- Dennett, Hofstadter, the Churchland's etc. [FN-2](#fn2) --- 
 all predicting machines can think, if given enough ooomph. They know 
 nothing of the human soul, thus it is forgivable their ignorance would 
-spawn the "AI industry fever dreams of "intelligence" singularities. 
+spawn the "AI" industry fever dreams of "intelligence" singularities. 
 I could perhaps forgive them if in every article they had published 
 they had added the caveat: "This could all be ꕗꖹꝆꝆꕷꖾꕯꖡ."
 
 NB: this is not across-the-board.  A decent skeptical article like 
-Thomas Nagel's [“What is It Like to Be a Bat?”](http://ruccs.rutgers.edu/images/personal-zenon-pylyshyn/class-info/Consciousness_2014/Nagel._WhatIsItLikeToBeBat.pdf) is so wholesome and skeptical of machine sentience that it needs no "could be ꕗꖹꝆꝆꕷꖾꕯꖡ" caveat.
+Thomas Nagel's [“What is It Like to Be a Bat?”](http://ruccs.rutgers.edu/images/personal-zenon-pylyshyn/class-info/Consciousness_2014/Nagel._WhatIsItLikeToBeBat.pdf) 
+is so wholesome and skeptical of machine sentience that it needs 
+no "could be ꕗꖹꝆꝆꕷꖾꕯꖡ" caveat.
+Also, Hofstadter wrote a couple of beautiful books, 
+_Le Ton Beau de Marot_ among the best, better than the nerd-indulgent 
+fake Zen of  _GEB_ imho, so he at least should know better.
 
 It is not for me to forgive them though.  Who knows how many poor 
 communities their diseased ideas published in innumerable journals 
@@ -95,7 +122,7 @@ more electricity to live decent lives. We can solve the climate crisis by
 all cutting back on non-essentials. Same for machine algorithm string 
 emission technology. [FN-3](#fn3)
 
-This is what the cretinous Abundance guys do not comprehend. They want 
+This is what the 𖥐𖦪𖠢𖢧𖥣ꛘ𖥕ꚶ𖨚 Abundance guys do not comprehend. They want 
 neoliberal growthism because they are greedy.  They cannot stomach the 
 idea the median USA lifestyle is unsustainable, but that also below the 
 median USA lifestyle, with a few simple changes in habits, a family can be 
@@ -116,11 +143,28 @@ will machine algorithm fantasies of superintelligence. It is the pain we
 might go through in the meanwhile that worries me, not the financial 
 collapse.
 
-[Nathan Tankus](https://www.crisesnotes.com/) was writing about this recently. But I cannot afford to 
+[Nathan Tankus](https://www.crisesnotes.com/) was writing about this 
+recently. But I cannot afford to 
 subscribe to his substack thing _[Notes on the Crisis](https://www.crisesnotes.com/)_, I only get the free tier bulletins. 
 But I suspect his opinion was that provided the Federal government keep 
 supplying the mother's milk (US$ scorepoints) the techbros will suck 
-it all up. [FN-4](#fn4)
+it all up. [FN-4](#fn4)  But as I wrote above, I am sure the chatBot 
+fizzy drinks will lose some fizz as the monopoly forms.  I am sure more than 
+a few Insiders may realize the Chinese platforms will be standing on top at 
+the end of the fizz? Like Japan, I wonder when the bureaucrats in these 
+countries will admit that they knew MMT all along? Knew they had MMT, knew 
+they were lying about not knowing it.
+
+(There is no genie that escapes the bottle when the State acknowledges MMT.
+What’ll happen, I predict (albeit with no great confidence, being very non-
+genius) that the public will just be holding the government even more to 
+account!   To my mind that is a tautology, due to the inherent deep 
+relationship between money and records of account and public accountability. 
+They are literally the same thing, once you know the money is not generated 
+by 𖦪𖥣𖥐𖦙 ꖿ⋒ℼԞ𝕤. On second thoughts, if the public starts holding the 
+government even more to account, that would be a pretty good genie to let 
+loose!  Democracy has for a long time been trapped in a conservative whine 
+bottle.)
 
 There is a great (abysmal) parallel here I only recently was 
 aware of, thanks to [Ghost](@GhostOnTheHalfShell), which was the 
@@ -130,26 +174,44 @@ which funded German re-armaments, not too far in time from the Weimar
 hyperinflation, though well afterwards. It was possible the German 
 monetary authorities were (falsely, imho) worried about another 
 inflation event, and this MEFO bill was thus a thinly disguised veil 
-to avoid the accusation of "printing money."
-
+to avoid the accusation of "printing money." [FN-5](#fn5)
 
 The data centre spend will not be inflationary zeroeth order because 
 those guys love hoarding the scorepoints. Thus zeroeth-order will only 
 want to pay the market price for electricity and silicon.   Added 
-scorepoints only inflate prices if they are spent.  
+scorepoints only inflate prices if they are spent.
 
 First-order it should inflate the electricity and water prices, 
 marginally, because of the arms-race dynamics absent a clear monopoly 
-triumph. OpenAI doing a great job with Altman-Elemental-Koas undermining 
+triumph. OpenAI doing a great job with Altman-Elemental-Kaos undermining 
 their chance for monopoly, see _[Empires of AI](https://karendhao.com/)_ by 
 Karen Hao.
 
-The popinness (sp?) and fizz come from the age-old speculative finance 
+The popiness (sp?) and fizz come from the age-old speculative finance 
 dynamics and nowadays also the techbro arms race.  They all wish to be 
 the First to Summit the Everest of Superintelligence. 
 
 Someone should reach into their 𝕚𝑑🄸🅾𝕥 dreams _Inception_ style and tell 
 them that mountain does not exist.
+
+While there is this fantasy arms-race towards a weapon that will never 
+exist, there is a ponzi-finance dynamic. But we all now know that there 
+is no balance sheet crisis that cannot be eliminated with sufficient 
+fiscal injection.
+
+In String-Spewing-Algorithm finance terms, the based leftist take on 
+this should be that ꕯꕒꕯꗞꖡ small fry investors who risked their houses 
+and failed to early bank their gamble on the "AI" Boom should not have 
+to suffer their own ꕯꕒꕯꗞꖀꖡ ... too much.  Just a little. In fair due 
+proportion.
+They should not need to have to sell their house or re-mortgage, they 
+only need a government guarantee of the same degree the techbro's had 
+to spawn the ponzi period, namely a Job Guarantee with a decent wage so 
+they can make their old mortgage payments. 
+
+I am in favour of a Job Guarantee, but not a job guarantee _only 
+for people who already have the retirement savings of 100 median 
+families_, aka state subsidized bitstring-farming.
 
 
 ## The Other Hype & Grift
@@ -160,7 +222,7 @@ for the ([un-cited, but see here](https://scholar.google.com/citations?hl=en&use
 1. There is no such thing as "AI" so stop using the term.  The term 
 itself is hyping the grift.  Stop using it without quotes or caveats.
 2. The human mind is not merely emitting strings like the LLM's. 
-Or ... to assert otherwise is a form of intellectual fascisms, or at 
+Or ... to assert otherwise is a form of intellectual fascism, or at 
 best techno-utopianism (bad enough). Stop 
 doing that!
 3. We do not have to all be Neo-Luddites. But I am. We do not need half 
@@ -170,21 +232,48 @@ word, but you know what I mean. Glass house agriculture is fine if
 needed to feed the masses, but should be a last resort, due to the 
 nutritional deficits.)
 4. Even "neural net" is a bad phrase, I try to avoid it and stick to 
-the acronym ANN/CNN. But obviously would prefer to avoid that too. The 
-computer systems are _nothing_ like biological neutrons.  The 
+the acronym ANN/CNN.[FN-6](#fn6) 
+But obviously would prefer to avoid that too. The 
+computer systems are _nothing_ like biological neurons.  The 
 computational node architecture is so far abstracted from neurobiology 
 it might as well be fairy dust. It certainly has engendered Peter Pan 
 like fantasy.
-5. The human soul is not understood by any science. Science cannot even 
+5. “Reinforcement learning” is a bad phrase in algorithmic string 
+emission context. There is no learning involved, not of the kind that 
+occurs in the human mind.  Weight updates are not “learning” in any way 
+shape or form. It is yet another insidious neoliberal use of language. 
+Every ounce as bad as “debt mountain” and “fiscal cliff.”    Science does 
+not even know what human learning is exactly. There is no good definition. 
+We only measure behavioural input/output events and correlations. These 
+are a poor substitute for the actual spiritual phenomenon of learning and 
+spiritual growth (learning to be a better kinder person).[FN-6](#fn6)
+6. The headlines, “AI Solves/Proves Hundred Year Old Math Theorem” are 
+also fake headlines.  Some dopey math nerd had to prompt the algorithm 
+to get it running. The math nerd is where all the intelligence resides. 
+Plus the software engineers who wort the algorithm and fed the algorithm 
+ginormous amounts of mathematical results. To say the machine “thought” 
+of the proof is like saying  the lottery ball machine thought 
+Joan Ginther would be a worthy winner.[FN-8](#fn8)
+7. The human soul is not understood by any science. Science cannot even 
 agree on whether there is such a reality. It certainly never helps that 
 no definition exists.
 
-Like the abused term "hacker", I run against the grain.  Hacker means 
-"playful inventiveness" and has nothing particular to do with computer 
-coding.  The term for a malicious computer security break is "cracker." --- 
+Like usage for the abused term "hacker", I quixotically must forever 
+run against the grain. ‘Hacker’ means 
+"playful inventiveness" and has nothing in particular to do with computer 
+coding.  The term for a malicious computer security break is "cracker," --- 
 which in turn has nothing to do with the social class people think of 
 as "white trash".
 
+
+Like usage for the abused term “hacker”, I quixotically must forever 
+run against the grain. ‘Hacker’ means “playful inventiveness” and has 
+nothing in particular to do with computer coding. The term for a malicious 
+computer security break is “cracker,” — which in turn has nothing to do 
+with the social class people think of as “white trash”. … I forgot the 
+point of this remark …  something about how despite materialist scientists 
+broadly dismissing the reality of the human soul, they have no definition 
+of what they are dismissing.[FN-9](#fn9) Sheer folly.
 
 
 
@@ -240,6 +329,30 @@ fill. Yet they still want more. Just sayin’ it is better than being
 bottle fed. (The Federal financing relieves the chatBot end-user paying the 
 software rents.)</div>
 
+<div style="margin-left: 20px">
+<span id=fn5 style="font-weight: bold; margin-left: -20px">(5)&nbsp;&nbsp;&nbsp;</span>
+This is a recent Moslerism.</div>
+
+<div style="margin-left: 20px">
+<span id=fn6 style="font-weight: bold; margin-left: -20px">(6)&nbsp;&nbsp;&nbsp;</span>They are not “neural”. It is an abuse of language, and should make every decent biologist cringe. The LLM’s and Transformers etc., are numerical matrix transforms, nothing more. There is nothing biological about them.</div>
+
+<div style="margin-left: 20px">
+<span id=fn7 style="font-weight: bold; margin-left: -20px">(7)&nbsp;&nbsp;&nbsp;</span>Recently I was tagged with a 
+comment, “Maybe we agree, but think this is obvious and so need not be 
+stated.”  Wrong!  It needs to be stated. We have millions of volumes of 
+writing on political economy that is devoid of human spirit, and that 
+is the main problem.</div> 
+
+<div style="margin-left: 20px">
+<span id=fn8 style="font-weight: bold; margin-left: -20px">(8)&nbsp;&nbsp;&nbsp;</span>
+If no proof had existed the algorithm would have not halted unless fed 
+a “give up” instruction.</div>
+
+
+<div style="margin-left: 20px">
+<span id=fn9 style="font-weight: bold; margin-left: -20px">(9)&nbsp;&nbsp;&nbsp;</span>The slightly less decrepit “scientist” will define something, call it a “soul”, and prove it is nonsense. Big deal!  They do this all the time with the “God” concept, and yet none of these wasted words can ever disprove the transcendent realities that are beyond our comprehension. Total lack of humility. I reject such “scientists” speaking in this particular capacity, they have degraded themselves into non-science.</div>
+
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
@@ -252,7 +365,7 @@ software rents.)</div>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../136_ai_copperfields">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -260,6 +373,6 @@ software rents.)</div>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../136_ai_copperfields">Ai Copperfields</a></td>
 </tr>
-</table>
+</table></table>
