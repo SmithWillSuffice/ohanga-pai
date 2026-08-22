@@ -27,7 +27,7 @@ David Copperfield magic trick.
 Only, unlike a Penn & Teller episode, so many people want to be tricked. 
 Actively.  It is a near civilisational-level disease I think, as yet 
 undiagnosed. I think we could provisionally name it ... whathisname from 
-"American Idol"??? ... Simon Cowell I think.  It is _prosimoncowelitus_:  
+"American Idol"??? ... Simon Cowell I think.  It is _prosimoncowelitus_: 
 "The active desire to want to be fooled and not want to know younare being fooled."
 
 Prof. Emily Bender writes and talks about this in more sagacious academic 
@@ -117,7 +117,6 @@ because I do not want that deflated feeling when the puzzle is solved.
 I like to prolong the fun of the investigation. Unless it is a trivial 
 puzzle and just annoying (those are the puzzles I never choose to do). 
 
-
 Anyhow:  because a machine cannot have the fun for me, it can never take away my mathematics job. 
 
 We pay plenty of people to do useless things (play chess, fight in sports 
@@ -128,7 +127,6 @@ Yeah, but if they entertain other people then they are not _entirely_
 useless, are they?  Certainly not useless to the "CIA". 🤣
 
 Same with mathematics.
-
 
 Yeah, I am prepared to take oodles of government scorepoints to occupy 
 myself with useless mathematics in order to avoid ranting about MMT. [FN-4](#fn4)
@@ -142,7 +140,7 @@ This raises a more serious philosophical fun question: to what extent is
 human spiritual ingenuity in fact non-algorithmic, and thus impossible 
 for a machine to even mimic?
 
-No one knows the answer, but i think it is clear that humans are not 
+No one knows the answer, but I think it is clear that humans are not 
 solving puzzles the way we program our machines to solve them.  There 
 is some other quality to human thought which no algorithm can stick in a 
 can (software code).  You cannot easily convince the compsci n3rds this, 
@@ -192,6 +190,8 @@ recognize there are many things for which there is a unity and
 non-dualism, but human subjectivity and a lot of mathematics is not of 
 that type.)
 
+## Dickensian "Ai"? (Only if we allow it)
+
 It is all a bit Dickensian too, the other Copperfield. 
 
 However, just as with during the industrial revolution there was no 
@@ -240,38 +240,13 @@ seeking to exchange their labour for the State's (or currency authority's)
 tax credits. 'Underemployment' the same: people still seeking a few more 
 tax credits.</div>
 
-
 <div style="margin-left: 20px">
-<span id=fn3 style="font-weight: bold; margin-left: -20px">(3)&nbsp;&nbsp;&nbsp;</span>good riddance to all that labour we no longer have to do.</div>
-
+<span id=fn3 style="font-weight: bold; margin-left: -20px">(3)&nbsp;&nbsp;&nbsp;</span>Good riddance to all that labour we no longer have to do.</div>
 
 <div style="margin-left: 20px">
 <span id=fn4 style="font-weight: bold; margin-left: -20px">(4)&nbsp;&nbsp;&nbsp;</span>Urrhhh ... prepared to think about it, 
 but not so willing. Sorry CIA.</div>
 
-<table style="border-collapse: collapse; border=0;">
-    <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 20%;">
-    </colgroup>
-<tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;">
-<a href="../045_a_thorns_rose">Previous post</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;">
-<a href="../">Back to</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
-</tr>
-<tr style="border: 1px solid color:#0f0f0f;">
-<td style="border: 1px solid color:#0f0f0f;">
-<a href="../045_a_thorns_rose">A Thorns Rose</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:center;">
-<a href="../">TOC</a></td>
-<td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
-</tr>
-</table>
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
