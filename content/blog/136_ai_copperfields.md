@@ -25,18 +25,23 @@ philosopher miss that!?🤣) The so-called "Ai" is a giant
 David Copperfield magic trick.
 
 Only, unlike a Penn & Teller episode, so many people want to be tricked. 
-Actively.  It is a near civilisational-level disease I think, as yet 
+Actively.  It is a near civilizational-level disease I think, as yet 
 undiagnosed. I think we could provisionally name it ... whathisname from 
 "American Idol"??? ... Simon Cowell I think.  It is _prosimoncowelitus_: 
-"The active desire to want to be fooled and not want to know younare being fooled."
+"The active desire to want to be fooled and not want to know you are being fooled."
 
 Prof. Emily Bender writes and talks about this in more sagacious academic 
 terms than I can muster.
 
 Good breakfast today, since the opinion/journalist piece I consumed 
 was this one: [“The Ai Takeover Has Completely Backfired”](https://www.youtube.com/watch?v=DKHdi3LnZiU). 
+
+(He could not be happier, but I could. Read onwards!)
+
+> It is always good to have the chance to be happier.
+
 Unlike the author, I  am not "completely happy".  It would've been nice 
-to get the ANN/CNN's working to do basic takes for us without all the 
+to get the ANN/CNN's working to do basic tasks for us without all the 
 land, electricity and water guzzling, and the anarchic handing over of 
 the software platforms to dopey users with a bit of money generating 
 masses of useless slop.  A nod to China here for doing a bit better on 
@@ -50,7 +55,7 @@ When software platform tokens are rationed, I will bet people stop
 spending their access on so much slop. Maybe I miss something?, but I 
 think the rations would be good. It'd at least make one think a bit 
 harder about what they prompt. We might finally then eliminate so much 
-of the horrid "Ai" cartoons and StableDiffusion images popping on on 
+of the horrid "Ai" cartoons and StableDiffusion images popping up on 
 every substack and youtube headings/thumbnails/backgrounds.  Damn I hate 
 it all!  I would even say it is ugly.  I will not read the articles 
 that have these images. And you'd be lucky if I even get through your 
@@ -61,7 +66,8 @@ unemployment is the government imposed tax liability, by definition (there
 is no debate about this, or you haven't understood the 
 definition [FN-2](#fn2)). Thus 
 any machine algorithm doing things "better than humans" (what does that 
-mean?  Just crunching numbers faster? Big deal, so what?!)
+mean?  Just crunching numbers faster? Big deal, so what?!) is not a cause 
+of any job losses.
 
 Second thing: the machines are certainly not thinking better than humans, 
 since there is no thought involved in the running of the algorithm.  Thought 
@@ -85,12 +91,11 @@ if for no other economic reason, we should all be working.  I work even
 when I sleep. Indeed, I could not get half my work done without sleeping.
 Or at least resting my eyes.
 
-
 A pretty sad-hilarious blog entry from Scott Aaronson I saw recently was 
 maybe unintentionally funny.
 He wrote about some sort of summer Math camp for kids. Where they blithely 
 ignored the fact everything they were doing could be done faster and more 
-error free my a machine. (ALso forgetting to run the machine they would have 
+error free by a machine. (Also forgetting to run the machine they would have 
 to first think of the problem.)
 
 But they had a great fun time, pretending there was no math-assistant 
@@ -99,15 +104,39 @@ software.
 But that's the whole point of doing mathematics. It is for the fun. Not 
 for solving the problem.
 
-Whenever I solve a hard math puzzle I always feel deflated, like at the 
-end of a good movie, but when you would rather re-write the ending yourself. 
-Almost every movie I have ever seen! I prefer the David Lynch experience, 
-where there is never any closure. Lybnch pointed out this is better art. The 
-human soul can endlessly imagine how things might end, or continue.  The 
-film maker or book writer who offers a neat wrapped up closed package is 
-doing violence to our soul, but blocking our imagination. I do love a nice 
+Whenever I solve a hard math puzzle I always feel deflated, like at 
+the end of a good movie, but when you would rather re-write the ending 
+yourself. (Almost every movie I have ever seen!)  I prefer the David Lynch 
+experience, where there is never any closure. Lynch pointed out this is 
+better art. The human soul can endlessly imagine how things might end, or 
+continue. Let me tell you a guilty pleasure I have: often I will not finish 
+the last few pages of a great novel, and will often not watch the last 30 
+minutes of a great TV series or the last 15 minutes of a great film.  It 
+pains me sometimes, but after a few days I am far happier and richer for it, 
+and never have the urge to go and watch the finale. Knowing the finale would 
+now seem like spiritual violence to me. In the old days watching theatre or 
+cinema house movies often deprived people of this choice.  You'd have 
+to stay 
+in your seat to not upset the folks behind you. (A bittersweet sadness, 
+I am ambivalent to, since community theatre dies out, while home 
+streaming runs riot. Ambivalent since I hated having to go out to watch 
+a movie. I kinda liked the VHS era though.)
+
+The series and movies I watch the ends of tend to be the popcorn crap ones, 
+like a Marvel MCU movie, SciFi fantasy garbage (but entertaining), Dirty 
+Harry/Rambo type drama,  or they’d be a documentary (one should generally 
+not imagine the ending of a documentary! — unless the producer was a 
+reich-wing ideologue or Tory 🤣 in which case the imagination is 
+necessary to get the truth). 
+
+An exception would be a Sergio Leone film, where the ending is the sort of violence to my imagination I can withstand.
+
+The  film maker or book writer who offers a neat wrapped up closed 
+package is doing violence to our soul, but blocking our imagination. 
+I do love a nice 
 polished ending in some genre's. But not all of them.  As a kid reading 
-Marvel comics I grew accustomed to this open-endedness. Thanks Stan Lee! 
+Marvel comics I grew accustomed to this open-endedness. (Ironic, given the 
+above MCU comment.)  Thanks Stan Lee! 
 Pity the stories were a tad fascistic and nazi-ubermen-lite-homoerotic. 
 (Was Stan Lee even aware of that?  I'm prepared to give him a pass.)
 
@@ -115,9 +144,15 @@ It is much more fun pursuing the puzzle than finding the solution.
 This can be a bit pathological though: I often procrastinate precisely 
 because I do not want that deflated feeling when the puzzle is solved.
 I like to prolong the fun of the investigation. Unless it is a trivial 
-puzzle and just annoying (those are the puzzles I never choose to do). 
+puzzle and just annoying (those are the puzzles I never _choose_ to do). 
 
-Anyhow:  because a machine cannot have the fun for me, it can never take away my mathematics job. 
+Anyhow:  because a machine cannot have the fun for me, it can never 
+take away my mathematics job. 
+
+The job is the spiritual endeavour. No one can take that away.  The 
+wage compensation is just social accounting, good if one can get it. 
+People should be able to get it. And not off any tax payer, but off 
+the government computer.
 
 We pay plenty of people to do useless things (play chess, fight in sports 
 contests, play chamber music) but enough people somewhere seem to value 
@@ -129,7 +164,8 @@ useless, are they?  Certainly not useless to the "CIA". 🤣
 Same with mathematics.
 
 Yeah, I am prepared to take oodles of government scorepoints to occupy 
-myself with useless mathematics in order to avoid ranting about MMT. [FN-4](#fn4)
+myself with useless mathematics in order for the authorities to enjoy 
+stopping me from ranting about MMT to the Plenbs. [FN-4](#fn4)
 
 It is just that like some modern art movements, mathematics does not please 
 very many people, so is under-funded. But we should pay decent wages to 
@@ -154,10 +190,10 @@ me why what you can do a machine could not?"
 
 The yuuuge fallacy there is that he is forcing you to specify some input 
 output response.  This is obviously always something a machine can mimic. 
-Like David Copperfield.
+Like David Copperfield, the Los Vegas guy.
 
 Hossenfelder was "at it" too [“End of mathematics blahblahblah”](https://sabine.beehiiv.com/p/conscious-feedback-roasted-dinosaurs-the-end-of-mathematics-and-the-anti-tech-movement), with the mathematical job loss fear 
-mongering,. She is hopeless, and has no comprehension of the human 
+mongering. She is hopeless, and has no comprehension of the human 
 condition it seems.  Is this a problem with living in Germany? 🤣
 
 I am happy to report the deaths of human mathematical fun & games have 
@@ -167,7 +203,7 @@ stop me!  You can just refuse to pay me government scorepoints for it.
 But just see if I damn well care!
 
 You see, the extra compute we have can shift mathematical _tasks_ to 
-computers. I cannot possibly ever shift the jobs.  Because 
+computers. It cannot possibly ever shift the jobs.  Because 
 you cannot stop people from thinking mad beautiful thoughts. Tasks are 
 not jobs.  Jobs are what we all do to benefit our community (hopefully). 
 So let's stop with the "jobs loss" hair-on-fire stupidity, huh?  There 
@@ -185,7 +221,8 @@ can even generate qualia.
 
 This duality is real. It is a sharp thing. There is no new age Zen 
 Buddhism about it, the subjective is simply not the objective, in the 
-same same way a positive number is not zero. Duality is a thing. (I do 
+same same way a positive number is not zero, and the finite is not 
+transfinite.  Duality is a thing. (I do 
 recognize there are many things for which there is a unity and 
 non-dualism, but human subjectivity and a lot of mathematics is not of 
 that type.)
@@ -207,7 +244,7 @@ cents worth, take it or leave it.
 It is entirely with the power & capacity of our political class to 
 regulate and impose rationing, and democratize the Internet. It is the 
 Pervert Class unwillingness to do so which could create modern Dickensian 
-conditions. Totally needlessly. Just like the US Sty bond faked "crisis". 
+conditions. Totally needlessly. Just like the US Tsy-bond faked "crisis". 
 The crisis serves some oligarchs or perverts agenda. It has real 
 consequences, but was "fake" in any case. The tragedy is the grifters and 
 cheats are getting away with the virtual murder.  Too many people in the 
@@ -220,9 +257,9 @@ specializations, so there should always be a well-experienced civil
 service. What am I saying?  Nothing much really here, just felt the 
 need to write that utopias are fictions, useful for discussion, but 
 not something we have to ever achieve.  Your utopia is almost undoubtedly 
-someone else's nightmare. Such are human beings and our idosyncratic 
+someone else's nightmare. Such are human beings and our idiosyncratic 
 tastes.  More non-computational power to us all! And our 
-extraterrestiral cosmic brothers and sisters.
+extraterrestrial cosmic brothers and sisters.
 
 
 **Footnotes:**
