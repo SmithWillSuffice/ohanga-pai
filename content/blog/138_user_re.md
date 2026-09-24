@@ -299,7 +299,7 @@ to my spellchecker! 🤣</div>
 <span id=fn3 style="font-weight: bold; margin-left: -20px">(3)&nbsp;&nbsp;&nbsp;</span>It is not quixotic to tell you all 
 to stop calling it "AI". It is not intelligent by our common 
 understandings. It the Syence n3rds define _intelligence- in purely 
-behavioural input--output terms, then good luck to them.  IT is not my 
+behavioural input--output terms, then good luck to them.  It is not my 
 definition.  In public discourse definitions matter. A whole lot of human 
 lives are wasted by people arguing using poor or incomplete understanding 
 of the other guy’s point-of-view.  I would even say whole wars have been 
