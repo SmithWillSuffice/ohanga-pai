@@ -273,6 +273,27 @@ accepting MMT principles (acknowledge the system is “already MMT”, just
 without the logically aligned “correct” fiscal policies!) than many 
 other banking system operators.
 
+When interest income functions as a scarcity rent extracted via 
+market power or privilege of a banker with a licence to operate, 
+usurious lending becomes one concrete expression of rentier accumulation.
+Unlike maybe in Shakespeare's day, the banker has no need at all for 
+the interest charges. The government can always pay the wages of the bank 
+as the social compensation to the bank staff for the bother of acting 
+as the State's agent clearing payments and assessing credit worthiness. 
+
+A lot of that labour can be automated too, which is a darn good thing, 
+if bank clerks oversee the operations to prevent unwitting malware and 
+spyware from clearing payments correctly, and all that stuff. Just 
+like the Mathematicians proof checker is another mathematician 
+ultimately, not an algorithm crank handle.
+
+Yet, no bank clerk needs to be unemployed. On top of that,. no one should have 
+to beg to work at a bank just in order to be able to eat. Their art or 
+skill is useful elsewhere in society.  I do not know this for sure, but 
+I have some faith here, because the human mind is a wonderful adaptive 
+thing, possibly (internally) not even constrained by physical 
+law --- which (if true) makes the Mind different to Machine.
+
 You know … I forgot the cool little thing that followed from this. 
 Totally forgot. I was carried away with the AyEye rant above.
 
@@ -311,11 +332,12 @@ just there because the IDF were slow in taking out the kitchen rubbish
 left over from all the wild festivities from last week.</div>
 
 <br>
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 20%;">
-       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 25%;">
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 25%;">
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -323,7 +345,7 @@ left over from all the wild festivities from last week.</div>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next post</a></td>
+<a href="../139_the_opppression_of_lenin">Next post</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -331,6 +353,6 @@ left over from all the wild festivities from last week.</div>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="../">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../139_the_opppression_of_lenin">The Oppression of Lenin</a></td>
 </tr>
-</table>
+</table></table>
