@@ -1,0 +1,147 @@
+<!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>Macromodels — Mosler | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/341_01_macromodels_mosler/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="Macromodels — Mosler"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/341_01_macromodels_mosler/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>Macromodels — Mosler</h1><p>Published on <time datetime=2026-10-06>2026-10-06</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#initial-owleries-worries>Initial O̶w̶l̶e̶r̶i̶e̶s̶ Worries</a></li><li><a href=#1-file-check>1. File Check</a></li><li><a href=#2-the-central-economic-design>2. The central economic design</a></li><li><a href=#3-price-level-determination>3. Price-level determination</a></li><li><a href=#4-closing-the-labour-market-equations>4. Closing the labour-market equations</a></li><li><a href=#5-stock-flow-consistency>5. Stock-flow consistency</a></li><li><a href=#6-preliminary-numerical-checks>6. Preliminary numerical checks</a></li><li><a href=#7-three-modelling-decisions>7. Three modelling decisions</a><ul><li><a href=#first-attmepts>First Attmepts</a></li></ul></li></ul></nav></details><p>I have prepared a first implementation of <code>mmm_0_4.toml</code>, below is
+some documentaiton for mulling over. How to convince a Neoclassical this
+is better than thars?</p><h2 id=initial-owleries-worries><a class=anchor href=#initial-owleries-worries title='Anchor for: Initial O̶w̶l̶e̶r̶i̶e̶s̶ Worries.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Initial O̶w̶l̶e̶r̶i̶e̶s̶ Worries</h2><p>I was woprried about closing the ODE system, since we introduce the JG, but
+also the Mosler Price Setter aspect of government spending. I thought maybe
+needing to introduce a dopey target for employment, but you cannot choose the
+labour rate by policy, hence dopey. But I think we can still close the ODE
+system without introducing a target percentage for public employment. However,
+doing so requires some explicit assumptions about government staffing,
+household spending, and firms&rsquo; wage-setting behaviour.</p><p>Maybe this is ok, since &ldquo;government staffing&rdquo; can certainly be a policy
+choice: you tell departments to stop hiring.</p><h2 id=1-file-check><a class=anchor href=#1-file-check title='Anchor for: 1. File Check.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>1. File Check</h2><p>The new model is designed to work with our existing TOML-to-Julia
+generator. The code generator successfully processed the specification
+without modification.</p><h2 id=2-the-central-economic-design><a class=anchor href=#2-the-central-economic-design title='Anchor for: 2. The central economic design.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>2. The central economic design</h2><p>The model distinguishes three employment sectors:
+$$
+N = L_F + L_G + L_{JG} + U_{\mathrm{open}}.
+$$
+Here $L_F$ is firm employment, $L_G$ is ordinary government employment, and $L_{JG}$ is Job Guarantee employment.</p><p>The government announces nominal wage offers. Its ordinary public-sector wage is
+$$
+w_G = w_{JG} + \delta_Gw_0,
+$$
+where $w_0>0$ is an independent government nominal wage reference.</p><p>Firms offer
+$$
+w_F = (1 + \delta_F)w_G.
+$$
+Consequently, when $w_{JG}>0$,
+$$
+w_F > w_G > w_{JG}.
+$$
+This implements a proposed wage hierarchy. Obviously we can reverse the
+first inequality or set it stochastic $w_F \approx w_G$. (It is an
+interesting question whether government needs to outbid the private sector
+for comparable skilled labour, or if people prefer to work in the public
+sector? I guess it is culturally variable?)</p><p>You can thus change the toml spec say to,</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>premium_F</span> <span class=p>=</span> <span class=mf>-0.2</span>
+</span></span><span class=line><span class=cl><span class=c># or premium_F = 0.0</span>
+</span></span></code></pre></div><p>The positive reference wage $w_0$ also resolves an important problem:
+setting $w_{JG}=0$ does not eliminate the government&rsquo;s nominal
+price anchor.</p><p>Government wages and procurement prices remain defined.</p><p>The Job Guarantee is activated precisely when $w_{JG}>0$.</p><h2 id=3-price-level-determination><a class=anchor href=#3-price-level-determination title='Anchor for: 3. Price-level determination.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>3. Price-level determination</h2><p>Here I have drawn particularly on three papers.</p><p><a href=https://www.epicoalition.org/docs/Pavlina_2007.pdf target=_blank>Tcherneva’s 2002</a>
+paper explicitly discusses the Employer of Last Resort
+as a government purchase at a fixed price, with other prices determined
+by market conditions.</p><p><a href=https://www.levyinstitute.org/pubs/wp_992.pdf target=_blank>Levey’s 2021</a>
+paper distinguishes the MMT explanation of the price level
+from a theory explaining subsequent inflation dynamics.</p><p>Mosler and Armstrong similarly distinguish government spending prices
+from the relative prices subsequently determined through market activity.</p><p>My proposed implementation combines a government nominal wage anchor
+with the existing firm&rsquo;s monopoly markup mechanism.</p><p>Define the firm&rsquo;s unit labour cost:
+$$
+P_{\mathrm{cost}}=\frac{w_F}{A_F}.
+$$
+Let $m$ be the monopoly markup, and $e$ measure excess demand relative
+to firm production capacity.</p><p>Then the firm&rsquo;s desired price is
+$$
+P_{\mathrm{target}} = (1+m)\frac{w_F}{A_F} \exp(\eta_p e).
+$$
+The price ODE becomes
+$$
+\boxed{
+\dot P = \tau_P(P_{\mathrm{target}}-P).
+}
+$$</p><p>Inflation is therefore
+$$
+\pi(t) = \frac{\dot P}{P}.
+$$</p><p>This provides two mechanisms: a nominal price reference transmitted
+through government wage policy, and an endogenous private-sector
+price response.</p><p>Importantly, government wage policy does not mechanically determine
+every private price. Private prices can still change because of
+productivity, markup behaviour, and excess demand.</p><p>This distinction could become central to our experiments, maybe worht
+a Dirtbag MMT preprint.</p><h2 id=4-closing-the-labour-market-equations><a class=anchor href=#4-closing-the-labour-market-equations title='Anchor for: 4. Closing the labour-market equations.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>4. Closing the labour-market equations</h2><p>I had concerns over using a government employment-share target.</p><p>Instead, I introduced an ordinary public-sector <em>nominal payroll budget</em>
+$B_G$.</p><p>I mean &mldr; it is a tricky thing, I woudl prefer figuring out some sort of
+mental model for how Parliament determens the <strong>Size of the public sector</strong>.
+I naively woudl think it is staff numbers, given the public sector is not
+enormous, and so there is a lot of job moment slack. But it is not a
+modelling issue I have put enough thought into.</p><p>In future I might try to see if is is empirical input! (Just read the
+numbers off <code>foo.govt.nz</code>.)</p><p>Proceeding under the budget size then &mldr;</p><p>Government employment is then
+$$
+L_G=\frac{B_G}{w_G}.
+$$
+This avoids specifying the percentage of the workforce government
+should employ.</p><p>The firm employment variable is $\lambda_F$, defined over the workforce
+remaining after ordinary government employment:
+$$
+L_F=\lambda_F(N-L_G).
+$$
+Its dynamics respond to excess demand:
+$$
+\dot\lambda_F = \kappa_L\lambda_F(1-\lambda_F)e.
+$$</p><p>The JG subsequently absorbs the residual:
+$$
+L_{JG} =
+\begin{cases}
+N-L_F-L_G,&w_{JG}>0,\\
+0,&w_{JG}=0.
+\end{cases}
+$$</p><p>The factor $\lambda_F(1-\lambda_F)$ helps preserve the admissible
+employment interval.
+We then hopefully have the mechanism I wanted: the JG is a
+passive labour buffer, rather than another employment target.</p><p>One terminology distinction matters. My proposed $U3=N - L_F - L_G$ is
+useful as a measure of <em>non-JG labour-market slack</em>. It is not the
+conventional published U-3 unemployment statistic when those workers
+are employed by the JG. But I am ok calling it U3 since there is
+no US BLS statistic for a JG provision yet!</p><h2 id=5-stock-flow-consistency><a class=anchor href=#5-stock-flow-consistency title='Anchor for: 5. Stock-flow consistency.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>5. Stock-flow consistency</h2><p>I added seven Godley transactions covering firm wages, public wages,
+JG wages, government procurement, household consumption,
+household taxation, and firm taxation.</p><p>There are three financial accounts:
+$$
+F_D,\qquad W_D,\qquad G_N.
+$$
+The first two are firm and household deposits. The third is the
+consolidated government&rsquo;s signed financial position, rather than a
+conventional government bank deposit.</p><p>The accounting equations satisfy
+$$
+\dot F_D+\dot W_D+\dot G_N=0.
+$$
+Equivalently,
+$$
+\frac{d(F_D+W_D)}{dt}=G-T.
+$$
+This gives us a useful fiscal accounting invariant.</p><p>It is not yet a complete banking-sector stock-flow-consistent model:
+bank loans, reserves, capital and several other balance-sheet items
+remain outside this model&rsquo;s boundary. Nevertheless, the seven included
+transactions are balanced.</p><h2 id=6-preliminary-numerical-checks><a class=anchor href=#6-preliminary-numerical-checks title='Anchor for: 6. Preliminary numerical checks.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>6. Preliminary numerical checks</h2><p>I tested three values of the JG wage:</p><div class=scroll tabindex=0><table><thead><tr><th>JG wage</th><th>JG active</th><th>Open unemployment</th><th>Accounting</th></tr></thead><tbody><tr><td>$0.0$</td><td>No</td><td>Nonzero</td><td>Conserved</td></tr><tr><td>$0.6$</td><td>Yes</td><td>Zero</td><td>Conserved</td></tr><tr><td>$2.0$</td><td>Yes</td><td>Zero</td><td>Conserved</td></tr></tbody></table></div><p>All three cases integrated successfully over the specified 50-year
+interval.</p><p>The maximum numerical drift in the consolidated accounting identity
+was approximately $2\times10^{-12}$ or less.</p><p>These checks demonstrate numerical closure for the tested cases, not
+macromodel validation. I am a bit behind on doing any real-world data
+validations. Where are my grad students?</p><h2 id=7-three-modelling-decisions><a class=anchor href=#7-three-modelling-decisions title='Anchor for: 7. Three modelling decisions.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>7. Three modelling decisions</h2><p>Before we develop this further, I would particularly like to nuance
+judgement on three or four issues:</p><p><strong>First: ordinary government employment.</strong> I used a nominal public
+payroll budget rather than a workforce-share target. This seems compatible
+with my objectives, but it still represents an independent fiscal spending
+decision. Alternatively, we could derive government hiring from a demand for
+public services?</p><p>I&rsquo;d use whichever has better empirical data we can grab and input.</p><p><strong>Second: firm wages.</strong> For this first model, firms offer a fixed
+premium above ordinary government wages. This establishes a particularly
+transparent nominal anchor, but it suppresses endogenous private wage
+bargaining. We could later introduce a wage ODE responding to employment,
+productivity, or profitability.</p><p><strong>Third: government goods procurement.</strong> Government purchases goods at
+its posted procurement price $P_G$, which can differ from the firm&rsquo;s
+private-market price $P$. Currently, the model assumes firms fulfil
+those purchases. A more complete treatment would allow firms to reject
+government bids, resulting in procurement rationing. That distinction
+may prove particularly important when studying the limits of government
+price-setting power.</p><p>There is also a productivity notation issue: I distinguish productivity
+levels $A_F,A_G,A_{JG}$ from their growth rates
+$\alpha_F,\alpha_G,\alpha_{JG}$. I have not assumed that JG labour
+has higher physical productivity than ordinary public or private employment.</p><h3 id=first-attmepts><a class=anchor href=#first-attmepts title='Anchor for: First Attmepts.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>First Attmepts</h3><p>Keep <code>mmm_0_4</code> as a deliberately minimal model of government price
+anchoring and the JG labour buffer.**</p><p>The initial system has five ODE state variables:
+$$
+\mathbf{x} = (P,\lambda_F,F_D,W_D,G_N).
+$$
+This is considerably simpler than introducing a complete capital
+accumulation and banking system immediately.</p><p>Here is a nerdy question?:</p><blockquote><p>Can we decide whether the proposed <strong>government payroll closure and fixed firm wage premium</strong> adequately express my macroeconomic assumptions or intuitions?</p></blockquote><p>Dunno.</p><table style="border-collapse:collapse;border=0"><col span=1 style=width:25%><col span=1 style=width:10%><col span=1 style=width:25%><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../341_00_macromodels_mosler>Previous chapter</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>Back to</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../350_00_macromodels_lstm>Next chapter</a></td></tr><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../341_00_macromodels_mosler>Macromodels — Mosler I</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>TOC</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../350_00_macromodels_lstm>Macromodels — LSTM/CNN</a></td></tr></table></article></main></div><footer><div class=req-js><button class=outline-dashed title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#adjust"/></svg></button><input class=outline-dashed type=color list=presets value=#1585d5 title="Change accent color." aria-label="Change accent color."><datalist id=presets><option value=#1f676b><option value=#1585d5><option value=#225670><option value=#dd587c><option value=#902b37><option value=#f3a530><option value=#754e85><option value=#7fc121><option value=#a8314a><option value=#ff7433><option value=#3e6728><option value=#c063bd><option value=#805080><option value=#9d629d><option value=#a064a0><option value=#7daa50><option value=#284531><option value=#285790><option value=#F5A83D><option value=#88aa33><option value=#015660><option value=#bf274e><option value=#bf4242><option value=#51b37c></datalist></div><noscript><p class=noscript>Unable to execute JavaScript. Some features were disabled.</p></noscript></footer><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.6950e59dbd8dfddd111390d85888bb5f9dc2e9c334da7ac1c3bacc92a695610d.css integrity="sha256-aVDlnb2N/d0RE5DYWIi7X53C6cM02nrBw7rMkqaVYQ0=" crossorigin=anonymous><script defer src=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.4268ce940bc6faa510d7b638acc3f08a63501d9504dd3155bfc48d6838ade320.js integrity="sha256-QmjOlAvG+qUQ17Y4rMPwimNQHZUE3TFVv8SNaDit4yA=" crossorigin=anonymous></script>
+<script defer src=https://smithwillsuffice.github.io/ohanga-pai/js/katex-custom-render.min.cdeaf561a454e015b169c385f95c72d57d41f906a9bc4100636b18e1e4c15da3.js integrity="sha256-zer1YaRU4BWxacOF+Vxy1X1B+QapvEEAY2sY4eTBXaM=" crossorigin=anonymous></script></body></html>
