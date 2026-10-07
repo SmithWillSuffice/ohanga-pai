@@ -23,7 +23,7 @@ We covered ODES models in the
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">Next chapter</a></td>
+<a href="../341_00_macromodels_mosler">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -31,7 +31,7 @@ We covered ODES models in the
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../">(TBD)</a></td>
+<a href="../341_00_macromodels_mosler">Macromodels —Mosler</a></td>
 </tr>
 </table>
 
