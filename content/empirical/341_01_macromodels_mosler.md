@@ -106,7 +106,7 @@ $$
 }
 $$
 
-Inflation is therefore
+Inflation is as usual
 $$
 \pi(t) = \frac{\dot P}{P}.
 $$

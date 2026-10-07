@@ -51,6 +51,8 @@ $\blacksquare$
 
 Validity achieved; soundness left as an exercise for the economists.
 
+{{<Godel_I_said_so>}}
+
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
        <col span="1" style="width: 20%;">
