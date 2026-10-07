@@ -16,7 +16,7 @@ Neural Netowrk LSTM models.  For these we need clean time series data, and a few
     </colgroup>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../341_00_macromodels_mosler">Previous chapter</a></td>
+<a href="../341_01_macromodels_mosler">Previous chapter</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
@@ -24,7 +24,7 @@ Neural Netowrk LSTM models.  For these we need clean time series data, and a few
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../341_00_macromodels_mosler">Macromodels — Mosler</a></td>
+<a href="../341_01_macromodels_mosler">Macromodels — Mosler II</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">

@@ -726,6 +726,12 @@ The immediate next step should be a **systematic restoration and debugging of th
 using the existing pendulum and Lorenz regression tests, followed 
 by `mmm_0_2`.
 
+---
+
+Great.  Or greeeaaat???
+
+In the next chapter I will go through a first attempt at a Mosler-JG model.
+If it faisl to compile I will be a bit deporessed.
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
@@ -739,7 +745,7 @@ by `mmm_0_2`.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../350_00_macromodels_lstm">Next chapter</a></td>
+<a href="../341_01_macromodels_mosler">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -747,7 +753,7 @@ by `mmm_0_2`.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../350_00_macromodels_lstm">Macromodels — LSTM/CNN</a></td>
+<a href="../341_01_macromodels_mosler">Macromodels — Mosler II</a></td>
 </tr>
 </table>
 
