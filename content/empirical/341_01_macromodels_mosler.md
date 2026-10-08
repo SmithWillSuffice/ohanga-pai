@@ -1,6 +1,6 @@
 ---
-title: "Macromodels — Mosler"
-weight: 18
+title: "Macromodels — Mosler I"
+weight: 19
 date: 2026-10-06
 toc: true
 katex: true
@@ -610,6 +610,43 @@ Here is a nerdy question?:
 
 Dunno.
 
+---
+
+Next chapter will some some grungy stuff, a few model validations and 
+unit tests. Developer issues.
+
+But in the chapters after next we should be back to Job Guarantee models, 
+and seeing some plots and all that nice end-user stuff.
+
+I am still trying to figure out what preprint to write-up with this? 
+But that "nerdy question" above 👆🏼 seems like a good use-case. 
+
+My frame of mind is models for macroeconomics are only good for 
+comparisons. But in our case we may have an exception if we can get a 
+decent NZ-MMT Model with decent empirical data for fitting the parameters, 
+since it could be used predictively ... is my guess. 
+Still, the aim will be to compare to DGSE. I am not yet up for making 
+a DGSE model, so will need to find someone sympathetic at the RBNZ to 
+collaborate with who runs a DGSE or knows one, or knows someone who 
+knows one. 
+
+In the `mmm_0_4` case we are flying solo, since it is real world 
+counterfactual, so we'd have to use a non-JG similar model to fit 
+parameters.  Which makes me worry about needing a Basic Income Guarantee 
+(unemployment benefit) model, and a pension/retirement sector! Can we 
+avoid that by just reparametrization of the average wage? It would mean 
+our 
+
+> model wage  = real-world-wage + pension?
+
+We  can eventually get the needed data for the dynamical variables, 
+but the unemployment rate is only monthly frequency, and is published 
+late. So we will always be using slightly out-of-date parameters.
+Or predicting the near past, rather than the near future. Good 
+for "would have told ya so" but not for "can NZX trade on this."
+
+
+
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
@@ -623,15 +660,15 @@ Dunno.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../350_00_macromodels_lstm">Next chapter</a></td>
+<a href="../341_02_macromodels_mosler">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../341_00_macromodels_mosler">Macromodels — Mosler I</a></td>
+<a href="../341_00_macromodels_mosler">Macromodels — Mosler 0</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../350_00_macromodels_lstm">Macromodels — LSTM/CNN</a></td>
+<a href="../341_02_macromodels_mosler">Macromodels — Mosler II</a></td>
 </tr>
 </table>
 

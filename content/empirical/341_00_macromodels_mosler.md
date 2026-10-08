@@ -1,5 +1,5 @@
 ---
-title: "Macromodels — Mosler"
+title: "Macromodels — Mosler 0"
 weight: 18
 date: 2026-10-06
 toc: true
