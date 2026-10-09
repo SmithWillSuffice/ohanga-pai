@@ -116,7 +116,7 @@ generator. The generated pendulum solver now contains:</p><div class=highlight><
 CSV header is now generated with exactly the correct number of
 eigenvalue columns, e.g.</p><pre aria-label="Box containing code sample." tabindex=0><code>t,e1,e2
 </code></pre><p>for the pendulum rather than the previous placeholder</p><pre aria-label="Box containing code sample." tabindex=0><code>t,e1,e2,e3,...
-</code></pre><p>That lets <code>stability.py</code> read the CSV normally with its header.</p><p>*<strong>A Caution:</strong></p><p>One conceptual caution is worth noting. For the nonlinear Lorenz
+</code></pre><p>That lets <code>stability.py</code> read the CSV normally with its header.</p><p><strong>A Caution:</strong></p><p>For the nonlinear Lorenz
 trajectory, “instantaneous Jacobian has a positive eigenvalue” is a
 <em>local linear</em> statement. It is not by itself the same thing as a
 Lyapunov-exponent calculation or a theorem of global instability.
@@ -146,11 +146,11 @@ $$
 $$
 The largest Lyapunov exponent is essentially
 $$
-\l ambda_{\max} = \lim_{T\to\infty}
+\lambda_{\max} = \lim_{T\to\infty}
 \frac1T \ln\frac{|\delta x(T)|}{|\delta x(0)|}.
 $$
 Its interpretation is fairly simple:
-$$$
+$$
 \lambda_{\max} &lt; 0
 $$
 means nearby trajectories converge,
@@ -167,7 +167,8 @@ analysis is not an adequate description of long-run behaviour. Second,
 macroeconomic models may eventually have cycles, quasi-periodic solutions,
 transient instability, strange attractors, or complicated policy-regime
 dynamics. A Lyapunov diagnostic tells us whether small modelling or initial-
-condition perturbations actually amplify over the simulated trajectory.</p><p>I would therefore regard the two analyses as complementary rather than alternatives:</p><blockquote><p>Jacobian analysis} = local linear stability</p></blockquote><p>and</p><blockquote><p>Lyapunov analysis = trajectory-level sensitivity/stability.</p></blockquote><p>For the pendulum, with damping and eventual relaxation to the
+condition perturbations actually amplify over the simulated trajectory.</p><p>I would therefore regard the two analyses as complementary rather
+than alternatives:</p><blockquote><p>Jacobian analysis = local linear stability</p></blockquote><p>and</p><blockquote><p>Lyapunov analysis = trajectory-level sensitivity/stability.</p></blockquote><p>so I will keep the stability analysis in the html report outputs.</p><p>For the pendulum, with damping and eventual relaxation to the
 downward equilibrium, we should obtain a negative largest Lyapunov
 exponent after the transient. For the standard Lorenz parameters near
 $$

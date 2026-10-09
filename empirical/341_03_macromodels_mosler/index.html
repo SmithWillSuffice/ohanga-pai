@@ -1,11 +1,11 @@
 <!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>Macromodels — Mosler II | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/341_03_macromodels_mosler/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="Macromodels — Mosler II"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/341_03_macromodels_mosler/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
-<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>Macromodels — Mosler II</h1><p>Published on <time datetime=2026-10-07>2026-10-07</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#pukahapai-solverperformance-update>PukahaPai solver/performance update</a><ul><li><a href=#1-honour-solvermethod>1. Honour <code>[solver].method</code></a></li><li><a href=#2-decouple-integration-step-output-sampling-and-flushing>2. Decouple integration step, output sampling, and flushing</a></li><li><a href=#3-remove-the-per-step-matrix-exponential-from-the-lyapunov-diagnostic>3. Remove the per-step matrix exponential from the Lyapunov diagnostic</a></li><li><a href=#jacobian-calculation>Jacobian calculation</a></li></ul></li><li><a href=#solvertoml-defaults>Solver/TOML Defaults</a></li><li><a href=#likely-next-bottleneck>Likely next bottleneck</a></li><li><a href=#the-mmm-jg-model>THe MMM JG Model</a><ul><li><a href=#the-bad>The Bad</a></li><li><a href=#the-good-and-the-ugly>The Good and the Ugly</a></li></ul></li><li><a href=#reports-important>Reports (important!)</a></li></ul></nav></details><p>First a performance patch, then more lyapunov analysis tests.
-Lastly today, a <a href=#the-mmm-jg-model>special main seciton</a>
-on the `mmm_0_4`` model itself!
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>Macromodels — Mosler II</h1><p>Published on <time datetime=2026-10-07>2026-10-07</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#pukahapai-solverperformance-update>PukahaPai solver/performance update</a><ul><li><a href=#1-honour-solvermethod>1. Honour solver.method</a></li><li><a href=#dae-versus-ode>DAE versus ODE</a></li><li><a href=#2-decouple-integration-step-output-sampling-and-flushing>2. Decouple integration step, output sampling, and flushing</a></li><li><a href=#3-remove-the-per-step-matrix-exponential-from-the-lyapunov-diagnostic>3. Remove the per-step matrix exponential from the Lyapunov diagnostic</a></li><li><a href=#jacobian-calculation>Jacobian calculation</a></li></ul></li><li><a href=#solvertoml-defaults>Solver/TOML Defaults</a></li><li><a href=#likely-next-bottleneck>Likely next bottleneck</a></li><li><a href=#the-mmm-jg-model>The MMM JG Model</a><ul><li><a href=#the-bad>The Bad</a></li><li><a href=#the-good-and-the-ugly>The Good and the Ugly</a></li></ul></li><li><a href=#reports-important>Reports (important!)</a></li><li><a href=#too-much-price-setter>Too Much Price-Setter</a></li></ul></nav></details><p>First a performance patch, then more lyapunov analysis tests.
+Lastly today, a <a href=#the-mmm-jg-model>special main section</a>
+on the <code>mmm_0_4</code> model itself!
 Some of the good stuff.</p><h2 id=pukahapai-solverperformance-update><a class=anchor href=#pukahapai-solverperformance-update title='Anchor for: PukahaPai solver/performance update.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>PukahaPai solver/performance update</h2><p>This patch makes three related changes. Note: I have this under <code>git</code>
 version control, so there is no verison numbering in the files. I do not
 plan on making any produciton versions either, it&rsquo;s
-all &ldquo;this is the latest PukahaPai&rdquo;.</p><h3 id=1-honour-solvermethod><a class=anchor href=#1-honour-solvermethod title='Anchor for: 1. Honour [solver].method.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>1. Honour <code>[solver].method</code></h3><p>A modeller can now select any simple zero-argument DifferentialEquations.jl
+all &ldquo;this is the latest PukahaPai&rdquo;.</p><h3 id=1-honour-solvermethod><a class=anchor href=#1-honour-solvermethod title='Anchor for: 1. Honour solver.method.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>1. Honour solver.method</h3><p>A modeller can now select any simple zero-argument DifferentialEquations.jl
 algorithm constructor exported in the Julia environment, for example:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=p>[</span><span class=nx>solver</span><span class=p>]</span>
 </span></span><span class=line><span class=cl><span class=nx>dt</span> <span class=p>=</span> <span class=mf>0.01</span>
 </span></span><span class=line><span class=cl><span class=nx>method</span> <span class=p>=</span> <span class=s2>&#34;Tsit5&#34;</span>
@@ -14,7 +14,15 @@ algorithm constructor exported in the Julia environment, for example:</p><div cl
 </span></span></code></pre></div><p>The generator deliberately does not maintain a small solver whitelist.
 A simple Julia constructor name such as <code>Vern7</code>, <code>RK4</code>, <code>Rodas5P</code>, or
 a dotted name such as <code>OrdinaryDiffEq.Vern7</code> is emitted as <code>&lt;name>()</code>.
-Arbitrary Julia source in the TOML method field is rejected.</p><h3 id=2-decouple-integration-step-output-sampling-and-flushing><a class=anchor href=#2-decouple-integration-step-output-sampling-and-flushing title='Anchor for: 2. Decouple integration step, output sampling, and flushing.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>2. Decouple integration step, output sampling, and flushing</h3><p>The solver section can now optionally specify solver particulars with:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=p>[</span><span class=nx>solver</span><span class=p>]</span>
+Arbitrary Julia source in the TOML method field is rejected.</p><h3 id=dae-versus-ode><a class=anchor href=#dae-versus-ode title='Anchor for: DAE versus ODE.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>DAE versus ODE</h3><p>A simple taxonomy is:</p><ul><li>ODEProblem:&mdash; ordinary differential-equation problem;</li><li>DAEProblem:&mdash; fully implicit differential-algebraic problem;</li><li>Tsit5, IDA, Rodas5P, RK4, etc.:&mdash; numerical algorithms chosen to
+solve suitable problem types.</li></ul><p>If the TOML supplied ordinary evolution laws
+$$
+dx_i/dt = f_i(x,t),
+$$
+this generates an ODEProblem.</p><p>If the model genuinely contains algebraic constraints or equations
+that cannot be solved explicitly for all state derivatives, then
+we generate a DAEProblem.</p><p>The selected solver method is then chosen independently subject to
+compatibility with that problem type.</p><h3 id=2-decouple-integration-step-output-sampling-and-flushing><a class=anchor href=#2-decouple-integration-step-output-sampling-and-flushing title='Anchor for: 2. Decouple integration step, output sampling, and flushing.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>2. Decouple integration step, output sampling, and flushing</h3><p>The solver section can now optionally specify solver particulars with:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=p>[</span><span class=nx>solver</span><span class=p>]</span>
 </span></span><span class=line><span class=cl><span class=nx>dt</span> <span class=p>=</span> <span class=mf>0.01</span>
 </span></span><span class=line><span class=cl><span class=nx>method</span> <span class=p>=</span> <span class=s2>&#34;Tsit5&#34;</span>
 </span></span><span class=line><span class=cl><span class=nx>adaptive</span> <span class=p>=</span> <span class=kc>false</span>
@@ -50,21 +58,16 @@ stability code.</p><h2 id=solvertoml-defaults><a class=anchor href=#solvertoml-d
 </span></span></code></pre></div><p>So if the TOML has</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=p>[</span><span class=nx>solver</span><span class=p>]</span>
 </span></span><span class=line><span class=cl><span class=nx>dt</span> <span class=p>=</span> <span class=mf>0.01</span>
 </span></span></code></pre></div><p>and omits <code>output_dt</code>, the generated solver uses</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-text data-lang=text><span class=line><span class=cl>output_dt = 0.01
-</span></span></code></pre></div><p>The same generator currently uses these defaults:</p><pre aria-label="Box containing code sample." tabindex=0><code>### Solver options and defaults
-
-The `[solver]` section supports the following fields.
-
-```toml
-[solver]
-dt = 0.01
-method = &#34;Tsit5&#34;
-problem_type = &#34;ode&#34;
-adaptive = false
-output_dt = 0.01
-flush_every = 10
-abstol = 1e-8
-reltol = 1e-6
-</code></pre><p>Only <code>dt</code> is normally worth specifying explicitly for a simple model.
+</span></span></code></pre></div><p>The <code>[solver]</code> section supports the following fields.</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=p>[</span><span class=nx>solver</span><span class=p>]</span>
+</span></span><span class=line><span class=cl><span class=nx>dt</span> <span class=p>=</span> <span class=mf>0.01</span>
+</span></span><span class=line><span class=cl><span class=nx>method</span> <span class=p>=</span> <span class=s2>&#34;Tsit5&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>problem_type</span> <span class=p>=</span> <span class=s2>&#34;ode&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>adaptive</span> <span class=p>=</span> <span class=kc>false</span>
+</span></span><span class=line><span class=cl><span class=nx>output_dt</span> <span class=p>=</span> <span class=mf>0.01</span>
+</span></span><span class=line><span class=cl><span class=nx>flush_every</span> <span class=p>=</span> <span class=mi>10</span>
+</span></span><span class=line><span class=cl><span class=nx>abstol</span> <span class=p>=</span> <span class=mi>1</span><span class=nx>e-8</span>
+</span></span><span class=line><span class=cl><span class=nx>reltol</span> <span class=p>=</span> <span class=mi>1</span><span class=nx>e-6</span>
+</span></span></code></pre></div><p>Only <code>dt</code> is normally worth specifying explicitly for a simple model.
 The remaining settings may be omitted unless a model requires something
 different.</p><ul><li><code>dt</code><ul><li>Default: <code>0.01</code></li><li>Requested integration step.</li><li>Used directly for fixed-step integration.</li><li>For adaptive solvers it serves as the requested/initial step rather than
 forcing every accepted step to have this size.</li></ul></li><li><code>method</code><ul><li>Default: <code>"Tsit5"</code></li><li>Julia DifferentialEquations.jl algorithm constructor.</li><li>Examples include <code>"Tsit5"</code>, <code>"Vern7"</code>, <code>"RK4"</code>, <code>"Rodas5P"</code>, and <code>"IDA"</code>.</li></ul></li><li><code>problem_type</code><ul><li>Default: inferred from <code>method</code>.</li><li><code>"IDA"</code> implies <code>"dae"</code>.</li><li>Other solver methods default to <code>"ode"</code>.</li><li>May be explicitly set to <code>"ode"</code> or <code>"dae"</code> for unusual cases.</li></ul></li><li><code>adaptive</code><ul><li>Default: <code>false</code></li><li>If <code>false</code>, the integration uses the requested fixed timestep <code>dt</code>.</li><li>If <code>true</code>, the selected Julia solver may adapt its timestep according to
@@ -95,10 +98,19 @@ more expensive than the RK4 tangent propagation itself.</p><p>Two natural later 
 differentiation, avoiding construction of the full matrix for the
 largest-exponent calculation; or</li><li>augment the ODE with the tangent equation and let the selected Julia solver
 integrate state and tangent variables together.</li></ol><p>The sparse stability diagnostic still needs the full Jacobian because it
-computes eigenvalues.</p><h2 id=the-mmm-jg-model><a class=anchor href=#the-mmm-jg-model title='Anchor for: THe MMM JG Model.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>THe MMM JG Model</h2><p>I have numbered this <code>mmm_0_4</code> The first <code>0</code> is for testing. Not for
+computes eigenvalues.</p><h2 id=the-mmm-jg-model><a class=anchor href=#the-mmm-jg-model title='Anchor for: The MMM JG Model.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The MMM JG Model</h2><p>I have numbered this <code>mmm_0_4</code> The first <code>0</code> is for testing. Not for
 serious play. The idea is to eventually get to a realistic JG MMT model
-which would be <code>mmm_1_4</code>.</p><p>My first attemp was pretty terrible. SO I will not even show you the toml.
-But here is roughly what went bad:</p><hr><h3 id=the-bad><a class=anchor href=#the-bad title='Anchor for: The Bad.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Bad</h3><p>The results show the JG labour pool rises monotonic (for the time period we
+which would be <code>mmm_1_4</code>.</p><p>Honestly, I am struggling with this model, and cannot see how I will fix
+it cleanly. I think it is just doing too much. My thinking is to
+forget about it, and go up to <code>mmm_0_5</code> by going back to <code>mmm_0_3</code>.
+This will mean ditching the Tcherneva&ndash;Levey price setting model stuff ,
+for the time being, and returning to a more Eric Tymoigne &ldquo;money & banking&rdquo;
+model, using the Steve Keen-like <code>mmm_0_3</code> but with a minimal JG included.
+The purpose would be to just show nothing else horrible happens when the
+Phillips Curve is flattened.</p><p>My first attempt at the Price-Setter-JG model was pretty terrible. So I will
+not even show you the toml. Maybe also I will eventually save this once I
+recover something respectable as <code>mmm_ps_jg_1</code> But first, here is roughly
+what went bad:</p><hr><h3 id=the-bad><a class=anchor href=#the-bad title='Anchor for: The Bad.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Bad</h3><p>The results show the JG labour pool rises monotonic (for the time period we
 ran up to t=50), which is unrealistic. U3 rises and <code>\lambda_F</code> drops,
 undesirable. The JG should be fairly minimal, just to soak up unemployed
 labour. The Firm and Government sector should be employing most labour. Thus
@@ -293,5 +305,117 @@ versus resource intensity” story.</p><p>For now, my preferred pair is therefor
 </span></span></code></pre></div><p>That leaves <code>G_N</code> available as an accounting diagnostic without
 pretending it is one of the most economically informative headline
 variables. (It <em>is</em> in our media in the present Neoliberal era, but it
-should not be.)</p><table style="border-collapse:collapse;border=0"><col span=1 style=width:25%><col span=1 style=width:10%><col span=1 style=width:25%><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../341_02_macromodels_mosler>Previous chapter</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>Back to</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../350_00_macromodels_lstm>Next chapter</a></td></tr><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../341_02_macromodels_mosler>Macromodels — Mosler II</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>TOC</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../350_00_macromodels_lstm>Macromodels — LSTM/CNN</a></td></tr></table></article></main></div><footer><div class=req-js><button class=outline-dashed title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#adjust"/></svg></button><input class=outline-dashed type=color list=presets value=#1585d5 title="Change accent color." aria-label="Change accent color."><datalist id=presets><option value=#1f676b><option value=#1585d5><option value=#225670><option value=#dd587c><option value=#902b37><option value=#f3a530><option value=#754e85><option value=#7fc121><option value=#a8314a><option value=#ff7433><option value=#3e6728><option value=#c063bd><option value=#805080><option value=#9d629d><option value=#a064a0><option value=#7daa50><option value=#284531><option value=#285790><option value=#F5A83D><option value=#88aa33><option value=#015660><option value=#bf274e><option value=#bf4242><option value=#51b37c></datalist></div><noscript><p class=noscript>Unable to execute JavaScript. Some features were disabled.</p></noscript></footer><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.6950e59dbd8dfddd111390d85888bb5f9dc2e9c334da7ac1c3bacc92a695610d.css integrity="sha256-aVDlnb2N/d0RE5DYWIi7X53C6cM02nrBw7rMkqaVYQ0=" crossorigin=anonymous><script defer src=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.4268ce940bc6faa510d7b638acc3f08a63501d9504dd3155bfc48d6838ade320.js integrity="sha256-QmjOlAvG+qUQ17Y4rMPwimNQHZUE3TFVv8SNaDit4yA=" crossorigin=anonymous></script>
+should not be.)</p><p><strong>Testing with:</strong></p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>python3 generate_julia_odesolver.py mmm_0_4
+</span></span><span class=line><span class=cl>julia models/mmm_0_4_cmdl.jl
+</span></span><span class=line><span class=cl>python3 plots4model.py mmm_0_4
+</span></span><span class=line><span class=cl>xdg-open models/mmm_0_4.html
+</span></span></code></pre></div><p>or,</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>./the_pai_run.sh   mmm_0_4   <span class=c1># does all the above</span>
+</span></span></code></pre></div><h2 id=too-much-price-setter><a class=anchor href=#too-much-price-setter title='Anchor for: Too Much Price-Setter.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Too Much Price-Setter</h2><p>This iteration of <code>mmm_0_4</code> <strong>2026-10-09</strong> is one I might freeze it
+today as an 𝙞ⓝ𝔱𝗲ⓡ𝒆𝙨𝘵🄸𝗻𝐠 one. I men to say, it at least shows
+macroeconomics modelling can be 𖧥𖦪𖢧𖨨ꚶꛚ.</p><p>It clearly has Government too powerful! Here is a run-down.</p><p>The main pathology in <code>mmm_0_4</code> is clearer now.</p><p>The persistent deflation is largely built into the equations. The model
+keeps the nominal JG wage fixed, makes the firm wage a fixed multiple of
+it, but lets firm productivity grow exponentially. Then
+private unit cost is explicitly
+$$
+P_{\rm unit}=\frac{w_F}{A_F},
+$$
+so with rising $A_F$ and essentially anchored $w_F$, the target price
+is structurally driven downward. mmm_0_4 That is the first thing that
+needed correcting.</p><p>Also, your observation about <code>lambda_JG</code> being an almost exact inverse
+of <code>lambda_F</code> is not merely visual. In <code>mmm_0_4</code> it is algebraically
+imposed:</p><pre aria-label="Box containing code sample." tabindex=0><code>U3   = N_res - L_F
+L_JG = U3
+</code></pre><p>apart from the JG-on switch. mmm_0_4 So that model cannot produce an
+independently evolving JG buffer.</p><p>I would also be cautious about calling the reported positive Lyapunov
+exponent chaos. <code>mmm_0_4</code> is explicitly non-autonomous because population
+and all three productivities depend directly on time. mmm_0_4 A positive
+tangent-growth exponent in that setting can reflect a growing or
+unstable direction rather than a bounded strange attractor. Given the
+visually smooth trajectories, I would presently call it “exponentially
+sensitive” rather than chaotic. Our current Lyapunov implementation is
+also still the frozen-Jacobian approximation between accepted steps,
+rather than a fully augmented variational solve.</p><p>I made two new models:</p><ul><li><a href=../../files/mmm_0_5.toml.txt>mmm_0_5.toml</a>
+&mdash; based off <code>mmm_0_4</code></li><li><a href=../../files/mmm_1_3.toml.txt>mmm_1_3.toml</a>
+&mdash; based off <code>mmm_0_3</code> but with a JG.</li></ul><p>For <code>mmm_0_5</code>, I made five linked changes rather than trying to
+manufacture oscillation with an arbitrary sine-like forcing.</p><p>First, the JG wage is now a productivity-aware nominal anchor:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>w_JG</span> <span class=p>=</span> <span class=s2>&#34;w_JG0 * exp((alpha_F + pi_star)*t)&#34;</span>
+</span></span></code></pre></div><p>with</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>pi_star</span> <span class=p>=</span> <span class=mf>0.02</span>
+</span></span></code></pre></div><p>Thus, roughly,
+$$
+\frac{\dot w_{JG}}{w_{JG}} = \alpha_F+\pi^\star .
+$$</p><p>Since productivity grows at $\alpha_F$,
+unit labour cost tends to grow at approximately $\pi^\star$, rather than
+fall at $-\alpha_F$. This should convert the old built-in deflation
+into something much closer to a 2% nominal inflation path.</p><p>Second, the private wage is now an actual state variable. Firms bid
+more aggressively when the JG pool becomes small:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>jg_tightness</span> <span class=p>=</span> <span class=s2>&#34;exp(-lambda_JG/jg_wage_scale)&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>w_F_target</span> <span class=p>=</span> <span class=s2>&#34;w_JG*(1 + premium_F_min + premium_F_tight*jg_tightness)&#34;</span>
+</span></span></code></pre></div><p>with lagged adjustment:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>f_w_F</span> <span class=p>=</span> <span class=s2>&#34;kappa_w*(w_F_target - w_F)&#34;</span>
+</span></span></code></pre></div><p>That is a more plausible role for private-sector competition than simply
+allowing firms to override the government&rsquo;s regular-service employment.
+Firms principally recruit out of the JG/slack pool, while <code>L_G</code> remains
+a policy-determined public-service requirement.</p><p>Third, investment is no longer an instantaneous fixed fraction. <code>iota_F</code>
+is a state:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>iota_target</span> <span class=p>=</span> <span class=s2>&#34;iota_base*exp(eta_I*(u_F - u_F_target))&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>f_iota_F</span> <span class=p>=</span> <span class=s2>&#34;kappa_I*(iota_target - iota_F)&#34;</span>
+</span></span></code></pre></div><p>so high utilization produces an investment accelerator with a finite
+response lag.</p><p>Fourth, I added a real inventory stock <code>V</code>. This is the most important
+business-cycle addition:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>V_target</span> <span class=p>=</span> <span class=s2>&#34;inventory_ratio*Q_demand&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>Q_plan</span> <span class=p>=</span> <span class=s2>&#34;Q_demand + kappa_V*(V_target - V)&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>Q_required</span> <span class=p>=</span> <span class=s2>&#34;Q_plan/u_F_target&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nx>f_V</span> <span class=p>=</span> <span class=s2>&#34;Q_F - Q_demand&#34;</span>
+</span></span></code></pre></div><p>The causal loop is now roughly,
+$$
+\text{demand}
+\rightarrow
+\text{inventory depletion}
+\rightarrow
+\text{planned output}
+\rightarrow
+\text{hiring}
+\rightarrow
+\text{production}
+\rightarrow
+\text{inventory rebuilding}
+\rightarrow
+\text{reduced hiring}.
+$$</p><p>That naturally gives us an inventory/business cycle without needing
+bank credit yet. In a preliminary numerical experiment with this
+structure, <code>lambda_F</code> showed several turning points over the 50-year
+interval rather than the one smooth hump of <code>mmm_0_4</code>. I deliberately
+kept the calibration moderate rather than tuning it to produce
+spectacular oscillations.</p><p>Fifth, the JG is no longer exactly the complement of firm employment.
+I introduced</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>rho_JG</span>
+</span></span></code></pre></div><p>as the fraction of residual slack actually enrolled:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>L_JG</span> <span class=p>=</span> <span class=s2>&#34;rho_JG*U3&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>U_open</span> <span class=p>=</span> <span class=s2>&#34;U3 - L_JG&#34;</span>
+</span></span><span class=line><span class=cl>
+</span></span><span class=line><span class=cl><span class=nx>f_rho_JG</span> <span class=p>=</span> <span class=s2>&#34;kappa_JG*(rho_JG_target - rho_JG)&#34;</span>
+</span></span></code></pre></div><p>with a high target of <code>0.98</code>. So it remains a strong employment
+guarantee, but there is a small administrative/search transition and
+<code>lambda_JG</code> no longer has to be an exact mirror image of <code>lambda_F</code>.</p><p>That separation is useful, since it ensures the JG is
+acting as a proper buffer stock, not an algebraic plotting identity.</p><p>For <code>mmm_1_3</code>, I stayed much closer to your request. The starting
+<code>mmm_0_3</code> has no JG, defines real output simply as
+$$
+Y_r = \lambda A N,
+$$
+and uses the very steep Phillips term
+$$
+\Phi = \frac{\Phi_d}{(1-\lambda)^{\gamma_p}} -\Phi_c,
+$$
+which becomes singular as $\lambda\to1$.</p><p>The new <code>mmm_1_3</code> interprets <code>lambda</code> as ordinary/non-JG employment
+and defines the residual as:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>L_JG</span> <span class=p>=</span> <span class=s2>&#34;jg_participation*(1 - lambda)*N&#34;</span>
+</span></span></code></pre></div><p>with adjustable lower productivity:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>A_JG</span> <span class=p>=</span> <span class=s2>&#34;A_JG_ratio*A&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>Yr_JG</span> <span class=p>=</span> <span class=s2>&#34;A_JG*L_JG&#34;</span>
+</span></span></code></pre></div><p>and then</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>Yr</span> <span class=p>=</span> <span class=s2>&#34;Yr_F + Yr_JG&#34;</span>
+</span></span></code></pre></div><p>so users can directly experiment with the JG productivity parameter.</p><p>The Phillips curve is minimally flattened by replacing the
+singular denominator with</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>Phi</span> <span class=p>=</span> <span class=s2>&#34;Phi_d/(Phi_JG_buffer + 1 - lambda)^gamma_p - Phi_c&#34;</span>
+</span></span></code></pre></div><p>where <code>Phi_JG_buffer = 0.15</code>.</p><p>So it still has the same qualitative Phillips mechanism, but the
+presence of the buffer employment pool prevents the wage-pressure term
+from going mathematically infinite at nominal full regular employment.</p><p>I deliberately did not redesign the <code>mmm_0_3</code> financial block. Its
+existing government/bond and tax accounts are preserved. The original
+model already has taxation and government interest flows in its
+Godley block. The new <code>mmm_1_3</code> should therefore be regarded
+as a real-side JG experiment first. An explicit JG wage transaction
+deserves a subsequent accounting revision, because adding it casually
+to <code>G_D</code> would interact with the existing interest-payment
+interpretation and could make the accounting semantics worse rather
+than better.</p><p>On your aside about bonds: that distinction is useful for how you intend to frame these models. I would therefore keep the PS-JG line bond-free and treat explicit bond stocks in the Keen/banking branch as policy instruments/savings assets rather than as operational financing requirements.</p><p>Both new files parse successfully as TOML. I have not claimed Julia-run validation for them yet; the next useful step is to generate and run both, inspect <code>P</code>, <code>pi_rate</code>, employment shares, inventories and Lyapunov behavior, and then tune only after seeing those trajectories.</p><table style="border-collapse:collapse;border=0"><col span=1 style=width:25%><col span=1 style=width:10%><col span=1 style=width:25%><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../341_02_macromodels_mosler>Previous chapter</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>Back to</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../350_00_macromodels_lstm>Next chapter</a></td></tr><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../341_02_macromodels_mosler>Macromodels — Mosler II</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>TOC</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../350_00_macromodels_lstm>Macromodels — LSTM/CNN</a></td></tr></table></article></main></div><footer><div class=req-js><button class=outline-dashed title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#adjust"/></svg></button><input class=outline-dashed type=color list=presets value=#1585d5 title="Change accent color." aria-label="Change accent color."><datalist id=presets><option value=#1f676b><option value=#1585d5><option value=#225670><option value=#dd587c><option value=#902b37><option value=#f3a530><option value=#754e85><option value=#7fc121><option value=#a8314a><option value=#ff7433><option value=#3e6728><option value=#c063bd><option value=#805080><option value=#9d629d><option value=#a064a0><option value=#7daa50><option value=#284531><option value=#285790><option value=#F5A83D><option value=#88aa33><option value=#015660><option value=#bf274e><option value=#bf4242><option value=#51b37c></datalist></div><noscript><p class=noscript>Unable to execute JavaScript. Some features were disabled.</p></noscript></footer><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.6950e59dbd8dfddd111390d85888bb5f9dc2e9c334da7ac1c3bacc92a695610d.css integrity="sha256-aVDlnb2N/d0RE5DYWIi7X53C6cM02nrBw7rMkqaVYQ0=" crossorigin=anonymous><script defer src=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.4268ce940bc6faa510d7b638acc3f08a63501d9504dd3155bfc48d6838ade320.js integrity="sha256-QmjOlAvG+qUQ17Y4rMPwimNQHZUE3TFVv8SNaDit4yA=" crossorigin=anonymous></script>
 <script defer src=https://smithwillsuffice.github.io/ohanga-pai/js/katex-custom-render.min.cdeaf561a454e015b169c385f95c72d57d41f906a9bc4100636b18e1e4c15da3.js integrity="sha256-zer1YaRU4BWxacOF+Vxy1X1B+QapvEEAY2sY4eTBXaM=" crossorigin=anonymous></script></body></html>
