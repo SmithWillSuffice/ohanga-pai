@@ -1054,10 +1054,9 @@ performing a fresh matrix exponential at every $0.01$ solver step.
 That should make a pendulum run lightweight again.
 
 
-
 ## Older Models
 
-I had three earlier MMT models,m we can try to see if they are 
+I had three earlier MMT models, we can try to see if they are 
 healthy too,
 ```bash
 for model in mmm_0_1 mmm_0_2 mmm_0_3
@@ -1065,9 +1064,9 @@ do
     python3 generate_julia_odesolver.py "$model" &&
     julia "models/${model}_cmdl.jl" &&
     python3 plots4model.py "$model"
+    xdg-open models/${model}.html
 done
 ```
-
 
 ### Large HTML Output
 
@@ -1078,11 +1077,11 @@ up to 65 MB, too big for github. I removed them from the repo.
 ## TODO
 
 
-
 **2026-10-09:**  I should test Lyapunov analysis with Lorenz and ``mmm_0_4`. 
 That is next chapter. Plus, the LLM I used recommended optimization of 
 the Lyapunov analysis, I think we should do that. Inefficient code 
-is nasty. 4
+is nasty.
+
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
