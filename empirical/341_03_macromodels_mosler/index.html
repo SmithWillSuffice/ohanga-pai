@@ -1,5 +1,8 @@
 <!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>Macromodels — Mosler II | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/341_03_macromodels_mosler/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="Macromodels — Mosler II"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/341_03_macromodels_mosler/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
-<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>Macromodels — Mosler II</h1><p>Published on <time datetime=2026-10-07>2026-10-07</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#pukahapai-solverperformance-update>PukahaPai solver/performance update</a><ul><li><a href=#1-honour-solvermethod>1. Honour <code>[solver].method</code></a></li><li><a href=#2-decouple-integration-step-output-sampling-and-flushing>2. Decouple integration step, output sampling, and flushing</a></li><li><a href=#3-remove-the-per-step-matrix-exponential-from-the-lyapunov-diagnostic>3. Remove the per-step matrix exponential from the Lyapunov diagnostic</a></li><li><a href=#jacobian-calculation>Jacobian calculation</a></li></ul></li><li><a href=#solvertoml-defaults>Solver/TOML Defaults</a></li><li><a href=#likely-next-bottleneck>Likely next bottleneck</a></li></ul></nav></details><p>First a performance patch, then more lyapunov analysis tests.</p><h2 id=pukahapai-solverperformance-update><a class=anchor href=#pukahapai-solverperformance-update title='Anchor for: PukahaPai solver/performance update.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>PukahaPai solver/performance update</h2><p>This patch makes three related changes. Note: I have this under <code>git</code>
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>Macromodels — Mosler II</h1><p>Published on <time datetime=2026-10-07>2026-10-07</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#pukahapai-solverperformance-update>PukahaPai solver/performance update</a><ul><li><a href=#1-honour-solvermethod>1. Honour <code>[solver].method</code></a></li><li><a href=#2-decouple-integration-step-output-sampling-and-flushing>2. Decouple integration step, output sampling, and flushing</a></li><li><a href=#3-remove-the-per-step-matrix-exponential-from-the-lyapunov-diagnostic>3. Remove the per-step matrix exponential from the Lyapunov diagnostic</a></li><li><a href=#jacobian-calculation>Jacobian calculation</a></li></ul></li><li><a href=#solvertoml-defaults>Solver/TOML Defaults</a></li><li><a href=#likely-next-bottleneck>Likely next bottleneck</a></li><li><a href=#the-mmm-jg-model>THe MMM JG Model</a><ul><li><a href=#the-bad>The Bad</a></li><li><a href=#the-good-and-the-ugly>The Good and the Ugly</a></li></ul></li><li><a href=#reports-important>Reports (important!)</a></li></ul></nav></details><p>First a performance patch, then more lyapunov analysis tests.
+Lastly today, a <a href=#the-mmm-jg-model>special main seciton</a>
+on the `mmm_0_4`` model itself!
+Some of the good stuff.</p><h2 id=pukahapai-solverperformance-update><a class=anchor href=#pukahapai-solverperformance-update title='Anchor for: PukahaPai solver/performance update.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>PukahaPai solver/performance update</h2><p>This patch makes three related changes. Note: I have this under <code>git</code>
 version control, so there is no verison numbering in the files. I do not
 plan on making any produciton versions either, it&rsquo;s
 all &ldquo;this is the latest PukahaPai&rdquo;.</p><h3 id=1-honour-solvermethod><a class=anchor href=#1-honour-solvermethod title='Anchor for: 1. Honour [solver].method.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>1. Honour <code>[solver].method</code></h3><p>A modeller can now select any simple zero-argument DifferentialEquations.jl
@@ -92,5 +95,203 @@ more expensive than the RK4 tangent propagation itself.</p><p>Two natural later 
 differentiation, avoiding construction of the full matrix for the
 largest-exponent calculation; or</li><li>augment the ODE with the tangent equation and let the selected Julia solver
 integrate state and tangent variables together.</li></ol><p>The sparse stability diagnostic still needs the full Jacobian because it
-computes eigenvalues.</p><table style="border-collapse:collapse;border=0"><col span=1 style=width:25%><col span=1 style=width:10%><col span=1 style=width:25%><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../341_02_macromodels_mosler>Previous chapter</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>Back to</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../350_00_macromodels_lstm>Next chapter</a></td></tr><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../341_02_macromodels_mosler>Macromodels — Mosler II</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>TOC</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../350_00_macromodels_lstm>Macromodels — LSTM/CNN</a></td></tr></table></article></main></div><footer><div class=req-js><button class=outline-dashed title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#adjust"/></svg></button><input class=outline-dashed type=color list=presets value=#1585d5 title="Change accent color." aria-label="Change accent color."><datalist id=presets><option value=#1f676b><option value=#1585d5><option value=#225670><option value=#dd587c><option value=#902b37><option value=#f3a530><option value=#754e85><option value=#7fc121><option value=#a8314a><option value=#ff7433><option value=#3e6728><option value=#c063bd><option value=#805080><option value=#9d629d><option value=#a064a0><option value=#7daa50><option value=#284531><option value=#285790><option value=#F5A83D><option value=#88aa33><option value=#015660><option value=#bf274e><option value=#bf4242><option value=#51b37c></datalist></div><noscript><p class=noscript>Unable to execute JavaScript. Some features were disabled.</p></noscript></footer><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.6950e59dbd8dfddd111390d85888bb5f9dc2e9c334da7ac1c3bacc92a695610d.css integrity="sha256-aVDlnb2N/d0RE5DYWIi7X53C6cM02nrBw7rMkqaVYQ0=" crossorigin=anonymous><script defer src=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.4268ce940bc6faa510d7b638acc3f08a63501d9504dd3155bfc48d6838ade320.js integrity="sha256-QmjOlAvG+qUQ17Y4rMPwimNQHZUE3TFVv8SNaDit4yA=" crossorigin=anonymous></script>
+computes eigenvalues.</p><h2 id=the-mmm-jg-model><a class=anchor href=#the-mmm-jg-model title='Anchor for: THe MMM JG Model.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>THe MMM JG Model</h2><p>I have numbered this <code>mmm_0_4</code> The first <code>0</code> is for testing. Not for
+serious play. The idea is to eventually get to a realistic JG MMT model
+which would be <code>mmm_1_4</code>.</p><p>My first attemp was pretty terrible. SO I will not even show you the toml.
+But here is roughly what went bad:</p><hr><h3 id=the-bad><a class=anchor href=#the-bad title='Anchor for: The Bad.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Bad</h3><p>The results show the JG labour pool rises monotonic (for the time period we
+ran up to t=50), which is unrealistic. U3 rises and <code>\lambda_F</code> drops,
+undesirable. The JG should be fairly minimal, just to soak up unemployed
+labour. The Firm and Government sector should be employing most labour. Thus
+somehow our model is focusing on the JG instead of desired Firm and Government
+services ($L_G$) output. We need to think of how to change that in the whole
+design. Perhaps we need <code>Y_G</code> to add to total output, or somehow feedback to
+avoid <code>L_JG</code> taking up all the idle labour? Or maybe we need Firms to be
+allowed to borrow from banks for investment to maintain reasonable output per
+capita (a demand function), but regulate that with the interest payment
+constraint?</p><p>Other things to check:</p><p><code>G_N</code> is negative, I presume that is because on the books it is the
+accumulated deficit? In another model it might be swapped fro interest
+earning bonds, so would be <code>G_D</code> and we woudl have interest payments to the
+&ldquo;Firms&rdquo; (presumed to hold most bonds)? But we are not doing a bonds model
+(fixed exchange rate mindset), correct? (Which is ok, since this can be our
+floating fx rate model without the foreign sector explicit.)
+Thus it is fine of <code>G_N</code> gets more negative, that was expected.</p><p>Perhaps since total time = 50 is only six months nominally, we might want
+to run longer to see if the <code>L_JG</code> stops increasing? But in any case, it
+was going up too fast, suggesting the model is just plain bad, since the
+JG pool should cycle a bit just as a buffer. It should not be modelled as
+a preferred employment option. The public sector proper <code>L_G</code> is the
+preferred option.</p><p>I read this as some sort of (hidden?) constraint on firm hiring implicit
+in our model. So we need to relax that somehow (but I do not know what
+it is). Perhaps lack of a proper Firm Investment function and Firm debt
+from bank credit, which was in an earlier model we had based on
+Steve Keen&rsquo;s Minsky + Banking model.</p><hr><p>I felt it important to redesign the whole model, not just fiddle with
+parameters to see if something realistic could be eeked out. This is the<br><strong>PukahaPai</strong> development plan &mdash; to hand end-users a few Base Case models
+so that <em>they</em> can just fiddle around with parameters (also called
+policy advice & analysis).</p><p>This also helps with public finance policy education, because there is a
+clear demarcation into two types of government policy:</p><ol><li>Fiddling around with parameters (existing structure and regulations).</li><li>Policy ideology Big Picture stuff (changes the whole model, not just
+parameters).</li></ol><h3 id=the-good-and-the-ugly><a class=anchor href=#the-good-and-the-ugly title='Anchor for: The Good and the Ugly.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>The Good and the Ugly</h3><p>(Second Thoughts.)</p><p>I think the redesign is fairly clear now, and the important diagnosis
+is not “the JG is attracting too much labour.” The JG was already
+residual. The structural problem was that the two regular-employment
+sectors were not given enough long-run demand to keep labour out of
+the buffer.</p><p>In the old model, regular government employment was essentially fixed
+in absolute headcount because</p><pre aria-label="Box containing code sample." tabindex=0><code>L_G = public_payroll / w_G
+</code></pre><p>while population grew at 1% per year. Government goods spending was also
+fixed in nominal terms. Meanwhile private productivity grew at 2% per year.
+So over a long run, regular public employment and fiscal demand mechanically
+shrank relative to the size and productive capacity of the economy. The
+firm-employment equation then saw persistent excess supply and reduced
+<code>lambda_F</code>; the JG merely absorbed the residual.</p><p>There is another important point: in this model the time unit is
+explicitly the year, so <code>t = 50</code> is fifty years, not six months. With
+<code>beta=0.01</code> and <code>alpha_F=0.02</code>, that is a very long stress test. Over
+50 years population rises by about 65%, while private productivity rises
+by about 172%. A fixed nominal payroll and fixed nominal goods budget were
+therefore guaranteed to become progressively less important.</p><p>Considering how to amend these model mistakes I changed the architecture
+in four places.</p><p>First, proper public employment is now driven by desired real public
+services per person, rather than a fixed nominal payroll:</p><pre aria-label="Box containing code sample." tabindex=0><code>q_G_pc = q_G_pc0 * exp(gamma_G_service*t)
+Q_G_des = q_G_pc * N
+L_G = Q_G_des / A_G
+</code></pre><p>With <code>gamma_G_service = alpha_G</code>, regular public employment remains at
+roughly a stable share of the labour force. This makes the causal
+interpretation clearer: the government decides what ordinary
+public services it wants, and labour demand follows from that.</p><p>Second, government purchases of private goods now scale with population:</p><pre aria-label="Box containing code sample." tabindex=0><code>Q_goods = q_goods_pc * N
+G_goods = P_G * Q_goods
+</code></pre><p>instead of remaining a fixed nominal budget for 50 years.</p><p>Third, I reintroduced a simple private gross-investment demand term:</p><pre aria-label="Box containing code sample." tabindex=0><code>I_real = iota_F * Q_F
+I_nom  = P * I_real
+</code></pre><p>with <code>iota_F = 0.08</code>. This is intentionally not yet a Minsky/Keen
+bank-credit model. It simply recognizes that private output is not all
+consumption output. Financing should be added separately, with
+explicit bank assets, firm liabilities, interest, principal repayment,
+and so forth.</p><p>Fourth, firms now plan a modest spare-capacity margin:</p><pre aria-label="Box containing code sample." tabindex=0><code>u_F_target = 0.95
+Q_required = Q_demand / u_F_target
+</code></pre><p>so they do not wait until demand exactly equals maximum current
+production before hiring.</p><p>That gives the revised labour logic:</p><pre aria-label="Box containing code sample." tabindex=0><code>regular government employment
+        +
+private employment
+        +
+JG residual
+        =
+labour force
+</code></pre><p>and the JG remains the residual buffer rather than an alternative
+preferred employer, as it is <em>supposed to be by design.</em>.</p><p>I also changed the wage hierarchy in the reference calibration to</p><pre aria-label="Box containing code sample." tabindex=0><code>w_JG = 0.60
+w_F  = 0.88
+w_G  = 1.10
+</code></pre><p>so the JG is visibly the lowest-paid buffer, regular public service is the
+highest-paid public option, and firms still employ the majority of labour.</p><p>On an independent numerical check of the revised equations, the JG share
+stays in roughly the 4–6% range over the 50-year stress test rather than
+taking over the labour force. <code>lambda_F</code> stays around 0.93–0.94 instead
+of monotonically collapsing. That is much closer to the behavior we want
+from a baseline JG model.</p><p>On <code>G_N</code>: yes, your interpretation is basically right. In this model it
+is the signed consolidated government net financial position, not a
+Treasury bank account. The Godley structure conserves</p><pre aria-label="Box containing code sample." tabindex=0><code>F_D + W_D + G_N = constant
+</code></pre><p>so if the private sector accumulates positive net financial assets, <code>G_N</code>
+is correspondingly negative. The old model explicitly used that convention.</p><p>I would not rename it <code>G_D</code>. That would make it look like a positive
+government bank deposit, which is not what it represents.</p><p>And I would make one correction to the bonds point: government bonds are
+not specifically a “fixed exchange-rate mindset.” Floating-currency
+governments also issue bonds. In an MMT treatment they need not be
+interpreted as a financing necessity; they can be modeled as
+interest-bearing government liabilities held by households, firms, banks,
+pension funds, etc. So a later bond model could add explicit security
+stocks and interest flows while retaining the same floating-currency
+framework.</p><p>On bank credit: I think your instinct is right that it belongs in the next
+layer, but it is not the cause of this particular failure. The current model
+did not constrain firms by debt service; it had no such banking constraint at
+all. Its constraint was lack of effective demand. Bank lending will matter once
+we introduce a real capital stock and an investment function such as:</p><pre aria-label="Box containing code sample." tabindex=0><code>expected sales
+    -&gt; desired investment
+    -&gt; bank credit
+    -&gt; capital accumulation
+    -&gt; higher productive capacity
+    -&gt; debt service
+    -&gt; possible slowdown / deleveraging
+</code></pre><p>That would make a good <code>mmm_0_5</code>. I will first establish the JG buffer
+architecture cleanly in <code>mmm_0_4</code>, which is what this redesign does.</p><p><strong>One further point I recommend:</strong> for this model, plot
+<code>lambda_JG = L_JG/N</code> and <code>u3_rate = U3/N</code>, not just the absolute
+<code>L_JG</code>. With a growing population, the absolute number of JG workers
+can rise while the buffer share is actually stable or falling. The
+revised TOML adds those diagnostics explicitly.</p><p>*<strong>Little Note:</strong> It was very nice to just be able to edit TOML! No coding
+anymore. At least for a short while. The dearpygui is still on the horizon.</p><h2 id=reports-important><a class=anchor href=#reports-important title='Anchor for: Reports (important!).'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Reports (important!)</h2><p>I had some dopey plots. So wrote this teaching note up!</p><p>For MMT, <code>G_N</code> is largely meaningless! Plus, this pair is
+incommensurate, <code>G_N</code>, <code>debt_to_GDP</code>
+one is in <code>$</code> the other is a pure time dimension <code>[G_N/GDP ] ~ years</code>.</p><p><strong>Exercise:</strong></p><p>So what we really want is a pair here of commensurate quantities that have
+a meaningful comparison story. Prosperity is crudely GDP per capita?
+Can we have that, plus one other quantity that is comparable but
+complementary? I do not yet have an energy consumption function like
+a Leontieff model, but we could make one, to show Real energy use
+per capita? Or for now, can you suggest something else in the meantime?</p><p><strong>Solution:</strong></p><p>On dimensions, in the strict stock–flow sense:
+$$
+[G_N]=\text{currency},\qquad [Y]=\frac{\text{currency}}{\text{year}},
+$$
+so
+$$
+\left[\frac{G_N}{Y}\right]=\text{year}.
+$$
+“Debt-to-GDP ratio” is conventionally spoken of as dimensionless because
+GDP is normally reported as an annual flow and the year is implicitly
+absorbed into the reporting convention. But mathematically it is a
+stock-to-flow ratio with the interpretation of a time scale. For an
+MMT model, I agree that it is not especially illuminating as a primary
+Dynamics plot.</p><p>For a better plot pair, you could use a prosperity-versus-living-standard
+comparison with the same units:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=s2>&#34;Y_pc&#34;</span><span class=p>,</span> <span class=s2>&#34;C_pc&#34;</span>
+</span></span></code></pre></div><p>where both are nominal flows per person per year:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>Y_pc</span> <span class=p>=</span> <span class=s2>&#34;Y_exp_nom/N&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>C_pc</span> <span class=p>=</span> <span class=s2>&#34;C/N&#34;</span>
+</span></span></code></pre></div><p>Both have dimensions
+$$
+\frac{\text{currency}}{\text{person}\cdot\text{year}}.
+$$
+The comparison story is quite useful:</p><ul><li><code>Y_pc</code>: total nominal output/income generated per person;</li><li><code>C_pc</code>: household consumption expenditure per person.</li></ul><p>So the gap between them is not “waste”; it includes investment and
+government production/expenditure. But the pair tells you whether
+rising aggregate prosperity is actually translating into rising
+household consumption.</p><p>So for the plot Dynamics tab we can have this layout:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>time_series</span> <span class=p>=</span> <span class=p>[</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;P&#34;</span><span class=p>,</span> <span class=s2>&#34;pi_rate&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;lambda_F&#34;</span><span class=p>,</span> <span class=s2>&#34;lambda_G&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;lambda_regular&#34;</span><span class=p>,</span> <span class=s2>&#34;lambda_JG&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;F_D&#34;</span><span class=p>,</span> <span class=s2>&#34;W_D&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;Y_pc&#34;</span><span class=p>,</span> <span class=s2>&#34;C_pc&#34;</span>
+</span></span><span class=line><span class=cl><span class=p>]</span>
+</span></span></code></pre></div><p><strong>Exercise:</strong></p><p>Can you improve on the above solution? (Think about Price.)</p><p><strong>Solution:</strong></p><p>The first solution uses nominal per-capita quantities. If <code>P</code> is
+moving materially, part of their growth is inflation. For economic
+interpretation I would therefore go one step further and add real
+counterparts:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>Y_real_pc</span> <span class=p>=</span> <span class=s2>&#34;Y_exp_nom/(P*N)&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>C_real_pc</span> <span class=p>=</span> <span class=s2>&#34;C/(P*N)&#34;</span>
+</span></span></code></pre></div><p>Then the preferred final pair becomes</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=s2>&#34;Y_real_pc&#34;</span><span class=p>,</span> <span class=s2>&#34;C_real_pc&#34;</span>
+</span></span></code></pre></div><p>with dimensions of your private-good-equivalent quantity per person
+per year.</p><p>That is probably the best temporary prosperity pair.</p><p>There is a conceptual imperfection here: dividing all of <code>Y_exp_nom</code> by
+the private price <code>P</code> implicitly uses the private-goods price as a
+deflator even for public services. Since the model has public output
+valued through payroll rather than a proper public-service price index,
+this is only a real-GDP proxy. For <code>mmm_0_4</code>, I think that is acceptable
+as long as we label it honestly.</p><p>A slightly cleaner formulation would therefore be:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>C_real_pc</span> <span class=p>=</span> <span class=s2>&#34;(C/P)/N&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>Y_real_pc</span> <span class=p>=</span> <span class=s2>&#34;(Q_F + Q_G + Q_JG)/N&#34;</span>
+</span></span></code></pre></div><p>but this assumes <code>Q_F</code>, <code>Q_G</code>, and <code>Q_JG</code> are genuinely commensurable
+real-output units. At present they are not quite: one is private goods,
+the others are public/JG services with different productivity
+normalizations. So I prefer the deflated-expenditure proxy for now.</p><p><strong>Exercise:</strong></p><p>What might you do for a simple energy analysis?</p><p><strong>Solution:</strong></p><p>I think real energy use per capita will eventually be a good
+additional welfare/resource diagnostic, but it would not be commensurate
+with GDP per capita:
+$$
+[E_{\rm pc}] = \frac{\text{energy}}{\text{person}\cdot\text{year}},
+$$
+versus
+$$
+[Y_{\rm pc}] = \frac{\text{currency or real-output units}}
+{\text{person}\cdot\text{year}}.
+$$
+So I would not overlay them as a paired plot unless you normalize both
+to indices, e.g.
+$$
+\hat Y_{\rm pc}(t)=\frac{Y_{\rm pc}(t)}{Y_{\rm pc}(0)},\qquad
+\hat E_{\rm pc}(t)=\frac{E_{\rm pc}(t)}{E_{\rm pc}(0)}.
+$$
+Then both are dimensionless and you get an interesting “prosperity
+versus resource intensity” story.</p><p>For now, my preferred pair is therefore:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>Y_real_pc</span> <span class=p>=</span> <span class=s2>&#34;Y_exp_nom/(P*N)&#34;</span>
+</span></span><span class=line><span class=cl><span class=nx>C_real_pc</span> <span class=p>=</span> <span class=s2>&#34;C/(P*N)&#34;</span>
+</span></span></code></pre></div><p>and:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=nx>time_series</span> <span class=p>=</span> <span class=p>[</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;P&#34;</span><span class=p>,</span> <span class=s2>&#34;pi_rate&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;lambda_F&#34;</span><span class=p>,</span> <span class=s2>&#34;lambda_G&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;lambda_regular&#34;</span><span class=p>,</span> <span class=s2>&#34;lambda_JG&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;F_D&#34;</span><span class=p>,</span> <span class=s2>&#34;W_D&#34;</span><span class=p>,</span>
+</span></span><span class=line><span class=cl>    <span class=s2>&#34;Y_real_pc&#34;</span><span class=p>,</span> <span class=s2>&#34;C_real_pc&#34;</span>
+</span></span><span class=line><span class=cl><span class=p>]</span>
+</span></span></code></pre></div><p>That leaves <code>G_N</code> available as an accounting diagnostic without
+pretending it is one of the most economically informative headline
+variables. (It <em>is</em> in our media in the present Neoliberal era, but it
+should not be.)</p><table style="border-collapse:collapse;border=0"><col span=1 style=width:25%><col span=1 style=width:10%><col span=1 style=width:25%><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../341_02_macromodels_mosler>Previous chapter</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>Back to</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../350_00_macromodels_lstm>Next chapter</a></td></tr><tr style="border:1px solid color:#0f0f0f"><td style="border:1px solid color:#0f0f0f"><a href=../341_02_macromodels_mosler>Macromodels — Mosler II</a></td><td style="border:1px solid color:#0f0f0f;text-align:center"><a href=./>TOC</a></td><td style="border:1px solid color:#0f0f0f;text-align:right"><a href=../350_00_macromodels_lstm>Macromodels — LSTM/CNN</a></td></tr></table></article></main></div><footer><div class=req-js><button class=outline-dashed title="Change to light/dark mode."><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#adjust"/></svg></button><input class=outline-dashed type=color list=presets value=#1585d5 title="Change accent color." aria-label="Change accent color."><datalist id=presets><option value=#1f676b><option value=#1585d5><option value=#225670><option value=#dd587c><option value=#902b37><option value=#f3a530><option value=#754e85><option value=#7fc121><option value=#a8314a><option value=#ff7433><option value=#3e6728><option value=#c063bd><option value=#805080><option value=#9d629d><option value=#a064a0><option value=#7daa50><option value=#284531><option value=#285790><option value=#F5A83D><option value=#88aa33><option value=#015660><option value=#bf274e><option value=#bf4242><option value=#51b37c></datalist></div><noscript><p class=noscript>Unable to execute JavaScript. Some features were disabled.</p></noscript></footer><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.6950e59dbd8dfddd111390d85888bb5f9dc2e9c334da7ac1c3bacc92a695610d.css integrity="sha256-aVDlnb2N/d0RE5DYWIi7X53C6cM02nrBw7rMkqaVYQ0=" crossorigin=anonymous><script defer src=https://smithwillsuffice.github.io/ohanga-pai/libs/katex@0.16.0/dist/katex.min.4268ce940bc6faa510d7b638acc3f08a63501d9504dd3155bfc48d6838ade320.js integrity="sha256-QmjOlAvG+qUQ17Y4rMPwimNQHZUE3TFVv8SNaDit4yA=" crossorigin=anonymous></script>
 <script defer src=https://smithwillsuffice.github.io/ohanga-pai/js/katex-custom-render.min.cdeaf561a454e015b169c385f95c72d57d41f906a9bc4100636b18e1e4c15da3.js integrity="sha256-zer1YaRU4BWxacOF+Vxy1X1B+QapvEEAY2sY4eTBXaM=" crossorigin=anonymous></script></body></html>
