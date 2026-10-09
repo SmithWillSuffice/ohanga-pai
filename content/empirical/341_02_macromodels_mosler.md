@@ -199,9 +199,9 @@ t,e1,e2,e3,...
 That lets `stability.py` read the CSV normally with its header.
 
 
-***A Caution:** 
+**A Caution:** 
 
-One conceptual caution is worth noting. For the nonlinear Lorenz 
+For the nonlinear Lorenz 
 trajectory, “instantaneous Jacobian has a positive eigenvalue” is a 
 _local linear_ statement. It is not by itself the same thing as a 
 Lyapunov-exponent calculation or a theorem of global instability. 
@@ -244,11 +244,11 @@ $$
 $$
 The largest Lyapunov exponent is essentially
 $$
-\l ambda_{\max} = \lim_{T\to\infty}
+\lambda_{\max} = \lim_{T\to\infty}
 \frac1T \ln\frac{\|\delta x(T)\|}{\|\delta x(0)\|}.
 $$
 Its interpretation is fairly simple:
-$$$
+$$
 \lambda_{\max} < 0
 $$
 means nearby trajectories converge,
@@ -271,13 +271,16 @@ transient instability, strange attractors, or complicated policy-regime
 dynamics. A Lyapunov diagnostic tells us whether small modelling or initial-
 condition perturbations actually amplify over the simulated trajectory.
 
-I would therefore regard the two analyses as complementary rather than alternatives:
+I would therefore regard the two analyses as complementary rather 
+than alternatives:
  
-> Jacobian analysis} = local linear stability
+> Jacobian analysis = local linear stability
 
 and
 
 > Lyapunov analysis =  trajectory-level sensitivity/stability.
+
+so I will keep the stability analysis in the html report outputs.
 
 For the pendulum, with damping and eventual relaxation to the 
 downward equilibrium, we should obtain a negative largest Lyapunov 

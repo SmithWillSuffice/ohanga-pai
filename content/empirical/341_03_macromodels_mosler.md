@@ -7,7 +7,7 @@ katex: true
 ---
 
 First a performance patch, then more lyapunov analysis tests.
-Lastly today, a [special main seciton](#the-mmm-jg-model) on the `mmm_0_4`` model itself! 
+Lastly today, a [special main section](#the-mmm-jg-model) on the `mmm_0_4` model itself! 
 Some of the good stuff.
 
 ## PukahaPai solver/performance update
@@ -17,7 +17,7 @@ version control, so there is no verison numbering in the files. I do not
 plan on making any produciton versions either, it's 
 all "this is the latest PukahaPai".
 
-### 1. Honour `[solver].method`
+### 1. Honour solver.method
 
 A modeller can now select any simple zero-argument DifferentialEquations.jl
 algorithm constructor exported in the Julia environment, for example:
@@ -43,6 +43,28 @@ The generator deliberately does not maintain a small solver whitelist.
 A simple Julia constructor name such as `Vern7`, `RK4`, `Rodas5P`, or 
 a dotted name such as `OrdinaryDiffEq.Vern7` is emitted as `<name>()`. 
 Arbitrary Julia source in the TOML method field is rejected.
+
+### DAE versus ODE
+
+A simple taxonomy is:
+- ODEProblem:--- ordinary differential-equation problem;
+- DAEProblem:--- fully implicit differential-algebraic problem;
+- Tsit5, IDA, Rodas5P, RK4, etc.:--- numerical algorithms chosen to 
+solve suitable problem types.
+
+If the TOML supplied ordinary evolution laws
+$$
+dx_i/dt = f_i(x,t),
+$$
+this generates an ODEProblem.
+
+If the model genuinely contains algebraic constraints or equations
+that cannot be solved explicitly for all state derivatives, then 
+we generate a DAEProblem.
+
+The selected solver method is then chosen independently subject to
+compatibility with that problem type.
+
 
 ### 2. Decouple integration step, output sampling, and flushing
 
@@ -129,10 +151,6 @@ and omits `output_dt`, the generated solver uses
 ```text
 output_dt = 0.01
 ```
-The same generator currently uses these defaults:
-
-```
-### Solver options and defaults
 
 The `[solver]` section supports the following fields.
 
@@ -244,14 +262,25 @@ The sparse stability diagnostic still needs the full Jacobian because it
 computes eigenvalues.
 
 
-## THe MMM JG Model
+## The MMM JG Model
 
 I have numbered this `mmm_0_4` The first `0` is for testing. Not for 
 serious play. The idea is to eventually get to a realistic JG MMT model 
 which would be `mmm_1_4`.
 
-My first attemp was pretty terrible. SO I will not even show you the toml. 
-But here is roughly what went bad:
+Honestly, I am struggling with this model, and cannot see how I will fix 
+it cleanly.  I think it is just doing too much.  My thinking is to 
+forget about it, and go up to `mmm_0_5` by going back to `mmm_0_3`. 
+This will mean ditching the Tcherneva--Levey price setting model stuff , 
+for the time being, and returning to a more Eric Tymoigne "money & banking" 
+model, using the Steve Keen-like `mmm_0_3` but with a minimal JG included. 
+The purpose would be to just show nothing else horrible happens when the 
+Phillips Curve is flattened.
+
+My first attempt at the Price-Setter-JG model was pretty terrible. So I will 
+not even show you the toml.  Maybe also I will eventually save this once I 
+recover something respectable as `mmm_ps_jg_1` But first, here is roughly 
+what went bad:
 
 ---
 
@@ -612,8 +641,218 @@ pretending it is one of the most economically informative headline
 variables. (It _is_ in our media in the present Neoliberal era, but it 
 should not be.)
 
+**Testing with:** 
+
+```bash
+python3 generate_julia_odesolver.py mmm_0_4
+julia models/mmm_0_4_cmdl.jl
+python3 plots4model.py mmm_0_4
+xdg-open models/mmm_0_4.html
+```
+or,
+```bash
+./the_pai_run.sh   mmm_0_4   # does all the above
+```
+
+## Too Much Price-Setter
+
+This iteration of `mmm_0_4` **2026-10-09** is one I might freeze it 
+today as an 𝙞ⓝ𝔱𝗲ⓡ𝒆𝙨𝘵🄸𝗻𝐠 one.  I men to say, it at least shows 
+macroeconomics modelling can be 𖧥𖦪𖢧𖨨ꚶꛚ.
+
+It clearly has Government too powerful!  Here is a run-down.
+
+The main pathology in `mmm_0_4` is clearer now.
+
+The persistent deflation is largely built into the equations. The model 
+keeps the nominal JG wage fixed, makes the firm wage a fixed multiple of 
+it, but lets firm productivity grow exponentially.  Then 
+private unit cost is explicitly
+$$
+P_{\rm unit}=\frac{w_F}{A_F},
+$$
+so with rising $A_F$ and essentially anchored $w_F$, the target price 
+is structurally driven downward. mmm_0_4 That is the first thing that 
+needed correcting.
+
+Also, your observation about `lambda_JG` being an almost exact inverse 
+of `lambda_F` is not merely visual. In `mmm_0_4` it is algebraically 
+imposed:
+```
+U3   = N_res - L_F
+L_JG = U3
+```
+apart from the JG-on switch. mmm_0_4 So that model cannot produce an 
+independently evolving JG buffer.
+
+I would also be cautious about calling the reported positive Lyapunov 
+exponent chaos. `mmm_0_4` is explicitly non-autonomous because population 
+and all three productivities depend directly on time. mmm_0_4 A positive 
+tangent-growth exponent in that setting can reflect a growing or 
+unstable direction rather than a bounded strange attractor. Given the 
+visually smooth trajectories, I would presently call it “exponentially 
+sensitive” rather than chaotic. Our current Lyapunov implementation is 
+also still the frozen-Jacobian approximation between accepted steps, 
+rather than a fully augmented variational solve.
+
+I made two new models:
 
 
+* [mmm_0_5.toml](../../files/mmm_0_5.toml.txt)  --- based off `mmm_0_4`
+* [mmm_1_3.toml](../../files/mmm_1_3.toml.txt) --- based off `mmm_0_3` but with a JG.
+
+For `mmm_0_5`, I made five linked changes rather than trying to 
+manufacture oscillation with an arbitrary sine-like forcing.
+
+First, the JG wage is now a productivity-aware nominal anchor:
+```toml
+w_JG = "w_JG0 * exp((alpha_F + pi_star)*t)"
+```
+with
+```toml
+pi_star = 0.02
+```
+Thus, roughly,
+$$
+\frac{\dot w_{JG}}{w_{JG}} = \alpha_F+\pi^\star .
+$$
+
+Since productivity grows at $\alpha_F$, 
+unit labour cost tends to grow at approximately $\pi^\star$, rather than 
+fall at $-\alpha_F$. This should convert the old built-in deflation 
+into something much closer to a 2% nominal inflation path.
+
+Second, the private wage is now an actual state variable. Firms bid 
+more aggressively when the JG pool becomes small:
+
+```toml
+jg_tightness = "exp(-lambda_JG/jg_wage_scale)"
+w_F_target = "w_JG*(1 + premium_F_min + premium_F_tight*jg_tightness)"
+```
+with lagged adjustment:
+```toml
+f_w_F = "kappa_w*(w_F_target - w_F)"
+```
+That is a more plausible role for private-sector competition than simply 
+allowing firms to override the government's regular-service employment. 
+Firms principally recruit out of the JG/slack pool, while `L_G` remains 
+a policy-determined public-service requirement.
+
+Third, investment is no longer an instantaneous fixed fraction. `iota_F` 
+is a state:
+```toml
+iota_target = "iota_base*exp(eta_I*(u_F - u_F_target))"
+f_iota_F = "kappa_I*(iota_target - iota_F)"
+```
+so high utilization produces an investment accelerator with a finite 
+response lag.
+
+Fourth, I added a real inventory stock `V`. This is the most important 
+business-cycle addition:
+
+```toml
+V_target = "inventory_ratio*Q_demand"
+Q_plan = "Q_demand + kappa_V*(V_target - V)"
+Q_required = "Q_plan/u_F_target"
+
+f_V = "Q_F - Q_demand"
+```
+
+The causal loop is now roughly,
+$$
+\text{demand}
+\rightarrow
+\text{inventory depletion}
+\rightarrow
+\text{planned output}
+\rightarrow
+\text{hiring}
+\rightarrow
+\text{production}
+\rightarrow
+\text{inventory rebuilding}
+\rightarrow
+\text{reduced hiring}.
+$$
+
+That naturally gives us an inventory/business cycle without needing 
+bank credit yet. In a preliminary numerical experiment with this 
+structure, `lambda_F` showed several turning points over the 50-year 
+interval rather than the one smooth hump of `mmm_0_4`. I deliberately 
+kept the calibration moderate rather than tuning it to produce 
+spectacular oscillations.
+
+Fifth, the JG is no longer exactly the complement of firm employment. 
+I introduced
+```toml
+rho_JG
+```
+as the fraction of residual slack actually enrolled:
+```toml
+L_JG = "rho_JG*U3"
+U_open = "U3 - L_JG"
+
+f_rho_JG = "kappa_JG*(rho_JG_target - rho_JG)"
+```
+with a high target of `0.98`. So it remains a strong employment 
+guarantee, but there is a small administrative/search transition and 
+`lambda_JG` no longer has to be an exact mirror image of `lambda_F`.
+
+That separation is useful, since it ensures the JG is 
+acting as a proper buffer stock, not an algebraic plotting identity.
+
+For `mmm_1_3`, I stayed much closer to your request. The starting 
+`mmm_0_3` has no JG, defines real output simply as
+$$
+Y_r = \lambda A N,
+$$
+and uses the very steep Phillips term
+$$
+\Phi = \frac{\Phi_d}{(1-\lambda)^{\gamma_p}} -\Phi_c,
+$$
+which becomes singular as $\lambda\to1$.
+
+The new `mmm_1_3` interprets `lambda` as ordinary/non-JG employment 
+and defines the residual as:
+```toml
+L_JG = "jg_participation*(1 - lambda)*N"
+```
+with adjustable lower productivity:
+
+```toml
+A_JG = "A_JG_ratio*A"
+Yr_JG = "A_JG*L_JG"
+```
+and then
+```toml
+Yr = "Yr_F + Yr_JG"
+```
+so users can directly experiment with the JG productivity parameter.
+
+The Phillips curve is minimally flattened by replacing the 
+singular denominator with
+```toml
+Phi = "Phi_d/(Phi_JG_buffer + 1 - lambda)^gamma_p - Phi_c"
+```
+where `Phi_JG_buffer = 0.15`.
+
+So it still has the same qualitative Phillips mechanism, but the 
+presence of the buffer employment pool prevents the wage-pressure term 
+from going mathematically infinite at nominal full regular employment.
+
+I deliberately did not redesign the `mmm_0_3` financial block. Its 
+existing government/bond and tax accounts are preserved. The original 
+model already has taxation and government interest flows in its 
+Godley block. The new `mmm_1_3` should therefore be regarded 
+as a real-side JG experiment first. An explicit JG wage transaction 
+deserves a subsequent accounting revision, because adding it casually 
+to `G_D` would interact with the existing interest-payment 
+interpretation and could make the accounting semantics worse rather 
+than better.
+
+On your aside about bonds: that distinction is useful for how you intend to frame these models. I would therefore keep the PS-JG line bond-free and treat explicit bond stocks in the Keen/banking branch as policy instruments/savings assets rather than as operational financing requirements.
+
+Both new files parse successfully as TOML. I have not claimed Julia-run validation for them yet; the next useful step is to generate and run both, inspect `P`, `pi_rate`, employment shares, inventories and Lyapunov behavior, and then tune only after seeing those trajectories.
 
 <table style="border-collapse: collapse; border=0;">
     <colgroup>
