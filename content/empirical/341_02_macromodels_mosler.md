@@ -1095,7 +1095,7 @@ is nasty.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">Back to</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../350_00_macromodels_lstm">Next chapter</a></td>
+<a href="../341_03_macromodels_mosler">Next chapter</a></td>
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
@@ -1103,7 +1103,7 @@ is nasty.
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../341_01_macromodels_mosler">Macromodels — Mosler III</a></td>
+<a href="../341_03_macromodels_mosler">Macromodels — Mosler III</a></td>
 </tr>
 </table>
 
