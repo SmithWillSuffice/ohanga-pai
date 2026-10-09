@@ -987,7 +987,7 @@ and monitor output with:
 tail -f models/pendulum_run.log
 ```
 You can lower the priority of one already running process too:
-````bash
+```bash
 renice 15 -p PID
 ionice -c 3 -p PID
 ```
@@ -1000,8 +1000,8 @@ functionally the Lyapunov-enabled version, but it is not yet
 performance-optimized.
 The expensive part is that on every solver callback step it computes
 $$
-\exp(J\,\Delta t)
-$4
+\exp(J\\,\Delta t)
+$$
 for the tangent vector. pendulum_cmdl With
 ```
 dt = 0.01
@@ -1045,18 +1045,6 @@ it will contain only:
 t,lambda_max
 ```
 The numerical rows should begin after the transient.
-I would run this one now as a functional end-to-end test. While it 
-runs, check:
-```bash
-ls -lh models/pendulum*.csv
-head models/pendulum_lyapunov.csv
-tail models/pendulum_lyapunov.csv
-```
-After it finishes:
-```bash
-python3 plots4model.py pendulum
-```
-The Lyapunov tab should then be populated.
 
 After we establish that this pipeline works, I strongly recommend the 
 next change be the performance cleanup: use an actual 
@@ -1089,6 +1077,8 @@ up to 65 MB, too big for github. I removed them from the repo.
 
 ## TODO
 
+
+
 **2026-10-09:**  I should test Lyapunov analysis with Lorenz and ``mmm_0_4`. 
 That is next chapter. Plus, the LLM I used recommended optimization of 
 the Lyapunov analysis, I think we should do that. Inefficient code 
@@ -1114,7 +1104,7 @@ is nasty. 4
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
-<a href="../350_00_macromodels_lstm">Macromodels — LSTM/CNN</a></td>
+<a href="../341_01_macromodels_mosler">Macromodels — Mosler III</a></td>
 </tr>
 </table>
 
