@@ -1,5 +1,5 @@
 ---
-title: "Macromodels — Mosler II"
+title: "Macromodels — Mosler III"
 weight: 20
 date: 2026-10-07
 toc: true
@@ -13,8 +13,8 @@ Some of the good stuff.
 ## PukahaPai solver/performance update
 
 This patch makes three related changes.  Note: I have this under `git` 
-version control, so there is no verison numbering in the files. I do not 
-plan on making any produciton versions either, it's 
+version control, so there is no version numbering in the files. I do not 
+plan on making any production versions either, it's 
 all "this is the latest PukahaPai".
 
 ### 1. Honour solver.method
@@ -498,11 +498,19 @@ one is in `$` the other is a pure time dimension  `[G_N/GDP ] ~ years`.
 So what we really want is a pair here of commensurate quantities that have 
 a meaningful comparison story.  Prosperity is crudely GDP per capita? 
 Can we have that, plus one other quantity that is comparable but 
-complementary?  I do not yet have an energy consumption function like 
-a Leontieff model, but we could make one, to show Real energy use 
-per capita?  Or for now, can you suggest something else in the meantime?
+complementary?  I did not use an energy consumption function like 
+a Leontieff model, but we should put that in, to show Real energy use 
+per capita.  Or for now, can we suggest something else in the meantime?
+
+The energy function does not have to feedback into a fiscal policy response
+function just yet, since governments are not really 
+doing _green transition_ yet in any seriousness. So a Leontief model 
+should suffice and is just almost just window dressing, except for the fact 
+we can use it to calibrate some parameters using empirical data.
 
 **Solution:**
+
+(I will implement Leontief later ... not in this chapter.)
 
 On dimensions, in the strict stock–flow sense:
 $$
@@ -556,7 +564,7 @@ time_series = [
 
 **Exercise:**
 
-Can you improve on the above solution? (Think about Price.)
+Can we improve on the above solution? (Think about Price.)
 
 **Solution:**
 
@@ -596,11 +604,11 @@ normalizations. So I prefer the deflated-expenditure proxy for now.
 
 **Exercise:** 
 
-What might you do for a simple energy analysis? 
+What might we do for a simple energy analysis? 
 
 **Solution:**
 
-I think real energy use per capita will eventually be a  good 
+I think real energy use per capita will eventually be a good 
 additional welfare/resource diagnostic, but it would not be commensurate 
 with GDP per capita:
 $$
@@ -685,18 +693,7 @@ L_JG = U3
 apart from the JG-on switch. mmm_0_4 So that model cannot produce an 
 independently evolving JG buffer.
 
-I would also be cautious about calling the reported positive Lyapunov 
-exponent chaos. `mmm_0_4` is explicitly non-autonomous because population 
-and all three productivities depend directly on time. mmm_0_4 A positive 
-tangent-growth exponent in that setting can reflect a growing or 
-unstable direction rather than a bounded strange attractor. Given the 
-visually smooth trajectories, I would presently call it “exponentially 
-sensitive” rather than chaotic. Our current Lyapunov implementation is 
-also still the frozen-Jacobian approximation between accepted steps, 
-rather than a fully augmented variational solve.
-
 I made two new models:
-
 
 * [mmm_0_5.toml](../../files/mmm_0_5.toml.txt)  --- based off `mmm_0_4`
 * [mmm_1_3.toml](../../files/mmm_1_3.toml.txt) --- based off `mmm_0_3` but with a JG.

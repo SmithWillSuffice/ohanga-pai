@@ -462,171 +462,68 @@ spending the time doing it all myself, and want to get on to policy
 advocacy & real world activism.
 
 
-### Lyapunov Upgrades
+### Lyapunov Upgrade
 
-The central design is still simple: Julia performs the trajectory-level 
-tangent calculation because it already owns the dynamical system 
-and Jacobian; `lyapunov.py` is purely post-processing/reporting, 
-analogous to `stability.py`. `plots4model.py` then assembles Dynamics, 
-Stability, and Lyapunov into the browser report.
+**2026-10-12**
 
-The TOML interface is:
 
-```toml
-[lyapunov]
-enabled = true
-renormalize_dt = 0.1
-transient = 5.0
-```
-When enabled, the generated Julia solver writes
 
-```text
-models/<model>_lyapunov.csv
-```
-with
+I changed the Lyapunov report html, to be cautious about 
+calling the reported positive Lyapunov exponent "chaos". 
+`mmm_0_4` is explicitly non-autonomous (there is explicit 
+time-dependence) because population 
+and all three productivities depend directly on time.  A positive 
+tangent-growth exponent in that setting can reflect a growing or 
+unstable direction rather than a bounded strange attractor. Given the 
+visually smooth trajectories, so I should change the report to call the 
+behaviour “exponentially sensitive” rather than "chaotic". Our current 
+Lyapunov implementation is also still the frozen-Jacobian approximation 
+between accepted steps, rather than a fully augmented variational solve.
 
-```text
-t,lambda_max
-...
-```
+PukahaPai now uses two distinct dynamical diagnostics.
 
-The Julia calculation evolves a tangent vector according to
+The eigenvalue diagnostic is a **local** Jacobian stability test.  At an
+equilibrium it is the standard linear-stability criterion.  Away from an
+equilibrium it describes only the instantaneous linearization.
+
+The Lyapunov diagnostic instead follows an infinitesimal perturbation 
+along the simulated trajectory.  The largest Lyapunov exponent is estimated from
 $$
-\dot v=J(t)v,
+\lambda_{\max}(T) \simeq  \frac{1}{T}\sum_k \log s_k,
 $$
-using the correctly signed ODE Jacobian
-$$
-J_{\rm ODE} = -\frac{\partial F}{\partial u}
-$$
-from our DAE residual. Between solver steps it uses
-$$
-v(t+\Delta t)\simeq \exp\!\left[J(t)\Delta t\right]v(t),
-$$
-with periodic Benettin-style renormalization. The accumulated quantity 
-is the finite-time estimate
-$$
-\lambda_{\max}(T) = \frac{1}{T} \sum_k\log s_k.
-$$
-That is better than attempting to average instantaneous Jacobian eigenvalues.
+where `s_k` is the tangent-vector stretch accumulated between periodic
+renormalizations.
 
-`lyapunov.py` reports the final estimate, the mean and standard deviation 
-over the last 20% of estimates, and one of three deliberately cautious 
-classifications: contracting, neutral/unresolved, or exponentially 
-sensitive. It does not label every positive exponent “chaos,” because 
-the unstable Lorenz equilibrium is the obvious counterexample: 
-$\lambda_{\max}>0$ there represents an unstable equilibrium, not a 
-strange attractor.
+Its sign has a precise local-separation interpretation:
 
-For the browser output, the default is now a three-tab layout :
+- `lambda_max < 0`: nearby trajectories contract on average;
+- `lambda_max ~= 0`: neutral behaviour or an unresolved finite-time estimate;
+- `lambda_max > 0`: nearby trajectories separate exponentially.
 
+The last case is called **exponentially sensitive**.  The PukahaPai 
+`lyapunov.py` module deliberately does **not** identify chaos by just a 
+positive largest Lyapunov exponent.
+
+An unstable equilibrium can have a positive tangent-growth exponent while the
+saved state trajectory remains at the equilibrium.  A strongly drifting or
+externally driven non-autonomous system can also display positive finite-time
+growth without exhibiting a bounded strange attractor.
+
+For that reason the report now separates _Lyapunov classification_ from 
+_Dynamical diagnosis_,  and uses only the strongest justifiable labelling
 ```
-Dynamics    Stability    Lyapunov
+chaos supported
 ```
-The inactive buttons are Dodger Blue `#1E90FF`, the active button is a 
-soft pale green `#70C1A3`, all text is white, the page background 
-remains black, and Plotly remains dark-themed.
+rather than `chaos proven`.
 
-You can combine the two analysis tabs, if you prefer, with:
-```toml
-[plots]
-combine_stability_lyapunov_plots = true
-```
-The default is `false`. With it enabled, the browser becomes:
-```
-Dynamics    Stability & Lyapunov
-```
-
-**Caveat:** I have not checked it all works for the older models, and I 
-never will! 
-
-I also made one small compatibility update to `plot_utils.py`: the 
-old Plotly `titlefont=` axis syntax now fails on current Plotly versions, 
-so the dual-axis plot uses the modern nested `title=dict(...)` form. 
-I also gave `load_config()` the same `tomllib`/`toml` fallback pattern 
-we are now using elsewhere.
-
-The test models have these expectations: 
-
-- The damped pendulum has a 
-negative largest Lyapunov exponent after its transient. 
-- The normal  Lorenz model with
-$$
-\sigma=10,\qquad \rho=28,\qquad\beta=2.6
-$$
-has a positive exponent in its chaotic regime. 
-- The `lorenz_attractor_unstable` model starts exactly at
-$$
-x=y=z=0,
-$$
-so its state can remain exactly at the unstable equilibrium while its 
-tangent perturbation grows exponentially. That gives us a particularly 
-good test that Lyapunov sensitivity and “chaos” are not synonyms.
-
-I ran the combined Python test suite for the stability and Lyapunov work:
-```
-..............                                                    [100%]
-14 passed in 1.05s
-```
-
-That includes independent RK4/Benettin reference calculations for all 
-three models, generator/template checks, the DAE Jacobian sign 
-regression, TOML controls, three-tab HTML generation, the requested 
-blue/green styling, and the combined-analysis-tab option.
-
-Models without `[lyapunov] enabled = true` still build the three-tab 
-report; the Lyapunov tab simply explains that the diagnostic is not 
-enabled. Likewise for stability if `[eigenvalues] all = true` is absent 
-or false. So you do not need to enable every diagnostic for every 
-development model.
-
-**Command Lines:**
-
-Just for future reference!
-
-```bash
-pytest -v tests/test_stability.py tests/test_lyapunov.py
-```
-
-and to actually see results,
-```bash
-python3 generate_julia_odesolver.py pendulum
-julia models/pendulum_cmdl.jl
-python3 plots4model.py pendulum
-firefox models/pendulum.html  &>/dev/null&
-```
-and the others the same,
-```bash
-python3 generate_julia_odesolver.py lorenz_attractor
-julia models/lorenz_attractor_cmdl.jl
-python3 plots4model.py lorenz_attractor
-firefox models/lorenz_attractor.html &>/dev/null&
-
-python3 generate_julia_odesolver.py lorenz_attractor_unstable
-julia models/lorenz_attractor_unstable_cmdl.jl
-python3 plots4model.py lorenz_attractor_unstable
-xdg-open models/lorenz_attractor_unstable.html
-```
-
-For all five models, the bash pattern really is now identical:
-```bash
-for model in \
-    pendulum \
-    lorenz_attractor \
-    lorenz_attractor_unstable \
-    mmm_0_3 \
-    mmm_0_4
-do
-    echo "===== ${model} ====="
-
-    python3 generate_julia_odesolver.py "${model}" &&
-    julia "models/${model}_cmdl.jl" &&
-    python3 plots4model.py "${model}"
-    xdg-open models/${model}.html
-done
-```
-
+Details are in the PukahaPai repository file 
+`lyapunov_analysis.md`. I will not copy them here, since they may get 
+updated again later.
 
 ### Pendulum Lyapnuov analysis example
+
+(DEPRECATED: this was using a previous `lyapunov.py`, so is now 
+out-of-date. It is just an example of the type of analysis to expect.)
 
 Well, it works for one model. The webpage needs some work, but is ok.
 The text part of the html report reads:
