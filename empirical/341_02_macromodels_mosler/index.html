@@ -1,5 +1,5 @@
 <!doctype html><html lang=en data-mode=dark><head prefix="og: http://ogp.me/ns#"><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=generator content="Hugo 0.101.0"><meta name=theme content="Color Your World -- gitlab.com/rmaguiar/hugo-theme-color-your-world"><title>Macromodels — Mosler II | Ōhanga Pai</title><meta name=author content="Bijou M. Smith"><meta name=robots content="index follow"><link rel=canonical href=https://smithwillsuffice.github.io/ohanga-pai/empirical/341_02_macromodels_mosler/><meta property="og:site_name" content="Ōhanga Pai"><meta property="og:title" content="Macromodels — Mosler II"><meta property="og:url" content="https://smithwillsuffice.github.io/ohanga-pai/empirical/341_02_macromodels_mosler/"><meta property="og:type" content="website"><meta name=twitter:dnt content="on"><meta name=theme-color content="#222"><meta name=apple-mobile-web-app-capable content="yes"><meta name=apple-mobile-web-app-status-bar-style content="default"><script type=application/ld+json>{"@context":"https://schema.org","@type":"WebSite","url":"https://smithwillsuffice.github.io/ohanga-pai/","inLanguage":"en","name":"Ōhanga Pai","description":"Geon Theory Development","publisher":"Bijou M. Smith"}</script><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/main.min.d33233e3d0eb633ea1fbb9e17553fe7c8ff07875b91d8186e046a48480987c8e.css integrity="sha256-0zIz49DrYz6h+7nhdVP+fI/weHW5HYGG4EakhICYfI4=" crossorigin=anonymous><noscript><meta name=theme-color content="#1585d5"><link rel=stylesheet href=https://smithwillsuffice.github.io/ohanga-pai/css/noscript.min.d73d9c33b150230799106ddda48c6861047535f400bf9ad26ec48665cf803050.css integrity="sha256-1z2cM7FQIweZEG3dpIxoYQR1NfQAv5rSbsSGZc+AMFA=" crossorigin=anonymous></noscript><link rel=preload href=/ohanga-pai/fonts/OpenSans-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Italic.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/OpenSans-Regular.ttf as=font crossorigin=anonymous><link rel=preload href=/ohanga-pai/fonts/Oswald-Bold.ttf as=font crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><link rel=preload href=/libs/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2 as=font type=font/woff2 crossorigin=anonymous><script src=https://smithwillsuffice.github.io/ohanga-pai/js/main.eaf40cb85ba7b448519428d1b6c856258731f0bb71f875d541ba615cfca4bdbc.js integrity="sha256-6vQMuFuntEhRlCjRtshWJYcx8Ltx+HXVQbphXPykvbw=" crossorigin=anonymous></script></head><body><header><a href=/ohanga-pai><img src=https://smithwillsuffice.github.io/ohanga-pai/images/ohp_logo.svg alt="T4GU logo" style=display:flex;width:40px;height:34px;float:left;margin-bottom:-2.5px;margin-right:10px></a>
-<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>Macromodels — Mosler II</h1><p>Published on <time datetime=2026-10-07>2026-10-07</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#basic-model-validations>Basic Model Validations</a></li><li><a href=#local-stability>Local Stability</a></li><li><a href=#lyapunov-analysis>Lyapunov Analysis</a><ul><li><a href=#lyapunov-upgrades>Lyapunov Upgrades</a></li><li><a href=#pendulum-lyapnuov-analysis-example>Pendulum Lyapnuov analysis example</a></li><li><a href=#slow-downs-and-cpu-usage>Slow downs and CPU Usage</a></li><li><a href=#performance-issues>Performance Issues</a></li></ul></li><li><a href=#older-models>Older Models</a><ul><li><a href=#large-html-output>Large HTML Output</a></li></ul></li><li><a href=#todo>TODO</a></li></ul></nav></details><h2 id=basic-model-validations><a class=anchor href=#basic-model-validations title='Anchor for: Basic Model Validations.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Basic Model Validations</h2><p>To date just input parameter limits, not much else. As I wrote earlier, I
+<a href=/ohanga-pai>Ōhanga Pai</a><nav aria-label="Main menu."><ul><li><a class=btn href=/ohanga-pai/>Home</a></li><li><a class=btn href=/ohanga-pai/questions/>Questions</a></li><li><a class=btn href=/ohanga-pai/empirical/>Empirical</a></li><li><a class=btn href=/ohanga-pai/blog/>Posts</a></li><li><a class=btn href=/ohanga-pai/contact/>Contact</a></li><li><a class=btn href=/ohanga-pai/donations/>Donate</a></li></ul></nav></header><div class=filler><main><article><header><h1>Macromodels — Mosler II</h1><p>Published on <time datetime=2026-10-07>2026-10-07</time></p></header><details class=toc open><summary class=outline-dashed>Contents</summary><nav id=TableOfContents><ul><li><a href=#basic-model-validations>Basic Model Validations</a></li><li><a href=#local-stability>Local Stability</a></li><li><a href=#lyapunov-analysis>Lyapunov Analysis</a><ul><li><a href=#lyapunov-upgrade>Lyapunov Upgrade</a></li><li><a href=#pendulum-lyapnuov-analysis-example>Pendulum Lyapnuov analysis example</a></li><li><a href=#slow-downs-and-cpu-usage>Slow downs and CPU Usage</a></li><li><a href=#performance-issues>Performance Issues</a></li></ul></li><li><a href=#older-models>Older Models</a><ul><li><a href=#large-html-output>Large HTML Output</a></li></ul></li><li><a href=#todo>TODO</a></li></ul></nav></details><h2 id=basic-model-validations><a class=anchor href=#basic-model-validations title='Anchor for: Basic Model Validations.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Basic Model Validations</h2><p>To date just input parameter limits, not much else. As I wrote earlier, I
 was too lazy to implement a lot of type-checking. The rule is thus
 <em>model-developer responsibility</em>. We can be consenting adults about model
 hygiene, and you can be as dirty as you please, but today I have
@@ -270,100 +270,35 @@ So I think it is worth implementing all this, but I would keep it as a
 separate diagnostic layer rather than mixing it into <code>stability.py</code> since
 the two analyses answer different mathematical questions.</p><p>And I did end up chucking all this into the LLM, I just cannot be bothered
 spending the time doing it all myself, and want to get on to policy
-advocacy & real world activism.</p><h3 id=lyapunov-upgrades><a class=anchor href=#lyapunov-upgrades title='Anchor for: Lyapunov Upgrades.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Lyapunov Upgrades</h3><p>The central design is still simple: Julia performs the trajectory-level
-tangent calculation because it already owns the dynamical system
-and Jacobian; <code>lyapunov.py</code> is purely post-processing/reporting,
-analogous to <code>stability.py</code>. <code>plots4model.py</code> then assembles Dynamics,
-Stability, and Lyapunov into the browser report.</p><p>The TOML interface is:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=p>[</span><span class=nx>lyapunov</span><span class=p>]</span>
-</span></span><span class=line><span class=cl><span class=nx>enabled</span> <span class=p>=</span> <span class=kc>true</span>
-</span></span><span class=line><span class=cl><span class=nx>renormalize_dt</span> <span class=p>=</span> <span class=mf>0.1</span>
-</span></span><span class=line><span class=cl><span class=nx>transient</span> <span class=p>=</span> <span class=mf>5.0</span>
-</span></span></code></pre></div><p>When enabled, the generated Julia solver writes</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-text data-lang=text><span class=line><span class=cl>models/&lt;model&gt;_lyapunov.csv
-</span></span></code></pre></div><p>with</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-text data-lang=text><span class=line><span class=cl>t,lambda_max
-</span></span><span class=line><span class=cl>...
-</span></span></code></pre></div><p>The Julia calculation evolves a tangent vector according to
+advocacy & real world activism.</p><h3 id=lyapunov-upgrade><a class=anchor href=#lyapunov-upgrade title='Anchor for: Lyapunov Upgrade.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Lyapunov Upgrade</h3><p><strong>2026-10-12</strong></p><p>I changed the Lyapunov report html, to be cautious about
+calling the reported positive Lyapunov exponent &ldquo;chaos&rdquo;.
+<code>mmm_0_4</code> is explicitly non-autonomous (there is explicit
+time-dependence) because population
+and all three productivities depend directly on time. A positive
+tangent-growth exponent in that setting can reflect a growing or
+unstable direction rather than a bounded strange attractor. Given the
+visually smooth trajectories, so I should change the report to call the
+behaviour “exponentially sensitive” rather than &ldquo;chaotic&rdquo;. Our current
+Lyapunov implementation is also still the frozen-Jacobian approximation
+between accepted steps, rather than a fully augmented variational solve.</p><p>PukahaPai now uses two distinct dynamical diagnostics.</p><p>The eigenvalue diagnostic is a <strong>local</strong> Jacobian stability test. At an
+equilibrium it is the standard linear-stability criterion. Away from an
+equilibrium it describes only the instantaneous linearization.</p><p>The Lyapunov diagnostic instead follows an infinitesimal perturbation
+along the simulated trajectory. The largest Lyapunov exponent is estimated from
 $$
-\dot v=J(t)v,
+\lambda_{\max}(T) \simeq \frac{1}{T}\sum_k \log s_k,
 $$
-using the correctly signed ODE Jacobian
-$$
-J_{\rm ODE} = -\frac{\partial F}{\partial u}
-$$
-from our DAE residual. Between solver steps it uses
-$$
-v(t+\Delta t)\simeq \exp!\left[J(t)\Delta t\right]v(t),
-$$
-with periodic Benettin-style renormalization. The accumulated quantity
-is the finite-time estimate
-$$
-\lambda_{\max}(T) = \frac{1}{T} \sum_k\log s_k.
-$$
-That is better than attempting to average instantaneous Jacobian eigenvalues.</p><p><code>lyapunov.py</code> reports the final estimate, the mean and standard deviation
-over the last 20% of estimates, and one of three deliberately cautious
-classifications: contracting, neutral/unresolved, or exponentially
-sensitive. It does not label every positive exponent “chaos,” because
-the unstable Lorenz equilibrium is the obvious counterexample:
-$\lambda_{\max}>0$ there represents an unstable equilibrium, not a
-strange attractor.</p><p>For the browser output, the default is now a three-tab layout :</p><pre aria-label="Box containing code sample." tabindex=0><code>Dynamics    Stability    Lyapunov
-</code></pre><p>The inactive buttons are Dodger Blue <code>#1E90FF</code>, the active button is a
-soft pale green <code>#70C1A3</code>, all text is white, the page background
-remains black, and Plotly remains dark-themed.</p><p>You can combine the two analysis tabs, if you prefer, with:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-toml data-lang=toml><span class=line><span class=cl><span class=p>[</span><span class=nx>plots</span><span class=p>]</span>
-</span></span><span class=line><span class=cl><span class=nx>combine_stability_lyapunov_plots</span> <span class=p>=</span> <span class=kc>true</span>
-</span></span></code></pre></div><p>The default is <code>false</code>. With it enabled, the browser becomes:</p><pre aria-label="Box containing code sample." tabindex=0><code>Dynamics    Stability &amp; Lyapunov
-</code></pre><p><strong>Caveat:</strong> I have not checked it all works for the older models, and I
-never will!</p><p>I also made one small compatibility update to <code>plot_utils.py</code>: the
-old Plotly <code>titlefont=</code> axis syntax now fails on current Plotly versions,
-so the dual-axis plot uses the modern nested <code>title=dict(...)</code> form.
-I also gave <code>load_config()</code> the same <code>tomllib</code>/<code>toml</code> fallback pattern
-we are now using elsewhere.</p><p>The test models have these expectations:</p><ul><li>The damped pendulum has a
-negative largest Lyapunov exponent after its transient.</li><li>The normal Lorenz model with
-$$
-\sigma=10,\qquad \rho=28,\qquad\beta=2.6
-$$
-has a positive exponent in its chaotic regime.</li><li>The <code>lorenz_attractor_unstable</code> model starts exactly at
-$$
-x=y=z=0,
-$$
-so its state can remain exactly at the unstable equilibrium while its
-tangent perturbation grows exponentially. That gives us a particularly
-good test that Lyapunov sensitivity and “chaos” are not synonyms.</li></ul><p>I ran the combined Python test suite for the stability and Lyapunov work:</p><pre aria-label="Box containing code sample." tabindex=0><code>..............                                                    [100%]
-14 passed in 1.05s
-</code></pre><p>That includes independent RK4/Benettin reference calculations for all
-three models, generator/template checks, the DAE Jacobian sign
-regression, TOML controls, three-tab HTML generation, the requested
-blue/green styling, and the combined-analysis-tab option.</p><p>Models without <code>[lyapunov] enabled = true</code> still build the three-tab
-report; the Lyapunov tab simply explains that the diagnostic is not
-enabled. Likewise for stability if <code>[eigenvalues] all = true</code> is absent
-or false. So you do not need to enable every diagnostic for every
-development model.</p><p><strong>Command Lines:</strong></p><p>Just for future reference!</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>pytest -v tests/test_stability.py tests/test_lyapunov.py
-</span></span></code></pre></div><p>and to actually see results,</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>python3 generate_julia_odesolver.py pendulum
-</span></span><span class=line><span class=cl>julia models/pendulum_cmdl.jl
-</span></span><span class=line><span class=cl>python3 plots4model.py pendulum
-</span></span><span class=line><span class=cl>firefox models/pendulum.html  <span class=p>&amp;</span>&gt;/dev/null<span class=p>&amp;</span>
-</span></span></code></pre></div><p>and the others the same,</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>python3 generate_julia_odesolver.py lorenz_attractor
-</span></span><span class=line><span class=cl>julia models/lorenz_attractor_cmdl.jl
-</span></span><span class=line><span class=cl>python3 plots4model.py lorenz_attractor
-</span></span><span class=line><span class=cl>firefox models/lorenz_attractor.html <span class=p>&amp;</span>&gt;/dev/null<span class=p>&amp;</span>
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>python3 generate_julia_odesolver.py lorenz_attractor_unstable
-</span></span><span class=line><span class=cl>julia models/lorenz_attractor_unstable_cmdl.jl
-</span></span><span class=line><span class=cl>python3 plots4model.py lorenz_attractor_unstable
-</span></span><span class=line><span class=cl>xdg-open models/lorenz_attractor_unstable.html
-</span></span></code></pre></div><p>For all five models, the bash pattern really is now identical:</p><div class=highlight><pre aria-label="Box containing code sample." tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=k>for</span> model in <span class=se>\
-</span></span></span><span class=line><span class=cl><span class=se></span>    pendulum <span class=se>\
-</span></span></span><span class=line><span class=cl><span class=se></span>    lorenz_attractor <span class=se>\
-</span></span></span><span class=line><span class=cl><span class=se></span>    lorenz_attractor_unstable <span class=se>\
-</span></span></span><span class=line><span class=cl><span class=se></span>    mmm_0_3 <span class=se>\
-</span></span></span><span class=line><span class=cl><span class=se></span>    mmm_0_4
-</span></span><span class=line><span class=cl><span class=k>do</span>
-</span></span><span class=line><span class=cl>    <span class=nb>echo</span> <span class=s2>&#34;===== </span><span class=si>${</span><span class=nv>model</span><span class=si>}</span><span class=s2> =====&#34;</span>
-</span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>    python3 generate_julia_odesolver.py <span class=s2>&#34;</span><span class=si>${</span><span class=nv>model</span><span class=si>}</span><span class=s2>&#34;</span> <span class=o>&amp;&amp;</span>
-</span></span><span class=line><span class=cl>    julia <span class=s2>&#34;models/</span><span class=si>${</span><span class=nv>model</span><span class=si>}</span><span class=s2>_cmdl.jl&#34;</span> <span class=o>&amp;&amp;</span>
-</span></span><span class=line><span class=cl>    python3 plots4model.py <span class=s2>&#34;</span><span class=si>${</span><span class=nv>model</span><span class=si>}</span><span class=s2>&#34;</span>
-</span></span><span class=line><span class=cl>    xdg-open models/<span class=si>${</span><span class=nv>model</span><span class=si>}</span>.html
-</span></span><span class=line><span class=cl><span class=k>done</span>
-</span></span></code></pre></div><h3 id=pendulum-lyapnuov-analysis-example><a class=anchor href=#pendulum-lyapnuov-analysis-example title='Anchor for: Pendulum Lyapnuov analysis example.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Pendulum Lyapnuov analysis example</h3><p>Well, it works for one model. The webpage needs some work, but is ok.
+where <code>s_k</code> is the tangent-vector stretch accumulated between periodic
+renormalizations.</p><p>Its sign has a precise local-separation interpretation:</p><ul><li><code>lambda_max &lt; 0</code>: nearby trajectories contract on average;</li><li><code>lambda_max ~= 0</code>: neutral behaviour or an unresolved finite-time estimate;</li><li><code>lambda_max > 0</code>: nearby trajectories separate exponentially.</li></ul><p>The last case is called <strong>exponentially sensitive</strong>. The PukahaPai
+<code>lyapunov.py</code> module deliberately does <strong>not</strong> identify chaos by just a
+positive largest Lyapunov exponent.</p><p>An unstable equilibrium can have a positive tangent-growth exponent while the
+saved state trajectory remains at the equilibrium. A strongly drifting or
+externally driven non-autonomous system can also display positive finite-time
+growth without exhibiting a bounded strange attractor.</p><p>For that reason the report now separates <em>Lyapunov classification</em> from
+<em>Dynamical diagnosis</em>, and uses only the strongest justifiable labelling</p><pre aria-label="Box containing code sample." tabindex=0><code>chaos supported
+</code></pre><p>rather than <code>chaos proven</code>.</p><p>Details are in the PukahaPai repository file
+<code>lyapunov_analysis.md</code>. I will not copy them here, since they may get
+updated again later.</p><h3 id=pendulum-lyapnuov-analysis-example><a class=anchor href=#pendulum-lyapnuov-analysis-example title='Anchor for: Pendulum Lyapnuov analysis example.'><svg aria-hidden="true"><use xlink:href="/ohanga-pai/img/bundle.min.fc89b321aa39dfb355170fc007ce5b94.svg#hashtag"/></svg></a>Pendulum Lyapnuov analysis example</h3><p>(DEPRECATED: this was using a previous <code>lyapunov.py</code>, so is now
+out-of-date. It is just an example of the type of analysis to expect.)</p><p>Well, it works for one model. The webpage needs some work, but is ok.
 The text part of the html report reads:</p><pre aria-label="Box containing code sample." tabindex=0><code>Lyapunov Analysis for Model: pendulum
 
 Analysis time range: 20.1003 to 100
