@@ -1,8 +1,8 @@
 *{box-sizing:border-box} body{margin:0;background:#111;color:#eee;font-family:Arial,Helvetica,sans-serif}
 header{background:#365f92;padding:7px 16px;display:flex;gap:16px;align-items:baseline}h1{margin:0;font-size:17px;font-weight:600}header p{margin:0;color:#d6e4f2;font-size:12px}
 .tabbar{display:flex;gap:8px;flex-wrap:wrap;padding:12px 18px;background:#1a1a1a;border-bottom:1px solid #333}
-.tab-btn{border:1px solid #389ff9;background:#305b93;color:white;padding:10px 14px;border-radius:6px;cursor:pointer;font-size:15px}
-.tab-btn:hover{background:#5a9fee}.tab-btn.active{background:MediumSeaGreen;color:#07130d;border-color:#64dca1;font-weight:bold}
+.tab-btn{border:1px solid #426080;background:#305b93;color:white;padding:10px 14px;border-radius:6px;cursor:pointer;font-size:15px}
+.tab-btn:hover{background:#4174ad}.tab-btn.active{background:MediumSeaGreen;color:#07130d;border-color:#64dca1;font-weight:bold}
 .tab-pane{display:none;padding:7px 12px}.tab-pane.active{display:block}
 .source{border-left:3px solid MediumSeaGreen;padding:10px 16px;color:#d6e4e9;background:#1b252b}
 .coverage{color:#a8bbc9;font-size:12px}.plot-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;min-width:0;flex:1;width:100%}
