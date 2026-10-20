@@ -1,5 +1,7 @@
+const CUSTOM_POPUP_ENABLED=false;
 const HOVER_READOUT_MS=30000;
 const HOVER_DISMISS_ON_OUTSIDE_CLICK=true;
+if(CUSTOM_POPUP_ENABLED){
 document.querySelectorAll('.plot .js-plotly-plot').forEach(plot=>{
  const frame=plot.closest('.plot');
  const readout=document.createElement('div');
@@ -32,6 +34,7 @@ document.addEventListener('click',event=>{
    if(!readout.contains(event.target))readout.hidden=true;
  });
 });
+}
 function refreshPlots(pane){
  const selected=new Set(Array.from(pane.querySelectorAll('[data-country]:checked'),el=>el.dataset.country));
  pane.querySelector('.selected-count').textContent=selected.size+' selected';
