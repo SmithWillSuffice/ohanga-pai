@@ -1,6 +1,6 @@
 ---
 title: "Macromodels L.0 — LSTM"
-weight: 21
+weight: 23
 date: 2024-12-09
 toc: true
 katex: true

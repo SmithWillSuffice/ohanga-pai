@@ -1,6 +1,6 @@
 ---
 title: "Macromodels — Mosler II"
-weight: 20
+weight: 21
 date: 2026-10-07
 toc: true
 katex: true

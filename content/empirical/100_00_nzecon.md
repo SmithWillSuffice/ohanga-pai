@@ -934,7 +934,7 @@ the same data fro longer period is also at the FRED 'LRUNTTTTNZQ156S'.
 </tr>
 <tr style="border: 1px solid color:#0f0f0f;">
 <td style="border: 1px solid color:#0f0f0f;">
-<a href="../099_2_funds_flows">Fund sFlow</a></td>
+<a href="../099_2_funds_flows">Funds Flow</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:center;">
 <a href="./">TOC</a></td>
 <td style="border: 1px solid color:#0f0f0f; text-align:right;">
